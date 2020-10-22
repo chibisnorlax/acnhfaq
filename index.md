@@ -5,8 +5,8 @@ This page is under construction!
 
 ## Navigation
 - [Island Development](#island-development) 
-- [Unlocking Things](https://chibisnorlax.github.io/acnhfaq/#unlocking-things)
-- [Gardening](#gardening) TEST
+- [Unlocking Things](#unlocking-things)
+- [Gardening](#gardening)
 - [Turnips/Stalk Market](#turnipsstalk-market)
 - [Villagers](#villagers)
 - NPC Visitors and Special Characters
@@ -151,6 +151,7 @@ Daisy Mae’s prices change every time she visits, and you can buy turnips for *
 - There are varying turnip price patterns, and you can predict the pattern using https://turnipprophet.io/, which uses your prices to predict what future prices might be later in the week.
 - If you have a Nintendo Switch Online subscription, you can travel to others’ islands for a guaranteed high price. Suggested websites to find high prices: https://turnip.exchange, ACNH Discord Server (https://discord.com/invite/acnh). 
 - Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will not buy rotten turnips. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
+- For further, extensive details about turnips and the stalk market, read here: https://tinyurl.com/acnhturnipdoc
 
 ## How do I time travel for good turnip prices?
 Your turnip price pattern resets every time you time travel. If you want to fish out big spike price with TT, follow this method:
