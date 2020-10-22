@@ -5,7 +5,7 @@ This page is under construction!
 
 ## Navigation
 - [Island Development](#Island-Development) 
-- [Unlocking Things](#Unlocking-Things)
+- [Unlocking Things](https://chibisnorlax.github.io/acnhfaq/#unlocking-things)
 - [Gardening](#Gardening)
 - [Turnips/Stalk Market](#Turnips/Stalk-Market)
 - [Villagers](#Villagers)
