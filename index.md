@@ -4,11 +4,11 @@ ver. 1.0
 This page is under construction!
 
 ## Navigation
-- [Island Development](#Island-Development) 
+- [Island Development](#island-development) 
 - [Unlocking Things](https://chibisnorlax.github.io/acnhfaq/#unlocking-things)
-- [Gardening](#Gardening)
-- [Turnips/Stalk Market](#Turnips/Stalk-Market)
-- [Villagers](#Villagers)
+- [Gardening](#gardening) TEST
+- [Turnips/Stalk Market](#turnipsstalk-market)
+- [Villagers](#villagers)
 - NPC Visitors and Special Characters
 - Events
 - Time Travel
