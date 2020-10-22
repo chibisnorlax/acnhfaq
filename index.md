@@ -1,6 +1,7 @@
 ## Animal Crossing: New Horizons
 # Frequently Asked Questions
-### ver. 1.0
+ver. 1.0
+This page is under construction!
 
 ## Navigation
 - [Island Development](#Island-Development) 
