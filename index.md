@@ -9,12 +9,13 @@ This page is under construction!
 - [Unlocking Things](#Unlocking-Things)
 - [Gardening](#Gardening)
 - [Turnips/Stalk Market](#Turnips/Stalk-Market)
-- Villagers
+- [Villagers](#Villagers)
 - NPC Visitors and Special Characters
 - Events
 - Time Travel
 - Glitches
 - Miscellaneous
+- Acknowledgements
 
 ## Island Development
 ### What defines a week and a day in-game?
@@ -191,7 +192,6 @@ No. Anyone claiming that these methods increase the likelihood of villagers aski
 Campsite visitors are determined on a percent chance roll, where the chance is based on when your last campsite visitor was. 
 
 | 1-2 Days | 0%  |
-|----------|-----|
 | 3 Days   | 5%  |
 | 4 Days   | 10% |
 | 5 Days   | 15% |
@@ -219,7 +219,7 @@ Each villager personality allows you to unlock reactions—these are the emotion
 
 For example, if you have no peppy villager, you cannot learn the aggravation, curiosity, happiness, sleepy, or mischief reactions. You can, however, always move out a villager once you’ve obtained all of their possible reactions!
 
-All personality-based reactions: https://yuexr.github.io/img/reactions.png.
+All personality-based reactions: ![Reaction Infographic](/assets/reactions.png =800x800)
 
 As of version 1.5.0, there are two event reactions, **Haunt** and **Scare** which are obtainable by playing the Halloween event. 
 
