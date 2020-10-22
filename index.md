@@ -147,11 +147,12 @@ Once you've built Nook's Cranny, Daisy Mae will visit every Sunday from 5:00 am 
 ### How does the Stalk Market work?
 Daisy Mae’s prices change every time she visits, and you can buy turnips for *90 to 110 bells per turnip*. If you choose to purchase them, you can sell turnips to Nook's Cranny until Saturday (after which they will rot). Nook's Cranny can buy turnips for prices from *9 to 660 bells per turnip*. Nook’s Cranny prices change at 12:00 pm for a total of 2 distinct prices per day. The goal is to sell your turnips for *more* than you spent on them to make millions! 
 
+For further, extensive details about turnips and the stalk market, read here: https://tinyurl.com/acnhturnipdoc
+
 ### Stalk Market Tips
 - There are varying turnip price patterns, and you can predict the pattern using https://turnipprophet.io/, which uses your prices to predict what future prices might be later in the week.
 - If you have a Nintendo Switch Online subscription, you can travel to others’ islands for a guaranteed high price. Suggested websites to find high prices: https://turnip.exchange, ACNH Discord Server (https://discord.com/invite/acnh). 
 - Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will not buy rotten turnips. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
-- For further, extensive details about turnips and the stalk market, read here: https://tinyurl.com/acnhturnipdoc
 
 ## How do I time travel for good turnip prices?
 Your turnip price pattern resets every time you time travel. If you want to fish out big spike price with TT, follow this method:
@@ -233,6 +234,6 @@ All villagers have Amiibo cards except the following: Raymond, Dom, Sherb, Cyd, 
 Note: Amiibo villagers are in no way different from NMT island villagers. They are the exact same.
 
 ### How do I invite a villager to live on my island using their Amiibo?
-Once you unlock the campsite (see [here](#Building-Unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
+Once you unlock the campsite (see [here](#building-unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
 
 After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
