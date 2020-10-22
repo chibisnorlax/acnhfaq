@@ -191,11 +191,13 @@ No. Anyone claiming that these methods increase the likelihood of villagers aski
 ### How often does someone visit my campsite?
 Campsite visitors are determined on a percent chance roll, where the chance is based on when your last campsite visitor was. 
 
-| 1-2 Days | 0%  |
-| 3 Days   | 5%  |
-| 4 Days   | 10% |
-| 5 Days   | 15% |
-| 6+ Days  | 20% |
+| Days Since Last Campsite Visitor | Chance of Campsite Visitor |
+|----------------------------------|----------------------------|
+| 1-2                              | 0%                         |
+| 3                                | 5%                         |
+| 4                                | 10%                        |
+| 5                                | 15%                        |
+| 6+                               | 20%                        |
 
 Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one.
 
@@ -219,7 +221,7 @@ Each villager personality allows you to unlock reactions—these are the emotion
 
 For example, if you have no peppy villager, you cannot learn the aggravation, curiosity, happiness, sleepy, or mischief reactions. You can, however, always move out a villager once you’ve obtained all of their possible reactions!
 
-All personality-based reactions: ![Reaction Infographic](/assets/reactions.png =800x800)
+All personality-based reactions: ![Reaction Infographic](/assets/reactions.png)
 
 As of version 1.5.0, there are two event reactions, **Haunt** and **Scare** which are obtainable by playing the Halloween event. 
 
