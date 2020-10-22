@@ -1,4 +1,3 @@
-## Animal Crossing: New Horizons
 # Frequently Asked Questions
 ver. 1.0
 
