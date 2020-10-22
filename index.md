@@ -1,12 +1,14 @@
 ## Animal Crossing: New Horizons
 # Frequently Asked Questions
 ver. 1.0
+
 This page is under construction!
 
 ## Navigation
 - [Island Development](#Island-Development) 
 - [Unlocking Things](#Unlocking-Things)
-- Turnips/Stalk Market
+- [Gardening](#Gardening)
+- [Turnips/Stalk Market](#Turnips/Stalk-Market)
 - Villagers
 - NPC Visitors and Special Characters
 - Events
@@ -49,49 +51,42 @@ Once you upgrade Resident Services and unlock the Project K quest, Isabelle will
 - **Nook’s Cranny, stage 1:** Pay off your Nook Miles debt and upgrade your tent into a house.
 - **Nook’s Cranny, stage 2:** It must have been 30 days since Nook’s Cranny was built. You must have made 200,000 bells worth of transactions (buying and/or selling) at the shop, and Mabel must have visited! Once all three requirements are fulfilled, the upgrade is unlocked.
 - **Able Sisters:** Buy at least one item from Mabel’s stand in front of Residents Services on three different visits. 
-- **Resident Services Building:** Pay your Nook Miles debt, give 5 critters to Tom Nook, build Nook’s Cranny, build a bridge, and complete the three villager houses mission. 
+- **Resident Services Building:** Pay your Nook Miles debt, give 5 critters to Tom Nook, build Nook’s Cranny, build a bridge, and complete the three villager houses mission.
+- **Campsite:** Upgrade Resident Services into a building and talk to Tom Nook, who will have you craft and place the Campground Construction Kit.
 
 ### House Unlocks
-**Moving To The Island**
-> - Fee: 5,000 Nook Miles
-> - Unlocks: Your very own (deserted) island, 1 Jock Villager, 1 Uchi Villager, your very own Tent, Fruit Trees, Resident Services (Tent)
->
+- **Moving To The Island**
+  - Fee: 5,000 Nook Miles
+  - Unlocks: Your very own (deserted) island, 1 Jock Villager, 1 Uchi Villager, your very own Tent, Fruit Trees, Resident Services (Tent)
 
-**Tent-to-house upgrade**
-> - Fee: 98,000 Bells
-> - Unlocks: 80 storage slots
->
+- **Tent-to-house upgrade**
+  - Fee: 98,000 Bells
+  - Unlocks: 80 storage slots
 
-**House size upgrade**
-> - Fee: 198,000 Bells
-> - Unlocks: 8x8 Grid, 40 additional storage slots
->
+- **House size upgrade**
+  - Fee: 198,000 Bells
+  - Unlocks: 8x8 Grid, 40 additional storage slots
 
-**Back Room Addition**
-> - Fee: 348,000 Bells
-> - Unlocks: Back Room, 6x6 Grid, 120 additional storage slots
->
+- **Back Room Addition**
+  - Fee: 348,000 Bells
+  - Unlocks: Back Room, 6x6 Grid, 120 additional storage slots
 
-**Left Room Addition**
-> - Fee: 548,000 Bells
-> - Unlocks: Left Room, 6x6 Grid, 120 additional storage slots, customizations for your Mailbox and the color of your Roof (Tip: After you get your left room, you can also pick up your mailbox and move it. Just walk up to it and press Y, as you would with other furnishings.)
->
+- **Left Room Addition**
+  - Fee: 548,000 Bells
+  - Unlocks: Left Room, 6x6 Grid, 120 additional storage slots, customizations for your Mailbox and the color of your Roof (Tip: After you get your left room, you can also pick up your mailbox and move it. Just walk up to it and press Y, as you would with other furnishings.)
 
-**Right Room Addition**
-> - Fee: 758,000 Bells
-> - Unlocks: Right Room, 6x6 Grid, 40 additional storage slots, customization of Doors
->
+- **Right Room Addition**
+  - Fee: 758,000 Bells
+  - Unlocks: Right Room, 6x6 Grid, 40 additional storage slots, customization of Doors
 
-**Second Floor Addition**
-> - Fee: 1,248,000 Bells
-> - Unlocks: Second Floor, 10x6 Grid, 400 additional storage slots, customization of your Home’s Siding
->
+- **Second Floor Addition**
+  - Fee: 1,248,000 Bells
+  - Unlocks: Second Floor, 10x6 Grid, 400 additional storage slots, customization of your Home’s Siding
 
-**Basement Addition**
-> - Fee: 2,498,000 Bells
-> - Unlocks: Basement, 10x6 Grid, 800 additional storage slots, special bonus
-> - Special Bonus: Free Exterior Renovations! Limited to 1 Design Per item per category per day
->
+- **Basement Addition**
+  - Fee: 2,498,000 Bells
+  - Unlocks: Basement, 10x6 Grid, 800 additional storage slots, special bonus
+  - Special Bonus: Free Exterior Renovations! Limited to 1 Design Per item per category per day
 
 ### DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
@@ -116,8 +111,126 @@ Once you upgrade Resident Services and unlock the Project K quest, Isabelle will
 
 ### Misc Unlocks
 - **Nook Miles Redemption:** Pay off 5,000 Nook Miles house debt. 
-> Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors.
->
+  - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors.
 - **Nook Miles+:** Upgrade your tent into a house (“About my home…”).
 - **Dodo Airport:** Day 2 of playing the game once you sync into real time. 
 - **Bedhead Hair:** Do not log in for a month — time travel is a great way to do this.
+
+## Gardening
+The ACNH garden community has kindly put together various resources for all your gardening needs! Please view the links below to help answer any gardening-related questions you may have.
+
+### Gardening FAQ
+https://bit.ly/acnhflowerfaq 
+
+### Flower Guide
+https://aiterusawato.github.io/satogu/acnh/flowers
+
+### Non-Flower Plant Guide
+https://bigfootmg.github.io/ACNH-Plant-Guide/
+
+### Flower Breeding Simulator
+https://gardenscience.ac/
+
+### Garden Layout Guide
+https://yuexr.github.io/acnh/garden_layouts
+
+### Rock Garden Guide
+https://cestislife.github.io/rockguide
+
+### Can all 6 of my rocks be in the same grid quadrant?
+Yes they can. It is a myth that there is a limit to how many rocks can be on a single grid quadrant.
+
+## Turnips/Stalk Market
+### When does Daisy Mae visit?
+Once you've built Nook's Cranny, Daisy Mae will visit every Sunday from 5:00 am to 12:00 pm. No NPC or event interrupts her arrival. 
+
+### How does the Stalk Market work?
+Daisy Mae’s prices change every time she visits, and you can buy turnips for *90 to 110 bells per turnip*. If you choose to purchase them, you can sell turnips to Nook's Cranny until Saturday (after which they will rot). Nook's Cranny can buy turnips for prices from *9 to 660 bells per turnip*. Nook’s Cranny prices change at 12:00 pm for a total of 2 distinct prices per day. The goal is to sell your turnips for *more* than you spent on them to make millions! 
+
+### Stalk Market Tips
+- There are varying turnip price patterns, and you can predict the pattern using https://turnipprophet.io/, which uses your prices to predict what future prices might be later in the week.
+- If you have a Nintendo Switch Online subscription, you can travel to others’ islands for a guaranteed high price. Suggested websites to find high prices: https://turnip.exchange, ACNH Discord Server (https://discord.com/invite/acnh). 
+- Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will not buy rotten turnips. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
+
+## How do I time travel for good turnip prices?
+Your turnip price pattern resets every time you time travel. If you want to fish out big spike price with TT, follow this method:
+1. TT to Tuesday at 11:58 AM and check your price.
+2. If the price is not anywhere within the 127-225 range, save and quit. TT back to 11:57 AM, re-login. Repeat this step until the sell price is in that 127-225 range.
+3. When the price is within the 127-225 range, wait in game until 12:00 pm, then check the price again.
+4. If the price is not high enough, return to Step 1.
+
+## How do I do turnip runs?
+Turnip runs are a simple process but can be easily used to make tens of millions of bells. The process requires a **Nintendo Switch Online subscription** and a partner. 
+
+1. One person time travels until they find a high turnip price at Nook’s Cranny (see: “How do I time travel for good turnip prices?”). 
+    - Aim for 300+ bell prices—the higher the better.  
+2. The other person time travels until they find a low buy price from Daisy Mae. (Simply travel to Sunday, back a day, and forward again until you find your desired price.) 
+    - Aim for <95 bells price.
+3. Buy a full inventory from Daisy Mae, travel to the Nook’s Cranny and sell. Rinse, repeat, make money!
+
+## Villagers
+### How many villagers are there in Animal Crossing: New Horizons?
+Currently there are 391 villagers in AC:NH.
+
+### How do I get a specific villager?
+Unfortunately there’s no 100% guaranteed way to get a specific villager unless you have their Amiibo card or adopt them from someone else’s island. Your other options are to use NMT to find them on mystery islands, or hope they visit your campsite!
+
+### How do I make a villager move out?
+Please refer to Yue’s move-out guide here: https://yuexr.github.io/acnh/moveout.html.
+
+### Will my villagers move out without telling me?
+No. They always need to ask you for your permission before they move out.
+
+### Can my most recently moved-in villager ask to move out?
+No. It is 100% impossible for them to request to move out.
+
+### Does hitting a villager/pushing a villager/talking to a villager until they get the purple squiggly/reporting the villager to Isabelle make them more likely to ask to move out?
+No. Anyone claiming that these methods increase the likelihood of villagers asking to move out have been misinformed. 
+
+### How often does someone visit my campsite?
+Campsite visitors are determined on a percent chance roll, where the chance is based on when your last campsite visitor was. 
+
+| 1-2 Days | 0%  |
+|----------|-----|
+| 3 Days   | 5%  |
+| 4 Days   | 10% |
+| 5 Days   | 15% |
+| 6+ Days  | 20% |
+
+Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one.
+
+### What are the villager personalities?
+There are 8 villager personalities.
+
+| Male   | Female        |
+|--------|---------------|
+| Smug   | Normal/Sweet  |
+| Jock   | Uchi/Sisterly |
+| Cranky | Snooty        |
+| Lazy   | Peppy         |
+
+Special NPCs do not have personalities, and each villager can only be of one personality. Personality dictates the DIYs a villager crafts, the reactions they teach, the dialogue they can use, and more.
+
+### What is friendship/What are friendship levels?
+“Friendship” refers to how close you are with your villagers. Talking to them, gifting them items, and completing quests for them all increases friendship. Villagers also have friendship levels, and when you unlock new levels, you unlock new interactions and quests! For more specific details, visit Yue’s friendship guide, located here: https://yuexr.github.io/acnh/friendship.html.
+
+### What are reactions? 
+Each villager personality allows you to unlock reactions—these are the emotion animations your character can display. Unlocking them all takes time, so be patient! The infographic below shows which reactions are unlocked based on which personalities. You need a villager of that personality living on your island to unlock those specific reactions. 
+
+For example, if you have no peppy villager, you cannot learn the aggravation, curiosity, happiness, sleepy, or mischief reactions. You can, however, always move out a villager once you’ve obtained all of their possible reactions!
+
+All personality-based reactions: https://yuexr.github.io/img/reactions.png.
+
+As of version 1.5.0, there are two event reactions, **Haunt** and **Scare** which are obtainable by playing the Halloween event. 
+
+### What are Amiibos? Who has an Amiibo? 
+Amiibos are Nintendo-produced collectibles that come in the form of cards or figurines and allow players to unlock special features when scanned into games. You can buy them from some online retailers or secondhand. In Animal Crossing: New Horizons, Amiibos allow you to invite villagers onto your island or unlock posters, an in-game item. There are 456 Animal Crossing Amiibo cards, including non-villager NPCs, villagers, and special villagers (such as the Sanrio x Animal Crossing villagers). 
+
+All villagers have Amiibo cards except the following: Raymond, Dom, Sherb, Cyd, Reneigh, Audie, Judy, and Megan. (These 8 were introduced into the franchise in New Horizons, and thus do not have Amiibo cards or figures.) The NPCs Wilbur, Orville, Harvey, Lloid, Flick, CJ, Daisy Mae, Gullivarr, and Wisp also have no amiibos. 
+
+Note: Amiibo villagers are in no way different from NMT island villagers. They are the exact same.
+
+### How do I invite a villager to live on my island using their Amiibo?
+Once you unlock the campsite (see [here](#Building-Unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
+
+After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
