@@ -288,7 +288,8 @@ After you speak to them in the campsite, the villager will ask you to craft an i
 - Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. 
 - Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". The table below denotes the various moods you can choose and the songs that he can play by choosing that mood. 
 - All K.K. songs and their corresponding moods:
-**THIS TABLE IS BROKEN** pls fix
+
+
 | A little blue... | A little grumpy... | I feel good!    | It's hard to say. | Laid-Back.       |
 |------------------|--------------------|-----------------|-------------------|------------------|
 | Comrade K.K.     | DJ K.K.            | Bubblegum K.K.  | Agent K.K.        | Aloha K.K.       |
@@ -312,6 +313,7 @@ After you speak to them in the campsite, the villager will ask you to craft an i
 | N/A              | N/A                | Spring Blossoms | N/A               | Pondering        |
 | N/A              | N/A                | N/A             | N/A               | Soulful K.K.     |
 | N/A              | N/A                | N/A             | N/A               | Wandering        |
+
 ### Saharah
 - Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.
 - Rugs and mysterious flooring/wallpaper purchased with **bells** are the same for every player.
