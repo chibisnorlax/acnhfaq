@@ -256,6 +256,10 @@ Once you unlock the campsite (see [here](#building-unlocks) on how to unlock it)
 After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
 
 ## NPC Visitors and Special Characters
+### How often does X visit? How do I unlock X character?
+Yue has put together a fantastic infographic for NPC schedules and their unlock requirements, see below!
+![NPC Schedule Infographic](/assets/npcskd.png)
+
 ### Tom Nook
 - Helps you navigate the tutorial phase of the game, and is the point of contact for construction-related queries.
 - If you aren't sure what to do, talk to him and choose "What should I do?" If he doesn't have anything for you today, he may have something for you tomorrow! 
