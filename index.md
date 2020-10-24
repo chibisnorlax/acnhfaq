@@ -117,7 +117,7 @@ Up to you! Some people save them to trade them to other players, some sell them 
 
 ### Golden Tool Unlocks (Note: Spoilers!)
 - **Golden Axe:** Break 100 axes.
-- **Golden Shovel:** Help Gulliver 30 times (Gullivarr does not count towards this).
+- **Golden Shovel:** Help Gulliver 30 times (Gullivarrr does not count towards this).
 - **Golden Net:** Complete the bug portion of the Critterpedia.
 - **Golden Rod:** Complete the fish portion of the Critterpedia.
 - **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations.
@@ -246,7 +246,7 @@ As of version 1.5.0, there are two event reactions, **Haunt** and **Scare** whic
 ### What are Amiibos? Who has an Amiibo? 
 Amiibos are Nintendo-produced collectibles that come in the form of cards or figurines and allow players to unlock special features when scanned into games. You can buy them from some online retailers or secondhand. In Animal Crossing: New Horizons, Amiibos allow you to invite villagers onto your island or unlock posters, an in-game item. There are 456 Animal Crossing Amiibo cards, including non-villager NPCs, villagers, and special villagers (such as the Sanrio x Animal Crossing villagers). 
 
-All villagers have Amiibo cards except the following: Raymond, Dom, Sherb, Cyd, Reneigh, Audie, Judy, and Megan. (These 8 were introduced into the franchise in New Horizons, and thus do not have Amiibo cards or figures.) The NPCs Wilbur, Orville, Harvey, Lloid, Flick, CJ, Daisy Mae, Gullivarr, and Wisp also have no amiibos. 
+All villagers have Amiibo cards except the following: Raymond, Dom, Sherb, Cyd, Reneigh, Audie, Judy, and Megan. (These 8 were introduced into the franchise in New Horizons, and thus do not have Amiibo cards or figures.) The NPCs Wilbur, Orville, Harvey, Lloid, Flick, C.J., Daisy Mae, Gullivarrr, and Wisp also have no Amiibos. 
 
 Note: Amiibo villagers are in no way different from NMT island villagers. They are the exact same.
 
@@ -371,9 +371,9 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Upon waking Gulliver up, he will ask you to find 5 communicator parts which are buried in the sand.
 - If the player completes his favor, he will mail the player a special furniture item the following day.
 
-### Gullivarr
+### Gullivarrr
 - Can be found sleeping on the island's beaches.
-- Upon waving Gullivarr up, he will ask you to find his single communicator by diving for it in the ocean.
+- Upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.
 - If the player completes his favor, he will mail the player a special pirate furniture item the following day.
 
 ### Harvey (Harv)
