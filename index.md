@@ -399,7 +399,7 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Completing Wisp's quest will cause him to gift you either a furniture item or a clothing item.
 
 ### Zipper T. Bunny
-- First encounter at the beginning of [Bunny Day](#bunny-dayeaster) event.
+- First encounter at the beginning of [Bunny Day](#bunny-day-easter) event.
 - Explains and hosts Bunny Day.
 
 ### Orville and Wilbur
@@ -471,11 +471,12 @@ The Nature Day Nook Miles+ Achievements are:
 |-------------------------------------|------------------|
 | Tree Transplantation (Move a tree)  | 100              | <!-- Sari confirm -->
 | Decorate with flowers               | 150              | <!-- Sari confirm -->
-| Get Stylin' by Wearing Flowers      | 150              |
+| Get Stylin' by Wearing Flowers      | 150              | <!-- Sari confirm -->
 | Plant Coconuts on the Beach         | 150              |
 | Craft Fencing for Beautiful Gardens | 150              |
 | Send Gratitude with Flowers         | 200              | <!-- Sari confirm -->
 | Plant 3 of a specified flower       | 200              | <!-- Sari confirm -->
+| Plant 3 Shrub Starts                | 200              | <!-- Sari confirm -->
 | Weave Flowers to Craft a Wreath     | 300              |
 | Plant 5 Shrubs                      | 500              |
 <!-- Note: Working list of nature day achievements. Cannot find consolidated, consistent list anywhere.
@@ -508,3 +509,20 @@ For more detailed info, visit https://cestislife.github.io/halloween.
 
 ### Countdown (New Year)
 The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook is outside too, selling new year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.
+
+## Time Travel
+### What is time travel?
+Animal Crossing games are based on real time -- for example, things that the game says will take one day truly take one real-life day to complete. "Time traveling" refers to the act of manually changing the time of the game to either be in the future or go back to the past. 
+
+Time traveling is *not* considered hacking. Time traveling also does not reverse/rewind progress. You keep all the progress, items, etc. that you've completed/acquired even if you time travel backwards.
+
+### How do I time travel?
+To time travel, you must either close your game or go to the ‘Save Complete’ screen after doing a ‘Save and End’.
+You now need to change your date in your Switch settings:	
+1. Open System Settings, System, Date and Time.
+2. Disable ‘Synchronize Clock via internet’ if it is ON.
+3. Go to Date and Time and adjust to whatever time you would like.
+4. Return to the game and the new date & time will take effect!
+
+### What are the effects of time traveling? 
+:shrug: 
