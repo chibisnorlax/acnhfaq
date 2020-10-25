@@ -10,7 +10,7 @@ This page is under construction!
 - [Turnips/Stalk Market](#turnipsstalk-market)
 - [Villagers](#villagers)
 - [NPC Visitors and Special Characters](#npc-visitors-and-special-characters)
-- Events
+- [Events](#events)
 - Time Travel
 - Glitches
 - Miscellaneous
@@ -318,6 +318,17 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 | N/A              | N/A                | N/A             | N/A               | Soulful K.K.     |
 | N/A              | N/A                | N/A             | N/A               | Wandering        |
 
+- There are an additional 8 songs not included in the above list, denoted below and how to obtain (if possible):
+
+| Song Name        | How to Obtain                                                           |
+|------------------|-------------------------------------------------------------------------|
+| Animal City      | Request directly from K.K.                                              |
+| Drivin'          | Request directly from K.K.                                              |
+| Farewell         | Request directly from K.K.                                              |
+| Hazure01/02/03   | Played when requesting something K.K. doesn't have. No take-home track. |
+| K.K. Birthday    | Obtained after concert on player's birthday.                            |
+| Welcome Horizons | Obtained after player's very first concert.                             |
+
 ### Saharah
 - Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.
 - Rugs and mysterious flooring/wallpaper purchased with **bells** are the same for every player.
@@ -334,12 +345,12 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 ### C.J.
 - Buys fish for 1.5x Timmy and Tommy's price, but only after you complete his challenge.
 - Can make you fish models, which require 3 of the same fish, and is mailed to you the following day.
-- C.J. is the host of the [Fishing Tournament](#events).
+- C.J. is the host of the [Fishing Tournament](#fishing-tourney).
 
 ### Flick
 - Buys bugs for 1.5x Timmy and Tommy's price.
 - Can make you bug models, which require 3 of the same bug, and is mailed to you the following day.
-- Flick is the host of the [Bug-Off](#events).
+- Flick is the host of the [Bug-Off](#bug-off).
 
 ### Pascal
 - Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.
@@ -380,7 +391,7 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Will wander around your island upon first encounter.
 - Speaking with him will prompt him to invite you to his own island, which allows you to take photos of your villagers and decorated sets.
 - Speak to Orville in the airport to fly to Harv's island.
-- Harv's island is the location for the [Wedding event](#events).
+- Harv's island is the location for the [Wedding event](#wedding-season).
 
 ### Wisp
 - Visits at night.
@@ -388,7 +399,7 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Completing Wisp's quest will cause him to gift you either a furniture item or a clothing item.
 
 ### Zipper T. Bunny
-- First encounter at the beginning of [Bunny Day](#events) event.
+- First encounter at the beginning of [Bunny Day](#bunny-dayeaster) event.
 - Explains and hosts Bunny Day.
 
 ### Orville and Wilbur
@@ -397,11 +408,11 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Wilbur is the pilot and provides the player with flimsy tools on mystery tours (200 Nook Miles per tool). 
 
 ### Reese and Cyrus
-- First encounter during the [Wedding event](#events).
+- First encounter during the [Wedding event](#wedding-season).
 - Appear on Harv's island, the player can assist them in taking wedding photos in exchange for special furniture.
 
 ### Rover
-- First encounter during [May Day](#events) mystery tour event. 
+- First encounter during [May Day](#may-day) mystery tour event. 
 - At the end of the maze, the player will get to speak with Rover and is gifted the "Rover's briefcase" item.
 
 ### Luna
@@ -411,3 +422,89 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 ### Jack
 - First encounter during [Halloween](#events).
 - Gifts various rewards in exchange for candy.
+
+## Events
+### Bug-Off
+In the Northern Hemisphere, the bug-off occurs on the 4th Saturday of June, July, August, and September from 9 AM to 6 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9 AM to 6 PM. 
+
+To participate, talk to Flick and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many bugs as possible in order to earn points. The points you earn in total (across all Bug-Offs) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
+
+The points can also be used to redeem items, of which there are 13. Once you have collected all 13, you will start to receive duplicates. Redeeming points for items (10 points each) does not detract from the trophy total.  
+
+Each bug you catch adds 1 point to your total and each fish after the first three adds a bonus 2 points. The bugs you catch will immediately appear in Flick’s bug cage. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
+
+For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
+
+### Fishing Tourney
+The fishing tourney occurs on the 2nd weekend of April, July, October, and January from 9 AM to 6 PM. The dates do not vary across hemispheres. 
+
+To participate, talk to C.J. and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many fish as possible in order to earn points. The points you earn in total (across all Fishing Tourneys) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
+
+The points can also be used to redeem items, of which there are 13. Once you have collected all 13, you will start to receive duplicates. Redeeming points for items (10 points each) does not detract from the trophy total.  
+
+Each fish you catch adds 1 point to your total and each fish after the first three adds a bonus 2 points. The fish you catch will immediately appear in C.J.’s cooler box. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
+
+For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
+
+### Bunny Day (Easter)
+Bunny Day starts on April 1st and ends on April 12th. If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. You can get the other recipes from Bunny Day message bottles and balloons. 
+ 
+Different eggs are required to make the DIYs. There are six different types of eggs. They are the following:
+
+| Type      | How to Obtain                                                               |
+|-----------|-----------------------------------------------------------------------------|
+| Leaf Egg  | Shake trees with eggs on them.                                              |
+| Sky Egg   | Shoot down Bunny Day balloons (has colorful pattern instead of solid color) |
+| Water Egg | Randomly caught while fishing in rivers, ponds, and the sea.                |
+| Stone Egg | Randomly dropped when hitting rocks with a shovel or an axe.                |
+| Wood Egg  | Randomly dropped when hitting trees with an axe.                            |
+| Earth Egg | Dug up from the ground, marked with a star, like fossils.                   |
+
+On the last day of Bunny Day, Zipper will come to your island and give you the Bunny Day Arch recipe. If you crafted all of the Bunny Day recipes, talk to Zipper again to get the Wobbling Zipper Toy DIY. After you craft the toy, you can talk to Zipper to receive the Bunny Day Wand recipe. Zipper will also trade you one egg of any kind in exchange for three of the same one. If you have one of each type of egg, you can give them to Zipper to get a Bunny Day Basket. You can get as many baskets as you want.
+
+### Nature Day (Earth Day)
+Nature Day starts on April 23rd and lasts until May 4th. During this time period, a Nature Day activity will replace one of your daily Nook Miles+ challenges.
+
+The Nature Day Nook Miles+ Achievements are:
+
+| Achievement Name                    | Nook Miles Given |
+|-------------------------------------|------------------|
+| Tree Transplantation (Move a tree)  | 100              | <!-- Sari confirm -->
+| Decorate with flowers               | 150              | <!-- Sari confirm -->
+| Get Stylin' by Wearing Flowers      | 150              |
+| Plant Coconuts on the Beach         | 150              |
+| Craft Fencing for Beautiful Gardens | 150              |
+| Send Gratitude with Flowers         | 200              | <!-- Sari confirm -->
+| Plant 3 of a specified flower       | 200              | <!-- Sari confirm -->
+| Weave Flowers to Craft a Wreath     | 300              |
+| Plant 5 Shrubs                      | 500              |
+<!-- Note: Working list of nature day achievements. Cannot find consolidated, consistent list anywhere.
+Any achievement with "Sari confirm" has been confirmed by Sari testing for me! -->
+
+If you talk to Tom Nook after completing one Nature Day activity, he will send the hedge diy recipe to your Nook phone.
+
+### May Day
+From May 1st until May 7th, you will be able to go on the May Day tour after talking to Tom Nook. To participate in the tour, go to the airport and talk to Orville, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover to get the Rover’s briefcase item. You can also get up to nine Bell Vouchers (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
+
+For a guide on how to complete the maze and obtain all possible prizes, see [here](https://www.ign.com/wikis/animal-crossing-new-horizons/May_Day_-_How_to_Complete_Rover%27s_Maze#How_to_Get_a_May_Day_Ticket).
+
+### International Museum Day
+From May 18th until May 31st, the museum will host a stamp rally everyday. The fossil, bug, and fish wings each will have three stamp stations in them. After you collect the three stamps from an exhibit, talk to Blathers to receive a plaque for that exhibit. The locations of stamp stations will change day to day, but you will get the same reward every time you complete the card.
+
+### Wedding Season
+If you visit Harvey’s island from June 1st to June 30th, Reese and Cyrus will be there to ask for your help with their wedding anniversary photos. There is one photoshoot opportunity per day. Photo shoots will unlock more wedding items. The heart crystals you receive from Reece can be used to redeem the wedding items you’ve unlocked from Cyrus. You also unlock special wedding DIYs on the 6th and 7th photoshoots. 
+
+You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each shoot after. You can always time travel back to complete the shoot or farm heart crystals. 
+
+For more detailed info, visit https://yuexr.github.io/acnh/ev_wedding.html.
+
+### Fireworks Festival
+Firework shows last from 7 pm to 12 am every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
+
+### Halloween 
+Halloween happens on October 31 from 5 PM till 12 AM. The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the spooky set and lollipops. Villagers will teach you the scare reaction after you give them a piece of candy and likewise, Jack will teach you the haunt reaction. If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
+
+For more detailed info, visit https://cestislife.github.io/halloween.
+
+### Countdown (New Year)
+The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook is outside too, selling new year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.
