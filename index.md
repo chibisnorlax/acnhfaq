@@ -29,6 +29,9 @@ Complete Project K by raising your island rating to 3 stars. Further information
 ### How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
 
+<!-- ### What can secondary (non-Island-Representative) players do?
+I believe the answer to this is "everything except story progression", but check on this and finalize later. -->
+
 ### How do I get "X" DIY recipe?
 There's a lot of different ways to get DIYs, so it depends on what you're looking for! Here's all the ways you can obtain a DIY:
 - Villagers crafting
@@ -156,6 +159,9 @@ https://cestislife.github.io/rockguide
 
 ### Can all 6 of my rocks be in the same grid quadrant?
 Yes they can. It is a myth that there is a limit to how many rocks can be on a single grid quadrant.
+
+### What's the quickest path to each hybrid?
+![Breeding Guide](/assets/breeding.png)
 
 ## Turnips/Stalk Market
 ### When does Daisy Mae visit?
@@ -472,7 +478,7 @@ The Nature Day Nook Miles+ Achievements are:
 | Tree Transplantation (Move a tree)  | 100              | <!-- Sari confirm -->
 | Decorate with flowers               | 150              | <!-- Sari confirm -->
 | Get Stylin' by Wearing Flowers      | 150              | <!-- Sari confirm -->
-| Plant Coconuts on the Beach         | 150              |
+| Plant Coconuts on the Beach         | 150              | <!-- Sari confirm -->
 | Craft Fencing for Beautiful Gardens | 150              |
 | Send Gratitude with Flowers         | 200              | <!-- Sari confirm -->
 | Plant 3 of a specified flower       | 200              | <!-- Sari confirm -->
@@ -524,5 +530,7 @@ You now need to change your date in your Switch settings:
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
 
-### What are the effects of time traveling? 
-:shrug: 
+<!-- ### What are the effects of time traveling? 
+- Finish this later, pull from unrestricted doc? 
+- "Time traveling for ACNH will not affect other time-based games unless you launch them whilst the system time is changed." 
+- Test ABD going backwards -->
