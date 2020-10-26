@@ -535,6 +535,7 @@ You now need to change your date in your Switch settings:
 
 ### What are the effects of time traveling *forwards*?
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
+
 Negative Effects:
 - Weeds and flowers will grow/spread.
 - Cockroaches may appear in your house (1+ month).
