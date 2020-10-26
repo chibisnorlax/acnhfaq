@@ -177,14 +177,14 @@ For further, extensive details about turnips and the stalk market, read here: ht
 - If you have a Nintendo Switch Online subscription, you can travel to others’ islands for a guaranteed high price. Suggested websites to find high prices: https://turnip.exchange, ACNH Discord Server (https://discord.com/invite/acnh). 
 - Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will not buy rotten turnips. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
 
-## How do I time travel for good turnip prices?
+### How do I time travel for good turnip prices?
 Your turnip price pattern resets every time you time travel. If you want to fish out big spike price with TT, follow this method:
 1. TT to Tuesday at 11:58 AM and check your price.
 2. If the price is not anywhere within the 127-225 range, save and quit. TT back to 11:57 AM, re-login. Repeat this step until the sell price is in that 127-225 range.
 3. When the price is within the 127-225 range, wait in game until 12:00 pm, then check the price again.
 4. If the price is not high enough, return to Step 1.
 
-## How do I do turnip runs?
+### How do I do turnip runs?
 Turnip runs are a simple process but can be easily used to make tens of millions of bells. The process requires a **Nintendo Switch Online subscription** and a partner. 
 
 1. One person time travels until they find a high turnip price at Nook’s Cranny (see: “How do I time travel for good turnip prices?”). 
@@ -529,6 +529,9 @@ You now need to change your date in your Switch settings:
 2. Disable ‘Synchronize Clock via internet’ if it is ON.
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
+
+### Event Calendar
+Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
 
 <!-- ### What are the effects of time traveling? 
 - Finish this later, pull from unrestricted doc? 
