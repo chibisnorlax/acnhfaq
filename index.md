@@ -11,7 +11,7 @@ This page is under construction!
 - [Villagers](#villagers)
 - [NPC Visitors and Special Characters](#npc-visitors-and-special-characters)
 - [Events](#events)
-- Time Travel
+- [Time Travel](#time-travel)
 - Glitches
 - Miscellaneous
 - Acknowledgements
@@ -430,6 +430,10 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Gifts various rewards in exchange for candy.
 
 ## Events
+
+### When is X event/season?
+Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
+
 ### Bug-Off
 In the Northern Hemisphere, the bug-off occurs on the 4th Saturday of June, July, August, and September from 9 AM to 6 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9 AM to 6 PM. 
 
@@ -473,20 +477,19 @@ Nature Day starts on April 23rd and lasts until May 4th. During this time period
 
 The Nature Day Nook Miles+ Achievements are:
 
-| Achievement Name                    | Nook Miles Given |
-|-------------------------------------|------------------|
-| Tree Transplantation (Move a tree)  | 100              | <!-- Sari confirm -->
-| Decorate with flowers               | 150              | <!-- Sari confirm -->
-| Get Stylin' by Wearing Flowers      | 150              | <!-- Sari confirm -->
-| Plant Coconuts on the Beach         | 150              | <!-- Sari confirm -->
-| Craft Fencing for Beautiful Gardens | 150              |
-| Send Gratitude with Flowers         | 200              | <!-- Sari confirm -->
-| Plant 3 of a specified flower       | 200              | <!-- Sari confirm -->
-| Plant 3 Shrub Starts                | 200              | <!-- Sari confirm -->
-| Weave Flowers to Craft a Wreath     | 300              |
-| Plant 5 Shrubs                      | 500              |
-<!-- Note: Working list of nature day achievements. Cannot find consolidated, consistent list anywhere.
-Any achievement with "Sari confirm" has been confirmed by Sari testing for me! -->
+| Achievement Name                        | Nook Miles Given |
+|-----------------------------------------|------------------|
+| Tree Transplantation (Move a tree)      | 100              | <!-- Sari confirm -->
+| Decorate with flowers                   | 150              | <!-- Sari confirm -->
+| Get Stylin' by Wearing Flowers          | 150              | <!-- Sari confirm -->
+| Plant Coconuts on the Beach             | 150              | <!-- Sari confirm -->
+| Craft Fencing for Beautiful Gardens     | 150              | <!-- Wuffs confirm -->
+| Send Gratitude with Flowers             | 200              | <!-- Sari confirm -->
+| Plant 3 of a specified flower           | 200              | <!-- Sari confirm -->
+| Plant 3 Shrub Starts                    | 200              | <!-- Sari confirm -->
+| Weave Flowers to Craft a Wreath         | 300              | <!-- Wuffs confirm -->
+| Pluck Blossoms and Craft a Flower Crown | 300              | <!-- Wuffs confirm -->
+<!-- I believe this is the complete list, confirmed w/ Sari and from https://wuffs.org/acnh/bcsv_150/html/EventFlagsLifeSupportDailyParam.html -->
 
 If you talk to Tom Nook after completing one Nature Day activity, he will send the hedge diy recipe to your Nook phone.
 
@@ -530,10 +533,71 @@ You now need to change your date in your Switch settings:
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
 
-### Event Calendar
-Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
+### What are the effects of time traveling *forwards*?
+It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
+Negative Effects:
+- Weeds and flowers will grow/spread.
+- Cockroaches may appear in your house (1+ month).
+- You may get the bedhead animation (1+ month).
+- Villagers may ask/comment on where you have been.
+- Open plots may fill.
+- Turnips will spoil *if* you time travel past the following Sunday.
 
-<!-- ### What are the effects of time traveling? 
-- Finish this later, pull from unrestricted doc? 
-- "Time traveling for ACNH will not affect other time-based games unless you launch them whilst the system time is changed." 
-- Test ABD going backwards -->
+Positive Effects:
+- Building construction/upgrades/moves will be completed.
+- All stock (Able Sisters, Nook's Cranny, Nook Shopping) will refresh.
+- Weeds and flowers will grow/spread.
+- Rocks and trees will refresh.
+- Mail is delivered.
+- Turnip price trend will not change. 
+
+### What are the effects of time traveling *backwards*?
+Negative Effects:
+- Open plots may fill.
+- Turnips will spoil.
+- Turnip prices will change and your trend will be reset.
+- Watered effect will be removed from flowers and they will not grow/breed.
+- Campers will leave.
+
+Neutral Effects:
+  - It will not count as a "new day" in terms of progression.
+  - Villagers will not advance moving in/out.
+  - Building construction/upgrades/moves will not be completed.
+  - Shop stock will be the same as it was the first time you visted that day unless you leave the current week.
+  - Rocks and trees will not refresh.
+  - Mail will not be delivered. 
+  
+  Positive Effects:
+  - The daily recipe bottle will respawn.
+  - Fossils will respawn.
+  - NPC visitor shops and quests will refresh.
+  - ABD chain will remain, and you can claim another daily bonus.
+
+### What happens to my other games when I time travel for AC:NH?
+Time traveling for AC:NH will not affect other time-based games unless you launch them whilst the system time is changed.
+
+### Do I have to wait to time travel after someone invites my villager to live on their island?
+No, and likewise, you don't have to wait to time travel after inviting someone else's villager to live on your island either.
+
+### Can I time travel to play events that have passed?
+Yes! Currently, all past ingame events have **not been locked** and are still accessible with time travel. Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible ingame. 
+
+All events (with the exception of Seasonal DIY events, New Year's, Fishing Tournaments, and Bug-Offs) are currently locked to 2020 and will not work in future/past years. The May Day Tour is once per user, but you can still access the event on secondary accounts. 
+
+Player birthdays can only be experienced once every ingame year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
+
+### How do I time travel to farm an NPC visitor?
+If the NPC is on a weekday EXCEPT Monday:
+ - TT to 4:58am on the same day of NPC. At 5am, it will change to new day and NPC will be there
+
+If the NPC is on a Monday:
+ - TT forward a day to Tuesday, then go back to Monday (after 5am)
+
+### Will my villagers move out if I time travel too much? 
+Nope! Though this was something that could happen in past installments of the game, villagers in New Horizons will not move out unless you give them explicit permission to do so.
+
+### Will my villagers dislike me/lose friendship points if I time travel too much
+Nope! They may have some dialogue about your disappearance if you do a big jump forward, but time traveling has no effect on friendship.
+
+### Do the developers know I time travel? Will they do anything to me about it?
+There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to! 
