@@ -1,7 +1,8 @@
 # Frequently Asked Questions
 ver. 1.0
 
-This page is under construction!
+### This page is under construction!
+Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questions page! This page serves to answer many of the frequently asked questions about the game. This page is **not affiliated** with Nintendo. 
 
 ## Navigation
 - [Island Development](#island-development) 
@@ -12,7 +13,7 @@ This page is under construction!
 - [NPC Visitors and Special Characters](#npc-visitors-and-special-characters)
 - [Events](#events)
 - [Time Travel](#time-travel)
-- Glitches
+- [Glitches](#glitches)
 - Miscellaneous
 - Acknowledgements
 
@@ -528,7 +529,7 @@ Time traveling is *not* considered hacking. Time traveling also does not reverse
 ### How do I time travel?
 To time travel, you must either close your game or go to the ‘Save Complete’ screen after doing a ‘Save and End’.
 You now need to change your date in your Switch settings:	
-1. Open System Settings, System, Date and Time.
+1. Open System Settings > System > Date and Time.
 2. Disable ‘Synchronize Clock via internet’ if it is ON.
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
@@ -537,12 +538,14 @@ You now need to change your date in your Switch settings:
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
 
 Negative Effects:
-- Weeds and flowers will grow/spread.
 - Cockroaches may appear in your house (1+ month).
 - You may get the bedhead animation (1+ month).
-- Villagers may ask/comment on where you have been.
 - Open plots may fill.
 - Turnips will spoil *if* you time travel past the following Sunday.
+
+Neutral Effects:
+- Weeds and flowers will grow/spread.
+- Villagers may ask/comment on where you have been.
 
 Positive Effects:
 - Building construction/upgrades/moves will be completed.
@@ -602,3 +605,18 @@ Nope! They may have some dialogue about your disappearance if you do a big jump 
 
 ### Do the developers know I time travel? Will they do anything to me about it?
 There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to! 
+
+## Glitches 
+### What is a glitch?
+A glitch is an unintended malfunction or irregularity in the game due to bugs in the code. Glitches ***are not***: Bad luck/RNG, unexpected but intended gameplay, or hacked items.
+
+### What is a dupe/dupe glitch?
+"Duping" refers to the act of exploiting in-game mechanics to duplicate already existing items. A "dupe" is simply the product of executing a dupe glitch successfully. Duped items are not harmful to the game or the player's save file, as there is no difference between the duped items and regular items.
+
+<!-- Unfinished questions:
+### What are the current known glitches? -->
+
+<!-- ### Is X a glitch? -->
+
+<!-- ### How do I perform the DC dupe? 
+(+ associated risk) -->
