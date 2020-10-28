@@ -1,8 +1,7 @@
 # Frequently Asked Questions
 ver. 1.0
 
-### This page is under construction!
-Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questions page! This page serves to answer many of the frequently asked questions about the game. This page is **not affiliated** with Nintendo. 
+This page is under construction!
 
 ## Navigation
 - [Island Development](#island-development) 
@@ -13,7 +12,7 @@ Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questio
 - [NPC Visitors and Special Characters](#npc-visitors-and-special-characters)
 - [Events](#events)
 - [Time Travel](#time-travel)
-- [Glitches](#glitches)
+- Glitches
 - Miscellaneous
 - Acknowledgements
 
@@ -25,7 +24,7 @@ An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor
 Yes! Every building and house can be moved except the airport and Resident Services.
 
 ### How do I unlock terraforming?
-Complete Project K by raising your island rating to 3 stars. Further information can be found under the “Unlocking Things” section.
+Complete Project K by raising your island rating to 3 stars. Further information can be found under the “[Unlocking Things](#unlocking-things)” section.
 
 ### How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
@@ -41,7 +40,10 @@ There's a lot of different ways to get DIYs, so it depends on what you're lookin
 - Snowboy
 - Self-taught (includes King Tut mask, pitfall seed, trash DIYs, etc.)
 - NookStop (purchase with Nook Miles)
-You can view [this page](https://nookipedia.com/wiki/DIY_recipes#Lists_of_recipes) to help you search for the specific recipe you may be looking for.
+- Nook's Crannies
+- Message bottle
+
+You can view [this page](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
 Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day, then they rotate every 3 hours. 
@@ -196,8 +198,11 @@ Turnip runs are a simple process but can be easily used to make tens of millions
 
 ## Villagers
 ### How many villagers are there in Animal Crossing: New Horizons?
-Currently there are 391 villagers in AC:NH.
+Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
 
+### How many villagers can I have?
+You can have ten animal villagers and up to eight human villagers.
+ 
 ### How do I get a specific villager?
 Unfortunately there’s no 100% guaranteed way to get a specific villager unless you have their Amiibo card or adopt them from someone else’s island. Your other options are to use NMT to find them on mystery islands, or hope they visit your campsite!
 
@@ -224,7 +229,7 @@ Campsite visitors are determined on a percent chance roll, where the chance is b
 | 5                                | 15%                        |
 | 6+                               | 20%                        |
 
-Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one.
+Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one. For more information on campsite see [here](https://docs.google.com/document/d/1c8rsKWWtwsOo_JOxwO-lVRx2MUhc-bcdZg1mhXgtRPg/edit).
 
 ### What are the villager personalities?
 There are 8 villager personalities.
@@ -529,7 +534,7 @@ Time traveling is *not* considered hacking. Time traveling also does not reverse
 ### How do I time travel?
 To time travel, you must either close your game or go to the ‘Save Complete’ screen after doing a ‘Save and End’.
 You now need to change your date in your Switch settings:	
-1. Open System Settings > System > Date and Time.
+1. Open System Settings, System, Date and Time.
 2. Disable ‘Synchronize Clock via internet’ if it is ON.
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
@@ -538,14 +543,12 @@ You now need to change your date in your Switch settings:
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
 
 Negative Effects:
+- Weeds and flowers will grow/spread.
 - Cockroaches may appear in your house (1+ month).
 - You may get the bedhead animation (1+ month).
+- Villagers may ask/comment on where you have been.
 - Open plots may fill.
 - Turnips will spoil *if* you time travel past the following Sunday.
-
-Neutral Effects:
-- Weeds and flowers will grow/spread.
-- Villagers may ask/comment on where you have been.
 
 Positive Effects:
 - Building construction/upgrades/moves will be completed.
@@ -605,18 +608,3 @@ Nope! They may have some dialogue about your disappearance if you do a big jump 
 
 ### Do the developers know I time travel? Will they do anything to me about it?
 There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to! 
-
-## Glitches 
-### What is a glitch?
-A glitch is an unintended malfunction or irregularity in the game due to bugs in the code. Glitches ***are not***: Bad luck/RNG, unexpected but intended gameplay, or hacked items.
-
-### What is a dupe/dupe glitch?
-"Duping" refers to the act of exploiting in-game mechanics to duplicate already existing items. A "dupe" is simply the product of executing a dupe glitch successfully. Duped items are not harmful to the game or the player's save file, as there is no difference between the duped items and regular items.
-
-<!-- Unfinished questions:
-### What are the current known glitches? -->
-
-<!-- ### Is X a glitch? -->
-
-<!-- ### How do I perform the DC dupe? 
-(+ associated risk) -->
