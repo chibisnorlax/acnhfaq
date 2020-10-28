@@ -11,7 +11,7 @@ This page is under construction!
 - [Villagers](#villagers)
 - [NPC Visitors and Special Characters](#npc-visitors-and-special-characters)
 - [Events](#events)
-- Time Travel
+- [Time Travel](#time-travel)
 - Glitches
 - Miscellaneous
 - Acknowledgements
@@ -24,7 +24,7 @@ An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor
 Yes! Every building and house can be moved except the airport and Resident Services.
 
 ### How do I unlock terraforming?
-Complete Project K by raising your island rating to 3 stars. Further information can be found under the “Unlocking Things” section.
+Complete Project K by raising your island rating to 3 stars. Further information can be found under the “[Unlocking Things](#unlocking-things)” section.
 
 ### How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
@@ -40,7 +40,10 @@ There's a lot of different ways to get DIYs, so it depends on what you're lookin
 - Snowboy
 - Self-taught (includes King Tut mask, pitfall seed, trash DIYs, etc.)
 - NookStop (purchase with Nook Miles)
-You can view [this page](https://nookipedia.com/wiki/DIY_recipes#Lists_of_recipes) to help you search for the specific recipe you may be looking for.
+- Nook's Crannies
+- Message bottle
+
+You can view [this page](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
 Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day, then they rotate every 3 hours. 
@@ -195,8 +198,11 @@ Turnip runs are a simple process but can be easily used to make tens of millions
 
 ## Villagers
 ### How many villagers are there in Animal Crossing: New Horizons?
-Currently there are 391 villagers in AC:NH.
+Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
 
+### How many villagers can I have?
+You can have ten animal villagers and up to eight human villagers.
+ 
 ### How do I get a specific villager?
 Unfortunately there’s no 100% guaranteed way to get a specific villager unless you have their Amiibo card or adopt them from someone else’s island. Your other options are to use NMT to find them on mystery islands, or hope they visit your campsite!
 
@@ -223,7 +229,7 @@ Campsite visitors are determined on a percent chance roll, where the chance is b
 | 5                                | 15%                        |
 | 6+                               | 20%                        |
 
-Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one.
+Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one. For more information on campsite see [here](https://docs.google.com/document/d/1c8rsKWWtwsOo_JOxwO-lVRx2MUhc-bcdZg1mhXgtRPg/edit).
 
 ### What are the villager personalities?
 There are 8 villager personalities.
@@ -436,6 +442,10 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Gifts various rewards in exchange for candy.
 
 ## Events
+
+### When is X event/season?
+Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
+
 ### Bug-Off
 In the Northern Hemisphere, the bug-off occurs on the 4th Saturday of June, July, August, and September from 9 AM to 6 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9 AM to 6 PM. 
 
@@ -479,20 +489,19 @@ Nature Day starts on April 23rd and lasts until May 4th. During this time period
 
 The Nature Day Nook Miles+ Achievements are:
 
-| Achievement Name                    | Nook Miles Given |
-|-------------------------------------|------------------|
-| Tree Transplantation (Move a tree)  | 100              | <!-- Sari confirm -->
-| Decorate with flowers               | 150              | <!-- Sari confirm -->
-| Get Stylin' by Wearing Flowers      | 150              | <!-- Sari confirm -->
-| Plant Coconuts on the Beach         | 150              | <!-- Sari confirm -->
-| Craft Fencing for Beautiful Gardens | 150              |
-| Send Gratitude with Flowers         | 200              | <!-- Sari confirm -->
-| Plant 3 of a specified flower       | 200              | <!-- Sari confirm -->
-| Plant 3 Shrub Starts                | 200              | <!-- Sari confirm -->
-| Weave Flowers to Craft a Wreath     | 300              |
-| Plant 5 Shrubs                      | 500              |
-<!-- Note: Working list of nature day achievements. Cannot find consolidated, consistent list anywhere.
-Any achievement with "Sari confirm" has been confirmed by Sari testing for me! -->
+| Achievement Name                        | Nook Miles Given |
+|-----------------------------------------|------------------|
+| Tree Transplantation (Move a tree)      | 100              | <!-- Sari confirm -->
+| Decorate with flowers                   | 150              | <!-- Sari confirm -->
+| Get Stylin' by Wearing Flowers          | 150              | <!-- Sari confirm -->
+| Plant Coconuts on the Beach             | 150              | <!-- Sari confirm -->
+| Craft Fencing for Beautiful Gardens     | 150              | <!-- Wuffs confirm -->
+| Send Gratitude with Flowers             | 200              | <!-- Sari confirm -->
+| Plant 3 of a specified flower           | 200              | <!-- Sari confirm -->
+| Plant 3 Shrub Starts                    | 200              | <!-- Sari confirm -->
+| Weave Flowers to Craft a Wreath         | 300              | <!-- Wuffs confirm -->
+| Pluck Blossoms and Craft a Flower Crown | 300              | <!-- Wuffs confirm -->
+<!-- I believe this is the complete list, confirmed w/ Sari and from https://wuffs.org/acnh/bcsv_150/html/EventFlagsLifeSupportDailyParam.html -->
 
 If you talk to Tom Nook after completing one Nature Day activity, he will send the hedge diy recipe to your Nook phone.
 
@@ -535,6 +544,76 @@ You now need to change your date in your Switch settings:
 2. Disable ‘Synchronize Clock via internet’ if it is ON.
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
+
+### What are the effects of time traveling *forwards*?
+It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
+
+Negative Effects:
+- Weeds and flowers will grow/spread.
+- Cockroaches may appear in your house (1+ month).
+- You may get the bedhead animation (1+ month).
+- Villagers may ask/comment on where you have been.
+- Open plots may fill.
+- Turnips will spoil *if* you time travel past the following Sunday.
+
+Positive Effects:
+- Building construction/upgrades/moves will be completed.
+- All stock (Able Sisters, Nook's Cranny, Nook Shopping) will refresh.
+- Weeds and flowers will grow/spread.
+- Rocks and trees will refresh.
+- Mail is delivered.
+- Turnip price trend will not change. 
+
+### What are the effects of time traveling *backwards*?
+Negative Effects:
+- Open plots may fill.
+- Turnips will spoil.
+- Turnip prices will change and your trend will be reset.
+- Watered effect will be removed from flowers and they will not grow/breed.
+- Campers will leave.
+
+Neutral Effects:
+  - It will not count as a "new day" in terms of progression.
+  - Villagers will not advance moving in/out.
+  - Building construction/upgrades/moves will not be completed.
+  - Shop stock will be the same as it was the first time you visted that day unless you leave the current week.
+  - Rocks and trees will not refresh.
+  - Mail will not be delivered. 
+  
+  Positive Effects:
+  - The daily recipe bottle will respawn.
+  - Fossils will respawn.
+  - NPC visitor shops and quests will refresh.
+  - ABD chain will remain, and you can claim another daily bonus.
+
+### What happens to my other games when I time travel for AC:NH?
+Time traveling for AC:NH will not affect other time-based games unless you launch them whilst the system time is changed.
+
+### Do I have to wait to time travel after someone invites my villager to live on their island?
+No, and likewise, you don't have to wait to time travel after inviting someone else's villager to live on your island either.
+
+### Can I time travel to play events that have passed?
+Yes! Currently, all past ingame events have **not been locked** and are still accessible with time travel. Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible ingame. 
+
+All events (with the exception of Seasonal DIY events, New Year's, Fishing Tournaments, and Bug-Offs) are currently locked to 2020 and will not work in future/past years. The May Day Tour is once per user, but you can still access the event on secondary accounts. 
+
+Player birthdays can only be experienced once every ingame year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
+
+### How do I time travel to farm an NPC visitor?
+If the NPC is on a weekday EXCEPT Monday:
+ - TT to 4:58am on the same day of NPC. At 5am, it will change to new day and NPC will be there
+
+If the NPC is on a Monday:
+ - TT forward a day to Tuesday, then go back to Monday (after 5am)
+
+### Will my villagers move out if I time travel too much? 
+Nope! Though this was something that could happen in past installments of the game, villagers in New Horizons will not move out unless you give them explicit permission to do so.
+
+### Will my villagers dislike me/lose friendship points if I time travel too much
+Nope! They may have some dialogue about your disappearance if you do a big jump forward, but time traveling has no effect on friendship.
+
+### Do the developers know I time travel? Will they do anything to me about it?
+There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to! 
 
 ### Event Calendar
 Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seasonal changes, events, and Nook Shopping seasonal items.
