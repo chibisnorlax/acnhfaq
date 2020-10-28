@@ -129,7 +129,7 @@ Up to you! Some people save them to trade them to other players, some sell them 
 - **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations.
 - **Golden Slingshot:** Shoot 300 balloons, then shoot down the golden balloon. (Note: the recipe will appear every 20 balloons in a golden balloon until you learn it, making it the only farmable golden tool recipe.)
 
-***Note:** Golden tools can still break, but have a considerably higher durability.*
+***Note:** Golden tools can still break, but have a considerably higher durability. See [here](https://cestislife.github.io/img/tools.png) for tool durability*
 
 ### Misc Unlocks
 - **Nook Miles Redemption:** Pay off 5,000 Nook Miles house debt. 
@@ -353,6 +353,8 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Docks his ship at the player's secret beach on the north shore of the island.
 - Each player can purchase up to one piece of artwork from him, and an unlimited amount of the 2 furniture items he brings each visit.
 - Art is mailed to you the following day, furniture is in your pocket immediately after purchase.
+- For more info on Redd's art see [here](https://yuexr.github.io/img/redd1.png) and [here](https://yuexr.github.io/img/redd2.png).
+- Click [here](https://nookplaza.net/tools?tab=fake_art) to find the differences between fake and real art.
 
 ### C.J.
 - Buys fish for 1.5x Timmy and Tommy's price, but only after you complete his challenge.
@@ -368,6 +370,8 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.
 - Will give Mermaid DIYs, clothing, or a pearl in exchange for the scallop you catch.
 - Limited to one exchange with Pascal per day.
+- See [here](https://yuexr.github.io/img/pascal2.png) for more info on Pascal.
+- See [here](https://yuexr.github.io/img/mermaidclothing.png) and [here](https://yuexr.github.io/img/mermaidset.png) for his reward.
 
 ### Mabel
 - Visits your island to sell clothes once Nook's Cranny has been opened.
@@ -398,6 +402,8 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Can be found sleeping on the island's beaches.
 - Upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.
 - If the player completes his favor, he will mail the player a special pirate furniture item the following day.
+- See [here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
+- See [here](https://yuexr.github.io/img/pirate.png) for his reward.
 
 ### Harvey (Harv)
 - Will wander around your island upon first encounter.
@@ -608,3 +614,11 @@ Nope! They may have some dialogue about your disappearance if you do a big jump 
 
 ### Do the developers know I time travel? Will they do anything to me about it?
 There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to! 
+
+### Event Calendar
+Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seasonal changes, events, and Nook Shopping seasonal items.
+
+<!-- ### What are the effects of time traveling? 
+- Finish this later, pull from unrestricted doc? 
+- "Time traveling for ACNH will not affect other time-based games unless you launch them whilst the system time is changed." 
+- Test ABD going backwards -->
