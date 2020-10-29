@@ -717,7 +717,7 @@ Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-gam
 
 ## Acknowledgements
 This guide was brought to you with love and hard work by:
-littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, monova#7159, LeChatMG#1082, Diablo#1311, ❄ tina ❄#7777, blink#0294, Sari#5548, mybae#1905, Melosaur🍕#7567, Yamza#0836, pojayto#1996, danc#0854, and#6915 :heart:
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, ❄ tina ❄#7777, blink#0294, Sari#5548, mybae#1905, Melosaur🍕#7567, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
