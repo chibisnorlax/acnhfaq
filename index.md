@@ -37,12 +37,12 @@ Secondary residents can do everything that Island Representatives can except sto
 They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
 ### How do I obtain "X" DIY recipe?
-- Most recipes can be gotten from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
-- Pitfall seed can be gotten from a jock villager crafting or self-taught from digging up a pitfall seed. 
+- Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
+- Pitfall seed are received a crafting jock villager or self-taught through digging up a pitfall seed. 
 - Seasonal recipes such cherry blossoms, mushrooms, festives, etc. comes from balloons during their respected seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
 - Trash recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
 - The King Tut mask is learned after picking up a golden nugget after hitting a rock.  
-- Most Spooky DIY recipes can be gotten from villagers crafting, balloons and message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
+- Most Spooky DIY recipes are obtained through crafting villagers, balloons and message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
 - Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
 - Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
 - You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
@@ -89,7 +89,7 @@ Star fragments are a crafting material that can be used in DIY recipes.
 ### What's the max amount of star fragments I can get?
 1 wish = 1 star fragment. You can also visit other players who have shooting stars and wish on their islands; wishes made on someone else's island will count as personal wishes.
 
-By yourself, you can get a maximum of 20 star fragments. If you invite visitors from other islands (**not** other residents that live on your island), you can get up to 40 star fragments. For every 5 wishes that your visitors make, you get 1 additional star fragment on top of whatever amount you wished for yourself. This means your visitors need to make 100 wishes total to get you an additional 20 frags, for a max total of 40.
+By yourself, you can obtain a maximum of 20 star fragments. If you invite visitors from other islands (**not** other residents that live on your island), you can obtain up to 40 star fragments. For every 5 wishes your visitors make, you will receive 1 additional star fragment on top of the amount you wished for yourself. This means your visitors need to wish 100 times total for you to achieve the additional 20 and max total of 40 frags.
 
 ### Can I visit other islands for shooting stars and/or Celeste?
 Yes! You can wish on shooting stars while visiting another player’s island and the star fragments will appear on your island’s beach the next day. Just like on your own island, each wish you make on another island counts for one star fragment, to a maximum of 20 wishes. Any zodiac fragments you receive will correspond to the date on your island and not the date of the host island.
@@ -151,30 +151,31 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 
 - **House size upgrade**
   - Fee: 198,000 Bells
-  - Unlocks: 8x8 Grid, 40 additional storage slots
+  - Unlocks: 8x8 grid, 40 additional storage slots
 
 - **Back Room Addition**
   - Fee: 348,000 Bells
-  - Unlocks: Back Room, 6x6 Grid, 120 additional storage slots
+  - Unlocks: Back Room, 6x6 grid, 120 additional storage slots
 
 - **Left Room Addition**
   - Fee: 548,000 Bells
-  - Unlocks: Left Room, 6x6 Grid, 120 additional storage slots, mailbox and roof customization
+  - Unlocks: Left Room, 6x6 grid, 120 additional storage slots, mailbox and roof customizations 
   - After unlocking the left room, you can also pick up your mailbox and move it. Just walk up to it and press Y, as you would with other furniture.
-
+  
 - **Right Room Addition**
   - Fee: 758,000 Bells
-  - Unlocks: Right Room, 6x6 Grid, 40 additional storage slots, door customization
+  - Unlocks: Right Room, 6x6 grid, 40 additional storage slots, door customization
 
 - **Second Floor Addition**
   - Fee: 1,248,000 Bells
-  - Unlocks: Second Floor, 10x6 Grid, 400 additional storage slots, siding customization
+  - Unlocks: Second Floor, 10x6 grid, 400 additional storage slots, home siding customization
 
 - **Basement Addition**
   - Fee: 2,498,000 Bells
-  - Unlocks: Basement, 10x6 Grid, 800 additional storage slots, special bonus
-  - Special Bonus: Free exterior renovations, limited to 1 design per item per category per day.
+  - Unlocks: Basement, 10x6 grid, 800 additional storage slots
+   - Special Bonus: Free exterior renovations, limited to 1 design per item per category per day.
 
+<!-- TODO: Add that flimsy axe, can, shovel, pole, and ladder diys can be purchased from nooks cranny (since gettiing from blathers and nooks requires you to be RR)-->
 ### DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
 - **Flimsy Net:** Finish DIY workshop.
@@ -370,8 +371,8 @@ Yes, it increases your friendship level with them, for more info and also info o
 You cannot remove the furniture/mannequin, but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing. Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
 
 ### What are gifted vs ungifted villagers during trading and why is it important to let someone who you're trading with know?
-- Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable by other players than ungifted villagers, and they can never be ungifted, only have their gifts replaced.
-- Ungifted villagers tend to be *higher value*, completely default villagers — they wear only default outfits and have an untouched house, as if they were found from a mystery island.
+- Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable to other players in comparison to ungifted villagers. They can never be ungifted, only have their gifts replaced.
+- Ungifted villagers tend to be *higher value*, completely default villagers — they only wear their original outfits and have an untouched house—as if they were found from a mystery island.
 
 <!-- TODO: Decide on wording for this question -->
 ### What is the move-in/move-out queue (or) What is the void (or) Where do villagers that automatically fill my empty plots come from?
@@ -754,13 +755,13 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. 1.5.1.
 
 ### Is X a glitch?
-The only way to tell if something is a glitch is to see if it is reproducible and if it is unintended. If you suspect you have found a glitch for the **current** version of the game, please contact littlesnorlax#1717 on Discord. As a reminder, Glitches ***are not***: Bad luck/RNG, unexpected but intended gameplay, or hacked items.
+The only way to tell if something is a glitch is to see if it is reproducible and if it is unintended. If you suspect you have found a glitch for the **current** version of the game, please contact littlesnorlax#1717 on Discord. As a reminder, glitches ***are not***: bad luck/RNG, unexpected but intended gameplay, or hacked items.
 
 ### How do I perform the DC dupe? 
 The Disconnect Dupe (or "DC dupe") exploits the autosave process to duplicate already-existing items. Please note: **Any interruption of the normal save process could lead to corruption. The authors of this page nor the people supplying instructions will be responsible for what may happen to your game.** With that said, please visit https://www.youtube.com/watch?v=qhyHsDs-H3Y for instructions on how to complete the DC dupe.
 
 ### What happened to star trees/wrapped critters/Harv's fence/etc.?
-A majority of the hacked items have been patched out of the game. The only hacked items that remain are camo items and unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up, if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame, if owned previously. 
+The majority of hacked items have been patched out of the game. The only hacked items that remain are camo items and unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame if owned previously. 
 
 ## Miscellaneous
 ### I heard a rumor that X might be added to the game. Is this true?
