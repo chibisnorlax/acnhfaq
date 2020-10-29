@@ -81,7 +81,7 @@ Shooting stars are dependent on your [weather seed](#what-determines-the-weather
 Both heavy and light meteor showers are locked to the date on which they occur, and will always occur on that date even if you time travel. 
 
 ### How do I wish on a star, and what does it do?
-To wish on a star: when you see or hear it moving across the sky, stand still, look up with your right analog (joy) stick, and press the “A” button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
+To wish on a star: when you see or hear it moving across the sky, stand still, look up with your right joystick, and press the “A” button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
 
 Star fragments are a crafting material that can be used in DIY recipes.
 
@@ -329,7 +329,7 @@ There are 8 villager personalities.
 | Cranky | Snooty        |
 | Lazy   | Peppy         |
 
-Special NPCs do not have personalities, and each villager can only be of one personality. Personality dictates the DIYs a villager crafts, the reactions they teach, the dialogue they can use, and more.
+Special NPCs do not have personalities, and each villager can only be of one personality. Personality dictates the DIYs a villager crafts, the reactions they teach, and the dialogue they can use.
 
 ### What is friendship/What are friendship levels?
 “Friendship” refers to how close you are with your villagers. Talking to them, gifting them items, and completing quests for them all increases friendship. Villagers also have friendship levels, and when you unlock new levels, you unlock new interactions and quests! For more specific details, visit Yue’s friendship guide, located here: https://yuexr.github.io/acnh/friendship.html.
@@ -363,14 +363,15 @@ Yes, it increases your friendship level with them, for more info and also info o
 
 ### My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
-- Hats and accessories each have their own categories and their replacement mechanics are still being researched.
-- If you wish to remove a custom design, information relating to that is explained in the
+- Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum). 
+- Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit https://docs.google.com/spreadsheets/d/1hI0CXeiooie1KRCsSba2Q8bcXQPOXlFK_2tYUSG84Xo/edit?usp=sharing.
+- If you wish to remove a custom design, please read [here](#isabelle).
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
 ### My villager placed a furniture item I gifted them (or a mannequin of a clothing I gifted them in their house), how do I remove it?
 You cannot remove the furniture/mannequin, but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing. Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
 
-### What are gifted vs ungifted villagers during trading and why is it important to let someone who you're trading with know?
+### What are gifted vs. ungifted villagers during trading, and why is it important to inform someone you are trading with know?
 - Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable to other players in comparison to ungifted villagers. They can never be ungifted, only have their gifts replaced.
 - Ungifted villagers tend to be *higher value*, completely default villagers — they only wear their original outfits and have an untouched house—as if they were found from a mystery island.
 
@@ -400,7 +401,8 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 ### Isabelle
 - Unlocked when you upgrade [Resident Services](#building-unlocks) into a building.
 - Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.
-- You can talk to Isabelle to reset villagers' clothing, catchphrases throuh the 'Discuss a Resident' option. Note: Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
+- You can talk to Isabelle to reset villagers' clothing, catchphrases through the 'Discuss a Resident' option. 
+  - **Note:** Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
   - The way they talk: Resets custom catchphrases, but NOT nicknames or greetings.
   - The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
 
@@ -563,13 +565,13 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
 
 ### Bug-Off
-In the Northern Hemisphere, the bug-off occurs on the 4th Saturday of June, July, August, and September from 9:00 AM to 6:00 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9:00 AM to 6:00 PM. 
+In the Northern Hemisphere, the Bug-Off occurs on the 4th Saturday of June, July, August, and September from 9:00 AM to 6:00 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9:00 AM to 6:00 PM. 
 
 To participate, talk to Flick and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many bugs as possible in order to earn points. The points you earn in total (across all Bug-Offs) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
 
 The points can also be used to redeem items, of which there are 13. Once you have collected all 13, you will start to receive duplicates. Redeeming points for items (10 points each) does not detract from the trophy total.  
 
-Each bug you catch adds 1 point to your total and each fish after the first three adds a bonus 2 points. The bugs you catch will immediately appear in Flick’s bug cage. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
+Each bug you catch adds 1 point to your total and each bug after the first three adds a bonus 2 points. The bugs you catch will immediately appear in Flick’s bug cage. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
 
 For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
 
@@ -772,7 +774,7 @@ Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-gam
 
 ## Acknowledgements
 This guide was brought to you with love and hard work by:
-littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Sari, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
