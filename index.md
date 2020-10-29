@@ -36,20 +36,20 @@ Secondary residents can do everything that Island Representatives can except sto
 They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
 ### How do I get "X" DIY recipe?
-Most recipes can be gotten from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
-Pitfall seed can be gotten from a jock villager crafting or self-taught from digging up a pitfall seed. 
-Seasonal recipes such cherry blossoms, mushrooms, festives, etc. comes from balloons during their respected seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
-Trash recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
-The King Tut mask is learned after picking up a golden nugget after hitting a rock.  
-Most Spooky DIY recipes can be gotten from villagers crafting, balloons and message bottles. The rest can gotten from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
-Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
-Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
-You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
-Pascal give you merimaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
-Wedding DIYs are given by Cyrus on sixth and seventh day of the event.
-The hedge DIY recipe is given by Leif after you're the first person to buy from him on three different days or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
-You can also purchase DIY recipes from Nook's Cranny and NookStop.  
-You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
+- Most recipes can be gotten from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
+- Pitfall seed can be gotten from a jock villager crafting or self-taught from digging up a pitfall seed. 
+- Seasonal recipes such cherry blossoms, mushrooms, festives, etc. comes from balloons during their respected seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
+- Trash recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
+- The King Tut mask is learned after picking up a golden nugget after hitting a rock.  
+- Most Spooky DIY recipes can be gotten from villagers crafting, balloons and message bottles. The rest can gotten from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
+- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
+- Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
+- You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
+- Pascal give you merimaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
+- Wedding DIYs are given by Cyrus on sixth and seventh day of the event.
+- The hedge DIY recipe is given by Leif after you're the first person to buy from him on three different days or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
+- You can also purchase DIY recipes from Nook's Cranny and NookStop.  
+- You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
 Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day, then they rotate every 3 hours. 
@@ -261,6 +261,9 @@ Turnip runs are a simple process but can be easily used to make tens of millions
 3. Buy a full inventory from Daisy Mae, travel to the Nook’s Cranny and sell. Rinse, repeat, make money!
 
 ## Villagers
+### Who are villagers?
+The AC community commonly refers to animal island residents as 'villagers'. (TODO review if needed - Not to be confused with Special NPCs <link>)
+
 ### How many villagers are there in Animal Crossing: New Horizons?
 Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
 
@@ -272,6 +275,16 @@ Unfortunately there’s no 100% guaranteed way to get a specific villager unless
 
 ### How do I make a villager move out?
 Please refer to Yue’s move-out guide here: https://yuexr.github.io/acnh/moveout.html.
+
+### I agreed to let one of my villagers move out today, when can I go 'villager hunting' (or) Why don't I see any villagers in my mystery islands I visit?
+The villager progresses to the next step in a move-out sequence every next 5 am. `Villager asks to leave and you say yes > Villager is in boxes > Empty plot > Automatically filled with a villager from your 'move in queue'` https://yuexr.github.io/img/mo/2.png
+You MUST have an unsold, empty plot available to invite a villager from another player's island, or to find villagers on mystery islands (and you can only invite *one villager from a mystery island* per day). Note: If someone visited and claimed your villager who was in boxes their house will immediately say 'I moved out', but you will still need to wait until the next day for an empty plot.
+
+### How do I invite a villager from another player's island?
+The villager has to be moving out and 'in boxes', if you talk to them they will mention that they are moving out and you'll be shown an option to invite them to live on your island. If you have an open plot, they will mention that they spoke to Tom Nook and are going to move in to your island and show up on your island the next day.
+
+### How do I extend the time window my villager is in boxes (or) How do I extend the duration my plot is empty?
+Time travel a few hours but stay within the same day (refer to time traveling section).
 
 ### Will my villagers move out without telling me?
 No. They always need to ask you for your permission before they move out.
@@ -340,6 +353,31 @@ Once you unlock the campsite (see [here](#building-unlocks) on how to unlock it)
 
 After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
 
+### I traded one of my first five villagers with a 'basic' house layout, will they have a proper/default layout on the new island?
+Yes. Additionally, any furniture, fish/bug you gifted them and **is on their floor** will be reset when they move to a new island.
+
+### Is there any gameplay related benefit to gifting villagers?
+Yes, it increases your friendship level with them, for more info and also info on what gifts are 'safe' and won't clutter villagers' house layouts please refer to Yue's gifting guide here - https://yuexr.github.io/acnh/gift.html. You can also read about friendship mechanics [here](#what-is-friendshipwhat-are-friendship-levels).
+
+### My villager wears clothing I gifted them, how do I reset it?
+- Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
+- Hats and accessories each have their own categories and their replacement mechanics are still being researched.
+- If you wish to remove a custom design, information relating to that is explained in the
+- Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
+
+### My villager placed a furniture item I gifted them (or a mannequin of a clothing I gifted them in their house), how do I remove it?
+You cannot remove the furniture/mannequin, but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing. Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
+
+### What are gifted vs ungifted villagers during trading and why is it important to let someone who you're trading with know?
+- Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable by other players than ungifted villagers, and they can never be ungifted, only have their gifts replaced.
+- Ungifted villagers tend to be *higher value*, completely default villagers — they wear only default outfits and have an untouched house, as if they were found from a mystery island.
+
+<!-- TODO: Decide on wording for this question -->
+### What is the move-in/move-out queue (or) What is the void (or) Where do villagers that automatically fill my empty plots come from?
+Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
+- The MIQ holds 4 villagers that came from other players' MOQ that were transferred when you played online with them. When your empty plot autofills, this is where game pulls those villagers from! They can stay in there indefinitely.
+- The MOQ is what is commonly referred to as "the void". It is an invisible space where villagers who move out, but are not adopted, go to live (also indefinitely) until they can be passed into another player's MIQ. The MOQ holds up to 10 villagers.
+
 ## NPC Visitors and Special Characters
 ### How often does X visit? How do I unlock X character?
 Yue has put together a fantastic infographic for NPC schedules and their unlock requirements, see below!
@@ -360,6 +398,9 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 ### Isabelle
 - Unlocked when you upgrade [Resident Services](#building-unlocks) into a building.
 - Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.
+- You can talk to Isabelle to reset villagers' clothing, catchphrases throuh the 'Discuss a Resident' option. Note: Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
+  - The way they talk: Resets custom catchphrases, but NOT nicknames or greetings.
+  - The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
 
 ### Daisy Mae
 - Visits every Sunday to sell turnips (see [Turnips/Stalk Market](#turnipsstalk-market)) once Nook's Cranny is unlocked.
@@ -457,10 +498,11 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 ### Label
 - The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
 - Conducts fashion challenges with the player in exchange for clothing and/or **Tailor's Tickets** which can be used in The Able Sisters shop.
+- Label quest rewards calculation <!-- TODO: include image/table -->
 
 ### Kicks
 - Shop vendor in the Resident Services plaza.
-- Sells accessories, bags and shoes.
+- Sells mostly exclusive accessories, bags and shoes.
 
 ### Leif
 - Shop vendor in the Resident Services plaza.
@@ -695,7 +737,7 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 ### What is a dupe/dupe glitch?
 "Duping" refers to the act of exploiting in-game mechanics to duplicate already existing items. A "dupe" is simply the product of executing a dupe glitch successfully. Duped items are not harmful to the game or the player's save file, as there is no difference between the duped items and regular items.
 
-### What are the current known glitches?
+### What are the current known glitches? (vers. 1.5.1)
 
 | Glitch Name            | Information                                                                                                                                                        | Fix                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -729,10 +771,11 @@ Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-gam
 
 ## Acknowledgements
 This guide was brought to you with love and hard work by:
-littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, ❄ tina ❄#7777, blink#0294, Melosaur🍕#7567, Sari#5548, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Sari, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
 This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
 
 Please contact littlesnorlax#1717 on Discord or submit a PR if you would like to request changes to the document! 
+
