@@ -38,18 +38,18 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 
 ### How do I obtain "X" DIY recipe?
 - Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
-- Pitfall seed are received a crafting jock villager or self-taught through digging up a pitfall seed. 
-- Seasonal recipes such cherry blossoms, mushrooms, festives, etc. comes from balloons during their respected seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
-- Trash recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
-- The King Tut mask is learned after picking up a golden nugget after hitting a rock.  
+- The Pitfall Seed DIY is either received from a crafting jock villager or self-taught through digging up a pitfall seed. 
+- Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. comes from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
+- Trash DIY recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
+- The King Tut mask is learned after picking up a golden nugget dropped from hitting a rock.  
 - Most Spooky DIY recipes are obtained through crafting villagers, balloons and message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
 - Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
 - Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
 - You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
-- Pascal give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
+- Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
 - Wedding DIYs are given by Cyrus on sixth and seventh day of the event.
 - The hedge DIY recipe is given by Leif after you're the first person to buy from him on three different days or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
-- You can also purchase DIY recipes from Nook's Cranny and NookStop.  
+- You can also purchase certain DIY recipes from Nook's Cranny and NookStop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
@@ -185,15 +185,19 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 - **Vaulting Pole:** Talk to Blathers for the first time.  
 - **Ladder:** Start the quest to furnish 3 houses — it should start after Nook’s Cranny is built.
 - **Upgraded Tools:** To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must purchase the Better Tools recipe kit from the Nook Miles store after paying off your initial 5,000M loan.
-***Note:** The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.*
+
+***Notes:***
+ - *The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.*
+ - *For players other than the Island representative, the flimsy tools, Ladder and Vaulting Pole DIYs can be bought from Nook's Cranny.*
+
 
 ### Golden Tool Unlocks (Note: Spoilers!)
-- **Golden Axe:** Break 100 axes.
-- **Golden Shovel:** Help Gulliver 30 times (Gullivarrr does not count towards this).
-- **Golden Net:** Complete the bug portion of the Critterpedia.
-- **Golden Rod:** Complete the fish portion of the Critterpedia.
-- **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations.
-- **Golden Slingshot:** Shoot 300 balloons, then shoot down the golden balloon. (Note: the recipe will appear every 20 balloons in a golden balloon until you learn it, making it the only farmable golden tool recipe.)
+- **Golden Axe:** Break 100 axes. Your character will be struck by inspiration and learn the DIY by themselves.
+- **Golden Shovel:** Help Gulliver 30 times (Gullivarrr does not count towards this). Gulliver will mail you the DIY the next day instead of the usual reward.
+- **Golden Net:** Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.
+- **Golden Rod:** Complete the fish portion of the Critterpedia. The DIY will be mailed the next day by the museum.
+- **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.
+- **Golden Slingshot:** Shoot 300 balloons. The DIY will be carried a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.
 
 ***Note:** Golden tools can still break, but have a considerably higher durability. See [here](https://cestislife.github.io/img/tools.png) for tool durability*
 
@@ -206,7 +210,7 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 - **Project K:** Upgrade Resident Services to a building, have 6 villagers moved in and settled. 
 
 ## Gardening
-The ACNH gardening community has kindly put together various resources for all your gardening needs! Please view the links below to help answer any gardening-related questions you may have.
+The ACNH gardening community has kindly put together various resources for all your gardening needs! Please check the links below to help answer any gardening-related questions you may have.
 
 ### Gardening FAQ
 https://bit.ly/acnhflowerfaq 
@@ -234,10 +238,10 @@ Yes they can. It is a myth that there is a limit to how many rocks can be on a s
 
 ## Turnips/Stalk Market
 ### When does Daisy Mae visit?
-Once you've built Nook's Cranny, Daisy Mae will visit every Sunday from 5:00 am to 12:00 pm. No NPC or event interrupts her arrival. 
+Once you've built Nook's Cranny, Daisy Mae will visit every Sunday from 5:00 AM to 12:00 AM. No NPC or event interrupts her arrival. 
 
 ### How does the Stalk Market work?
-Daisy Mae’s prices change every time she visits, and you can buy turnips for *90 to 110 bells per turnip*. If you choose to purchase them, you can sell turnips to Nook's Cranny until Saturday (after which they will rot). Nook's Cranny can buy turnips for prices from *9 to 660 bells per turnip*. Nook’s Cranny prices change at 12:00 pm for a total of 2 distinct prices per day. The goal is to sell your turnips for *more* than you spent on them to make millions! 
+  Daisy Mae’s prices change every time she visits, and you can buy turnips for *90 to 110 bells per turnip*. If you choose to purchase them, you can sell turnips to Nook's Cranny until Saturday (after which they will rot). Nook's Cranny can buy turnips at prices ranging from *9 to 660 bells per turnip*. Nook’s Cranny has two distinct prices every day, one in the morning (from 8:00 AM to 12:00 PM), then another one in the afternoon (from 12:00 PM to 10:00 PM). The goal is to sell your turnips for *more* than you spent on them to make millions! 
 
 For further, extensive details about turnips and the stalk market, read here: https://tinyurl.com/acnhturnipdoc
 
@@ -247,7 +251,7 @@ For further, extensive details about turnips and the stalk market, read here: ht
 - Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will only buy rotten turnips for 100 bells and they won't be sold as stacks of 10. Instead, they'll sell as one turnip per stack. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
 
 ### How do I time travel for good turnip prices?
-Your turnip price pattern resets every time you time travel. If you want to fish out big spike price with TT, follow this method:
+Your turnip price pattern resets every time you time travel backwards. If you want to fish out big spike price with TT, follow this method:
 1. TT to Tuesday at 11:58 AM and check your price.
 2. If the price is not anywhere within the 127-225 range, save and quit. TT back to 11:57 AM, re-login. Repeat this step until the sell price is in that 127-225 range.
 3. When the price is within the 127-225 range, wait in game until 12:00 PM, then check the price again.
@@ -257,9 +261,9 @@ Your turnip price pattern resets every time you time travel. If you want to fish
 Turnip runs are a simple process but can be easily used to make tens of millions of bells. The process requires a **Nintendo Switch Online subscription** and a partner. 
 
 1. One person time travels until they find a high turnip price at Nook’s Cranny (see: “How do I time travel for good turnip prices?”). 
-    - Aim for 300+ bell prices—the higher the better.  
+    - Aim for prices of 300 bells or more — the higher the better.  
 2. The other person time travels until they find a low buy price from Daisy Mae. (Simply travel to Sunday, back a day, and forward again until you find your desired price.) 
-    - Aim for <95 bells price.
+    - Aim for prices of less than 95 bells.
 3. Buy a full inventory from Daisy Mae, travel to the Nook’s Cranny and sell. Rinse, repeat, make money!
 
 ## Villagers
@@ -279,7 +283,7 @@ Unfortunately there’s no 100% guaranteed way to get a specific villager unless
 Please refer to Yue’s move-out guide here: https://yuexr.github.io/acnh/moveout.html.
 
 ### I agreed to let one of my villagers move out today, when can I go 'villager hunting' (or) Why don't I see any villagers in my mystery islands I visit?
-The villager progresses to the next step in a move-out sequence every next 5 am. `Villager asks to leave and you say yes > Villager is in boxes > Empty plot > Automatically filled with a villager from your 'move in queue'` https://yuexr.github.io/img/mo/2.png
+The villager progresses to the next step in a move-out sequence every next 5:00 AM. `Villager asks to leave and you say yes > Villager is in boxes > Empty plot > Automatically filled with a villager from your 'move in queue'` https://yuexr.github.io/img/mo/2.png
 You MUST have an unsold, empty plot available to invite a villager from another player's island, or to find villagers on mystery islands (and you can only invite *one villager from a mystery island* per day). Note: If someone visited and claimed your villager who was in boxes their house will immediately say 'I moved out', but you will still need to wait until the next day for an empty plot.
 
 ### How do I invite a villager from another player's island?
@@ -368,10 +372,10 @@ Yes, it increases your friendship level with them, for more info and also info o
 - If you wish to remove a custom design, please read [here](#isabelle).
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
-### My villager placed a furniture item I gifted them (or a mannequin of a clothing I gifted them in their house), how do I remove it?
+### My villager placed a furniture item (or a mannequin of a clothing) I gifted them in their house, how do I remove it?
 You cannot remove the furniture/mannequin, but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing. Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
 
-### What are gifted vs. ungifted villagers during trading, and why is it important to inform someone you are trading with know?
+### What is the difference between 'gifted' and 'ungifted' villagers during trading, and why is it important to inform someone you are trading with know?
 - Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable to other players in comparison to ungifted villagers. They can never be ungifted, only have their gifts replaced.
 - Ungifted villagers tend to be *higher value*, completely default villagers — they only wear their original outfits and have an untouched house—as if they were found from a mystery island.
 
@@ -621,7 +625,7 @@ The Nature Day Nook Miles+ Achievements are:
 | Pluck Blossoms and Craft a Flower Crown | 300              | <!-- Wuffs confirm -->
 <!-- I believe this is the complete list, confirmed w/ Sari and from https://wuffs.org/acnh/bcsv_150/html/EventFlagsLifeSupportDailyParam.html -->
 
-If you talk to Tom Nook after completing one Nature Day activity, he will send the hedge diy recipe to your Nook phone.
+If you talk to Tom Nook after completing one Nature Day activity, he will send the hedge DIY recipe to your Nook phone.
 
 ### May Day
 From May 1st until May 7th, you will be able to go on the May Day tour after talking to Tom Nook. To participate in the tour, go to the airport and talk to Orville, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover to get the Rover’s briefcase item. You can also get up to nine Bell Vouchers (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
