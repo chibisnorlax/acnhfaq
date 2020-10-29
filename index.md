@@ -346,10 +346,10 @@ Once you unlock the campsite (see [here](#building-unlocks) on how to unlock it)
 After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
 
 ### I traded one of my first five villagers with a 'basic' house layout, will they have a proper/default layout on the new island?
-Yes. Note: Any furniture, fish/bug you gifted them and **is on their floor** will be reset when they move to a new island.
+Yes. Additionally, any furniture, fish/bug you gifted them and **is on their floor** will be reset when they move to a new island.
 
 ### Is there any gameplay related benefit to gifting villagers?
-Yes, it increases your friendship level with them, for more info and also info on what gifts are 'safe' and won't clutter villagers' house layouts please refer to Yue's gifting guide here - https://yuexr.github.io/acnh/gift.html. <!-- TODO: link friendship section -->
+Yes, it increases your friendship level with them, for more info and also info on what gifts are 'safe' and won't clutter villagers' house layouts please refer to Yue's gifting guide here - https://yuexr.github.io/acnh/gift.html. You can also read about friendship mechanics [here](#what-is-friendshipwhat-are-friendship-levels).
 
 ### My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
@@ -358,12 +358,13 @@ Yes, it increases your friendship level with them, for more info and also info o
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
 ### My villager placed a furniture item I gifted them (or a mannequin of a clothing I gifted them in their house), how do I remove it?
-You cannot remove the furniture/mannequin but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing
+You cannot remove the furniture/mannequin, but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing. Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
 
 ### What are gifted vs ungifted villagers during trading and why is it important to let someone who you're trading with know?
 - Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable by other players than ungifted villagers, and they can never be ungifted, only have their gifts replaced.
-- Ungifted villagers tend to be *higher value*, completely default villagers—they wear only default outfits and have an untouched house, as if they were found from a mystery island.
+- Ungifted villagers tend to be *higher value*, completely default villagers — they wear only default outfits and have an untouched house, as if they were found from a mystery island.
 
+<!-- TODO: Decide on wording for this question -->
 ### What is the move-in/move-out queue (or) What is the void (or) Where do villagers that automatically fill my empty plots come from?
 Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 - The MIQ holds 4 villagers that came from other players' MOQ that were transferred when you played online with them. When your empty plot autofills, this is where game pulls those villagers from! They can stay in there indefinitely.
@@ -724,7 +725,7 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 ### What is a dupe/dupe glitch?
 "Duping" refers to the act of exploiting in-game mechanics to duplicate already existing items. A "dupe" is simply the product of executing a dupe glitch successfully. Duped items are not harmful to the game or the player's save file, as there is no difference between the duped items and regular items.
 
-### What are the current known glitches?
+### What are the current known glitches? (vers. 1.5.1)
 
 | Glitch Name            | Information                                                                                                                                                        | Fix                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -758,12 +759,8 @@ Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-gam
 
 ## Acknowledgements
 This guide was brought to you with love and hard work by:
-littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, ❄ tina ❄#7777, blink#0294, Melosaur🍕#7567, Sari#5548, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Sari, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
 This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
-
-<!-- ### How do I perform the DC dupe?
-(+ associated risk) -->
-
