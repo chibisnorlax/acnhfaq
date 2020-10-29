@@ -32,22 +32,22 @@ Complete Project K by raising your island rating to 3 stars. Further information
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
 
 ### What can secondary (non-Island-Representative) players do?
-Secondary residents can do everything that Island Representatives can except story progression and some infrastructure things. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate critters/art to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
+Secondary residents can do everything that Island Representatives can except story progression and certain infrastructural decisions. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
 
 They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
-### How do I get "X" DIY recipe?
-There's a lot of different ways to get DIYs, so it depends on what you're looking for! Here's all the ways you can obtain a DIY:
+### How do I obtain "X" DIY recipe?
+There are many ways to obtain DIYs, so it depends on what you're looking for! Here's all the ways you to find a DIY:
 - Villagers crafting
 - NPCs (Celeste, Jack, Pascal, Zipper, Leif, and Cyrus)
 - Balloons
 - Snowboy
-- Self-taught (includes King Tut mask, pitfall seed, trash DIYs, etc.)
+- Self-taught/Inspiration (includes King Tut mask, pitfall seed, trash DIYs, etc.)
 - NookStop (purchase with Nook Miles)
 You can view [this page](https://nookipedia.com/wiki/DIY_recipes#Lists_of_recipes) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
-Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day, then they rotate every 3 hours. 
+Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. 
 
 ### What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
