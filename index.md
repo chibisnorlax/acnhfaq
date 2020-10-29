@@ -6,6 +6,7 @@ Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questio
 
 ## Navigation
 - [Island Development](#island-development) 
+- [Island Life](#island-life)
 - [Unlocking Things](#unlocking-things)
 - [Gardening](#gardening)
 - [Turnips/Stalk Market](#turnipsstalk-market)
@@ -14,8 +15,8 @@ Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questio
 - [Events](#events)
 - [Time Travel](#time-travel)
 - [Glitches](#glitches)
-- Miscellaneous
-- Acknowledgements
+- [Miscellaneous](#miscellaneous)
+- [Acknowledgements](#acknowledgements)
 
 ## Island Development
 ### What defines a week and a day in-game?
@@ -30,8 +31,10 @@ Complete Project K by raising your island rating to 3 stars. Further information
 ### How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
 
-<!-- ### What can secondary (non-Island-Representative) players do?
-I believe the answer to this is "everything except story progression", but check on this and finalize later. -->
+### What can secondary (non-Island-Representative) players do?
+Secondary residents can do everything that Island Representatives can except story progression and some infrastructure things. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate critters/art to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
+
+They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
 ### How do I get "X" DIY recipe?
 There's a lot of different ways to get DIYs, so it depends on what you're looking for! Here's all the ways you can obtain a DIY:
@@ -48,6 +51,64 @@ Up to 3 villagers can craft per day. The first villager starts crafting when you
 
 ### What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
+
+<!-- TODO: Add furni/clothing replacement to this section. --> 
+## Island Life
+### What determines the weather on my island?
+The weather on your island is determined by your weather *seed*. A seed is a special number generated at the creation of your island that determines a specific pattern. In this case, your weather pattern for the entire game. Weather includes things like shooting stars, rainbows, thunderstorms, etc. If you are interested in finding out what your weather seed is, visit https://wuffs.org/acnh/weather/.
+
+Your weather pattern is permanent and unchanging. This means if you were to see a rainbow at 1 PM on June 1st, 2020, you would always see a rainbow at that time on that day if you were to time travel there. This is helpful to know for [meteor showers/shooting stars](#when-will-i-see-shooting-stars).
+
+### What is the spawn rate of X critter?
+For the spawn rates of **ocean fish**, visit https://tinyurl.com/OceanFishSpawn.
+
+For the spawn rates of **river fish**, visit https://tinyurl.com/riverfishspawn.
+
+For the spawn rates of **deep sea creatures**, visit https://tinyurl.com/seafoodspawn.
+
+The spawn rates for **bugs** are a bit more complex to calculate, so we recommend referring to the [data spreadsheet](https://bit.ly/3gWAJDe) and comparing their base values relative to other bugs. 
+
+### When will I see shooting stars?
+Shooting stars are dependent on your [weather seed](#what-determines-the-weather-on-my-island). On nights with certain clear weather patterns, you may see shooting stars between 7 PM and 4 AM. There are two types of star showers:
+- **Heavy meteor showers:** Usually (but not always!) announced by Isabelle or mentioned by villagers. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
+- **Light meteor showers:** On light shower nights, you will see only a handful of shooting stars each hour, if that hour has a clear sky. These are more common, occurring on average 5-10 nights per month. 
+
+Both heavy and light meteor showers are locked to the date on which they occur, and will always occur on that date even if you time travel. 
+
+### How do I wish on a star, and what does it do?
+To wish on a star: when you see or hear it moving across the sky, stand still, look up with your right analog (joy) stick, and press the “A” button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
+
+Star fragments are a crafting material that can be used in DIY recipes.
+
+<!-- TODO: Revise this question for clarity/correctness. -->
+### What's the max amount of star fragments I can get?
+1 wish = 1 star fragment. You can also visit other players who have shooting stars and wish on their islands; wishes made on someone else's island will count as personal wishes.
+
+By yourself, you can get a maximum of 20 star fragments. If you invite visitors from other islands (**not** other residents that live on your island), you can get up to 40 star fragments. For every 5 wishes that your visitors make, you get 1 additional star fragment on top of whatever amount you wished for yourself. This means your visitors need to make 100 wishes total to get you an additional 20 frags, for a max total of 40.
+
+### Can I visit other islands for shooting stars and/or Celeste?
+Yes! You can wish on shooting stars while visiting another player’s island and the star fragments will appear on your island’s beach the next day. Just like on your own island, each wish you make on another island counts for one star fragment, to a maximum of 20 wishes. Any zodiac fragments you receive will correspond to the date on your island and not the date of the host island.
+
+However, if you visit Celeste on another player’s island, any zodiac DIY you receive will correspond to the date of the host island.  
+
+### I didn’t get all my star fragments the next day! What gives?
+Star fragments spawn periodically throughout the day, usually 8-11 at a time. If the next set doesn’t appear after a little while, clear your beaches of shells and other items that may block the spawns and wait a little while longer. 
+
+**Star Fragment Drop Rates From Wishing**
+- During your birth month:
+  - 70% star fragment
+  - 20% zodiac fragment
+  - 10% large star fragment
+- Other months:
+  - 85% star fragment
+  - 10% zodiac fragment
+  - 5% large star fragment
+
+### What are the dimensions of X building?
+![Building Dimensions](/assets/sizes.png)
+
+### What does X villager's house look like?
+Please visit https://tinyurl.com/villagerintext for a complete list of villager interiors and exteriors!
 
 ## Unlocking Things
 ### Nook Phone Unlocks
@@ -211,7 +272,16 @@ No. They always need to ask you for your permission before they move out.
 No. It is 100% impossible for them to request to move out.
 
 ### Does hitting a villager/pushing a villager/talking to a villager until they get the purple squiggly/reporting the villager to Isabelle make them more likely to ask to move out?
-No. Anyone claiming that these methods increase the likelihood of villagers asking to move out have been misinformed. 
+No. Anyone claiming that these methods increase the likelihood of villagers asking to move out have been misinformed.
+
+### How do I trade a villager to another player?
+Receiving player: Must have an empty, unsold plot. (Note: This cannot be plot 3-6 if the player is in the beginning stages of the game.)
+
+Giving player: Must have the villager of interest in boxes moving *out*. ("In boxes" refers to the day after the villager asks to move out of the island, when their belongings are packed up in cardboard boxes in their home.)
+
+The receiving player visits the giving player's island and speaks to the villager of interest twice, which will prompt the "You should move in" dialogue option. After the villager has spoken to the receiving player's Resident Services, the receiving player's empty plot should say SOLD with the villager's name on it.
+
+Note that villager-for-villager trades happen in the same way, but require both players have an extra empty plot to purchase or require time travel. 
 
 ### How often does someone visit my campsite?
 Campsite visitors are determined on a percent chance roll, where the chance is based on when your last campsite visitor was. 
@@ -613,10 +683,44 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 ### What is a dupe/dupe glitch?
 "Duping" refers to the act of exploiting in-game mechanics to duplicate already existing items. A "dupe" is simply the product of executing a dupe glitch successfully. Duped items are not harmful to the game or the player's save file, as there is no difference between the duped items and regular items.
 
-<!-- Unfinished questions:
-### What are the current known glitches? -->
+### What are the current known glitches?
 
-<!-- ### Is X a glitch? -->
+| Glitch Name            | Information                                                                                                                                                        | Fix                                                    |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Out of Bounds (OOB)    | Allows the user to access the 4th level. https://tinyurl.com/oobglitch                                                                                             | N/A                                                    |
+| Camera OOB             | Allows the user to access out of bounds areas. https://imgur.com/a/U8FO2yJ                                                                                         | N/A                                                    |
+| Tree Edging            | Allows the user to place trees on cliff edges. https://youtu.be/YdAzvzHgnKA                                                                                        | N/A                                                    |
+| Unremovable Path Tiles | Causes path tiles to be unremovable/unable to be terraformed over.                                                                                                 | Surround glitched tiles with identical tiles to erase. |
+| Sleep mode issues      | Some issues may occur if the game is left in sleep mode. Villagers houses being inaccessible, Nook having incorrect dialog, Villagers  crafting in unusual places. | Close and restart the game.                            |
+| Shoe & Bug Dupe Table  | If you did not set this up in 1.2.0 **it is impossible to do!** https://youtu.be/jVvHtc3VZ9c                                                                       | N/A                                                    |
+| DC Dupe Exploit        | Allows the user to duplicate items. Note: **This dupe can corrupt your save file. Attempt at your own risk.** https://www.youtube.com/watch?v=qhyHsDs-H3Y          | N/A                                                    |
+| South Hemisphere DIY   | Halloween prevents SH users from obtaining the Outdoor Picnic Set DIY from Isabelle.                                                                               | Recipe can still be found in balloons.                 |
+| Invisible Weeds        | Weeds, when placed placed between 12 AM and 5 AM on the last day of a season, are invisible until after 5 AM                                                       | N/A                                                    |
 
-<!-- ### How do I perform the DC dupe? 
-(+ associated risk) -->
+Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. 1.5.1.
+
+### Is X a glitch?
+The only way to tell if something is a glitch is to see if it is reproducible and if it is unintended. If you suspect you have found a glitch for the **current** version of the game, please contact littlesnorlax#1717 on Discord. As a reminder, Glitches ***are not***: Bad luck/RNG, unexpected but intended gameplay, or hacked items.
+
+### How do I perform the DC dupe? 
+The Disconnect Dupe (or "DC dupe") exploits the autosave process to duplicate already-existing items. Please note: **Any interruption of the normal save process could lead to corruption. The authors of this page nor the people supplying instructions will be responsible for what may happen to your game.** With that said, please visit https://www.youtube.com/watch?v=qhyHsDs-H3Y for instructions on how to complete the DC dupe.
+
+### What happened to star trees/wrapped critters/Harv's fence/etc.?
+A majority of the hacked items have been patched out of the game. The only hacked items that remain are camo items and unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up, if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame, if owned previously. 
+
+## Miscellaneous
+### I heard a rumor that X might be added to the game. Is this true?
+If Nintendo has not confirmed the feature/item from said rumor, then we cannot confirm if it will be added or not. However, fun and interesting things surface all the time whilst the dataminers are examining the game's code. Visit http://acnhapi.com/trivia/ for some of this information.
+
+### Is there a list that exists of every in-game item?
+Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-game items, recipes, villagers, and more.
+
+## Acknowledgements
+This guide was brought to you with love and hard work by:
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, monova#7159, LeChatMG#1082, Diablo#1311, ❄ tina ❄#7777, blink#0294, Sari#5548, mybae#1905, Melosaur🍕#7567, Yamza#0836, pojayto#1996, danc#0854, and#6915 :heart:
+
+A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
+
+This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
+
+Please contact littlesnorlax#1717 on Discord or submit a PR if you would like to request changes to the document! 
