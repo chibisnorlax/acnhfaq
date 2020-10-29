@@ -237,7 +237,7 @@ For further, extensive details about turnips and the stalk market, read here: ht
 ### Stalk Market Tips
 - There are varying turnip price patterns, and you can predict the pattern using https://turnipprophet.io/, which uses your prices to predict what future prices might be later in the week.
 - If you have a Nintendo Switch Online subscription, you can travel to others’ islands for a guaranteed high price. Suggested websites to find high prices: https://turnip.exchange, ACNH Discord Server (https://discord.com/invite/acnh). 
-- Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will not buy rotten turnips. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
+- Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will only buy rotten turnips for 100 bells and they won't be sold as stacks of 10. Instead, they'll sell as one turnip per stack. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
 
 ### How do I time travel for good turnip prices?
 Your turnip price pattern resets every time you time travel. If you want to fish out big spike price with TT, follow this method:
@@ -440,7 +440,7 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 
 ### Sable
 - Appears in the back of The Able Sisters shop once opened.
-- Talking to her for 10 days will allow the player to befriend her, at which point Sable will start gifting the player patterns that they can use when customizing furniture items. 
+- Talking to her for 12 days will allow the player to befriend her, at which point Sable will start gifting the player patterns that they can use when customizing furniture items. 
 
 ### Label
 - The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
@@ -717,10 +717,10 @@ Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-gam
 
 ## Acknowledgements
 This guide was brought to you with love and hard work by:
-littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, ❄ tina ❄#7777, blink#0294, Sari#5548, mybae#1905, Melosaur🍕#7567, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, ❄ tina ❄#7777, blink#0294, Melosaur🍕#7567, Sari#5548, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
-This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
+This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
 
 Please contact littlesnorlax#1717 on Discord or submit a PR if you would like to request changes to the document! 
