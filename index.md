@@ -46,7 +46,7 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
 - Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
 - You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
-- Pascal give you merimaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
+- Pascal give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
 - Wedding DIYs are given by Cyrus on sixth and seventh day of the event.
 - The hedge DIY recipe is given by Leif after you're the first person to buy from him on three different days or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
 - You can also purchase DIY recipes from Nook's Cranny and NookStop.  
@@ -58,12 +58,11 @@ Up to 3 villagers can craft per day. The first villager starts crafting when you
 ### What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
 
-<!-- TODO: Add furni/clothing replacement to this section. --> 
 ## Island Life
 ### What determines the weather on my island?
 The weather on your island is determined by your weather *seed*. A seed is a special number generated at the creation of your island that determines a specific pattern. In this case, your weather pattern for the entire game. Weather includes things like shooting stars, rainbows, thunderstorms, etc. If you are interested in finding out what your weather seed is, visit https://wuffs.org/acnh/weather/.
 
-Your weather pattern is permanent. This means that if you were to see a rainbow at 1 PM on June 1st, 2020, you would always see a rainbow at that time on that day if you were to time travel there. This is helpful to know for [meteor showers/shooting stars](#when-will-i-see-shooting-stars).
+Your weather pattern is permanent and unchanging. This means if you were to see a rainbow at 1:00 PM on June 1st, 2020, you would always see a rainbow at that time on that day if you were to time travel there. This is helpful to know for [meteor showers/shooting stars](#when-will-i-see-shooting-stars).
 
 ### What is the spawn rate of X critter?
 For the spawn rates of **ocean fish**, visit https://tinyurl.com/OceanFishSpawn.
@@ -75,8 +74,8 @@ For the spawn rates of **deep sea creatures**, visit https://tinyurl.com/seafood
 The spawn rates for **bugs** are a bit more complex to calculate, so we recommend referring to the [data spreadsheet](https://bit.ly/3gWAJDe) and comparing their base values relative to other bugs. 
 
 ### When will I see shooting stars?
-Shooting stars are dependent on your [weather seed](#what-determines-the-weather-on-my-island). On nights with certain clear weather patterns, you may see shooting stars between 7 PM and 4 AM. There are two types of star showers:
-- **Heavy meteor showers:** Usually (but not always!) announced by Isabelle or mentioned by villagers. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
+Shooting stars are dependent on your [weather seed](#what-determines-the-weather-on-my-island). On nights with certain clear weather patterns, you may see shooting stars between 7:00 PM and 4:00 AM. There are two types of star showers:
+- **Heavy meteor showers:** Usually (but not always!) announced by Isabelle. Villagers will mention it/talk about it if you talk to them. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
 - **Light meteor showers:** On light shower nights, you will see only a handful of shooting stars each hour, if that hour has a clear sky. These are more common, occurring on average 5-10 nights per month. 
 
 Both heavy and light meteor showers are locked to the date on which they occur, and will always occur on that date even if you time travel. 
@@ -144,7 +143,7 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 ### House Unlocks
 - **Moving To The Island**
   - Fee: 5,000 Nook Miles
-  - Unlocks: Your island, 1 Jock Villager, 1 Uchi Villager, your tent, Resident Services (Tent)
+  - Unlocks: A tent and a mailbox
 
 - **Tent-to-house upgrade**
   - Fee: 98,000 Bells
@@ -160,8 +159,9 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 
 - **Left Room Addition**
   - Fee: 548,000 Bells
-  - Unlocks: Left Room, 6x6 grid, 120 additional storage slots, mailbox and roof customizations (TIP: After you unlock your left room, your mailbox will become moveable. Simply press Y when interacting with the item as you would with other furnishings.)
-
+  - Unlocks: Left Room, 6x6 grid, 120 additional storage slots, mailbox and roof customizations 
+  - After unlocking the left room, you can also pick up your mailbox and move it. Just walk up to it and press Y, as you would with other furniture.
+  
 - **Right Room Addition**
   - Fee: 758,000 Bells
   - Unlocks: Right Room, 6x6 grid, 40 additional storage slots, door customization
@@ -173,8 +173,9 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 - **Basement Addition**
   - Fee: 2,498,000 Bells
   - Unlocks: Basement, 10x6 grid, 800 additional storage slots
-  - Special Bonus: Free Exterior Renovations! Limited to 1 Design Per item per category per day
+   - Special Bonus: Free exterior renovations, limited to 1 design per item per category per day.
 
+<!-- TODO: Add that flimsy axe, can, shovel, pole, and ladder diys can be purchased from nooks cranny (since gettiing from blathers and nooks requires you to be RR)-->
 ### DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
 - **Flimsy Net:** Finish DIY workshop.
@@ -205,7 +206,7 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 - **Project K:** Upgrade Resident Services to a building, have 6 villagers moved in and settled. 
 
 ## Gardening
-The ACNH garden community has kindly put together various resources for all your gardening needs! Please view the links below to help answer any gardening-related questions you may have.
+The ACNH gardening community has kindly put together various resources for all your gardening needs! Please view the links below to help answer any gardening-related questions you may have.
 
 ### Gardening FAQ
 https://bit.ly/acnhflowerfaq 
@@ -249,7 +250,7 @@ For further, extensive details about turnips and the stalk market, read here: ht
 Your turnip price pattern resets every time you time travel. If you want to fish out big spike price with TT, follow this method:
 1. TT to Tuesday at 11:58 AM and check your price.
 2. If the price is not anywhere within the 127-225 range, save and quit. TT back to 11:57 AM, re-login. Repeat this step until the sell price is in that 127-225 range.
-3. When the price is within the 127-225 range, wait in game until 12:00 pm, then check the price again.
+3. When the price is within the 127-225 range, wait in game until 12:00 PM, then check the price again.
 4. If the price is not high enough, return to Step 1.
 
 ### How do I do turnip runs?
@@ -263,7 +264,7 @@ Turnip runs are a simple process but can be easily used to make tens of millions
 
 ## Villagers
 ### Who are villagers?
-The AC community commonly refers to animal island residents as 'villagers'. (TODO review if needed - Not to be confused with Special NPCs <link>)
+The AC community commonly refers to animal island residents as 'villagers'. <!-- TODO review if needed - Not to be confused with Special NPCs <link> -->
 
 ### How many villagers are there in Animal Crossing: New Horizons?
 Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
@@ -519,7 +520,7 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.
 - If the player completes his favor, he will mail the player a special pirate furniture item the following day.
 - See [here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
-- See [here](https://yuexr.github.io/img/pirate.png) for his reward.
+- See [here](https://yuexr.github.io/img/pirate.png) for his rewards.
 
 ### Harvey (Harv)
 - Will wander around your island upon first encounter.
@@ -558,12 +559,11 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Gifts various rewards in exchange for candy.
 
 ## Events
-
 ### When is X event/season?
 Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
 
 ### Bug-Off
-In the Northern Hemisphere, the bug-off occurs on the 4th Saturday of June, July, August, and September from 9 AM to 6 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9 AM to 6 PM. 
+In the Northern Hemisphere, the bug-off occurs on the 4th Saturday of June, July, August, and September from 9:00 AM to 6:00 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9:00 AM to 6:00 PM. 
 
 To participate, talk to Flick and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many bugs as possible in order to earn points. The points you earn in total (across all Bug-Offs) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
 
@@ -574,7 +574,7 @@ Each bug you catch adds 1 point to your total and each fish after the first thre
 For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
 
 ### Fishing Tourney
-The fishing tourney occurs on the 2nd weekend of April, July, October, and January from 9 AM to 6 PM. The dates do not vary across hemispheres. 
+The fishing tourney occurs on the 2nd weekend of April, July, October, and January from 9:00 AM to 6:00 PM. The dates do not vary across hemispheres. 
 
 To participate, talk to C.J. and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many fish as possible in order to earn points. The points you earn in total (across all Fishing Tourneys) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
 
@@ -637,10 +637,10 @@ You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each s
 For more detailed info, visit https://yuexr.github.io/acnh/ev_wedding.html.
 
 ### Fireworks Festival
-Firework shows last from 7 pm to 12 am every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
+Firework shows last from 7:00 PM to 12:00 AM every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
 
 ### Halloween 
-Halloween happens on October 31 from 5 PM till 12 AM. The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the spooky set and lollipops. Villagers will teach you the scare reaction after you give them a piece of candy and likewise, Jack will teach you the haunt reaction. If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
+Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the spooky set and lollipops. Villagers will teach you the scare reaction after you give them a piece of candy and likewise, Jack will teach you the haunt reaction. If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear Jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
 
 For more detailed info, visit https://cestislife.github.io/halloween.
 
@@ -717,10 +717,10 @@ Player birthdays can only be experienced once every ingame year; TTing back to t
 
 ### How do I time travel to farm an NPC visitor?
 If the NPC is on a weekday EXCEPT Monday:
- - TT to 4:58am on the same day of NPC. At 5am, it will change to new day and NPC will be there
+ - TT to 4:58 AM on the same day of NPC. At 5am, it will change to new day and NPC will be there
 
 If the NPC is on a Monday:
- - TT forward a day to Tuesday, then go back to Monday (after 5am)
+ - TT forward a day to Tuesday, then go back to Monday (after 5:00 AM)
 
 ### Will my villagers move out if I time travel too much? 
 Nope! Though this was something that could happen in past installments of the game, villagers in New Horizons will not move out unless you give them explicit permission to do so.
@@ -750,7 +750,7 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 | Shoe & Bug Dupe Table  | If you did not set this up in 1.2.0 **it is impossible to do!** https://youtu.be/jVvHtc3VZ9c                                                                       | N/A                                                    |
 | DC Dupe Exploit        | Allows the user to duplicate items. Note: **This dupe can corrupt your save file. Attempt at your own risk.** https://www.youtube.com/watch?v=qhyHsDs-H3Y          | N/A                                                    |
 | South Hemisphere DIY   | Halloween prevents SH users from obtaining the Outdoor Picnic Set DIY from Isabelle.                                                                               | Recipe can still be found in balloons.                 |
-| Invisible Weeds        | Weeds, when placed placed between 12 AM and 5 AM on the last day of a season, are invisible until after 5 AM                                                       | N/A                                                    |
+| Invisible Weeds        | Weeds, when placed placed between 12:00 AM and 5:00 AM on the last day of a season, are invisible until after 5:00 AM                                                       | N/A                                                    |
 
 Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. 1.5.1.
 
