@@ -1,7 +1,8 @@
 # Frequently Asked Questions
 ver. 1.0
 
-This page is under construction!
+### This page is under construction!
+Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questions page! This page serves to answer many of the frequently asked questions about the game. This page is **not affiliated** with Nintendo.
 
 ## Navigation
 - [Island Development](#island-development) 
@@ -31,11 +32,11 @@ Complete Project K by raising your island rating to 3 stars. Further information
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
 
 ### What can secondary (non-Island-Representative) players do?
-Secondary residents can do everything that Island Representatives can except story progression and some infrastructure things. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate critters/art to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
+Secondary residents can do everything that Island Representatives can except story progression and certain infrastructural decisions. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
 
 They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
-### How do I get "X" DIY recipe?
+### How do I obtain "X" DIY recipe?
 - Most recipes can be gotten from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
 - Pitfall seed can be gotten from a jock villager crafting or self-taught from digging up a pitfall seed. 
 - Seasonal recipes such cherry blossoms, mushrooms, festives, etc. comes from balloons during their respected seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
@@ -52,7 +53,7 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
-Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day, then they rotate every 3 hours. 
+Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. 
 
 ### What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
