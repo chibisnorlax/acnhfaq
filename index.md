@@ -33,17 +33,20 @@ Once you upgrade Resident Services and unlock the Project K quest, Isabelle will
 I believe the answer to this is "everything except story progression", but check on this and finalize later. -->
 
 ### How do I get "X" DIY recipe?
-There's a lot of different ways to get DIYs, so it depends on what you're looking for! Here's all the ways you can obtain a DIY:
-- Villagers crafting
-- NPCs (Celeste, Jack, Pascal, Zipper, Leif, and Cyrus)
-- Balloons
-- Snowboy
-- Self-taught (includes King Tut mask, pitfall seed, trash DIYs, etc.)
-- NookStop (purchase with Nook Miles)
-- Nook's Crannies
-- Message bottle
-
-You can view [this page](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
+Most recipes can be gotten from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
+Pitfall seed can be gotten from a jock villager crafting or self-taught from digging up a pitfall seed. 
+Seasonal recipes such cherry blossoms, mushrooms, festives, etc. comes from balloons during their respected seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
+Trash recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
+The King Tut mask is learned after picking up a golden nugget after hitting a rock.  
+Most Spooky DIY recipes can be gotten from villagers crafting, balloons and message bottles. The rest can gotten from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
+Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
+Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
+You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
+Pascal give you merimaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
+Wedding DIYs are given by Cyrus on sixth and seventh day of the event.
+The hedge DIY recipe is given by Leif after you're the first person to buy from him on three different days or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
+You can also purchase DIY recipes from Nook's Cranny and NookStop.  
+You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
 Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day, then they rotate every 3 hours. 
@@ -438,7 +441,7 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Assists the player in uploading a dream or visiting other dream islands.
 
 ### Jack
-- First encounter during [Halloween](#events).
+- First encounter during [Halloween](#halloween).
 - Gifts various rewards in exchange for candy.
 
 ## Events
@@ -614,9 +617,6 @@ Nope! They may have some dialogue about your disappearance if you do a big jump 
 
 ### Do the developers know I time travel? Will they do anything to me about it?
 There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to! 
-
-### Event Calendar
-Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seasonal changes, events, and Nook Shopping seasonal items.
 
 <!-- ### What are the effects of time traveling? 
 - Finish this later, pull from unrestricted doc? 
