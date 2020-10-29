@@ -2,7 +2,7 @@
 ver. 1.0
 
 ### This page is under construction!
-Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questions page! This page serves to answer many of the frequently asked questions about the game. This page is **not affiliated** with Nintendo. 
+Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questions page! This page serves to answer many of the frequently asked questions about the game. This page is **not affiliated** with Nintendo.
 
 ## Navigation
 - [Island Development](#island-development) 
@@ -26,7 +26,7 @@ An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor
 Yes! Every building and house can be moved except the airport and Resident Services.
 
 ### How do I unlock terraforming?
-Complete Project K by raising your island rating to 3 stars. Further information can be found under the “Unlocking Things” section.
+Complete Project K by raising your island rating to 3 stars. Further information can be found under the “[Unlocking Things](#unlocking-things)” section.
 
 ### How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
@@ -37,14 +37,20 @@ Secondary residents can do everything that Island Representatives can except sto
 They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
 ### How do I obtain "X" DIY recipe?
-There are many ways to obtain DIYs, so it depends on what you're looking for! Here's all the ways you to find a DIY:
-- Villagers crafting
-- NPCs (Celeste, Jack, Pascal, Zipper, Leif, and Cyrus)
-- Balloons
-- Snowboy
-- Self-taught/Inspiration (includes King Tut mask, pitfall seed, trash DIYs, etc.)
-- NookStop (purchase with Nook Miles)
-You can view [this page](https://nookipedia.com/wiki/DIY_recipes#Lists_of_recipes) to help you search for the specific recipe you may be looking for.
+- Most recipes can be gotten from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
+- Pitfall seed can be gotten from a jock villager crafting or self-taught from digging up a pitfall seed. 
+- Seasonal recipes such cherry blossoms, mushrooms, festives, etc. comes from balloons during their respected seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
+- Trash recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
+- The King Tut mask is learned after picking up a golden nugget after hitting a rock.  
+- Most Spooky DIY recipes can be gotten from villagers crafting, balloons and message bottles. The rest can gotten from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
+- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
+- Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
+- You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
+- Pascal give you merimaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
+- Wedding DIYs are given by Cyrus on sixth and seventh day of the event.
+- The hedge DIY recipe is given by Leif after you're the first person to buy from him on three different days or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
+- You can also purchase DIY recipes from Nook's Cranny and NookStop.  
+- You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
 Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. 
@@ -188,7 +194,7 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 - **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations.
 - **Golden Slingshot:** Shoot 300 balloons, then shoot down the golden balloon. (Note: the recipe will appear every 20 balloons in a golden balloon until you learn it, making it the only farmable golden tool recipe.)
 
-***Note:** Golden tools can still break, but have a considerably higher durability.*
+***Note:** Golden tools can still break, but have a considerably higher durability. See [here](https://cestislife.github.io/img/tools.png) for tool durability*
 
 ### Misc Unlocks
 - **Nook Miles Redemption:** Pay off 5,000 Nook Miles house debt. 
@@ -260,8 +266,11 @@ Turnip runs are a simple process but can be easily used to make tens of millions
 The AC community commonly refers to animal island residents as 'villagers'. (TODO review if needed - Not to be confused with Special NPCs <link>)
 
 ### How many villagers are there in Animal Crossing: New Horizons?
-Currently there are 391 villagers in AC:NH.
+Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
 
+### How many villagers can I have?
+You can have ten animal villagers and up to eight human villagers.
+ 
 ### How do I get a specific villager?
 Unfortunately there’s no 100% guaranteed way to get a specific villager unless you have their Amiibo card or adopt them from someone else’s island. Your other options are to use NMT to find them on mystery islands, or hope they visit your campsite!
 
@@ -307,7 +316,7 @@ Campsite visitors are determined on a percent chance roll, where the chance is b
 | 5                                | 15%                        |
 | 6+                               | 20%                        |
 
-Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one.
+Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one. For more information on campsite see [here](https://docs.google.com/document/d/1c8rsKWWtwsOo_JOxwO-lVRx2MUhc-bcdZg1mhXgtRPg/edit).
 
 ### What are the villager personalities?
 There are 8 villager personalities.
@@ -459,6 +468,8 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Docks his ship at the player's secret beach on the north shore of the island.
 - Each player can purchase up to one piece of artwork from him, and an unlimited amount of the 2 furniture items he brings each visit.
 - Art is mailed to you the following day, furniture is in your pocket immediately after purchase.
+- For more info on Redd's art see [here](https://yuexr.github.io/img/redd1.png) and [here](https://yuexr.github.io/img/redd2.png).
+- Click [here](https://nookplaza.net/tools?tab=fake_art) to find the differences between fake and real art.
 
 ### C.J.
 - Buys fish for 1.5x Timmy and Tommy's price, but only after you complete his challenge.
@@ -474,6 +485,8 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.
 - Will give Mermaid DIYs, clothing, or a pearl in exchange for the scallop you catch.
 - Limited to one exchange with Pascal per day.
+- See [here](https://yuexr.github.io/img/pascal2.png) for more info on Pascal.
+- See [here](https://yuexr.github.io/img/mermaidclothing.png) and [here](https://yuexr.github.io/img/mermaidset.png) for his reward.
 
 ### Mabel
 - Visits your island to sell clothes once Nook's Cranny has been opened.
@@ -505,6 +518,8 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Can be found sleeping on the island's beaches.
 - Upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.
 - If the player completes his favor, he will mail the player a special pirate furniture item the following day.
+- See [here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
+- See [here](https://yuexr.github.io/img/pirate.png) for his reward.
 
 ### Harvey (Harv)
 - Will wander around your island upon first encounter.
@@ -539,7 +554,7 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Assists the player in uploading a dream or visiting other dream islands.
 
 ### Jack
-- First encounter during [Halloween](#events).
+- First encounter during [Halloween](#halloween).
 - Gifts various rewards in exchange for candy.
 
 ## Events
@@ -641,7 +656,7 @@ Time traveling is *not* considered hacking. Time traveling also does not reverse
 ### How do I time travel?
 To time travel, you must either close your game or go to the ‘Save Complete’ screen after doing a ‘Save and End’.
 You now need to change your date in your Switch settings:	
-1. Open System Settings > System > Date and Time.
+1. Open System Settings, System, Date and Time.
 2. Disable ‘Synchronize Clock via internet’ if it is ON.
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
@@ -650,14 +665,12 @@ You now need to change your date in your Switch settings:
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
 
 Negative Effects:
+- Weeds and flowers will grow/spread.
 - Cockroaches may appear in your house (1+ month).
 - You may get the bedhead animation (1+ month).
+- Villagers may ask/comment on where you have been.
 - Open plots may fill.
 - Turnips will spoil *if* you time travel past the following Sunday.
-
-Neutral Effects:
-- Weeds and flowers will grow/spread.
-- Villagers may ask/comment on where you have been.
 
 Positive Effects:
 - Building construction/upgrades/moves will be completed.
@@ -764,3 +777,6 @@ littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monov
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
 This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
+
+Please contact littlesnorlax#1717 on Discord or submit a PR if you would like to request changes to the document! 
+
