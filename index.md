@@ -256,6 +256,9 @@ Turnip runs are a simple process but can be easily used to make tens of millions
 3. Buy a full inventory from Daisy Mae, travel to the Nook’s Cranny and sell. Rinse, repeat, make money!
 
 ## Villagers
+### Who are villagers?
+The AC community commonly refers to animal island residents as 'villagers'. (TODO review if needed - Not to be confused with Special NPCs <link>)
+
 ### How many villagers are there in Animal Crossing: New Horizons?
 Currently there are 391 villagers in AC:NH.
 
@@ -264,6 +267,16 @@ Unfortunately there’s no 100% guaranteed way to get a specific villager unless
 
 ### How do I make a villager move out?
 Please refer to Yue’s move-out guide here: https://yuexr.github.io/acnh/moveout.html.
+
+### I agreed to let one of my villagers move out today, when can I go 'villager hunting' (or) Why don't I see any villagers in my mystery islands I visit?
+The villager progresses to the next step in a move-out sequence every next 5 am. `Villager asks to leave and you say yes > Villager is in boxes > Empty plot > Automatically filled with a villager from your 'move in queue'` https://yuexr.github.io/img/mo/2.png
+You MUST have an unsold, empty plot available to invite a villager from another player's island, or to find villagers on mystery islands (and you can only invite *one villager from a mystery island* per day). Note: If someone visited and claimed your villager who was in boxes their house will immediately say 'I moved out', but you will still need to wait until the next day for an empty plot.
+
+### How do I invite a villager from another player's island?
+The villager has to be moving out and 'in boxes', if you talk to them they will mention that they are moving out and you'll be shown an option to invite them to live on your island. If you have an open plot, they will mention that they spoke to Tom Nook and are going to move in to your island and show up on your island the next day.
+
+### How do I extend the time window my villager is in boxes (or) How do I extend the duration my plot is empty?
+Time travel a few hours but stay within the same day (refer to time traveling section).
 
 ### Will my villagers move out without telling me?
 No. They always need to ask you for your permission before they move out.
@@ -332,6 +345,30 @@ Once you unlock the campsite (see [here](#building-unlocks) on how to unlock it)
 
 After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
 
+### I traded one of my first five villagers with a 'basic' house layout, will they have a proper/default layout on the new island?
+Yes. Note: Any furniture, fish/bug you gifted them and **is on their floor** will be reset when they move to a new island.
+
+### Is there any gameplay related benefit to gifting villagers?
+Yes, it increases your friendship level with them, for more info and also info on what gifts are 'safe' and won't clutter villagers' house layouts please refer to Yue's gifting guide here - https://yuexr.github.io/acnh/gift.html. <!-- TODO: link friendship section -->
+
+### My villager wears clothing I gifted them, how do I reset it?
+- Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
+- Hats and accessories each have their own categories and their replacement mechanics are still being researched.
+- If you wish to remove a custom design, information relating to that is explained in the
+- Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
+
+### My villager placed a furniture item I gifted them (or a mannequin of a clothing I gifted them in their house), how do I remove it?
+You cannot remove the furniture/mannequin but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing
+
+### What are gifted vs ungifted villagers during trading and why is it important to let someone who you're trading with know?
+- Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable by other players than ungifted villagers, and they can never be ungifted, only have their gifts replaced.
+- Ungifted villagers tend to be *higher value*, completely default villagers—they wear only default outfits and have an untouched house, as if they were found from a mystery island.
+
+### What is the move-in/move-out queue (or) What is the void (or) Where do villagers that automatically fill my empty plots come from?
+Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
+- The MIQ holds 4 villagers that came from other players' MOQ that were transferred when you played online with them. When your empty plot autofills, this is where game pulls those villagers from! They can stay in there indefinitely.
+- The MOQ is what is commonly referred to as "the void". It is an invisible space where villagers who move out, but are not adopted, go to live (also indefinitely) until they can be passed into another player's MIQ. The MOQ holds up to 10 villagers.
+
 ## NPC Visitors and Special Characters
 ### How often does X visit? How do I unlock X character?
 Yue has put together a fantastic infographic for NPC schedules and their unlock requirements, see below!
@@ -352,6 +389,9 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 ### Isabelle
 - Unlocked when you upgrade [Resident Services](#building-unlocks) into a building.
 - Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.
+- You can talk to Isabelle to reset villagers' clothing, catchphrases throuh the 'Discuss a Resident' option. Note: Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
+  - The way they talk: Resets custom catchphrases, but NOT nicknames or greetings.
+  - The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
 
 ### Daisy Mae
 - Visits every Sunday to sell turnips (see [Turnips/Stalk Market](#turnipsstalk-market)) once Nook's Cranny is unlocked.
@@ -445,10 +485,11 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 ### Label
 - The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
 - Conducts fashion challenges with the player in exchange for clothing and/or **Tailor's Tickets** which can be used in The Able Sisters shop.
+- Label quest rewards calculation <!-- TODO: include image/table -->
 
 ### Kicks
 - Shop vendor in the Resident Services plaza.
-- Sells accessories, bags and shoes.
+- Sells mostly exclusive accessories, bags and shoes.
 
 ### Leif
 - Shop vendor in the Resident Services plaza.
@@ -723,4 +764,6 @@ A special thanks to the lovely members of the Garden Council, especially Bigfoot
 
 This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
 
-Please contact littlesnorlax#1717 on Discord or submit a PR if you would like to request changes to the document! 
+<!-- ### How do I perform the DC dupe?
+(+ associated risk) -->
+
