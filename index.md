@@ -83,14 +83,17 @@ See this guide, https://cestislife.github.io/img/balloons.png.
 Follow this guide, https://tinyurl.com/acnhtutorial.  
 
 ### How can I become friends/best friends with other people? What can they do on my island?
-Visit https://tinyurl.com/acnhfriends.  
+Visit https://tinyurl.com/acnhfriends.
+
+### How do I visit other people/invite visitors over?
+Speak with [Orville](#orville-and-wilbur) in the airport and choose "I wanna fly!" to visit someone, or "I want visitors." to open your gates for people to visit you. In order to use the "online play" options, you will need to have an active Nintendo Switch Online subscription. NSO is a paid subscription that you can purchase through the E-Shop that allows you to use the online features of various games, including AC:NH.
 
 ### What defines a week and a day in-game?
 An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
 
 <!-- TODO: Add Grasha's gif here -->
 ### How can I get eight hits from a rock?
-Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock. You should be able to hit the rock eight times without being knocked away.  
+Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock eight times without being knocked away.  
 
 ### What does eating fruit/turnip/cupcake/candy/lollipop do?
 After you eat one, you can dig up a tree or break a rock. If you break a rock, one will respawn per day if there's a place it can spawn. You can get rid of the effect by sitting on a toilet.  
