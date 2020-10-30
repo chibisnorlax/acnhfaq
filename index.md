@@ -176,7 +176,7 @@ You can explore other user's islands at your own leisure to get inspiration or t
 - See [here](https://bigfootmg.github.io/ACNH-Plant-Guide/07.png) for young spring bamboo, cherry blossom, acorns, pine cones, maple leaves, and mushrooms.  
 - Summer shells are found on the beach and more spawn every five minutes.
 - Snowflakes flow around you island and can be caught with a net.
-- Ornaments dropped from cedar trees, it doesn't matter if the trees is decorated or not. But they only appear after Isabelle announces their presence. See [here](#im-in-festive-season-but-why-are-none-of-the-cedar trees-are-decorated?) for how to get them. 
+- Ornaments dropped from cedar trees, it doesn't matter if the trees is decorated or not. But they only appear after Isabelle announces their presence. See [here](#im-in-festive-season-but-why-are-none-of-the-cedar-trees-are-decorated) for how to get them. 
 - Note for acorns, pinecones and ornament: you can simply shake one tree infinitely until it produces the amount you want.  
 
 ## Unlocking Things
@@ -887,7 +887,7 @@ Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-gam
 A lot of the rates can be found at https://acnh.isomorphicbox.com/rates/#assortment-of-rates-and-information.  
 
 ### Can you transfer your save to another switch?
-Yes, but you have contact nintendo to do it right now.  
+Yes, but you have to contact nintendo to do it right now.  
 
 ### What some other resources for AC:NH?
 You can find them at https://acnh.directory/.
