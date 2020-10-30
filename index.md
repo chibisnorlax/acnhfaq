@@ -336,7 +336,7 @@ The villager has to be moving out and 'in boxes', if you talk to them they will 
 Time travel a few hours but stay within the same day (refer to time traveling section).
 
 ### Will my villagers move out without telling me?
-No. They always need to ask you for your permission before they move out. You need to have six villagers for them to start asking about moving out.
+No. They always need to ask you for your permission before they move out. You need to have at least six villagers, for villagers to start asking about moving out.
 
 ### Can my most recently moved-in villager ask to move out?
 No. It is 100% impossible for them to request to move out.
@@ -737,15 +737,15 @@ Negative Effects:
 - Campers will leave.
 
 Positive Effects:
-- All stock (Able Sisters[^1], Nook's Cranny[^2], Nook Shopping) will refresh.
+- All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.
 - Redd's art will be delivered if you purchased one.
 - Fossils will respawn.
-- NPC visitor shops and quests will refresh[^3].
+- NPC visitor shops and quests will refresh<sup>3</sup>.
 - The daily recipe bottle will respawn.  
 
-[^1]Able Sisters' mannequin will only change if you go outside of the week. 
-[^2]Some items from Nook's Cranny can only be purchase once a week. i.e. if you brought it once, it wouldn't be restocked when time travel to that day again in the same week.  
-[^3]Saharah's inventory does not change if you stay within the same week when time travelling forward or back. You have to go into another week for it to change.  
+<sup>1</sup>: Able Sisters' mannequin will only change if you go outside of the week.   
+<sup>2</sup>: Some items from Nook's Cranny can only be purchase once a week. i.e. if you brought it once, it wouldn't be restocked when time travel to that day again in the same week.  
+<sup>3</sup>: Saharah's inventory does not change if you stay within the same week when time travelling forward or back. You have to go into another week for it to change.  
 
 ### What are the effects of time traveling *forwards*?
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
@@ -803,10 +803,10 @@ If Isabelle didn't make an announcement about the trees being decorated, you don
 
 ### How do I time travel to farm an NPC visitor?
 If the NPC is on a weekday EXCEPT Monday:
- - TT to 4:58am on the same day of NPC. At 5AM, it will change to new day and NPC will be there
+ - TT to 4:58 AM on the same day of NPC. At 5 AM, it will change to new day and NPC will be there
 
 If the NPC is on a Monday:
- - TT forward a day to Tuesday, then go back to Monday (after 5AM)
+ - TT forward a day to Tuesday, then go back to Monday (after 5 AM)
 
 ### Will my villagers move out if I time travel too much? 
 Nope! Though this was something that could happen in past installments of the game, villagers in New Horizons will not move out unless you give them explicit permission to do so.
