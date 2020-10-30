@@ -2,7 +2,7 @@
 ver. 1.0
 
 ### This page is under construction!
-Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questions page! This page serves to answer many of the frequently asked questions about the game. This page is **not affiliated** with Nintendo. This page is current through version 1.5.1 of the game.
+Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questions page! This page serves to answer many of the frequently asked questions about the game. This page is **not affiliated** with Nintendo.
 
 ## Navigation
 - [Island Development](#island-development) 
@@ -18,25 +18,15 @@ Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questio
 - [Miscellaneous](#miscellaneous)
 - [Acknowledgements](#acknowledgements)
 
-## Terminology
-| Term                  | Usage/Definition                                                   |
-|-----------------------|--------------------------------------------------------------------|
-| NMT                   | Abbreviation for "Nook Miles Ticket"                               |
-| AC/AC:NH              | Abbreviation for "Animal Crossing"/"Animal Crossing: New Horizons" |
-| TT/TTing              | Abbreviation for "time travel"/"time traveling"                    |
-| Island Representative | Synonym for Resident Representative/player who created the island. |
-| DIY                   | Shorthand for "DIY Recipe"                                         |
-| NSO                   | Abbreviation for "Nintendo Switch Online"                          |
-
 ## Island Development
-### How long does it take for X to be built?
-One [day](#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
+### What defines a week and a day in-game?
+An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
 
 ### Can I move where buildings are on my island?
 Yes! Every building and house can be moved except the airport and Resident Services.
 
 ### How do I unlock terraforming?
-Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](#unlocking-things) section.
+Complete Project K by raising your island rating to 3 stars. Further information can be found under the “[Unlocking Things](#unlocking-things)” section.
 
 ### How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
@@ -47,57 +37,28 @@ Secondary residents can do everything that Island Representatives can except sto
 They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
 ### How do I obtain "X" DIY recipe?
-- Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personalities give you which recipes.   
-- The Pitfall Seed DIY is either received from a crafting Jock villager or self-taught through digging up a pitfall seed. 
-- Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. come from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons work, and [here](https://cestislife.github.io/seasonaldiy) for a complete list of seasonal DIYs.
-- Trash DIY recipes are self-taught after fishing up a certain amount of trash. Visit the spreadsheet in the last bullet point for how many for a specific one.  
-- The King Tut mask is self-taught after picking up a golden nugget dropped from hitting a rock.  
-- Most Spooky DIY recipes are obtained through crafting villagers, balloons, or message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
-- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. Some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
+- Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
+- The Pitfall Seed DIY is either received from a crafting jock villager or self-taught through digging up a pitfall seed. 
+- Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. comes from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
+- Trash DIY recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
+- The King Tut mask is learned after picking up a golden nugget dropped from hitting a rock.  
+- Most Spooky DIY recipes are obtained through crafting villagers, balloons and message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
+- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
 - Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
-- You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also gives you space-themed (celestial) DIY recipes and wand recipes.  
+- You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
 - Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
-- [Wedding](#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
-- The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
-- You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
+- Wedding DIYs are given by Cyrus on sixth and seventh day of the event.
+- The hedge DIY recipe is given by Leif after you're the first person to buy from him on three different days or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
+- You can also purchase certain DIY recipes from Nook's Cranny and NookStop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
-Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. Villagers won't craft on event days (e.g. bug-off, fishing tourney, etc.).
+Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. 
 
 ### What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
 
-### How do I unlock all the DAL items? What are the milestones?
-![DAL rewards](/assets/dal.png)
-
-### What are Pocket Camp items and how can I get them?
-Visit https://cestislife.github.io/img/pocketcamp.png for information on the Pocket Camp exclusive items.  
-
-### When does a balloon spawn and what do they drop?
-See this guide, https://cestislife.github.io/img/balloons.png.
-
 ## Island Life
-<!-- TODO: Look over this guide (since polygon isn't always 100% reliable) to make sure everything is correct. -->
-### What should I do during the first week of the game?
-Follow this guide, https://tinyurl.com/acnhtutorial.  
-
-### How can I become friends/best friends with other people? What can they do on my island?
-Visit https://tinyurl.com/acnhfriends.
-
-### How do I visit other people/invite visitors over?
-Speak with [Orville](#orville-and-wilbur) in the airport and choose "I wanna fly!" to visit someone, or "I want visitors." to open your gates for people to visit you. In order to use the "online play" options, you will need to have an active Nintendo Switch Online subscription. NSO is a paid subscription that you can purchase through the E-Shop that allows you to use the online features of various games, including AC:NH.
-
-### What defines a week and a day in-game?
-An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
-
-<!-- TODO: Add Grasha's gif here -->
-### How can I get eight hits from a rock?
-Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock eight times without being knocked away.  
-
-### What does eating fruit/turnip/cupcake/candy/lollipop do?
-After you eat one, you can dig up a tree or break a rock. If you break a rock, one will respawn per day if there's a place it can spawn. You can get rid of the effect by sitting on a toilet.  
-
 ### What determines the weather on my island?
 The weather on your island is determined by your weather *seed*. A seed is a special number generated at the creation of your island that determines a specific pattern. In this case, your weather pattern for the entire game. Weather includes things like shooting stars, rainbows, thunderstorms, etc. If you are interested in finding out what your weather seed is, visit https://wuffs.org/acnh/weather/.
 
@@ -128,7 +89,7 @@ Star fragments are a crafting material that can be used in DIY recipes.
 ### What's the max amount of star fragments I can get?
 1 wish = 1 star fragment. You can also visit other players who have shooting stars and wish on their islands; wishes made on someone else's island will count as personal wishes.
 
-By yourself, you can obtain a maximum of 20 star fragments. If you invite visitors from other islands (**not** other residents that live on your island), you can obtain up to 40 star fragments. For every 5 wishes your visitors make, you will receive 1 additional star fragment on top of the amount you wished for yourself. This means your visitors need to wish 100 times total for you to achieve the additional 20, for a max total of 40 fragments.
+By yourself, you can obtain a maximum of 20 star fragments. If you invite visitors from other islands (**not** other residents that live on your island), you can obtain up to 40 star fragments. For every 5 wishes your visitors make, you will receive 1 additional star fragment on top of the amount you wished for yourself. This means your visitors need to wish 100 times total for you to achieve the additional 20 and max total of 40 frags.
 
 ### Can I visit other islands for shooting stars and/or Celeste?
 Yes! You can wish on shooting stars while visiting another player’s island and the star fragments will appear on your island’s beach the next day. Just like on your own island, each wish you make on another island counts for one star fragment, to a maximum of 20 wishes. Any zodiac fragments you receive will correspond to the date on your island and not the date of the host island.
@@ -154,30 +115,6 @@ Star fragments spawn periodically throughout the day, usually 8-11 at a time. If
 ### What does X villager's house look like?
 Please visit https://tinyurl.com/villagerintext for a complete list of villager interiors and exteriors!
 
-<!-- TODO: Ninji's website is out of date, either use Ahri's (which is out of date but less so), or find another resource -->
-### What are the different mystery islands and what can I find on them?
-Please visit https://wuffs.org/acnh/mysterytour.html for a complete list of them.  
-Additionally, there is a 30% chance of finding fossil, as well as a 30% chance of finding a DIY message bottle per island. You can always find one wasp's nest and a piece of furniture from shaking a non-fruit tree. If you have an empty, unsold plot, you can also find a random villager. See [here](https://docs.google.com/document/d/16yHQzdYx4VznhnKSGZdtaKi_Yo8NpDwCYK8dmpR481s/edit) to learn about how the game determines the villager. See [here](https://acnhapi.com/nmt-calculator/) for figuring out your chances of finding a specific villager.  
-
-### Which mom's items can I get each month?
-|Month          |North Hemisphere |Southern Hemisphere |
-|---------------|-----------------|--------------------|
-|January        |Art              |Plushie             |
-|February       |Embroidery       |Pen Stand           |
-|March          |Candles          |Cushion             |
-|April          |Tissue Box       |Tea Cozy            |
-|May            |Knapsack Kitchen |Mat                 |
-|June           |Apron Hand       |Knit Sweater        |
-|July           |Plushie          |Art                 |
-|August         |Pen Stand        |Embroidery          |
-|September      |Cushion          |Candles             |
-|October        |Tea Cozy         |Tissue Box          |
-|November       |Kitchen Mat      |Knapsack            |
-|December       |Hand knit        |Sweater Apron       |
-|Your Birthday! |Birthday Cake    |Birthday Cake       |
-
-You can get different colors on different profiles. The birthday cake item can sometimes be sent early if you time travel. You will still get a birthday cake if you sync back to real time for your birthday.
-
 ## Unlocking Things
 ### Nook Phone Unlocks
 - **DIY:** Complete Tom Nook’s DIY workshop.
@@ -191,7 +128,7 @@ You can get different colors on different profiles. The birthday cake item can s
 - **Villagers 1 and 2:** Create your island!
 - **Villagers 3-5:** Unlock the Museum Tent, build Nook’s Cranny, build your first bridge.
 - **Villager 6:** Unlock and build the Campsite.
-- **Villagers 7-10:** Speak to Tom Nook about purchasing land.
+- **Villagers 7-10:** Speak to Tom Nook and purchase land.
 
 ### Building Unlocks
 - **Museum Tent:** Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.
@@ -238,6 +175,7 @@ You can get different colors on different profiles. The birthday cake item can s
   - Unlocks: Basement, 10x6 grid, 800 additional storage slots
    - Special Bonus: Free exterior renovations, limited to 1 design per item per category per day.
 
+<!-- TODO: Add that flimsy axe, can, shovel, pole, and ladder diys can be purchased from nooks cranny (since gettiing from blathers and nooks requires you to be RR)-->
 ### DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
 - **Flimsy Net:** Finish DIY workshop.
@@ -246,12 +184,11 @@ You can get different colors on different profiles. The birthday cake item can s
 - **Flimsy Shovel:** Talk to Blathers for the first time. 
 - **Vaulting Pole:** Talk to Blathers for the first time.  
 - **Ladder:** Start the quest to furnish 3 houses — it should start after Nook’s Cranny is built.
-- **Slingshot:** Purchase from the cabinet at Nook's Cranny.
 - **Upgraded Tools:** To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must purchase the Better Tools recipe kit from the Nook Miles store after paying off your initial 5,000M loan.
 
 ***Notes:***
  - *The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.*
- - *For players other than the Island Representative, the flimsy tools, Ladder and Vaulting Pole DIYs can be bought from Nook's Cranny.*
+ - *For players other than the Island representative, the flimsy tools, Ladder and Vaulting Pole DIYs can be bought from Nook's Cranny.*
 
 
 ### Golden Tool Unlocks (Note: Spoilers!)
@@ -262,7 +199,7 @@ You can get different colors on different profiles. The birthday cake item can s
 - **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.
 - **Golden Slingshot:** Shoot 300 balloons. The DIY will be carried a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.
 
-***Note:** Golden tools can still break, but have a considerably higher durability. Visit https://cestislife.github.io/img/tools.png for tool durability*
+***Note:** Golden tools can still break, but have a considerably higher durability. See [here](https://cestislife.github.io/img/tools.png) for tool durability*
 
 ### Misc Unlocks
 - **Nook Miles Redemption:** Pay off 5,000 Nook Miles house debt. 
@@ -314,14 +251,14 @@ For further, extensive details about turnips and the stalk market, read here: ht
 - Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will only buy rotten turnips for 100 bells and they won't be sold as stacks of 10. Instead, they'll sell as one turnip per stack. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
 
 ### How do I time travel for good turnip prices?
-Your turnip price pattern resets every time you time travel backwards. If you want to fish out big spike price with TT, follow this method:
+Your turnip price pattern resets *every time* you time travel backwards. If you want to find a big spike price through TT, follow this method:
 1. TT to Tuesday at 11:58 AM and check your price.
 2. If the price is not anywhere within the 127-225 range, save and quit. TT back to 11:57 AM, re-login. Repeat this step until the sell price is in that 127-225 range.
 3. When the price is within the 127-225 range, wait in game until 12:00 PM, then check the price again.
 4. If the price is not high enough, return to Step 1.
 
 ### How do I do turnip runs?
-Turnip runs are a simple process but can be easily used to make tens of millions of bells. The process requires a **Nintendo Switch Online subscription** and a partner. 
+Turnip runs are a simple process but can easily yield tens of millions of bells. The process requires a **Nintendo Switch Online subscription** and a partner. 
 
 1. One person time travels until they find a high turnip price at Nook’s Cranny (see: “How do I time travel for good turnip prices?”). 
     - Aim for prices of 300 bells or more — the higher the better.  
@@ -331,13 +268,13 @@ Turnip runs are a simple process but can be easily used to make tens of millions
 
 ## Villagers
 ### Who are villagers?
-The AC community commonly refers to animal island residents as 'villagers'.
+The AC community commonly refers to animal island residents as 'villagers'. <!-- TODO review if needed - Not to be confused with Special NPCs <link> -->
 
 ### How many villagers are there in Animal Crossing: New Horizons?
 Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
 
 ### How many villagers can I have?
-You can have 10 animal villagers and up to 8 human villagers. You can only have one animal villager with same name on the same island.
+You can have 10 animal villagers and up to 8 human villagers.
  
 ### How do I get a specific villager?
 Unfortunately there’s no 100% guaranteed way to get a specific villager unless you have their Amiibo card or adopt them from someone else’s island. Your other options are to use NMT to find them on mystery islands, or hope they visit your campsite!
@@ -345,18 +282,18 @@ Unfortunately there’s no 100% guaranteed way to get a specific villager unless
 ### How do I make a villager move out?
 Please refer to Yue’s move-out guide here: https://yuexr.github.io/acnh/moveout.html.
 
-### I agreed to let one of my villagers move out today, when can I go looking for a new villager?
-For a timeline of the move-out sequence, visit https://yuexr.github.io/img/mo/2.png.
+### I agreed to let one of my villagers move out today, when can I go 'villager hunting' (or) Why don't I see any villagers in my mystery islands I visit?
+The villager progresses to the next step in a move-out sequence every next 5:00 AM. `Villager asks to leave and you say yes > Villager is in boxes > Empty plot > Automatically filled with a villager from your 'move in queue'` https://yuexr.github.io/img/mo/2.png
 You MUST have an unsold, empty plot available to invite a villager from another player's island, or to find villagers on mystery islands (and you can only invite *one villager from a mystery island* per day). Note: If someone visited and claimed your villager who was in boxes their house will immediately say 'I moved out', but you will still need to wait until the next day for an empty plot.
 
 ### How do I invite a villager from another player's island?
 The villager has to be moving out and 'in boxes', if you talk to them they will mention that they are moving out and you'll be shown an option to invite them to live on your island. If you have an open plot, they will mention that they spoke to Tom Nook and are going to move in to your island and show up on your island the next day.
 
 ### How do I extend the time window my villager is in boxes (or) How do I extend the duration my plot is empty?
-[Time travel](#time-travel) a few hours backwards, but stay within the same day.
+Time travel a few hours but stay within the same day (refer to time traveling section).
 
 ### Will my villagers move out without telling me?
-No. They always need to ask you for your permission before they move out. You need to have at least six villagers, for villagers to start asking about moving out.
+No. They always need to ask you for your permission before they move out.
 
 ### Can my most recently moved-in villager ask to move out?
 No. It is 100% impossible for them to request to move out.
@@ -371,7 +308,7 @@ Giving player: Must have the villager of interest in boxes moving *out*. ("In bo
 
 The receiving player visits the giving player's island and speaks to the villager of interest twice, which will prompt the "You should move in" dialogue option. After the villager has spoken to the receiving player's Resident Services, the receiving player's empty plot should say SOLD with the villager's name on it.
 
-Note that villager-for-villager trades happen in the same way, but require both players have an extra empty plot to purchase or require [time travel](#time-travel). 
+Note that villager-for-villager trades happen in the same way, but require both players have an extra empty plot to purchase or require time travel. 
 
 ### How often does someone visit my campsite?
 Campsite visitors are determined on a percent chance roll, where the chance is based on when your last campsite visitor was. 
@@ -384,10 +321,7 @@ Campsite visitors are determined on a percent chance roll, where the chance is b
 | 5                                | 15%                        |
 | 6+                               | 20%                        |
 
-Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one. Also you **can't** get a camper from someone else's campsite. For more information on campsite see [here](https://docs.google.com/document/d/1c8rsKWWtwsOo_JOxwO-lVRx2MUhc-bcdZg1mhXgtRPg/edit).
-
-### Can I chose who the camper replace?
-For "normal" campers, no, but you can reset who they chose. Visit https://yuexr.github.io/img/mo/4.png for more detail. [Amiibo](#how-do-i-invite-a-villager-to-live-on-my-island-using-their-amiibo) campers allow you to choose who they replace.
+Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one. For more information on campsite see [here](https://docs.google.com/document/d/1c8rsKWWtwsOo_JOxwO-lVRx2MUhc-bcdZg1mhXgtRPg/edit).
 
 ### What are the villager personalities?
 There are 8 villager personalities.
@@ -400,14 +334,6 @@ There are 8 villager personalities.
 | Lazy   | Peppy         |
 
 Special NPCs do not have personalities, and each villager can only be of one personality. Personality dictates the DIYs a villager crafts, the reactions they teach, and the dialogue they can use.
-
-### Do I *need* to have all 8 personalities on my island?
-No, you don't. There are some benefits to having all 8 personalities, such as unlocking all of the [reactions](#what-are-reactions) as well as easily getting all the villager-crafted DIYs. The game also encourages personality diversity by personality-locking your first 6 villagers:
-- Villagers 1 and 2 are Jock and Uchi
-- Villagers 3-5 are Peppy, Normal, and Lazy
-- Villager 6 is Smug
-
-That said, there's no requirement to do this, and you should have the villagers on your island that you enjoy the most! 
 
 ### What is friendship/What are friendship levels?
 “Friendship” refers to how close you are with your villagers. Talking to them, gifting them items, and completing quests for them all increases friendship. Villagers also have friendship levels, and when you unlock new levels, you unlock new interactions and quests! For more specific details, visit Yue’s friendship guide, located here: https://yuexr.github.io/acnh/friendship.html.
@@ -424,7 +350,7 @@ As of version 1.5.0, there are two event reactions, **Haunt** and **Scare** whic
 ### What are Amiibos? Who has an Amiibo? 
 Amiibos are Nintendo-produced collectibles that come in the form of cards or figurines and allow players to unlock special features when scanned into games. You can buy them from some online retailers or secondhand. In Animal Crossing: New Horizons, Amiibos allow you to invite villagers onto your island or unlock posters, an in-game item. There are 456 Animal Crossing Amiibo cards, including non-villager NPCs, villagers, and special villagers (such as the Sanrio x Animal Crossing villagers). 
 
-All villagers have Amiibo cards **except** the following: Raymond, Dom, Sherb, Cyd, Reneigh, Audie, Judy, and Megan. (These 8 were introduced into the franchise in New Horizons, and thus do not have Amiibo cards or figures.) The NPCs Wilbur, Orville, Harvey, Lloid, Flick, C.J., Daisy Mae, Gullivarrr, and Wisp also have no Amiibos. 
+All villagers have Amiibo cards except the following: Raymond, Dom, Sherb, Cyd, Reneigh, Audie, Judy, and Megan. (These 8 were introduced into the franchise in New Horizons, and thus do not have Amiibo cards or figures.) The NPCs Wilbur, Orville, Harvey, Lloid, Flick, C.J., Daisy Mae, Gullivarrr, and Wisp also have no Amiibos. 
 
 Note: Amiibo villagers are in no way different from NMT island villagers. They are the exact same.
 
@@ -437,12 +363,12 @@ After you speak to them in the campsite, the villager will ask you to craft an i
 Yes. Additionally, any furniture, fish/bug you gifted them and **is on their floor** will be reset when they move to a new island.
 
 ### Is there any gameplay related benefit to gifting villagers?
-Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship-levels) with them. For more info as well as info on what gifts are 'safe' and won't clutter villagers' house layouts, please refer to Yue's gifting guide here - https://yuexr.github.io/acnh/gift.html.
+Yes, it increases your friendship level with them, for more info and also info on what gifts are 'safe' and won't clutter villagers' house layouts please refer to Yue's gifting guide here - https://yuexr.github.io/acnh/gift.html. You can also read about friendship mechanics [here](#what-is-friendshipwhat-are-friendship-levels).
 
 ### My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
 - Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum). 
-- Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit https://docs.google.com/spreadsheets/d/1hI0CXeiooie1KRCsSba2Q8bcXQPOXlFK_2tYUSG84Xo/edit?usp=sharing.
+- Hats (no helmets): in the game exist 2 tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit https://docs.google.com/spreadsheets/d/1hI0CXeiooie1KRCsSba2Q8bcXQPOXlFK_2tYUSG84Xo/edit?usp=sharing.
 - If you wish to remove a custom design, please read [here](#isabelle).
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
@@ -453,76 +379,55 @@ You cannot remove the furniture/mannequin, but you can replace it using this gui
 - Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable to other players in comparison to ungifted villagers. They can never be ungifted, only have their gifts replaced.
 - Ungifted villagers tend to be *higher value*, completely default villagers — they only wear their original outfits and have an untouched house—as if they were found from a mystery island.
 
-### What is the void?/Where do villagers that automatically fill my empty plots come from?
+<!-- TODO: Decide on wording for this question -->
+### What is the move-in/move-out queue (or) What is the void (or) Where do villagers that automatically fill my empty plots come from?
 Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 - The MIQ holds 4 villagers that came from other players' MOQ that were transferred when you played online with them. When your empty plot autofills, this is where game pulls those villagers from! They can stay in there indefinitely.
 - The MOQ is what is commonly referred to as "the void". It is an invisible space where villagers who move out, but are not adopted, go to live (also indefinitely) until they can be passed into another player's MIQ. The MOQ holds up to 10 villagers.
 
-### When does X villager wake up/go to bed?
-- **Lazy:** 8:00 AM – 11:00 PM  
-- **Jock:** 6:30 AM – 12:30 AM  
-- **Cranky:** 9:00 AM – 3:30 AM  
-- **Smug:** 7:00 AM – 2:00 AM  
-- **Normal:** 6:00 AM – 12:00 AM  
-- **Peppy:** 7:00 AM – 1:30 AM  
-- **Snooty:** 8:30 AM – 2:30 AM  
-- **Sisterly:** 9:30 AM – 3 AM  
-- ***Note:** Villagers also have the ability to wake up early or pull all-nighters.*
-
 ## NPC Visitors and Special Characters
 ### How often does X visit? How do I unlock X character?
+Yue has put together a fantastic infographic for NPC schedules and their unlock requirements, see below!
 ![NPC Schedule Infographic](/assets/npcskd.png)
 
-### How long does X NPC stay on my island?
-- **Labelle, Kicks, Leif, Mable (before Able Sisters is built):** 5:00 AM - 10:00 PM  
-- **Flick, C.J., Redd, Gulliver, Gullivarrr:** 5:00 AM - 5:00 AM (next day)  
-- **Saharah, K.K. Slider:** 5:00 AM - 12:00 AM
-  - K.K. Slider only takes song requests from 6:00 PM - 12:00 AM
-  - K.K. Slider will appear on Sunday if there's a tourney/bug-off Saturday.  
-- **Daisy Mae:** 5:00 AM - 12:00 PM
-  - Sunday only.  
-- **Celeste:** 7:00 PM - 4:00 AM
-  - Cannot appear if K.K. is visiting.  
-- **Wisp:** 8:00 PM - 5:00 AM
-  - Disappears right after being helped.  
-- **Pascal:** Can appear when you obtain a scallop, regardless of time.  
-
 ### Tom Nook
-- Helps you navigate the tutorial phase of the game, and is the point of contact for construction-related queries.
-- If you aren't sure what to do, talk to him and choose "What should I do?" If he doesn't have anything for you today, he may have something for you tomorrow! 
+- Helps you navigate the tutorial phase of the game and is the point of contact for construction-related queries.
+- If you aren't sure what to do, talk to him and choose "What should I do?" If he doesn't have a task for you today, he still may tomorrow! (Once you reach the end of the game's storyline, he will no longer present you with tasks.)
 
 ### Timmy and Tommy (The "Nooklings")
 - Until [Nook's Cranny](#building-unlocks) is unlocked, you can buy and sell items from Timmy in the Resident Services tent.
-- Timmy and Tommy run Nook's Cranny once it's built, where you can purchase decor, plants, and tools.
+- Timmy and Tommy run Nook's Cranny, where you can purchase decor, plants, and tools.
 
 ### Blathers
-- Unlocked when you donate 5 critters to Tom Nook during the tutorial.
-- Once the [museum](#building-unlocks) is built, you'll be able to donate bugs, fish, sea creatures, and art that Blathers will tell you about as well as display for players to look at. 
+- Unlocked when you donate 5 critters to Tom Nook.
+- Once the [museum](#building-unlocks) is built, you'll be able to donate bugs, fish, sea creatures, and art that Blathers will describe for you as well as display it for players to look at. 
 
 ### Isabelle
-- Unlocked when you upgrade [Resident Services](#building-unlocks) into a building.
-- Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.
+- Unlocked when [Resident Services](#building-unlocks) upgades into a building.
+- Isabelle handles daily announcements. She is the point of contact for resident concerns, island evaluations, and personalizing your island's flag/tune.
 - You can talk to Isabelle to reset villagers' clothing, catchphrases through the 'Discuss a Resident' option. 
-  - **Note:** Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
+  - **Note:** Complaining to her does *NOT* impact odds of moving out nor impact friendship whatsoever.
   - The way they talk: Resets custom catchphrases, but NOT nicknames or greetings.
   - The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
 
 ### Daisy Mae
 - Visits every Sunday to sell turnips (see [Turnips/Stalk Market](#turnipsstalk-market)) once Nook's Cranny is unlocked.
+- No events or NPCs interrupt her. 
 
 ### Celeste
 - [Blathers'](#blathers) sister.
-- Shares information about astronomy and gives the player **Celestial** and **Zodiac** DIYs.
-- Once the player has learned all of her obtainable recipes, she will give the player star fragments. 
+- Shares information about astronomy and gifts you **Celestial** and **Zodiac** DIYs.
+- Once you have learned all of her obtainable recipes, she will gift star fragments. 
 - Celeste can visit on nights where you have shooting stars (see [NPC Schedule](#how-often-does-x-visit)). 
 
 ### K.K. Slider
 - Unlocked through completing [Project K](#misc-unlocks).
-- Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead.
-- Special visit for player birthdays.
-- Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. 
-- Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". The table below denotes the various moods you can choose and the songs that he can play by choosing that mood. 
+- Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead. In the case of both a Saturday *and* Sunday event, K.K. will visit on a Monday instead. 
+- Visits for player birthdays as well.
+- Will allow you to request songs. Doing so will prompt a performance; afterwards he will give you a copy of the first song requested. 
+- You can request specific songs from K.K. to obtain "secret songs." The table below denotes the various moods you can choose and the songs that he can play by choosing that mood. 
 - All K.K. songs and their corresponding moods:
+
 
 | A little blue... | A little grumpy... | I feel good!    | It's hard to say. | Laid-Back.       |
 |------------------|--------------------|-----------------|-------------------|------------------|
@@ -548,20 +453,19 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 | N/A              | N/A                | N/A             | N/A               | Soulful K.K.     |
 | N/A              | N/A                | N/A             | N/A               | Wandering        |
 
-- There are an additional 8 songs not included in the above list, denoted below and how to obtain:
+- There are an additional 8 songs not included in the above list, denoted below and how to obtain (if possible):
 
 | Song Name        | How to Obtain                                                           |
 |------------------|-------------------------------------------------------------------------|
 | Animal City      | Request directly from K.K.                                              |
 | Drivin'          | Request directly from K.K.                                              |
 | Farewell         | Request directly from K.K.                                              |
+| Hazure01/02/03   | Played when requesting something K.K. doesn't have. No take-home track. |
 | K.K. Birthday    | Obtained after concert on player's birthday.                            |
 | Welcome Horizons | Obtained after player's very first concert.                             |
 
-- Finally, there are 3 "invalid" songs: Hazure01/02/03, which are played when requesting something K.K. doesn't have. These *do not* have a take-home track.
-
 ### Saharah
-- Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.
+- Sells rugs (small, medium, and large) and exclusive flooring/wallpaper.
 - Rugs and mysterious flooring/wallpaper purchased with **bells** are the same for every player.
 - Mysterious flooring/wallpaper purchased with **Saharah Tickets** are random for each player.
 - **Saharah Tickets** can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.
@@ -571,12 +475,12 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 - Sells artwork (real and fake) and non-native color variant furniture.
 - Docks his ship at the player's secret beach on the north shore of the island.
 - Each player can purchase up to one piece of artwork from him, and an unlimited amount of the 2 furniture items he brings each visit.
-- Art is mailed to you the following day, furniture is in your pocket immediately after purchase.
+- Art is mailed to the player the following day, furniture is in your pocket immediately after purchase.
 - For more info on Redd's art see [here](https://yuexr.github.io/img/redd1.png) and [here](https://yuexr.github.io/img/redd2.png).
 - Click [here](https://nookplaza.net/tools?tab=fake_art) to find the differences between fake and real art.
 
 ### C.J.
-- Buys fish for 1.5x Timmy and Tommy's price, but only after you complete his challenge.
+- Buys fish for 1.5x Timmy and Tommy's price, but only after completing his challenge.
 - Can make you fish models, which require 3 of the same fish, and is mailed to you the following day.
 - C.J. is the host of the [Fishing Tournament](#fishing-tourney).
 
@@ -688,7 +592,7 @@ Each fish you catch adds 1 point to your total and each fish after the first thr
 For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
 
 ### Bunny Day (Easter)
-Bunny Day starts on April 1st and ends on April 12th. If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. During the event, villagers will come up to you to teach you the Bunny Day crown and bag recipe. Egg-theme clothing such as, the stone egg hat and outfit, is self taught after you collect a certain amount of that kind of egg. When you learned all of them, you'll learn the egg party dress and hat. You can get the other recipes from Bunny Day message bottles and balloons. 
+Bunny Day starts on April 1st and ends on April 12th. If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. You can get the other recipes from Bunny Day message bottles and balloons. 
  
 Different eggs are required to make the DIYs. There are six different types of eggs. They are the following:
 
@@ -733,7 +637,7 @@ For a guide on how to complete the maze and obtain all possible prizes, see [her
 From May 18th until May 31st, the museum will host a stamp rally everyday. The fossil, bug, and fish wings each will have three stamp stations in them. After you collect the three stamps from an exhibit, talk to Blathers to receive a plaque for that exhibit. The locations of stamp stations will change day to day, but you will get the same reward every time you complete the card.
 
 ### Wedding Season
-If you visit Harvey’s island from June 1st to June 30th, Reese and Cyrus will be there to ask for your help with their wedding anniversary photos. There is one photoshoot opportunity per day. Photo shoots will unlock more wedding items. The heart crystals you receive from Reece can be used to redeem the wedding items you’ve unlocked from Cyrus. You'll get Reese & Cyrus photo plate after the 6th visit. You also unlock special wedding DIYs on the 7th photoshoot from Cyrus and Harv. 
+If you visit Harvey’s island from June 1st to June 30th, Reese and Cyrus will be there to ask for your help with their wedding anniversary photos. There is one photoshoot opportunity per day. Photo shoots will unlock more wedding items. The heart crystals you receive from Reece can be used to redeem the wedding items you’ve unlocked from Cyrus. You also unlock special wedding DIYs on the 6th and 7th photoshoots. 
 
 You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each shoot after. You can always time travel back to complete the shoot or farm heart crystals. 
 
@@ -748,7 +652,7 @@ Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Hallowe
 For more detailed info, visit https://cestislife.github.io/halloween.
 
 ### Countdown (New Year)
-The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.
+The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook is outside too, selling new year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.
 
 ## Time Travel
 ### What is time travel?
@@ -764,23 +668,7 @@ You now need to change your date in your Switch settings:
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
 
-### What are the *general* effects of time traveling (*backward* or *forward*)?
-Negative Effects:
-- Open plots may fill.
-- Campers will leave.
-
-Positive Effects:
-- All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.
-- Redd's art will be delivered if you purchased one.
-- Fossils will respawn.
-- NPC visitor shops and quests will refresh<sup>3</sup>.
-- The daily recipe bottle will respawn.  
-
-<sup>1</sup>: Able Sisters' mannequin will only change if you go outside of the week.   
-<sup>2</sup>: Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.  
-<sup>3</sup>: Saharah's inventory does not change if you stay within the same week when time traveling forward or back. You have to go into another week for it to change.  
-
-### What are the *specific* effects of time traveling forwards?
+### What are the effects of time traveling *forwards*?
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
 
 Negative Effects:
@@ -788,63 +676,63 @@ Negative Effects:
 - Cockroaches may appear in your house (1+ month).
 - You may get the bedhead animation (1+ month).
 - Villagers may ask/comment on where you have been.
+- Open plots may fill.
 - Turnips will spoil *if* you time travel past the following Sunday.
 
 Positive Effects:
 - Building construction/upgrades/moves will be completed.
+- All stock (Able Sisters, Nook's Cranny, Nook Shopping) will refresh.
 - Weeds and flowers will grow/spread.
 - Rocks and trees will refresh.
 - Mail is delivered.
 - Turnip price trend will not change. 
 
-### What are the *specific* effects of time traveling backwards?
-If you time travel backward more than a day, it will be like going back to "fake" yesterday.
+### What are the effects of time traveling *backwards*?
 Negative Effects:
+- Open plots may fill.
 - Turnips will spoil.
 - Turnip prices will change and your trend will be reset.
 - Watered effect will be removed from flowers and they will not grow/breed.
+- Campers will leave.
 
 Neutral Effects:
-- It will not count as a "new day" in terms of progression.
-- Villagers will not advance moving in/out.
-- Building construction/upgrades/moves will not be completed.
-- Shop stock will be the same as it was the first time you visited that day unless you leave the current week.
-- Rocks and trees will not refresh.
-- Mail will not be delivered.
-
-Positive Effects:
-- ABD chain will remain, and you can claim another daily bonus, even if you time travel backward more than a day.
-
-### An update or seasonal items were announced, can I time travel to access it?
-No, you can only access it if the game was patched to have the update or Nintendo unlocked the seasonal item.  
+  - It will not count as a "new day" in terms of progression.
+  - Villagers will not advance moving in/out.
+  - Building construction/upgrades/moves will not be completed.
+  - Shop stock will be the same as it was the first time you visted that day unless you leave the current week.
+  - Rocks and trees will not refresh.
+  - Mail will not be delivered. 
+  
+  Positive Effects:
+  - The daily recipe bottle will respawn.
+  - Fossils will respawn.
+  - NPC visitor shops and quests will refresh.
+  - ABD chain will remain, and you can claim another daily bonus.
 
 ### What happens to my other games when I time travel for AC:NH?
-Time traveling for AC:NH will not affect other time-based games unless you launch them whilst the system time is changed.
+Time traveling for AC:NH will not affect other time-based games unless launch them whilst the system time is changed.
 
 ### Do I have to wait to time travel after someone invites my villager to live on their island?
 No, and likewise, you don't have to wait to time travel after inviting someone else's villager to live on your island either.
 
 ### Can I time travel to play events that have passed?
-Yes! Currently, all past in-game events have **not been locked** and are still accessible with time travel. Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible in-game. 
+Yes! Currently, all past ingame events have **not been locked** and are still accessible with time travel. Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible ingame. 
 
 All events (with the exception of Seasonal DIY events, New Year's, Fishing Tournaments, and Bug-Offs) are currently locked to 2020 and will not work in future/past years. The May Day Tour is once per user, but you can still access the event on secondary accounts. 
 
-Player birthdays can only be experienced once every in-game year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
-
-### I time traveled to Festive season, but why are none of the cedar trees are decorated?
-If Isabelle didn't make an announcement about the trees being decorated, you don't have enough cedar trees. You need to have at least 15 cedar trees. Plant more, then time travel forward until you get the announcement or they are lit up.  
+Player birthdays can only be experienced once every ingame year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
 
 ### How do I time travel to farm an NPC visitor?
 If the NPC is on a weekday EXCEPT Monday:
- - TT to 4:58 AM on the same day of NPC. At 5 AM, it will change to new day and NPC will be there
+ - TT to 4:58 AM on the same day of NPC. At 5am, it will change to new day and NPC will be there
 
 If the NPC is on a Monday:
- - TT forward a day to Tuesday, then go back to Monday (after 5 AM)
+ - TT forward a day to Tuesday, then go back to Monday (after 5:00 AM)
 
 ### Will my villagers move out if I time travel too much? 
 Nope! Though this was something that could happen in past installments of the game, villagers in New Horizons will not move out unless you give them explicit permission to do so.
 
-### Will my villagers dislike me/lose friendship points if I time travel too much?
+### Will my villagers dislike me/lose friendship points if I time travel too much
 Nope! They may have some dialogue about your disappearance if you do a big jump forward, but time traveling has no effect on friendship.
 
 ### Do the developers know I time travel? Will they do anything to me about it?
@@ -889,22 +777,9 @@ If Nintendo has not confirmed the feature/item from said rumor, then we cannot c
 ### Is there a list that exists of every in-game item?
 Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-game items, recipes, villagers, and more.
 
-### What's the drop rate for X material?
-A lot of the rates can be found at https://acnh.isomorphicbox.com/rates/#assortment-of-rates-and-information.
-
-### How do I manually update my AC:NH game?
-1. Hover over AC:NH on the Switch home menu.
-2. Press the + button.
-3. Go to 'software update', then 'via the internet'.
-
-Your ACNH game is now up to date!
-
-### What some other resources for AC:NH?
-You can find them at https://acnh.directory/.
-
 ## Acknowledgements
-The creation of this guide was an effort led by littlesnorlax#1717. It was brought to you with the love and hard work of:
-littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, Nours#7244, mybae#1905, Yamza#0836, pojayto#1996, and#6915, and danc#0854 ♥
+This guide was brought to you with love and hard work by:
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
