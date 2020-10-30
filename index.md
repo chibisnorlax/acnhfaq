@@ -19,8 +19,8 @@ Welcome to the unofficial Animal Crossing: New Horizons Frequently Asked Questio
 - [Acknowledgements](#acknowledgements)
 
 ## Island Development
-### What defines a week and a day in-game?
-An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
+### How long does it take for X to be build?
+One day after you ask for it to be build.
 
 ### Can I move where buildings are on my island?
 Yes! Every building and house can be moved except the airport and Resident Services.
@@ -53,12 +53,36 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
-Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. 
+Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. Villagers won't craft on event days (e.g. bug-off, fishing tourney, etc.).
 
 ### What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
 
+### How do I unlock all the DAL items? What are the milestones?
+![DAL rewards](/assets/dal.png)
+
+### What are pocket camp items and how can I get them?
+See this guide, https://cestislife.github.io/img/pocketcamp.png.  
+
+## When does a balloon spawn and what do they drop?
+See this guide, https://cestislife.github.io/img/balloons.png.
+
 ## Island Life
+### What should I do in first week of the game?
+Follow this guide, https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21182290/first-week-daily-goals-how-to-unlock-museum-steps-farming.  
+
+### How can become friend/best friend with other people? What can they do on my island?
+See this guide, https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21187074/add-invite-online-friends-airport-dodo-code-orville-mutliplayer.  
+
+### What defines a week and a day in-game?
+An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
+
+### How can I get eight hits from a rock?
+Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock. You should be able to hit the rock eight times without being knocked away.  
+
+### What does eating fruit/turnip/cupcake/candy/lollipop do?
+After you eat one, you can dig up a tree or break a rock. If you break a rock, one will respawn per day if there's a place it can spawn. You can get rid of the effect by sitting on a toilet.  
+
 ### What determines the weather on my island?
 The weather on your island is determined by your weather *seed*. A seed is a special number generated at the creation of your island that determines a specific pattern. In this case, your weather pattern for the entire game. Weather includes things like shooting stars, rainbows, thunderstorms, etc. If you are interested in finding out what your weather seed is, visit https://wuffs.org/acnh/weather/.
 
@@ -114,6 +138,29 @@ Star fragments spawn periodically throughout the day, usually 8-11 at a time. If
 
 ### What does X villager's house look like?
 Please visit https://tinyurl.com/villagerintext for a complete list of villager interiors and exteriors!
+
+### What are the different mystery islands and what can I find on them?
+Please visit https://wuffs.org/acnh/mysterytour.html for a complete list of them.  
+Additional, there is a 30% chance to find fossil or a message bottle per island. You can always one wasp nest or a piece of furniture from shaking a hardwood tree. If you have an empty plot, you can also find a random villager. See [here](https://docs.google.com/document/d/16yHQzdYx4VznhnKSGZdtaKi_Yo8NpDwCYK8dmpR481s/edit) to learn about how the game roll for the villager. See [here](https://acnhapi.com/nmt-calculator/) for figure out your chances of finding a specific villager.  
+
+### Which mom's items can I get each month?
+|Month          |North Hemisphere |Southern Hemisphere |
+|---------------|-----------------|--------------------|
+|January        |Art              |Plushie             |
+|February       |Embroidery       |Pen Stand           |
+|March          |Candles          |Cushion             |
+|April          |Tissue Box       |Tea Cozy            |
+|May            |Knapsack Kitchen |Mat                 |
+|June           |Apron Hand       |Knit Sweater        |
+|July           |Plushie          |Art                 |
+|August         |Pen Stand        |Embroidery          |
+|September      |Cushion          |Candles             |
+|October        |Tea Cozy         |Tissue Box          |
+|November       |Kitchen Mat      |Knapsack            |
+|December       |Hand knit        |Sweater Apron       |
+|Your Birthday! |Birthday Cake    |Birthday Cake       |
+
+You can get different colors on different profiles.
 
 ## Unlocking Things
 ### Nook Phone Unlocks
@@ -274,7 +321,7 @@ The AC community commonly refers to animal island residents as 'villagers'. <!--
 Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
 
 ### How many villagers can I have?
-You can have ten animal villagers and up to eight human villagers.
+You can have ten animal villagers and up to eight human villagers. You can only have one animal villager with same name on the same island.
  
 ### How do I get a specific villager?
 Unfortunately there’s no 100% guaranteed way to get a specific villager unless you have their Amiibo card or adopt them from someone else’s island. Your other options are to use NMT to find them on mystery islands, or hope they visit your campsite!
@@ -293,7 +340,7 @@ The villager has to be moving out and 'in boxes', if you talk to them they will 
 Time travel a few hours but stay within the same day (refer to time traveling section).
 
 ### Will my villagers move out without telling me?
-No. They always need to ask you for your permission before they move out.
+No. They always need to ask you for your permission before they move out. You need to have at least six villagers, for villagers to start asking about moving out.
 
 ### Can my most recently moved-in villager ask to move out?
 No. It is 100% impossible for them to request to move out.
@@ -321,7 +368,10 @@ Campsite visitors are determined on a percent chance roll, where the chance is b
 | 5                                | 15%                        |
 | 6+                               | 20%                        |
 
-Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one. For more information on campsite see [here](https://docs.google.com/document/d/1c8rsKWWtwsOo_JOxwO-lVRx2MUhc-bcdZg1mhXgtRPg/edit).
+Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one. Also you **can't** get a camper from someone else's campsite. For more information on campsite see [here](https://docs.google.com/document/d/1c8rsKWWtwsOo_JOxwO-lVRx2MUhc-bcdZg1mhXgtRPg/edit).
+
+### Can I chose who the camper replace?
+No, but you can reset who they chose. See [here](https://yuexr.github.io/img/mo/4.png) for more detail.  
 
 ### What are the villager personalities?
 There are 8 villager personalities.
@@ -385,10 +435,30 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 - The MIQ holds 4 villagers that came from other players' MOQ that were transferred when you played online with them. When your empty plot autofills, this is where game pulls those villagers from! They can stay in there indefinitely.
 - The MOQ is what is commonly referred to as "the void". It is an invisible space where villagers who move out, but are not adopted, go to live (also indefinitely) until they can be passed into another player's MIQ. The MOQ holds up to 10 villagers.
 
+### When does X villager wake up/go to bed?
+- Lazy: 8am – 11pm  
+- Jock: 6:30am – 12:30am  
+- Cranky: 9am – 3:30am  
+- Smug: 7am – 2am  
+- Normal: 6am – 12am  
+- Peppy: 7am – 1:30am  
+- Snooty: 8:30am – 2:30am  
+- Sisterly: 9:30am – 3am  
+- *Note:Unless they wake up early or pull an all-nighter.*
+
 ## NPC Visitors and Special Characters
 ### How often does X visit? How do I unlock X character?
 Yue has put together a fantastic infographic for NPC schedules and their unlock requirements, see below!
 ![NPC Schedule Infographic](/assets/npcskd.png)
+
+### How long does X NPC stay on my island?
+- Labelle, Kicks, Leif, Mable (before Able Sisters is built): 5am - 10pm  
+- Flick, C.J., Redd, Gulliver, Gullivarrr: 5am - 5am (next day)  
+- Saharah, K.K. Slider: 5am - 12am (K.K. Slider only takes song requests 6pm - 12am, will appear on Sunday if there's a tourney/bug-off Saturday)  
+- Daisy Mae: 5am - 12pm (Sunday only)  
+- Celeste: 7pm - 4am (cannot appear if K.K. is here)  
+- Wisp: 8pm - 5am (disappears right after being helped)  
+- Pascal: Can appear sometimes when you obtain a scallop, regardless of time  
 
 ### Tom Nook
 - Helps you navigate the tutorial phase of the game, and is the point of contact for construction-related queries.
@@ -591,7 +661,7 @@ Each fish you catch adds 1 point to your total and each fish after the first thr
 For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
 
 ### Bunny Day (Easter)
-Bunny Day starts on April 1st and ends on April 12th. If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. You can get the other recipes from Bunny Day message bottles and balloons. 
+Bunny Day starts on April 1st and ends on April 12th. If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. During the event, villagers will come up to you to teach you the Bunny Day crown and bag recipe. Egg-theme clothing such as, the stone egg hat and outfit, is self taught after you collect a certain amount of that kind of egg. When you learned all of them, you'll learn the egg party dress and hat. You can get the other recipes from Bunny Day message bottles and balloons. 
  
 Different eggs are required to make the DIYs. There are six different types of eggs. They are the following:
 
@@ -636,7 +706,7 @@ For a guide on how to complete the maze and obtain all possible prizes, see [her
 From May 18th until May 31st, the museum will host a stamp rally everyday. The fossil, bug, and fish wings each will have three stamp stations in them. After you collect the three stamps from an exhibit, talk to Blathers to receive a plaque for that exhibit. The locations of stamp stations will change day to day, but you will get the same reward every time you complete the card.
 
 ### Wedding Season
-If you visit Harvey’s island from June 1st to June 30th, Reese and Cyrus will be there to ask for your help with their wedding anniversary photos. There is one photoshoot opportunity per day. Photo shoots will unlock more wedding items. The heart crystals you receive from Reece can be used to redeem the wedding items you’ve unlocked from Cyrus. You also unlock special wedding DIYs on the 6th and 7th photoshoots. 
+If you visit Harvey’s island from June 1st to June 30th, Reese and Cyrus will be there to ask for your help with their wedding anniversary photos. There is one photoshoot opportunity per day. Photo shoots will unlock more wedding items. The heart crystals you receive from Reece can be used to redeem the wedding items you’ve unlocked from Cyrus. You'll get Reese & Cyrus photo plate after the 6th visit. You also unlock special wedding DIYs on the 7th photoshoots from Cyrus and Harv. 
 
 You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each shoot after. You can always time travel back to complete the shoot or farm heart crystals. 
 
@@ -667,6 +737,22 @@ You now need to change your date in your Switch settings:
 3. Go to Date and Time and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
 
+### What are the general effects of time traveling (*backward* or *forward*)?
+Negative Effects:
+- Open plots may fill.
+- Campers will leave.
+
+Positive Effects:
+- All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.
+- Redd's art will be delivered if you purchased one.
+- Fossils will respawn.
+- NPC visitor shops and quests will refresh<sup>3</sup>.
+- The daily recipe bottle will respawn.  
+
+<sup>1</sup>: Able Sisters' mannequin will only change if you go outside of the week.   
+<sup>2</sup>: Some items from Nook's Cranny can only be purchase once a week. i.e. if you brought it once, it wouldn't be restocked when time travel to that day again in the same week.  
+<sup>3</sup>: Saharah's inventory does not change if you stay within the same week when time travelling forward or back. You have to go into another week for it to change.  
+
 ### What are the effects of time traveling *forwards*?
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
 
@@ -675,38 +761,35 @@ Negative Effects:
 - Cockroaches may appear in your house (1+ month).
 - You may get the bedhead animation (1+ month).
 - Villagers may ask/comment on where you have been.
-- Open plots may fill.
 - Turnips will spoil *if* you time travel past the following Sunday.
 
 Positive Effects:
 - Building construction/upgrades/moves will be completed.
-- All stock (Able Sisters, Nook's Cranny, Nook Shopping) will refresh.
 - Weeds and flowers will grow/spread.
 - Rocks and trees will refresh.
 - Mail is delivered.
 - Turnip price trend will not change. 
 
 ### What are the effects of time traveling *backwards*?
+If you time travel backward more than a day, it will be like going back to "fake" yesterday.
 Negative Effects:
-- Open plots may fill.
 - Turnips will spoil.
 - Turnip prices will change and your trend will be reset.
 - Watered effect will be removed from flowers and they will not grow/breed.
-- Campers will leave.
 
 Neutral Effects:
-  - It will not count as a "new day" in terms of progression.
-  - Villagers will not advance moving in/out.
-  - Building construction/upgrades/moves will not be completed.
-  - Shop stock will be the same as it was the first time you visted that day unless you leave the current week.
-  - Rocks and trees will not refresh.
-  - Mail will not be delivered. 
-  
-  Positive Effects:
-  - The daily recipe bottle will respawn.
-  - Fossils will respawn.
-  - NPC visitor shops and quests will refresh.
-  - ABD chain will remain, and you can claim another daily bonus.
+- It will not count as a "new day" in terms of progression.
+- Villagers will not advance moving in/out.
+- Building construction/upgrades/moves will not be completed.
+- Shop stock will be the same as it was the first time you visited that day unless you leave the current week.
+- Rocks and trees will not refresh.
+- Mail will not be delivered.
+
+Positive Effects:
+- ABD chain will remain, and you can claim another daily bonus, even if you time travel backward more than a day.
+
+### X update or seasonal items was announced, can I time travel to access it?
+No, you can only access it if the game was patched to have the update or Nintendo unlock the seasonal item.  
 
 ### What happens to my other games when I time travel for AC:NH?
 Time traveling for AC:NH will not affect other time-based games unless you launch them whilst the system time is changed.
@@ -715,18 +798,21 @@ Time traveling for AC:NH will not affect other time-based games unless you launc
 No, and likewise, you don't have to wait to time travel after inviting someone else's villager to live on your island either.
 
 ### Can I time travel to play events that have passed?
-Yes! Currently, all past ingame events have **not been locked** and are still accessible with time travel. Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible ingame. 
+Yes! Currently, all past in-game events have **not been locked** and are still accessible with time travel. Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible in-game. 
 
 All events (with the exception of Seasonal DIY events, New Year's, Fishing Tournaments, and Bug-Offs) are currently locked to 2020 and will not work in future/past years. The May Day Tour is once per user, but you can still access the event on secondary accounts. 
 
-Player birthdays can only be experienced once every ingame year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
+Player birthdays can only be experienced once every in-game year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
+
+### I'm in Festive season, but why are none of the cedar trees are decorated?
+If Isabelle didn't make an announcement about the trees being decorated, you don't have enough cedar trees. You need to have at least 15 cedar trees. Plant more, then time travel forward until you get the announcement or they are lighted up.  
 
 ### How do I time travel to farm an NPC visitor?
 If the NPC is on a weekday EXCEPT Monday:
- - TT to 4:58 AM on the same day of NPC. At 5am, it will change to new day and NPC will be there
+ - TT to 4:58 AM on the same day of NPC. At 5 AM, it will change to new day and NPC will be there
 
 If the NPC is on a Monday:
- - TT forward a day to Tuesday, then go back to Monday (after 5:00 AM)
+ - TT forward a day to Tuesday, then go back to Monday (after 5 AM)
 
 ### Will my villagers move out if I time travel too much? 
 Nope! Though this was something that could happen in past installments of the game, villagers in New Horizons will not move out unless you give them explicit permission to do so.
@@ -775,6 +861,12 @@ If Nintendo has not confirmed the feature/item from said rumor, then we cannot c
 
 ### Is there a list that exists of every in-game item?
 Yes! And more! Please visit https://bit.ly/3gWAJDe for a complete list of in-game items, recipes, villagers, and more.
+
+### What's the drop rate for X material?
+A lot of the rates can be found at https://acnh.isomorphicbox.com/rates/#assortment-of-rates-and-information.  
+
+### What some other resources for AC:NH?
+You can find them at https://acnh.directory/.
 
 ## Acknowledgements
 This guide was brought to you with love and hard work by:
