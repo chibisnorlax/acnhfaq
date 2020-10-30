@@ -37,19 +37,19 @@ Secondary residents can do everything that Island Representatives can except sto
 They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
 ### How do I obtain "X" DIY recipe?
-- Most recipes can be gotten from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
-- Pitfall seed can be gotten from a jock villager crafting or self-taught from digging up a pitfall seed. 
-- Seasonal recipes such cherry blossoms, mushrooms, festive, etc. comes from balloons during their respected seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works. See [here](https://cestislife.github.io/seasonaldiy) for the list of seasonal DIYs.
-- Trash recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
-- The King Tut mask is learned after picking up a golden nugget after hitting a rock.  
-- Most Spooky DIY recipes can be gotten from villagers crafting, balloons and message bottles. The rest can gotten from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
+- Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personality give you which ones.   
+- The Pitfall Seed DIY is either received from a crafting jock villager or self-taught through digging up a pitfall seed. 
+- Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. comes from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons works.  
+- Trash DIY recipes are self-taught after fishing up a certain amount of trash. See the spreadsheet below for how many for a specific one.  
+- The King Tut mask is learned after picking up a golden nugget dropped from hitting a rock.  
+- Most Spooky DIY recipes are obtained through crafting villagers, balloons and message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
 - Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. But some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
 - Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
 - You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also give you space themed DIY recipes and wand recipes.  
-- Pascal give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
+- Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
 - Wedding DIYs are given by Cyrus on sixth and seventh day of the event.
 - The hedge DIY recipe is given by Leif after you're the first person to buy from him on three different days or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
-- You can also purchase DIY recipes from Nook's Cranny and NookStop.  
+- You can also purchase certain DIY recipes from Nook's Cranny and NookStop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
 ### How long do villagers craft for? How many can craft per day?
@@ -67,8 +67,6 @@ See this guide, https://cestislife.github.io/img/pocketcamp.png.
 ## When does a balloon spawn and what do they drop?
 See this guide, https://cestislife.github.io/img/balloons.png.
 
-
-<!-- TODO: Add furni/clothing replacement to this section. --> 
 ## Island Life
 ### What should I do in first week of the game?
 Follow this guide, https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21182290/first-week-daily-goals-how-to-unlock-museum-steps-farming.  
@@ -88,7 +86,7 @@ After you eat one, you can dig up a tree or break a rock. If you break a rock, o
 ### What determines the weather on my island?
 The weather on your island is determined by your weather *seed*. A seed is a special number generated at the creation of your island that determines a specific pattern. In this case, your weather pattern for the entire game. Weather includes things like shooting stars, rainbows, thunderstorms, etc. If you are interested in finding out what your weather seed is, visit https://wuffs.org/acnh/weather/.
 
-Your weather pattern is permanent and unchanging. This means if you were to see a rainbow at 1 PM on June 1st, 2020, you would always see a rainbow at that time on that day if you were to time travel there. This is helpful to know for [meteor showers/shooting stars](#when-will-i-see-shooting-stars).
+Your weather pattern is permanent and unchanging. This means if you were to see a rainbow at 1:00 PM on June 1st, 2020, you would always see a rainbow at that time on that day if you were to time travel there. This is helpful to know for [meteor showers/shooting stars](#when-will-i-see-shooting-stars).
 
 ### What is the spawn rate of X critter?
 For the spawn rates of **ocean fish**, visit https://tinyurl.com/OceanFishSpawn.
@@ -100,14 +98,14 @@ For the spawn rates of **deep sea creatures**, visit https://tinyurl.com/seafood
 The spawn rates for **bugs** are a bit more complex to calculate, so we recommend referring to the [data spreadsheet](https://bit.ly/3gWAJDe) and comparing their base values relative to other bugs. 
 
 ### When will I see shooting stars?
-Shooting stars are dependent on your [weather seed](#what-determines-the-weather-on-my-island). On nights with certain clear weather patterns, you may see shooting stars between 7 PM and 4 AM. There are two types of star showers:
-- **Heavy meteor showers:** Usually (but not always!) announced by Isabelle or mentioned by villagers. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
+Shooting stars are dependent on your [weather seed](#what-determines-the-weather-on-my-island). On nights with certain clear weather patterns, you may see shooting stars between 7:00 PM and 4:00 AM. There are two types of star showers:
+- **Heavy meteor showers:** Usually (but not always!) announced by Isabelle. Villagers will mention it/talk about it if you talk to them. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
 - **Light meteor showers:** On light shower nights, you will see only a handful of shooting stars each hour, if that hour has a clear sky. These are more common, occurring on average 5-10 nights per month. 
 
 Both heavy and light meteor showers are locked to the date on which they occur, and will always occur on that date even if you time travel. 
 
 ### How do I wish on a star, and what does it do?
-To wish on a star: when you see or hear it moving across the sky, stand still, look up with your right analog (joy) stick, and press the “A” button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
+To wish on a star: when you see or hear it moving across the sky, stand still, look up with your right joystick, and press the “A” button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
 
 Star fragments are a crafting material that can be used in DIY recipes.
 
@@ -115,7 +113,7 @@ Star fragments are a crafting material that can be used in DIY recipes.
 ### What's the max amount of star fragments I can get?
 1 wish = 1 star fragment. You can also visit other players who have shooting stars and wish on their islands; wishes made on someone else's island will count as personal wishes.
 
-By yourself, you can get a maximum of 20 star fragments. If you invite visitors from other islands (**not** other residents that live on your island), you can get up to 40 star fragments. For every 5 wishes that your visitors make, you get 1 additional star fragment on top of whatever amount you wished for yourself. This means your visitors need to make 100 wishes total to get you an additional 20 frags, for a max total of 40.
+By yourself, you can obtain a maximum of 20 star fragments. If you invite visitors from other islands (**not** other residents that live on your island), you can obtain up to 40 star fragments. For every 5 wishes your visitors make, you will receive 1 additional star fragment on top of the amount you wished for yourself. This means your visitors need to wish 100 times total for you to achieve the additional 20 and max total of 40 frags.
 
 ### Can I visit other islands for shooting stars and/or Celeste?
 Yes! You can wish on shooting stars while visiting another player’s island and the star fragments will appear on your island’s beach the next day. Just like on your own island, each wish you make on another island counts for one star fragment, to a maximum of 20 wishes. Any zodiac fragments you receive will correspond to the date on your island and not the date of the host island.
@@ -192,7 +190,7 @@ You can get different colors on different profiles.
 ### House Unlocks
 - **Moving To The Island**
   - Fee: 5,000 Nook Miles
-  - Unlocks: Your very own (deserted) island, 1 Jock Villager, 1 Uchi Villager, your very own Tent, Fruit Trees, Resident Services (Tent)
+  - Unlocks: A tent and a mailbox
 
 - **Tent-to-house upgrade**
   - Fee: 98,000 Bells
@@ -200,29 +198,31 @@ You can get different colors on different profiles.
 
 - **House size upgrade**
   - Fee: 198,000 Bells
-  - Unlocks: 8x8 Grid, 40 additional storage slots
+  - Unlocks: 8x8 grid, 40 additional storage slots
 
 - **Back Room Addition**
   - Fee: 348,000 Bells
-  - Unlocks: Back Room, 6x6 Grid, 120 additional storage slots
+  - Unlocks: Back Room, 6x6 grid, 120 additional storage slots
 
 - **Left Room Addition**
   - Fee: 548,000 Bells
-  - Unlocks: Left Room, 6x6 Grid, 120 additional storage slots, customizations for your Mailbox and the color of your Roof (Tip: After you get your left room, you can also pick up your mailbox and move it. Just walk up to it and press Y, as you would with other furnishings.)
-
+  - Unlocks: Left Room, 6x6 grid, 120 additional storage slots, mailbox and roof customizations 
+  - After unlocking the left room, you can also pick up your mailbox and move it. Just walk up to it and press Y, as you would with other furniture.
+  
 - **Right Room Addition**
   - Fee: 758,000 Bells
-  - Unlocks: Right Room, 6x6 Grid, 40 additional storage slots, customization of Doors
+  - Unlocks: Right Room, 6x6 grid, 40 additional storage slots, door customization
 
 - **Second Floor Addition**
   - Fee: 1,248,000 Bells
-  - Unlocks: Second Floor, 10x6 Grid, 400 additional storage slots, customization of your Home’s Siding
+  - Unlocks: Second Floor, 10x6 grid, 400 additional storage slots, home siding customization
 
 - **Basement Addition**
   - Fee: 2,498,000 Bells
-  - Unlocks: Basement, 10x6 Grid, 800 additional storage slots, special bonus
-  - Special Bonus: Free Exterior Renovations! Limited to 1 Design Per item per category per day
+  - Unlocks: Basement, 10x6 grid, 800 additional storage slots
+   - Special Bonus: Free exterior renovations, limited to 1 design per item per category per day.
 
+<!-- TODO: Add that flimsy axe, can, shovel, pole, and ladder diys can be purchased from nooks cranny (since gettiing from blathers and nooks requires you to be RR)-->
 ### DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
 - **Flimsy Net:** Finish DIY workshop.
@@ -232,15 +232,19 @@ You can get different colors on different profiles.
 - **Vaulting Pole:** Talk to Blathers for the first time.  
 - **Ladder:** Start the quest to furnish 3 houses — it should start after Nook’s Cranny is built.
 - **Upgraded Tools:** To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must purchase the Better Tools recipe kit from the Nook Miles store after paying off your initial 5,000M loan.
-***Note:** The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.*
+
+***Notes:***
+ - *The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.*
+ - *For players other than the Island representative, the flimsy tools, Ladder and Vaulting Pole DIYs can be bought from Nook's Cranny.*
+
 
 ### Golden Tool Unlocks (Note: Spoilers!)
-- **Golden Axe:** Break 100 axes.
-- **Golden Shovel:** Help Gulliver 30 times (Gullivarrr does not count towards this).
-- **Golden Net:** Complete the bug portion of the Critterpedia.
-- **Golden Rod:** Complete the fish portion of the Critterpedia.
-- **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations.
-- **Golden Slingshot:** Shoot 300 balloons, then shoot down the golden balloon. (Note: the recipe will appear every 20 balloons in a golden balloon until you learn it, making it the only farmable golden tool recipe.)
+- **Golden Axe:** Break 100 axes. Your character will be struck by inspiration and learn the DIY by themselves.
+- **Golden Shovel:** Help Gulliver 30 times (Gullivarrr does not count towards this). Gulliver will mail you the DIY the next day instead of the usual reward.
+- **Golden Net:** Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.
+- **Golden Rod:** Complete the fish portion of the Critterpedia. The DIY will be mailed the next day by the museum.
+- **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.
+- **Golden Slingshot:** Shoot 300 balloons. The DIY will be carried a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.
 
 ***Note:** Golden tools can still break, but have a considerably higher durability. See [here](https://cestislife.github.io/img/tools.png) for tool durability*
 
@@ -253,7 +257,7 @@ You can get different colors on different profiles.
 - **Project K:** Upgrade Resident Services to a building, have 6 villagers moved in and settled. 
 
 ## Gardening
-The ACNH garden community has kindly put together various resources for all your gardening needs! Please view the links below to help answer any gardening-related questions you may have.
+The ACNH gardening community has kindly put together various resources for all your gardening needs! Please check the links below to help answer any gardening-related questions you may have.
 
 ### Gardening FAQ
 https://bit.ly/acnhflowerfaq 
@@ -281,10 +285,10 @@ Yes they can. It is a myth that there is a limit to how many rocks can be on a s
 
 ## Turnips/Stalk Market
 ### When does Daisy Mae visit?
-Once you've built Nook's Cranny, Daisy Mae will visit every Sunday from 5:00 am to 12:00 pm. No NPC or event interrupts her arrival. 
+Once you've built Nook's Cranny, Daisy Mae will visit every Sunday from 5:00 AM to 12:00 AM. No NPC or event interrupts her arrival. 
 
 ### How does the Stalk Market work?
-Daisy Mae’s prices change every time she visits, and you can buy turnips for *90 to 110 bells per turnip*. If you choose to purchase them, you can sell turnips to Nook's Cranny until Saturday (after which they will rot). Nook's Cranny can buy turnips for prices from *9 to 660 bells per turnip*. Nook’s Cranny prices change at 12:00 pm for a total of 2 distinct prices per day. The goal is to sell your turnips for *more* than you spent on them to make millions! 
+  Daisy Mae’s prices change every time she visits, and you can buy turnips for *90 to 110 bells per turnip*. If you choose to purchase them, you can sell turnips to Nook's Cranny until Saturday (after which they will rot). Nook's Cranny can buy turnips at prices ranging from *9 to 660 bells per turnip*. Nook’s Cranny has two distinct prices every day, one in the morning (from 8:00 AM to 12:00 PM), then another one in the afternoon (from 12:00 PM to 10:00 PM). The goal is to sell your turnips for *more* than you spent on them to make millions! 
 
 For further, extensive details about turnips and the stalk market, read here: https://tinyurl.com/acnhturnipdoc
 
@@ -294,24 +298,24 @@ For further, extensive details about turnips and the stalk market, read here: ht
 - Don't let your turnips rot! You can't unspoil them, and Nook’s Cranny will only buy rotten turnips for 100 bells and they won't be sold as stacks of 10. Instead, they'll sell as one turnip per stack. Make sure you sell by the following Saturday. Otherwise, they'll spoil Sunday morning at 5:00 AM. 
 
 ### How do I time travel for good turnip prices?
-Your turnip price pattern resets every time you time travel. If you want to fish out big spike price with TT, follow this method:
+Your turnip price pattern resets every time you time travel backwards. If you want to fish out big spike price with TT, follow this method:
 1. TT to Tuesday at 11:58 AM and check your price.
 2. If the price is not anywhere within the 127-225 range, save and quit. TT back to 11:57 AM, re-login. Repeat this step until the sell price is in that 127-225 range.
-3. When the price is within the 127-225 range, wait in game until 12:00 pm, then check the price again.
+3. When the price is within the 127-225 range, wait in game until 12:00 PM, then check the price again.
 4. If the price is not high enough, return to Step 1.
 
 ### How do I do turnip runs?
 Turnip runs are a simple process but can be easily used to make tens of millions of bells. The process requires a **Nintendo Switch Online subscription** and a partner. 
 
 1. One person time travels until they find a high turnip price at Nook’s Cranny (see: “How do I time travel for good turnip prices?”). 
-    - Aim for 300+ bell prices—the higher the better.  
+    - Aim for prices of 300 bells or more — the higher the better.  
 2. The other person time travels until they find a low buy price from Daisy Mae. (Simply travel to Sunday, back a day, and forward again until you find your desired price.) 
-    - Aim for <95 bells price.
+    - Aim for prices of less than 95 bells.
 3. Buy a full inventory from Daisy Mae, travel to the Nook’s Cranny and sell. Rinse, repeat, make money!
 
 ## Villagers
 ### Who are villagers?
-The AC community commonly refers to animal island residents as 'villagers'. (TODO review if needed - Not to be confused with Special NPCs <link>)
+The AC community commonly refers to animal island residents as 'villagers'. <!-- TODO review if needed - Not to be confused with Special NPCs <link> -->
 
 ### How many villagers are there in Animal Crossing: New Horizons?
 Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
@@ -326,8 +330,8 @@ Unfortunately there’s no 100% guaranteed way to get a specific villager unless
 Please refer to Yue’s move-out guide here: https://yuexr.github.io/acnh/moveout.html.
 
 ### I agreed to let one of my villagers move out today, when can I go 'villager hunting' (or) Why don't I see any villagers in my mystery islands I visit?
-The villager progresses to the next step in a move-out sequence every next 5 am. `Villager asks to leave and you say yes > Villager is in boxes > Empty plot > Automatically filled with a villager from your 'move in queue'` https://yuexr.github.io/img/mo/2.png
-You MUST have an unsold, empty plot available to invite a villager from another player's island, or to find villagers on mystery islands (and you can only invite *one villager from a mystery island* per day). Note: If someone visited and claimed your villager who was in boxes their house will immediately say 'I moved out', but you will still need to wait until the next day for an empty plot. You can only invite one villager per day, regardless of many empty plots you have.
+The villager progresses to the next step in a move-out sequence every next 5:00 AM. `Villager asks to leave and you say yes > Villager is in boxes > Empty plot > Automatically filled with a villager from your 'move in queue'` https://yuexr.github.io/img/mo/2.png
+You MUST have an unsold, empty plot available to invite a villager from another player's island, or to find villagers on mystery islands (and you can only invite *one villager from a mystery island* per day). Note: If someone visited and claimed your villager who was in boxes their house will immediately say 'I moved out', but you will still need to wait until the next day for an empty plot.
 
 ### How do I invite a villager from another player's island?
 The villager has to be moving out and 'in boxes', if you talk to them they will mention that they are moving out and you'll be shown an option to invite them to live on your island. If you have an open plot, they will mention that they spoke to Tom Nook and are going to move in to your island and show up on your island the next day.
@@ -379,7 +383,7 @@ There are 8 villager personalities.
 | Cranky | Snooty        |
 | Lazy   | Peppy         |
 
-Special NPCs do not have personalities, and each villager can only be of one personality. Personality dictates the DIYs a villager crafts, the reactions they teach, the dialogue they can use, and more.
+Special NPCs do not have personalities, and each villager can only be of one personality. Personality dictates the DIYs a villager crafts, the reactions they teach, and the dialogue they can use.
 
 ### What is friendship/What are friendship levels?
 “Friendship” refers to how close you are with your villagers. Talking to them, gifting them items, and completing quests for them all increases friendship. Villagers also have friendship levels, and when you unlock new levels, you unlock new interactions and quests! For more specific details, visit Yue’s friendship guide, located here: https://yuexr.github.io/acnh/friendship.html.
@@ -413,16 +417,17 @@ Yes, it increases your friendship level with them, for more info and also info o
 
 ### My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
-- Hats and accessories each have their own categories and their replacement mechanics are still being researched.
-- If you wish to remove a custom design, information relating to that is explained in the
+- Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum). 
+- Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit https://docs.google.com/spreadsheets/d/1hI0CXeiooie1KRCsSba2Q8bcXQPOXlFK_2tYUSG84Xo/edit?usp=sharing.
+- If you wish to remove a custom design, please read [here](#isabelle).
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
-### My villager placed a furniture item I gifted them (or a mannequin of a clothing I gifted them in their house), how do I remove it?
+### My villager placed a furniture item (or a mannequin of a clothing) I gifted them in their house, how do I remove it?
 You cannot remove the furniture/mannequin, but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing. Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
 
-### What are gifted vs ungifted villagers during trading and why is it important to let someone who you're trading with know?
-- Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable by other players than ungifted villagers, and they can never be ungifted, only have their gifts replaced.
-- Ungifted villagers tend to be *higher value*, completely default villagers — they wear only default outfits and have an untouched house, as if they were found from a mystery island.
+### What is the difference between 'gifted' and 'ungifted' villagers during trading, and why is it important to inform someone you are trading with know?
+- Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable to other players in comparison to ungifted villagers. They can never be ungifted, only have their gifts replaced.
+- Ungifted villagers tend to be *higher value*, completely default villagers — they only wear their original outfits and have an untouched house—as if they were found from a mystery island.
 
 <!-- TODO: Decide on wording for this question -->
 ### What is the move-in/move-out queue (or) What is the void (or) Where do villagers that automatically fill my empty plots come from?
@@ -470,7 +475,8 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 ### Isabelle
 - Unlocked when you upgrade [Resident Services](#building-unlocks) into a building.
 - Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.
-- You can talk to Isabelle to reset villagers' clothing, catchphrases through the 'Discuss a Resident' option. Note: Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
+- You can talk to Isabelle to reset villagers' clothing, catchphrases through the 'Discuss a Resident' option. 
+  - **Note:** Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
   - The way they talk: Resets custom catchphrases, but NOT nicknames or greetings.
   - The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
 
@@ -590,7 +596,7 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 - Upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.
 - If the player completes his favor, he will mail the player a special pirate furniture item the following day.
 - See [here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
-- See [here](https://yuexr.github.io/img/pirate.png) for his reward.
+- See [here](https://yuexr.github.io/img/pirate.png) for his rewards.
 
 ### Harvey (Harv)
 - Will wander around your island upon first encounter.
@@ -633,18 +639,18 @@ Yue has put together a fantastic infographic for NPC schedules and their unlock 
 Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
 
 ### Bug-Off
-In the Northern Hemisphere, the bug-off occurs on the 4th Saturday of June, July, August, and September from 9 AM to 6 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9 AM to 6 PM. 
+In the Northern Hemisphere, the Bug-Off occurs on the 4th Saturday of June, July, August, and September from 9:00 AM to 6:00 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9:00 AM to 6:00 PM. 
 
 To participate, talk to Flick and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many bugs as possible in order to earn points. The points you earn in total (across all Bug-Offs) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
 
 The points can also be used to redeem items, of which there are 13. Once you have collected all 13, you will start to receive duplicates. Redeeming points for items (10 points each) does not detract from the trophy total.  
 
-Each bug you catch adds 1 point to your total and each fish after the first three adds a bonus 2 points. The bugs you catch will immediately appear in Flick’s bug cage. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
+Each bug you catch adds 1 point to your total and each bug after the first three adds a bonus 2 points. The bugs you catch will immediately appear in Flick’s bug cage. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
 
 For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
 
 ### Fishing Tourney
-The fishing tourney occurs on the 2nd weekend of April, July, October, and January from 9 AM to 6 PM. The dates do not vary across hemispheres. 
+The fishing tourney occurs on the 2nd weekend of April, July, October, and January from 9:00 AM to 6:00 PM. The dates do not vary across hemispheres. 
 
 To participate, talk to C.J. and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many fish as possible in order to earn points. The points you earn in total (across all Fishing Tourneys) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
 
@@ -707,10 +713,10 @@ You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each s
 For more detailed info, visit https://yuexr.github.io/acnh/ev_wedding.html.
 
 ### Fireworks Festival
-Firework shows last from 7 pm to 12 am every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
+Firework shows last from 7:00 PM to 12:00 AM every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
 
 ### Halloween 
-Halloween happens on October 31 from 5 PM till 12 AM. The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the spooky set and lollipops. Villagers will teach you the scare reaction after you give them a piece of candy and likewise, Jack will teach you the haunt reaction. If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
+Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the spooky set and lollipops. Villagers will teach you the scare reaction after you give them a piece of candy and likewise, Jack will teach you the haunt reaction. If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear Jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
 
 For more detailed info, visit https://cestislife.github.io/halloween.
 
@@ -803,10 +809,10 @@ If Isabelle didn't make an announcement about the trees being decorated, you don
 
 ### How do I time travel to farm an NPC visitor?
 If the NPC is on a weekday EXCEPT Monday:
- - TT to 4:58am on the same day of NPC. At 5AM, it will change to new day and NPC will be there
+ - TT to 4:58 AM on the same day of NPC. At 5am, it will change to new day and NPC will be there
 
 If the NPC is on a Monday:
- - TT forward a day to Tuesday, then go back to Monday (after 5AM)
+ - TT forward a day to Tuesday, then go back to Monday (after 5:00 AM)
 
 ### Will my villagers move out if I time travel too much? 
 Nope! Though this was something that could happen in past installments of the game, villagers in New Horizons will not move out unless you give them explicit permission to do so.
@@ -836,18 +842,18 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 | Shoe & Bug Dupe Table  | If you did not set this up in 1.2.0 **it is impossible to do!** https://youtu.be/jVvHtc3VZ9c                                                                       | N/A                                                    |
 | DC Dupe Exploit        | Allows the user to duplicate items. Note: **This dupe can corrupt your save file. Attempt at your own risk.** https://www.youtube.com/watch?v=qhyHsDs-H3Y          | N/A                                                    |
 | South Hemisphere DIY   | Halloween prevents SH users from obtaining the Outdoor Picnic Set DIY from Isabelle.                                                                               | Recipe can still be found in balloons.                 |
-| Invisible Weeds        | Weeds, when placed placed between 12 AM and 5 AM on the last day of a season, are invisible until after 5 AM                                                       | N/A                                                    |
+| Invisible Weeds        | Weeds, when placed placed between 12:00 AM and 5:00 AM on the last day of a season, are invisible until after 5:00 AM                                                       | N/A                                                    |
 
 Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. 1.5.1.
 
 ### Is X a glitch?
-The only way to tell if something is a glitch is to see if it is reproducible and if it is unintended. If you suspect you have found a glitch for the **current** version of the game, please contact littlesnorlax#1717 on Discord. As a reminder, Glitches ***are not***: Bad luck/RNG, unexpected but intended gameplay, or hacked items.
+The only way to tell if something is a glitch is to see if it is reproducible and if it is unintended. If you suspect you have found a glitch for the **current** version of the game, please contact littlesnorlax#1717 on Discord. As a reminder, glitches ***are not***: bad luck/RNG, unexpected but intended gameplay, or hacked items.
 
 ### How do I perform the DC dupe? 
 The Disconnect Dupe (or "DC dupe") exploits the autosave process to duplicate already-existing items. Please note: **Any interruption of the normal save process could lead to corruption. The authors of this page nor the people supplying instructions will be responsible for what may happen to your game.** With that said, please visit https://www.youtube.com/watch?v=qhyHsDs-H3Y for instructions on how to complete the DC dupe.
 
 ### What happened to star trees/wrapped critters/Harv's fence/etc.?
-A majority of the hacked items have been patched out of the game. The only hacked items that remain are camo items and unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up, if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left in-game, if owned previously. 
+The majority of hacked items have been patched out of the game. The only hacked items that remain are camo items and unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame if owned previously. 
 
 ## Miscellaneous
 ### I heard a rumor that X might be added to the game. Is this true?
@@ -864,7 +870,7 @@ You can find them at https://acnh.directory/.
 
 ## Acknowledgements
 This guide was brought to you with love and hard work by:
-littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Sari, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, mybae#1905, Yamza#0836, pojayto#1996, danc#0854, and#6915 ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
