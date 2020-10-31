@@ -159,7 +159,7 @@ Please visit https://tinyurl.com/villagerintext for a complete list of villager 
 Please visit https://wuffs.org/acnh/mysterytour.html for a complete list of them.  
 Additionally, there is a 30% chance of finding fossil, as well as a 30% chance of finding a DIY message bottle per island. You can always find one wasp's nest and a piece of furniture from shaking a non-fruit tree. If you have an empty, unsold plot, you can also find a random villager. See [here](https://docs.google.com/document/d/16yHQzdYx4VznhnKSGZdtaKi_Yo8NpDwCYK8dmpR481s/edit) to learn about how the game determines the villager. See [here](https://acnhapi.com/nmt-calculator/) for figuring out your chances of finding a specific villager.  
 
-### Which mom's items can I get each month?
+### Which Mom's items can I get each month?
 |Month          |North Hemisphere |Southern Hemisphere |
 |---------------|-----------------|--------------------|
 |January        |Art              |Plushie             |
@@ -177,6 +177,23 @@ Additionally, there is a 30% chance of finding fossil, as well as a 30% chance o
 |Your Birthday! |Birthday Cake    |Birthday Cake       |
 
 You can get different colors on different profiles. The birthday cake item can sometimes be sent early if you time travel. You will still get a birthday cake if you sync back to real time for your birthday.
+
+### How do I dream?
+Go to a bed indoors and lie down. Select "I want to sleep." This will allow you to enter the dream world and meet Luna! From there, select "I want to dream" and then enter a dream address!  
+
+### How do I get my dream address?
+Go to a bed indoors and lie down. Select "I want to sleep." From there you will meet Luna! Select "Share a dream" to receive your dream code.  
+Your weather and time in the dream will be same as when you upload the dream.
+
+### What can you do in a dream?
+You can explore other user's islands at your own leisure to get inspiration or talk to different villagers! Any changes made by visitors will NOT affect your real island and visitors can NOT take anything from a dream!  
+
+### How can I find X seasonal material?
+- See [here](https://bigfootmg.github.io/ACNH-Plant-Guide/07.png) for young spring bamboo, cherry blossom, acorns, pine cones, maple leaves, and mushrooms.  
+- Summer shells are found on the beach and more spawn every five minutes.
+- Snowflakes flow around you island and can be caught with a net.
+- Ornaments dropped from cedar trees, it doesn't matter if the trees is decorated or not. But they only appear after Isabelle announces their presence. See [here](#im-in-festive-season-but-why-are-none-of-the-cedar-trees-are-decorated) for how to get them. 
+- Note for acorns, pinecones and ornament: you can simply shake one tree infinitely until it produces the amount you want.  
 
 ## Unlocking Things
 ### Nook Phone Unlocks
@@ -295,6 +312,10 @@ https://cestislife.github.io/rockguide
 
 ### Can all 6 of my rocks be in the same grid quadrant?
 Yes they can. It is a myth that there is a limit to how many rocks can be on a single grid quadrant.
+
+### Why are some of my rocks not spawning?
+If you are making a rock garden, it's usually something south of the garden blocking the spawn. Check the rock garden guide, for what it might be.  
+You need to remove it until the rock spawn.  
 
 ### What's the quickest path to each hybrid?
 ![Breeding Guide](/assets/breeding.png)
@@ -898,6 +919,9 @@ A lot of the rates can be found at https://acnh.isomorphicbox.com/rates/#assortm
 3. Go to 'software update', then 'via the internet'.
 
 Your ACNH game is now up to date!
+
+### Can you transfer your save to another switch?
+Yes, but you have to contact nintendo to do it right now.  
 
 ### What some other resources for AC:NH?
 You can find them at https://acnh.directory/.
