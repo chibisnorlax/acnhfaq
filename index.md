@@ -921,8 +921,8 @@ A lot of the rates can be found at https://acnh.isomorphicbox.com/rates/#assortm
 
 Your ACNH game is now up to date!
 
-### Can you transfer your save to another switch?
-Yes, but you have to contact nintendo to do it right now.  
+### Can I transfer my save data/island to another switch?
+Yes, but at the moment the service is only available by contacting Nintendo directly. Please visit https://en-americas-support.nintendo.com/app/contact or the Nintendo customer service page in your country for more information.  
 
 ### What some other resources for AC:NH?
 You can find them at https://acnh.directory/.
@@ -933,7 +933,7 @@ littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monov
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
-This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
+This guide also would not have been possible without the extraordinary work of the dataminers, testers, and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
 
 Please contact littlesnorlax#1717 on Discord or submit a PR if you would like to request changes to the document! 
 
