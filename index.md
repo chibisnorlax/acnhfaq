@@ -625,7 +625,15 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 ### Label
 - The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
 - Conducts fashion challenges with the player in exchange for clothing and/or **Tailor's Tickets** which can be used in The Able Sisters shop.
-- Label quest rewards calculation <!-- TODO: include image/table -->
+- Label quest rewards are calculated as below
+
+| Evaluation | Items that fit the theme | Reward  | Friendship level rise |
+|------------------|--------------------|-----------------|-------------------|
+| 4 : Great     | 3+            | 1 item from Labelle fashion line + 2 tailor's tickets (mail)  | High        | 
+| 3: Good      	| 2      | 1 item from Labelle fashion line + 1 tailor's ticket (mail)       | Medium       | 
+| 2: Normal     | 1      | 1 tailor's ticket (mail)     | Medium        | 
+| 1: Not Great  | 0     | 1 tailor's ticket (mail)     | Low          | 
+\* It's unclear what impacts Friendship levels with Label have.
 
 ### Kicks
 - Shop vendor in the Resident Services plaza.
@@ -921,8 +929,8 @@ A lot of the rates can be found at https://acnh.isomorphicbox.com/rates/#assortm
 
 Your ACNH game is now up to date!
 
-### Can you transfer your save to another switch?
-Yes, but you have to contact nintendo to do it right now.  
+### Can I transfer my save data/island to another switch?
+Yes, but at the moment the service is only available by contacting Nintendo directly. Please visit https://en-americas-support.nintendo.com/app/contact or the Nintendo customer service page in your country for more information.  
 
 ### What some other resources for AC:NH?
 You can find them at https://acnh.directory/.
@@ -933,7 +941,7 @@ littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monov
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
-This guide also would not have been possible without the extraordinary work of the dataminers and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
+This guide also would not have been possible without the extraordinary work of the dataminers, testers, and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
 
 Please contact littlesnorlax#1717 on Discord or submit a PR if you would like to request changes to the document! 
 
