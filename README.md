@@ -28,3 +28,7 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 ### Lingo
 - Use “Island Representative,” not “Resident Representative.”
   - i.e., "Only the *Island Representative* can forward the storyline."
+
+## Change Log
+### 1.0
+- Initial document, current through game version 1.5.1.
