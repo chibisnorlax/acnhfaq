@@ -185,9 +185,6 @@ Up to 3 villagers can craft per day. The first villager starts crafting when you
 ### What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
 
-### How do I unlock all the DAL items? What are the milestones?
-![DAL rewards](/assets/dal.png)
-
 ### What are Pocket Camp items and how can I get them?
 Visit https://cestislife.github.io/img/pocketcamp.png for information on the Pocket Camp exclusive items.  
 
