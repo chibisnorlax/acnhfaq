@@ -625,7 +625,15 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 ### Label
 - The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
 - Conducts fashion challenges with the player in exchange for clothing and/or **Tailor's Tickets** which can be used in The Able Sisters shop.
-- Label quest rewards calculation <!-- TODO: include image/table -->
+- Label quest rewards are calculated as below
+
+| Evaluation | Items that fit the theme | Reward  | Friendship level rise |
+|------------------|--------------------|-----------------|-------------------|
+| 4 : Great     | 3+            | 1 item from Labelle fashion line + 2 tailor's tickets (mail)  | High        | 
+| 3: Good      	| 2      | 1 item from Labelle fashion line + 1 tailor's ticket (mail)       | Medium       | 
+| 2: Normal     | 1      | 1 tailor's ticket (mail)     | Medium        | 
+| 1: Not Great  | 0     | 1 tailor's ticket (mail)     | Low          | 
+\* Friendship levels with Label only impact her dialogs. It has been suggested that it also increases Sable friendship levels towards her patterns quest but is unconfirmed.
 
 ### Kicks
 - Shop vendor in the Resident Services plaza.
