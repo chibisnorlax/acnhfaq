@@ -86,7 +86,7 @@ Yes! You can wish on shooting stars while visiting another player’s island and
 However, if you visit Celeste on another player’s island, any zodiac DIY you receive will correspond to the date of the host island.  
 
 ### I didn’t get all my star fragments the next day! What gives?
-Star fragments spawn periodically throughout the day, usually 8-11 at a time. If the next set doesn’t appear after a little while, clear your beaches of shells and other items that may block the spawns and wait a little while longer. 
+Star fragments spawn periodically throughout the day, usually 8-10 at a time. If the next set doesn’t appear after a little while, clear your beaches of shells and other items that may block the spawns and wait a little while longer. 
 
 **Star Fragment Drop Rates From Wishing**
 - During your birth month:
