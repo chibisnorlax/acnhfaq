@@ -703,7 +703,7 @@ To participate, talk to Flick and pay 500 bells. Each round lasts 3 minutes—th
 
 The points can also be used to redeem items, of which there are 13. Once you have collected all 13, you will start to receive duplicates. Redeeming points for items (10 points each) does not detract from the trophy total.  
 
-Each bug you catch adds 1 point to your total and each bug after the first three adds a bonus 2 points. The bugs you catch will immediately appear in Flick’s bug cage. He will also buy them from you for 1.5x the regular selling price. If you play with players, you will receive bonus points and waive the 500 bell fee.
+Each bug you catch adds 1 point to your total and each bug after the first three adds a bonus 2 points. The bugs you catch will immediately appear in Flick’s bug cage. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
 
 For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
 
