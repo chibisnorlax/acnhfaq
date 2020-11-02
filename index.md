@@ -42,8 +42,8 @@ Starting day 2 of the game, speak with [Orville](#orville-and-wilbur) in the air
 ### What defines a week and a day in-game?
 An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
 
-### How can I get eight hits from a rock?
-Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock eight times without being knocked away. See below for an example.
+### How can I get 8 hits from a rock?
+Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock 8 times without being knocked away. See below for an example.
 ![Rock Drops GIF](/assets/rockdrops.gif)
 
 ### What does eating fruit/turnip/cupcake/candy/lollipop do?
