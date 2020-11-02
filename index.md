@@ -7,7 +7,7 @@ This page is current through version 1.5.1 of the game.
 
 ## Navigation
 - [Island Life](#island-life)
-- [Island Development](#island-development)
+- [Island Development](#island-development) 
 - [Unlocking Things](#unlocking-things)
 - [Gardening](#gardening)
 - [Turnips/Stalk Market](#turnipsstalk-market)
@@ -28,7 +28,6 @@ This page is current through version 1.5.1 of the game.
 | Island Representative | Synonym for Resident Representative/player who created the island. |
 | DIY                   | Shorthand for "DIY Recipe"                                         |
 | NSO                   | Abbreviation for "Nintendo Switch Online"                          |
-
 
 ## Island Life
 ### What should I do during the first week of the game?
@@ -145,6 +144,55 @@ You can explore other user's islands at your own leisure to get inspiration or t
 - Snowflakes flow around you island and can be caught with a net.
 - Ornaments dropped from cedar trees, it doesn't matter if the trees is decorated or not. But they only appear after Isabelle announces their presence. See [here](#im-in-festive-season-but-why-are-none-of-the-cedar-trees-are-decorated) for how to get them. 
 - Note for acorns, pinecones and ornament: you can simply shake one tree infinitely until it produces the amount you want.
+
+## Island Development
+### How long does it take for X to be built?
+One [day](#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
+
+### Can I move where buildings are on my island?
+Yes! Every building and house can be moved except the airport and Resident Services.
+
+### How do I unlock terraforming?
+Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](#unlocking-things) section.
+
+### How do I raise my island rating?
+Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
+
+### What can secondary (non-Island-Representative) players do?
+Secondary residents can do everything that Island Representatives can except story progression and certain infrastructural decisions. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
+
+They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
+
+### How do I obtain "X" DIY recipe?
+- Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personalities give you which recipes.   
+- The Pitfall Seed DIY is either received from a crafting Jock villager or self-taught through digging up a pitfall seed. 
+- Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. come from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons work, and [here](https://cestislife.github.io/seasonaldiy) for a complete list of seasonal DIYs.
+- Trash DIY recipes are self-taught after fishing up a certain amount of trash. Visit the spreadsheet in the last bullet point for how many for a specific one.  
+- The King Tut mask is self-taught after picking up a golden nugget dropped from hitting a rock.  
+- Most Spooky DIY recipes are obtained through crafting villagers, balloons, or message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
+- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. Some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
+- Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
+- You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also gives you space-themed (celestial) DIY recipes and wand recipes.  
+- Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
+- [Wedding](#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
+- The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
+- You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
+- You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
+
+### How long do villagers craft for? How many can craft per day?
+Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. Villagers won't craft on event days (e.g. bug-off, fishing tourney, etc.).
+
+### What do I do with duplicate DIYs?
+Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
+
+### How do I unlock all the DAL items? What are the milestones?
+![DAL rewards](/assets/dal.png)
+
+### What are Pocket Camp items and how can I get them?
+Visit https://cestislife.github.io/img/pocketcamp.png for information on the Pocket Camp exclusive items.  
+
+### When does a balloon spawn and what do they drop?
+See this guide, https://cestislife.github.io/img/balloons.png.
 
 ## Island Development
 ### How long does it take for X to be built?
@@ -495,7 +543,7 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 ![NPC Schedule Infographic](/assets/npcskd.png)
 
 ### How long does X NPC stay on my island?
-- **Labelle, Kicks, Leif, Mable (before Able Sisters is built):** 5:00 AM - 10:00 PM  
+- **Label, Kicks, Leif, Mable (before Able Sisters is built):** 5:00 AM - 10:00 PM  
 - **Flick, C.J., Redd, Gulliver, Gullivarrr:** 5:00 AM - 5:00 AM (next day)  
 - **Saharah, K.K. Slider:** 5:00 AM - 12:00 AM
   - K.K. Slider only takes song requests from 6:00 PM - 12:00 AM
@@ -709,7 +757,7 @@ For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
 ### Fishing Tourney
 The fishing tourney occurs on the 2nd weekend of April, July, October, and January from 9:00 AM to 6:00 PM. The dates do not vary across hemispheres. 
 
-To participate, talk to C.J. and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many fish as possible in order to earn points. The points you earn in total (across all Fishing Tourneys) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
+To participate, talk to C.J. and pay 500 bells. Each round lasts 3 minutes—the goal is to catch as many fish as possible in order to earn points. The points you earn in total (cumulative across all Fishing Tourneys in any island) amass to a certain trophy—bronze for 100 points, silver for 200 points, and gold for 300 points. These trophies can only be earned once per player. 
 
 The points can also be used to redeem items, of which there are 13. Once you have collected all 13, you will start to receive duplicates. Redeeming points for items (10 points each) does not detract from the trophy total.  
 
