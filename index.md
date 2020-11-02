@@ -132,7 +132,7 @@ Star fragments are a crafting material that can be used in DIY recipes.
 By yourself, you can obtain a maximum of 20 star fragments. If you invite visitors from other islands (**not** other residents that live on your island), you can obtain up to 40 star fragments. For every 5 wishes your visitors make, you will receive 1 additional star fragment on top of the amount you wished for yourself. This means your visitors need to wish 100 times total for you to achieve the additional 20, for a max total of 40 fragments.
 
 ### Can I visit other islands for shooting stars and/or Celeste?
-Yes! You can wish on shooting stars while visiting another player’s island and the star fragments will appear on your island’s beach the next day. Just like on your own island, each wish you make on another island counts for one star fragment, to a maximum of 20 wishes. Any zodiac fragments you receive will correspond to the date on your island and not the date of the host island.
+Yes! You can wish on shooting stars while visiting another player’s island and the star fragments will appear on your island’s beach the next day. Just like on your own island, each wish you make on another island counts for one star fragment, to a maximum of 20 wishes. Any zodiac fragments you receive will correspond to the date on your island and not the date of the host island. By extension if you had wished on stars on the last zodiac day on your island (or someone else's island), the star fragments you find on the beach the next day will be from the zodiac corresponding to the day you wished.
 
 However, if you visit Celeste on another player’s island, any zodiac DIY you receive will correspond to the date of the host island.  
 
