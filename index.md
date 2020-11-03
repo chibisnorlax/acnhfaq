@@ -455,6 +455,12 @@ All villagers have Amiibo cards **except** the following: Raymond, Dom, Sherb, C
 
 ***Note:** Amiibo villagers are in no way different from NMT island villagers. They are the exact same.*
 
+### Where can I purchase Amiibo figures/cards?
+Amiibos can be purchased at authorized Nintendo retailers in your local area. You may also be able to find them secondhand on websites like eBay or Amazon.
+
+### What about Amiibo chips/NFC cards/unofficial Amiibos?
+Unofficial Amiibos can be made using a method called "spoofing". These Amiibos are not official nor guaranteed to work, but are an option if you cannot find official Amiibos near you.
+
 ### How do I invite a villager to live on my island using their Amiibo?
 Once you unlock the campsite (see [here](#building-unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
 
