@@ -110,21 +110,21 @@ Please visit https://wuffs.org/acnh/mysterytour.html for a complete list of them
 Additionally, there is a 30% chance of finding fossil, as well as a 30% chance of finding a DIY message bottle per island. You can always find one wasp's nest and a piece of furniture from shaking a non-fruit tree. If you have an empty, unsold plot, you can also find a random villager. See [here](https://docs.google.com/document/d/16yHQzdYx4VznhnKSGZdtaKi_Yo8NpDwCYK8dmpR481s/edit) to learn about how the game determines the villager. See [here](https://acnhapi.com/nmt-calculator/) for figuring out your chances of finding a specific villager.  
 
 ### Which Mom's items can I get each month?
-|Month          |North Hemisphere |Southern Hemisphere |
-|---------------|-----------------|--------------------|
-|January        |Art              |Plushie             |
-|February       |Embroidery       |Pen Stand           |
-|March          |Candles          |Cushion             |
-|April          |Tissue Box       |Tea Cozy            |
-|May            |Knapsack Kitchen |Mat                 |
-|June           |Apron Hand       |Knit Sweater        |
-|July           |Plushie          |Art                 |
-|August         |Pen Stand        |Embroidery          |
-|September      |Cushion          |Candles             |
-|October        |Tea Cozy         |Tissue Box          |
-|November       |Kitchen Mat      |Knapsack            |
-|December       |Hand knit        |Sweater Apron       |
-|Your Birthday! |Birthday Cake    |Birthday Cake       |
+|Month          |North Hemisphere    |Southern Hemisphere |
+|---------------|--------------------|--------------------|
+|January        |Art                 |Plushie             |
+|February       |Embroidery          |Pen Stand           |
+|March          |Candle Set          |Cushion             |
+|April          |Tissue Box          |Tea Cozy            |
+|May            |Knapsack            |Kitchen Mat`        |
+|June           |Handmade Apron      |Hand-knit Sweater   |
+|July           |Plushie             |Art                 |
+|August         |Pen Stand           |Embroidery          |
+|September      |Cushion             |Candle Set          |
+|October        |Tea Cozy            |Tissue Box          |
+|November       |Kitchen Mat         |Knapsack            |
+|December       |Hand-knit Sweater   |Handmade Apron      |
+|Your Birthday! |Birthday Cake       |Birthday Cake       |
 
 You can get different colors on different profiles. The birthday cake item can sometimes be sent early if you time travel. You will still get a birthday cake if you sync back to real time for your birthday.
 
