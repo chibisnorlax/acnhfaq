@@ -32,3 +32,7 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 ## Change Log
 ### 1.0
 - Initial document, current through game version 1.5.1.
+
+### 1.1.0
+- Updated versioning system to major/minor/patch.
+- Updated information regarding Sable, villagers, Amiibos, and fixed minor errors.
