@@ -44,6 +44,7 @@ An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor
 
 ### How can I get 8 hits from a rock?
 Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock 8 times without being knocked away. See below for an example.
+
 ![Rock Drops GIF](/assets/rockdrops.gif)
 
 ### What does eating fruit/turnip/cupcake/candy/lollipop do?
@@ -89,11 +90,11 @@ However, if you visit Celeste on another player’s island, any zodiac DIY you r
 Star fragments spawn periodically throughout the day, usually 8-10 at a time. If the next set doesn’t appear after a little while, clear your beaches of shells and other items that may block the spawns and wait a little while longer. 
 
 **Star Fragment Drop Rates From Wishing**
-- During your birth month:
+- During the zodiac period of your birth:
   - 70% star fragment
   - 20% zodiac fragment
   - 10% large star fragment
-- Other months:
+- Other zodiac periods:
   - 85% star fragment
   - 10% zodiac fragment
   - 5% large star fragment
@@ -170,7 +171,7 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - Trash DIY recipes are self-taught after fishing up a certain amount of trash. Visit the spreadsheet in the last bullet point for how many for a specific one.  
 - The King Tut mask is self-taught after picking up a golden nugget dropped from hitting a rock.  
 - Most Spooky DIY recipes are obtained through crafting villagers, balloons, or message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
-- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. Some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
+- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. Some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.
 - Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
 - You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also gives you space-themed (celestial) DIY recipes and wand recipes.  
 - Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
@@ -190,55 +191,9 @@ Visit https://cestislife.github.io/img/pocketcamp.png for information on the Poc
 
 ### When does a balloon spawn and what do they drop?
 See this guide, https://cestislife.github.io/img/balloons.png.
-
-## Island Development
-### How long does it take for X to be built?
-One [day](#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
-
-### Can I move where buildings are on my island?
-Yes! Every building and house can be moved except the airport and Resident Services.
-
-### How do I unlock terraforming?
-Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](#unlocking-things) section.
-
-### How do I raise my island rating?
-Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
-
-### What can secondary (non-Island-Representative) players do?
-Secondary residents can do everything that Island Representatives can except story progression and certain infrastructural decisions. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
-
-They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
-
-### How do I obtain "X" DIY recipe?
-- Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personalities give you which recipes.   
-- The Pitfall Seed DIY is either received from a crafting Jock villager or self-taught through digging up a pitfall seed. 
-- Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. come from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons work, and [here](https://cestislife.github.io/seasonaldiy) for a complete list of seasonal DIYs.
-- Trash DIY recipes are self-taught after fishing up a certain amount of trash. Visit the spreadsheet in the last bullet point for how many for a specific one.  
-- The King Tut mask is self-taught after picking up a golden nugget dropped from hitting a rock.  
-- Most Spooky DIY recipes are obtained through crafting villagers, balloons, or message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
-- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. Some are self-taught or from villagers and Zipper. See [here](#bunny-day-easter) for more detail.    
-- Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
-- You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also gives you space-themed (celestial) DIY recipes and wand recipes.  
-- Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
-- [Wedding](#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
-- The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
-- You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
-- You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
-
-### How long do villagers craft for? How many can craft per day?
-Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. Villagers won't craft on event days (e.g. bug-off, fishing tourney, etc.).
-
-### What do I do with duplicate DIYs?
-Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
 
 ### How do I unlock all the DAL items? What are the milestones?
 ![DAL rewards](/assets/dal.png)
-
-### What are Pocket Camp items and how can I get them?
-Visit https://cestislife.github.io/img/pocketcamp.png for information on the Pocket Camp exclusive items.  
-
-### When does a balloon spawn and what do they drop?
-See this guide, https://cestislife.github.io/img/balloons.png.
 
 ## Unlocking Things
 ### Nook Phone Unlocks
@@ -322,7 +277,7 @@ See this guide, https://cestislife.github.io/img/balloons.png.
 - **Golden Net:** Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.
 - **Golden Rod:** Complete the fish portion of the Critterpedia. The DIY will be mailed the next day by the museum.
 - **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.
-- **Golden Slingshot:** Shoot 300 balloons. The DIY will be carried a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.
+- **Golden Slingshot:** Shoot 300 balloons. The DIY will be carried in a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.
 
 ***Note:** Golden tools can still break, but have a considerably higher durability. Visit https://cestislife.github.io/img/tools.png for tool durability*
 
@@ -495,7 +450,7 @@ Amiibos are Nintendo-produced collectibles that come in the form of cards or fig
 
 All villagers have Amiibo cards **except** the following: Raymond, Dom, Sherb, Cyd, Reneigh, Audie, Judy, and Megan. (These 8 were introduced into the franchise in New Horizons, and thus do not have Amiibo cards or figures.) The NPCs Wilbur, Orville, Harvey, Lloid, Flick, C.J., Daisy Mae, Gullivarrr, and Wisp also have no Amiibos. 
 
-Note: Amiibo villagers are in no way different from NMT island villagers. They are the exact same.
+***Note:** Amiibo villagers are in no way different from NMT island villagers. They are the exact same.*
 
 ### How do I invite a villager to live on my island using their Amiibo?
 Once you unlock the campsite (see [here](#building-unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
@@ -508,19 +463,20 @@ Yes. Additionally, any furniture, fish/bug you gifted them and **is on their flo
 ### Is there any gameplay related benefit to gifting villagers?
 Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship-levels) with them. For more info on gifting, please refer to Yue's gifting guide here - https://yuexr.github.io/acnh/gift.html.
 
-**Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts. 
+***Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts.*
 
 | Not Safe                                                                                                                                                                                                    | Somewhat Safe                                                                                                                                                                                         | Completely Safe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Safe but Rejected                                                                  | Cannot Gift                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *These items can be displayed when gifted by hand, via the mail, or on the villager's birthday.*                                                                                                            | *These items will only be displayed if gifted via mail or on the villager's birthday. Gifting by hand is safe.*                                                                                       | *These items are never stored or displayed, regardless of gifting method.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | *These items are never stored or displayed, but the villager will give them back.* | *These items cannot be gifted.*                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Furniture, certain clothing  (tops/dress-up/wearable headwear/accessories),  certain tools (nets/fishing rods/watering cans/umbrellas/sparklers),  insects, fish, sea critters, art, music, plucked flowers | Certain clothing (unwearable headwear/bottoms/socks/shoes/bags),  certain tools (shovels/party poppers/ocarinas/tambourines/pan  flutes/uchiwa fans/balloons/bubble blowers/pinwheels/tweeters), rugs | Certain furniture (insect models/fish models),  certain clothing (wet suits), certain tools (axes/slingshots/wands),  identified fossils, wallpaper, flooring.  All materials that don't have the "Place Item" feature,  including clumps of weeds, tree branches, wood, hardwood,  softwood, clay, stones, iron nuggets, gold nuggets, pearls,  bamboo pieces, bamboo shoots, young spring bamboo, all sea shells,  summer shells, Bunny Day eggs, heart crystals, acorns, pine cones,  candy, pumpkins, mushrooms, unidentified fossils, wasp nests,  pitfall seeds, fish bait, medicine, customization kits,  customizable phone case kits, timers, birthday cupcakes, all fruit,  turnips, flower seed bags, saplings, starts, and trees. | Boots, empty cans, old tires, spoiled turnips,  used fountain fireworks, bells     | Wrapping paper, vaulting pole, ladder,  villager photos, posters, flower plants,  bushes, star fragments, Zodiac fragments,  cherry-blossom petals, maple leaves,  snowflakes, ornaments, fences,  Nook Miles Tickets, Saharah Tickets,  Tailors tickets, Bell vouchers,  Dream Bell exchange tickets, DIY's,  message bottles, what was this again?  (expired lost item), Wisp spirit pieces,  rusted parts, communicator parts,  communicator, Manila clam |
+| • Furniture<br>• Certain clothing (tops/dress-up/wearable headwear/accessories)<br>• Certain tools (nets/fishing rods/watering cans/umbrellas/sparklers)<br>• Insects<br>• Fishes<br>• Sea critters<br>• Art<br>• Music<br>• Plucked flowers | • Certain clothing (unwearable headwear/bottoms/socks/shoes/bags)<br>• Certain tools (shovels/party poppers/ocarinas/tambourines/pan flutes/uchiwa fans/balloons/bubble blowers/pinwheels/tweeters)<br>• Rugs | • Certain furniture (insect models/fish models)<br>• Certain clothing (wet suits)<br>• certain tools (axes/slingshots/wands)<br>• Identified fossils<br>• Wallpaper<br>• Flooring<br>• All materials that don't have the "Place Item" feature, (clumps of weeds, tree branches, wood, hardwood, softwood, clay, stones, iron nuggets, gold nuggets, pearls, bamboo pieces, bamboo shoots, young spring bamboo, all sea shells, summer shells, Bunny Day eggs, heart crystals, acorns, pine cones, candies, pumpkins, mushrooms, unidentified fossils, wasp nests, pitfall seeds, fish bait, medicine, customization kits, customizable phone case kits, timers, birthday cupcakes, all fruits, turnips, flower seed bags, saplings, starts, and trees) | • Boots<br>• Empty cans<br>• Old tires<br>• Spoiled turnips<br>• Used fountain fireworks<br>• Bells     | • Wrapping paper<br>• Vaulting pole<br>• Ladder<br>• Villager photos<br>• Posters<br>• Flower plants<br>• Bushes<br>• Star fragments<br>• Zodiac fragments<br>• Cherry-blossom petals<br>• Maple leaves<br>• Snowflakes<br>• Ornaments<br>• Fences<br>• Nook Miles Tickets<br>• Saharah Tickets<br>• Tailors tickets<br>• Bell vouchers<br>• Dream Bell exchange tickets<br>• DIYs<br>• Message bottles<br>• What was this again? (expired lost item)<br>• Wisp spirit pieces<br>• Rusted parts<br>• Communicator parts<br>• Communicator<br>• Manila clams |
 
-Credit to Soleil#6271 on Discord for writing and maintaining this list! 
+Credit to `Soleil#6271` on Discord for writing and maintaining this list! 
+
 **Sub-Notes:**
-- Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.
-- Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.
-- Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.
-- Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.
+- *Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.*
+- *Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.*
+- *Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.*
+- *Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.*
 
 ### My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
@@ -557,11 +513,11 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 ![NPC Schedule Infographic](/assets/npcskd.png)
 
 ### How long does X NPC stay on my island?
-- **Label, Kicks, Leif, Mable (before Able Sisters is built):** 5:00 AM - 10:00 PM  
+- **Label, Kicks, Leif, Mabel (before Able Sisters is built):** 5:00 AM - 10:00 PM  
 - **Flick, C.J., Redd, Gulliver, Gullivarrr:** 5:00 AM - 5:00 AM (next day)  
 - **Saharah, K.K. Slider:** 5:00 AM - 12:00 AM
   - K.K. Slider only takes song requests from 6:00 PM - 12:00 AM
-  - K.K. Slider will appear on Sunday if there's a tourney/bug-off Saturday.  
+  - K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off, etc) Saturday.  
 - **Daisy Mae:** 5:00 AM - 12:00 PM
   - Sunday only.  
 - **Celeste:** 7:00 PM - 4:00 AM
@@ -624,12 +580,12 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 | K.K. Western     | K.K. Safari        | K.K. Rockabilly | Space K.K.        | K.K. Stroll      |
 | King K.K.        | K.K. Steppe        | K.K. Salsa      | The K. Funk       | K.K. Swing       |
 | Only Me          | K.K. Tango         | K.K. Samba      | To the Edge       | K.K. Synth       |
-| Stale Cupcakes   | Lucky K.K.         | K.K. Ska        | N/A               | Marine Song 2001 |
-| Steep Hill       | Rockin' K.K.       | Mountain Song   | N/A               | Mr. K.K.         |
-| Two Days Ago     | Surfin' K.K.       | Neapolitan      | N/A               | My Place         |
-| N/A              | N/A                | Spring Blossoms | N/A               | Pondering        |
-| N/A              | N/A                | N/A             | N/A               | Soulful K.K.     |
-| N/A              | N/A                | N/A             | N/A               | Wandering        |
+| Stale Cupcakes   | Lucky K.K.         | K.K. Ska        | -                 | Marine Song 2001 |
+| Steep Hill       | Rockin' K.K.       | Mountain Song   | -                 | Mr. K.K.         |
+| Two Days Ago     | Surfin' K.K.       | Neapolitan      | -                 | My Place         |
+| -                | -                  | Spring Blossoms | -                 | Pondering        |
+| -                | -                  | -               | -                 | Soulful K.K.     |
+| -                | -                  | -               | -                 | Wandering        |
 
 - There are an additional 8 songs not included in the above list, denoted below and how to obtain:
 
@@ -641,7 +597,7 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 | K.K. Birthday    | Obtained after concert on player's birthday.                            |
 | Welcome Horizons | Obtained after player's very first concert.                             |
 
-- Finally, there are 3 "invalid" songs: Hazure01/02/03, which are played when requesting something K.K. doesn't have. These *do not* have a take-home track.
+- Finally, there are 3 "invalid" songs: `Hazure01`, `Hazure02` and `Hazure03`, which are played when requesting something K.K. doesn't have. These **do not** have a take-home track.
 
 ### Saharah
 - Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.
@@ -688,14 +644,14 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 - Conducts fashion challenges with the player in exchange for clothing and/or **Tailor's Tickets** which can be used in The Able Sisters shop.
 - Label quest rewards are calculated as below
 
-| Evaluation | Items that fit the theme | Reward  | Friendship points increase  |
-|------------------|--------------------|-----------------|-------------------|
-| 4 : Great     | 3+            | 1 item from Labelle fashion line + 2 tailor's tickets (mail)  |5         | 
-| 3: Good      	| 2      | 1 item from Labelle fashion line + 1 tailor's ticket (mail)       |    4    | 
-| 2: Normal     | 1      | 1 tailor's ticket (mail)     |  3       | 
-| 1: Not Great  | 0     | 1 tailor's ticket (mail)     | 2          |
+| Evaluation    | Items that fit the theme | Reward                                                       | Friendship points increase |
+|---------------|--------------------------|--------------------------------------------------------------|----------------------------|
+| 4: Great      | 3+                       | 1 item from Labelle fashion line + 2 tailor's tickets (mail) | 5                          |
+| 3: Good      	| 2                        | 1 item from Labelle fashion line + 1 tailor's ticket (mail)  | 4                          |
+| 2: Normal     | 1                        | 1 tailor's ticket (mail)                                     | 3                          |
+| 1: Not Great  | 0                        | 1 tailor's ticket (mail)                                     | 2                          |
  
-\* Friendship levels with Label only impact her and Sable's dialogs (referencing Label). 
+***Note:** Friendship levels with Label only impact her and Sable's dialogs (referencing Label).*
 
 ### Kicks
 - Shop vendor in the Resident Services plaza.
@@ -703,7 +659,7 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 
 ### Leif
 - Shop vendor in the Resident Services plaza.
-- Sells shrubs and flower seeds. Also sells pumpkin starts, but only for the month of October.
+- Sells shrubs and flower seeds. Also sells pumpkin starts, but only during the month of October.
 
 ### Gulliver
 - Can be found sleeping on the island's beaches.
@@ -751,7 +707,7 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 
 ### Jack
 - First encounter during [Halloween](#halloween).
-- Gifts various rewards in exchange for candy.
+- Gifts various rewards in exchange for candies and lollipops.
 
 ## Events
 ### When is X event/season?
@@ -875,14 +831,14 @@ Positive Effects:
 ### What are the *specific* effects of time traveling forwards?
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
 
-Negative Effects:
+**Negative Effects:**
 - Weeds and flowers will grow/spread.
 - Cockroaches may appear in your house (1+ month).
 - You may get the bedhead animation (1+ month).
 - Villagers may ask/comment on where you have been.
 - Turnips will spoil *if* you time travel past the following Sunday.
 
-Positive Effects:
+**Positive Effects:**
 - Building construction/upgrades/moves will be completed.
 - Weeds and flowers will grow/spread.
 - Rocks and trees will refresh.
@@ -891,12 +847,12 @@ Positive Effects:
 
 ### What are the *specific* effects of time traveling backwards?
 If you time travel backward more than a day, it will be like going back to "fake" yesterday.
-Negative Effects:
+**Negative Effects:**
 - Turnips will spoil.
 - Turnip prices will change and your trend will be reset.
 - Watered effect will be removed from flowers and they will not grow/breed.
 
-Neutral Effects:
+**Neutral Effects:**
 - It will not count as a "new day" in terms of progression.
 - Villagers will not advance moving in/out.
 - Building construction/upgrades/moves will not be completed.
@@ -904,7 +860,7 @@ Neutral Effects:
 - Rocks and trees will not refresh.
 - Mail will not be delivered.
 
-Positive Effects:
+**Positive Effects:**
 - ABD chain will remain, and you can claim another daily bonus, even if you time travel backward more than a day.
 
 ### An update or seasonal items were announced, can I time travel to access it?
