@@ -1,5 +1,5 @@
 # Frequently Asked Questions
-ver. 1.0
+ver. 1.1.0
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
@@ -381,6 +381,9 @@ No. They always need to ask you for your permission before they move out. You ne
 
 ### Can my most recently moved-in villager ask to move out?
 No. It is 100% impossible for them to request to move out.
+
+### Is there any other way to move out my most recently moved-in villager?
+Yes, campsite visitors (both naturally spawning and [Amiibo](#what-are-amiibos-who-has-an-amiibo) scanned campers) can kick out your newest. 
 
 ### Does talking to a villager until they get the purple squiggly/reporting the villager to Isabelle make them more likely to ask to move out?
 No. Anyone claiming that these methods increase the likelihood of villagers asking to move out have been misinformed.
