@@ -117,7 +117,7 @@ Additionally, there is a 30% chance of finding fossil, as well as a 30% chance o
 |February       |Embroidery          |Pen Stand           |
 |March          |Candle Set          |Cushion             |
 |April          |Tissue Box          |Tea Cozy            |
-|May            |Knapsack            |Kitchen Mat`        |
+|May            |Knapsack            |Kitchen Mat         |
 |June           |Handmade Apron      |Hand-knit Sweater   |
 |July           |Plushie             |Art                 |
 |August         |Pen Stand           |Embroidery          |
@@ -637,7 +637,7 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 
 ### Sable
 - Appears in the back of The Able Sisters shop once opened.
-- Talking to her for 12 days will allow the player to befriend her, at which point Sable will start gifting the player patterns that they can use when customizing furniture items. 
+- Talking to her for 10 days will allow the player to befriend her, at which point Sable will start gifting the player patterns that they can use when customizing furniture items. 
 
 ### Label
 - The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
