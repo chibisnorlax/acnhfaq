@@ -400,7 +400,7 @@ Turnip runs are a simple process but can be easily used to make tens of millions
 The AC community commonly refers to animal island residents as 'villagers'.
 
 ### How many villagers are there in Animal Crossing: New Horizons?
-Currently there are 391 villagers in AC:NH. See [here](https://animalcrossing.fandom.com/wiki/Villager_list_(New_Horizons)) for a list of them.
+Currently there are 391 villagers in AC:NH. See [here](https://nookipedia.com/wiki/Villagers/New_Horizons) for a list of them.
 
 ### How many villagers can I have?
 You can have 10 animal villagers and up to 8 human villagers. You can only have one animal villager with same name on the same island.
