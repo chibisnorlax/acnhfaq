@@ -888,7 +888,7 @@ All events (with the exception of Seasonal DIY events, New Year's, Fishing Tourn
 
 Player birthdays can only be experienced once every in-game year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
 
-### I time traveled to Festive season, but why are none of the cedar trees are decorated?
+### I time traveled to Festive season, but why are none of the cedar trees decorated?
 Make sure you have time traveled *forward* into the season (rather than backwards) and you have at least 1 cedar tree, and at least 23 trees total.    
 
 ### How do I time travel to farm an NPC visitor?
