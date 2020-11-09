@@ -221,39 +221,17 @@ See this guide, https://cestislife.github.io/img/balloons.png.
 - **Campsite:** Upgrade Resident Services into a building and talk to Tom Nook, who will have you craft and place the Campground Construction Kit.
 
 ### House Unlocks
-- **Moving To The Island**
-  - Fee: 5,000 Nook Miles
-  - Unlocks: A tent and a mailbox
 
-- **Tent-to-house upgrade**
-  - Fee: 98,000 Bells
-  - Unlocks: 80 storage slots
-
-- **House size upgrade**
-  - Fee: 198,000 Bells
-  - Unlocks: 8x8 grid, 40 additional storage slots
-
-- **Back Room Addition**
-  - Fee: 348,000 Bells
-  - Unlocks: Back Room, 6x6 grid, 120 additional storage slots
-
-- **Left Room Addition**
-  - Fee: 548,000 Bells
-  - Unlocks: Left Room, 6x6 grid, 120 additional storage slots, mailbox and roof customizations 
-  - After unlocking the left room, you can also pick up your mailbox and move it. Just walk up to it and press Y, as you would with other furniture.
-  
-- **Right Room Addition**
-  - Fee: 758,000 Bells
-  - Unlocks: Right Room, 6x6 grid, 40 additional storage slots, door customization
-
-- **Second Floor Addition**
-  - Fee: 1,248,000 Bells
-  - Unlocks: Second Floor, 10x6 grid, 400 additional storage slots, home siding customization
-
-- **Basement Addition**
-  - Fee: 2,498,000 Bells
-  - Unlocks: Basement, 10x6 grid, 800 additional storage slots
-   - Special Bonus: Free exterior renovations, limited to 1 design per item per category per day.
+|        Upgrade        |        Fee       | Unlocks                                                                                                            |
+|:---------------------:|:----------------:|--------------------------------------------------------------------------------------------------------------------|
+|  Moving To The Island | 5,000 Nook Miles | • A tent and a mailbox                                                                                               |
+| Tent-to-house upgrade |   98,000 Bells   | • 80 storage slots                                                                                                   |
+|   House size upgrade  |   198,000 Bells  | • 8x8 grid<br>• 40 additional storage slots                                                                            |
+|   Back Room Addition  |   348,000 Bells  | • Back Room (6x6 grid)<br>• 120 additional storage slots                                                               |
+|   Left Room Addition  |   548,000 Bells  | • Left Room (6x6 grid)<br>• 120 additional storage slots<br>• Mailbox and roof customizations<br>• Ability to move mailbox |
+|  Right Room Addition  |   758,000 Bells  | • Right Room (6x6 grid)<br>• 40 additional storage slots<br>• Door customization                                         |
+| Second Floor Addition |  1,248,000 Bells | • Second Floor (10x6 grid)<br>• 400 additional storage slots<br>• Home siding customization                              |
+|   Basement Addition   |  2,498,000 Bells | • Basement (10x6 grid)<br>• 800 additional storage slots<br>• Free exterior renovations (once per day)                   |
 
 ### DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
@@ -474,10 +452,40 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
 
 ***Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts.*
 
-| Not Safe                                                                                                                                                                                                    | Somewhat Safe                                                                                                                                                                                         | Completely Safe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Safe but Rejected                                                                  | Cannot Gift                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *These items can be displayed when gifted by hand, via the mail, or on the villager's birthday.*                                                                                                            | *These items will only be displayed if gifted via mail or on the villager's birthday. Gifting by hand is safe.*                                                                                       | *These items are never stored or displayed, regardless of gifting method.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | *These items are never stored or displayed, but the villager will give them back.* | *These items cannot be gifted.*                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| • Furniture<br>• Certain clothing (tops/dress-up/wearable headwear/accessories)<br>• Certain tools (nets/fishing rods/watering cans/umbrellas/sparklers)<br>• Insects<br>• Fishes<br>• Sea critters<br>• Art<br>• Music<br>• Plucked flowers | • Certain clothing (unwearable headwear/bottoms/socks/shoes/bags)<br>• Certain tools (shovels/party poppers/ocarinas/tambourines/pan flutes/uchiwa fans/balloons/bubble blowers/pinwheels/tweeters)<br>• Rugs | • Certain furniture (insect models/fish models)<br>• Certain clothing (wet suits)<br>• certain tools (axes/slingshots/wands)<br>• Identified fossils<br>• Wallpaper<br>• Flooring<br>• All materials that don't have the "Place Item" feature, (clumps of weeds, tree branches, wood, hardwood, softwood, clay, stones, iron nuggets, gold nuggets, pearls, bamboo pieces, bamboo shoots, young spring bamboo, all sea shells, summer shells, Bunny Day eggs, heart crystals, acorns, pine cones, candies, pumpkins, mushrooms, unidentified fossils, wasp nests, pitfall seeds, fish bait, medicine, customization kits, customizable phone case kits, timers, birthday cupcakes, all fruits, turnips, flower seed bags, saplings, starts, and trees) | • Boots<br>• Empty cans<br>• Old tires<br>• Spoiled turnips<br>• Used fountain fireworks<br>• Bells     | • Wrapping paper<br>• Vaulting pole<br>• Ladder<br>• Villager photos<br>• Posters<br>• Flower plants<br>• Bushes<br>• Star fragments<br>• Zodiac fragments<br>• Cherry-blossom petals<br>• Maple leaves<br>• Snowflakes<br>• Ornaments<br>• Fences<br>• Nook Miles Tickets<br>• Saharah Tickets<br>• Tailors tickets<br>• Bell vouchers<br>• Dream Bell exchange tickets<br>• DIYs<br>• Message bottles<br>• What was this again? (expired lost item)<br>• Wisp spirit pieces<br>• Rusted parts<br>• Communicator parts<br>• Communicator<br>• Manila clams |
+<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 1125px">
+<colgroup>
+<col style="width: 123px">
+<col style="width: 300px">
+<col style="width: 702px">
+</colgroup>
+<tbody>
+  <tr>
+    <td><b>Not Safe</b></td>
+    <td>These items can be displayed when gifted by hand, via the mail, or on the villager's birthday.</td>
+    <td>• Furniture<br>• Certain clothing (tops/dress-up/wearable headwear/accessories)<br>• Certain tools (nets/fishing rods/watering cans/umbrellas/sparklers)<br>• Insects<br>• Fishes<br>• Sea critters<br>• Art<br>• Music<br>• Plucked flowers</td>
+  </tr>
+  <tr>
+    <td><b>Fairly Safe</b></td>
+    <td>These items will only be displayed if gifted via mail or on the villager's birthday. Gifting by hand is safe.</td>
+    <td>• Certain clothing (unwearable headwear/bottoms/socks/shoes/bags)<br>• Certain tools (shovels/party poppers/ocarinas/tambourines/pan flutes/uchiwa fans/balloons/bubble blowers/pinwheels/tweeters)<br>• Rugs</td>
+  </tr>
+  <tr>
+    <td><b>Completely Safe</b></td>
+    <td>These items are never stored or displayed, regardless of gifting method.</td>
+    <td>• Certain furniture (insect models/fish models)<br>• Certain clothing (wet suits)<br>• certain tools (axes/slingshots/wands)<br>• Identified fossils<br>• Wallpaper<br>• Flooring<br>• All materials that don't have the "Place Item" feature, (clumps of weeds, tree branches, wood, hardwood, softwood, clay, stones, iron nuggets, gold nuggets, pearls, bamboo pieces, bamboo shoots, young spring bamboo, all sea shells, summer shells, Bunny Day eggs, heart crystals, acorns, pine cones, candies, pumpkins, mushrooms, unidentified fossils, wasp nests, pitfall seeds, fish bait, medicine, customization kits, customizable phone case kits, timers, birthday cupcakes, all fruits, turnips, flower seed bags, saplings, starts, and trees)</td>
+  </tr>
+  <tr>
+    <td><b>Safe but Rejected</b></td>
+    <td>These items are never stored or displayed, but the villager will give them back.</td>
+    <td>• Boots<br>• Empty cans<br>• Old tires<br>• Spoiled turnips<br>• Used fountain fireworks<br>• Bells</td>
+  </tr>
+  <tr>
+    <td><b>Cannot Gift</b></td>
+    <td>These items cannot be gifted.</td>
+    <td>• Wrapping paper<br>• Vaulting pole<br>• Ladder<br>• Villager photos<br>• Posters<br>• Flower plants<br>• Bushes<br>• Star fragments<br>• Zodiac fragments<br>• Cherry-blossom petals<br>• Maple leaves<br>• Snowflakes<br>• Ornaments<br>• Fences<br>• Nook Miles Tickets<br>• Saharah Tickets<br>• Tailors tickets<br>• Bell vouchers<br>• Dream Bell exchange tickets<br>• DIYs<br>• Message bottles<br>• What was this again? (expired lost item)<br>• Wisp spirit pieces<br>• Rusted parts<br>• Communicator parts<br>• Communicator<br>• Manila clams</td>
+  </tr>
+</tbody>
+</table></div>
 
 Credit to `Soleil#6271` on Discord for writing and maintaining this list! 
 
