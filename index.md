@@ -466,17 +466,17 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
   <tr>
     <td><b>Not Safe</b></td>
     <td>These items can be displayed when gifted by hand, via the mail, or on the villager's birthday.</td>
-    <td>• Furniture<br>• Certain clothing (tops/dress-up/wearable headwear/accessories)<br>• Certain tools (nets/fishing rods/watering cans/umbrellas/sparklers)<br>• Insects<br>• Fishes<br>• Sea critters<br>• Art<br>• Music<br>• Plucked flowers</td>
+    <td>• Furniture<sup>1</sup><br>• Certain clothing (tops/dress-up/wearable headwear/accessories)<br>• Certain tools (nets/fishing rods/watering cans/umbrellas/sparklers)<br>• Insects<br>• Fishes<br>• Sea critters<br>• Art<br>• Music<br>• Plucked flowers</td>
   </tr>
   <tr>
     <td><b>Fairly Safe</b></td>
     <td>These items will only be displayed if gifted via mail or on the villager's birthday. Gifting by hand is safe.</td>
-    <td>• Certain clothing (unwearable headwear/bottoms/socks/shoes/bags)<br>• Certain tools (shovels/party poppers/ocarinas/tambourines/pan flutes/uchiwa fans/balloons/bubble blowers/pinwheels/tweeters)<br>• Rugs</td>
+    <td>• Certain clothing (unwearable headwear/bottoms/socks/shoes<sup>2</sup>/bags)<br>• Certain tools (shovels/party poppers/ocarinas/tambourines/pan flutes/uchiwa fans/balloons/bubble blowers/pinwheels/tweeters)<br>• Rugs<sup>3</sup></td>
   </tr>
   <tr>
     <td><b>Completely Safe</b></td>
     <td>These items are never stored or displayed, regardless of gifting method.</td>
-    <td>• Certain furniture (insect models/fish models)<br>• Certain clothing (wet suits)<br>• certain tools (axes/slingshots/wands)<br>• Identified fossils<br>• Wallpaper<br>• Flooring<br>• All materials that don't have the "Place Item" feature, (clumps of weeds, tree branches, wood, hardwood, softwood, clay, stones, iron nuggets, gold nuggets, pearls, bamboo pieces, bamboo shoots, young spring bamboo, all sea shells, summer shells, Bunny Day eggs, heart crystals, acorns, pine cones, candies, pumpkins, mushrooms, unidentified fossils, wasp nests, pitfall seeds, fish bait, medicine, customization kits, customizable phone case kits, timers, birthday cupcakes, all fruits, turnips, flower seed bags, saplings, starts, and trees)</td>
+    <td>• Certain furniture (insect models/fish models)<br>• Certain clothing (wet suits)<br>• Certain tools (axes/slingshots/wands)<br>• Identified fossils<br>• Wallpaper<br>• Flooring<br>• All materials that don't have the "Place Item" feature, (clumps of weeds, tree branches, wood, hardwood, softwood, clay, stones, iron nuggets, gold nuggets, pearls, bamboo pieces, bamboo shoots, young spring bamboo, all sea shells, summer shells, Bunny Day eggs, heart crystals, acorns, pine cones, candies, pumpkins, mushrooms, unidentified fossils, wasp nests, pitfall seeds, fish bait, medicine, customization kits, customizable phone case kits, timers, birthday cupcakes, all fruits, turnips, flower seed bags, saplings, starts, and trees)</td>
   </tr>
   <tr>
     <td><b>Safe but Rejected</b></td>
@@ -486,18 +486,18 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
   <tr>
     <td><b>Cannot Gift</b></td>
     <td>These items cannot be gifted.</td>
-    <td>• Wrapping paper<br>• Vaulting pole<br>• Ladder<br>• Villager photos<br>• Posters<br>• Flower plants<br>• Bushes<br>• Star fragments<br>• Zodiac fragments<br>• Cherry-blossom petals<br>• Maple leaves<br>• Snowflakes<br>• Ornaments<br>• Fences<br>• Nook Miles Tickets<br>• Saharah Tickets<br>• Tailors tickets<br>• Bell vouchers<br>• Dream Bell exchange tickets<br>• DIYs<br>• Message bottles<br>• What was this again? (expired lost item)<br>• Wisp spirit pieces<br>• Rusted parts<br>• Communicator parts<br>• Communicator<br>• Manila clams</td>
+    <td>• Wrapping paper<br>• Vaulting pole<sup>4</sup><br>• Ladder<sup>4</sup><br>• Villager photos<sup>4</sup><br>• Posters<sup>4</sup><br>• Flower plants<br>• Bushes<br>• Star fragments<br>• Zodiac fragments<br>• Cherry-blossom petals<br>• Maple leaves<br>• Snowflakes<br>• Ornaments<br>• Fences<br>• Nook Miles Tickets<br>• Saharah Tickets<br>• Tailors tickets<br>• Bell vouchers<br>• Dream Bell exchange tickets<br>• DIYs<br>• Message bottles<br>• What was this again? (expired lost item)<br>• Wisp spirit pieces<br>• Rusted parts<br>• Communicator parts<br>• Communicator<br>• Manila clams</td>
   </tr>
 </tbody>
 </table></div>
 
 Credit to `Soleil#6271` on Discord for writing and maintaining this list! 
 
-**Sub-Notes:**
-- *Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.*
-- *Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.*
-- *Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.*
-- *Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.*
+**Sub-Notes:**  
+<sup>1</sup>: *Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.*  
+<sup>2</sup>: *Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.*  
+<sup>3</sup>: *Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.*  
+<sup>4</sup>: *Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.*  
 
 ### My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
@@ -845,9 +845,9 @@ Positive Effects:
 - NPC visitor shops and quests will refresh<sup>3</sup>.
 - The daily recipe bottle will respawn.  
 
-<sup>1</sup>: Able Sisters' mannequin will only change if you go outside of the week.   
-<sup>2</sup>: Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.  
-<sup>3</sup>: Saharah's inventory does not change if you stay within the same week when time traveling forward or back. You have to go into another week for it to change.  
+<sup>1</sup>: *Able Sisters' mannequin will only change if you go outside of the week.*   
+<sup>2</sup>: *Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.*  
+<sup>3</sup>: *Saharah's inventory does not change if you stay within the same week when time traveling forward or back. You have to go into another week for it to change.*  
 
 ### What are the *specific* effects of time traveling forwards?
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
