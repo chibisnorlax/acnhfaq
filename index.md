@@ -233,6 +233,10 @@ See this guide, https://cestislife.github.io/img/balloons.png.
 | Second Floor Addition |  1,248,000 Bells | • Second Floor (10x6 grid)<br>• 400 additional storage slots<br>• Home siding customization                              |
 |   Basement Addition   |  2,498,000 Bells | • Basement (10x6 grid)<br>• 800 additional storage slots<br>• Free exterior renovations (once per day)                   |
 
+**Notes:**
+- Paying off the previous fee unlocks each subsequent house upgrade.
+- Free exterior renovations are only unlocked after paying the final loan in full.
+
 ### DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
 - **Flimsy Net:** Finish DIY workshop.
