@@ -36,3 +36,6 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 ### 1.1.0
 - Updated versioning system to major/minor/patch.
 - Updated information regarding Sable, villagers, Amiibos, and fixed minor errors.
+
+### 1.1.1
+- Added zodiac fragment dates, edited tables to be more readable.
