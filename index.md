@@ -99,6 +99,24 @@ Star fragments spawn periodically throughout the day, usually 8-10 at a time. If
   - 10% zodiac fragment
   - 5% large star fragment
 
+**Zodiac Star Fragment Periods**
+|Star sign          |Image   |Period |
+|---------------|:------------------:|--------------------|
+|♒ Aquarius       |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAquariusCropped.png" width="35"/> |Jan 20 - Feb 18|
+|♓ Pisces      |<img src="https://acnhcdn.com/latest/FtrIcon/StarpiecePiscesCropped.png" width="35"/>|Feb 19 - Mar 20|
+|♈ Aries         |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAriesCropped.png" width="35"/>|Mar 21 - Apr 19|
+|♉ Taurus         |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceTaurusCropped.png" width="35"/>|Apr 20 - May 20|
+|♊ Gemini           |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceGeminiCropped.png" width="35"/>|May 21 - Jun 20|
+|♋ Cancer         |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceCancerCropped.png" width="35"/>|Jun 21 - Jul 22|
+|♌ Leo          |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLeoCropped.png" width="35"/>|Jul 23 - Aug 22|
+|♍ Virgo        |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceVirgoCropped.png" width="35"/>|Aug 23 - Sep 22|
+|♎ Libra     |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLibraCropped.png" width="35"/>|Sep 23 - Oct 22|
+|♏ Scorpius      |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceScorpioCropped.png" width="35"/>|Oct 23 - Nov 21|
+|♐ Sagittarius       |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceSagittariusCropped.png" width="35"/>|Nov 22 - Dec 21|
+|♑ Capricorn     |<img src="https://acnhcdn.com/latest/FtrIcon/StarpieceCapricornusCropped.png" width="35"/>|Dec 22 - Jan 19|
+
+Note that the dates are the same for both Northern & Southern Hemispheres.
+
 ### What are the dimensions of X building?
 ![Building Dimensions](/assets/sizes.png)
 
