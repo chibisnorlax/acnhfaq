@@ -485,27 +485,174 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
   <tr>
     <td><b>Not Safe</b></td>
     <td>These items can be displayed when gifted by hand, via the mail, or on the villager's birthday.</td>
-    <td>• Furniture<sup>1</sup><br>• Certain clothing (tops/dress-up/wearable headwear/accessories)<br>• Certain tools (nets/fishing rods/watering cans/umbrellas/sparklers)<br>• Insects<br>• Fishes<br>• Sea critters<br>• Art<br>• Music<br>• Plucked flowers</td>
+    <td>
+      <ul>
+        <li>Furniture<sup>1</sup></li>
+        <li>Certain clothing
+          <ul>
+            <li>Tops</li>
+            <li>Dress-up</li>
+            <li>Wearable headwear</li>
+            <li>Accessories</li>
+          </ul>
+        </li>
+        <li>Certain tools
+          <ul>
+            <li>Nets</li>
+            <li>Fishing rods</li>
+            <li>Watering cans</li>
+            <li>Umbrellas</li>
+            <li>Sparklers</li>
+          </ul>
+        </li>
+        <li>Insects</li>
+        <li>Fishes</li>
+        <li>Sea critters</li>
+        <li>Art</li>
+        <li>Music</li>
+        <li>Plucked flowers</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><b>Fairly Safe</b></td>
     <td>These items will only be displayed if gifted via mail or on the villager's birthday. Gifting by hand is safe.</td>
-    <td>• Certain clothing (unwearable headwear/bottoms/socks/shoes<sup>2</sup>/bags)<br>• Certain tools (shovels/party poppers/ocarinas/tambourines/pan flutes/uchiwa fans/balloons/bubble blowers/pinwheels/tweeters)<br>• Rugs<sup>3</sup></td>
+    <td>
+      <ul>
+        <li>Certain clothing items
+          <ul>
+            <li>Unwearable headwear</li>
+            <li>Bottoms</li><li>Socks</li>
+            <li>Shoes<sup>2</sup></li>
+            <li>bags</li>
+          </ul>
+        </li>
+        <li>Certain tools
+          <ul>
+            <li>Shovels</li>
+            <li>Party poppers</li>
+            <li>Ocarinas</li>
+            <li>Tambourines</li>
+            <li>Pan flutes</li>
+            <li>Uchiwa fans</li>
+            <li>Balloons</li>
+            <li>Bubble blowers</li>
+            <li>Pinwheels</li>
+            <li>Tweeters</li>
+          </ul>
+        </li>
+        <li>Rugs<sup>3</sup></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><b>Completely Safe</b></td>
     <td>These items are never stored or displayed, regardless of gifting method.</td>
-    <td>• Certain furniture (insect models/fish models)<br>• Certain clothing (wet suits)<br>• Certain tools (axes/slingshots/wands)<br>• Identified fossils<br>• Wallpaper<br>• Flooring<br>• All materials that don't have the "Place Item" feature, (clumps of weeds, tree branches, wood, hardwood, softwood, clay, stones, iron nuggets, gold nuggets, pearls, bamboo pieces, bamboo shoots, young spring bamboo, all sea shells, summer shells, Bunny Day eggs, heart crystals, acorns, pine cones, candies, pumpkins, mushrooms, unidentified fossils, wasp nests, pitfall seeds, fish bait, medicine, customization kits, customizable phone case kits, timers, birthday cupcakes, all fruits, turnips, flower seed bags, saplings, starts, and trees)</td>
+    <td>
+      <ul>
+        <li>Certain furniture items
+          <ul>
+            <li>Insect models</li>
+            <li>Fish models</li>
+          </ul>
+        </li>            
+        <li>Certain clothing items
+          <ul>
+            <li>Wet suits</li>
+          </ul>
+        <li>Certain tools
+          <ul>
+            <li>Axes</li>
+            <li>Slingshots</li>
+            <li>Wands</li>
+          </ul>
+        </li>
+        <li>Identified fossils</li>
+        <li>Wallpaper</li>
+        <li>Flooring</li>
+        <li>All materials that don't have the <code>Place Item</code> feature
+          <ul>
+            <li>Clumps of weeds</li>
+            <li>Tree branches</li>
+            <li>Wood, hardwood & softwood</li>
+            <li>Clay & stones</li>
+            <li>Iron & gold nuggets</li>
+            <li>Pearls</li>
+            <li>Bamboo pieces & shoots, young spring bamboo</li>
+            <li>All sea shells, including summer shells</li>
+            <li>All Bunny Day eggs</li>
+            <li>Heart crystals</li>
+            <li>Acorns & pine cones</li>
+            <li>Candies</li>
+            <li>Pumpkins</li>
+            <li>Mushrooms</li>
+            <li>Unidentified fossils</li>
+            <li>Wasp nests</li>
+            <li>Pitfall seeds</li>
+            <li>Fish bait</li>
+            <li>Medicine</li>
+            <li>Customization kits</li>
+            <li>Customizable phone case kits</li>
+            <li>Timers</li>
+            <li>Birthday cupcakes</li>
+            <li>All fruits</li>
+            <li>Turnips</li>
+            <li>Flower seed bags</li>
+            <li>Saplings</li>
+            <li>Bush & pumpkin starts</li>
+            <li>Trees</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><b>Safe but Rejected</b></td>
     <td>These items are never stored or displayed, but the villager will give them back.</td>
-    <td>• Boots<br>• Empty cans<br>• Old tires<br>• Spoiled turnips<br>• Used fountain fireworks<br>• Bells</td>
+    <td>
+      <ul>
+        <li>Boots</li>
+        <li>Empty cans</li>
+        <li>Old tires</li>
+        <li>Spoiled turnips</li>
+        <li>Used fountain fireworks</li>
+        <li>Bells</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><b>Cannot Gift</b></td>
     <td>These items cannot be gifted.</td>
-    <td>• Wrapping paper<br>• Vaulting pole<sup>4</sup><br>• Ladder<sup>4</sup><br>• Villager photos<sup>4</sup><br>• Posters<sup>4</sup><br>• Flower plants<br>• Bushes<br>• Star fragments<br>• Zodiac fragments<br>• Cherry-blossom petals<br>• Maple leaves<br>• Snowflakes<br>• Ornaments<br>• Fences<br>• Nook Miles Tickets<br>• Saharah Tickets<br>• Tailors tickets<br>• Bell vouchers<br>• Dream Bell exchange tickets<br>• DIYs<br>• Message bottles<br>• What was this again? (expired lost item)<br>• Wisp spirit pieces<br>• Rusted parts<br>• Communicator parts<br>• Communicator<br>• Manila clams</td>
+    <td>
+      <ul>
+        <li>Wrapping papers</li>
+        <li>Vaulting poles<sup>4</sup></li>
+        <li>Ladders<sup>4</sup></li>
+        <li>Villager photos<sup>4</sup></li>
+        <li>Posters<sup>4</sup></li>
+        <li>Flower plants</li>
+        <li>Bushes</li>
+        <li>Star & zodiac fragments</li>
+        <li>Cherry-blossom petals</li>
+        <li>Maple leaves</li>
+        <li>Snowflakes</li>
+        <li>Ornaments</li>
+        <li>Fences</li>
+        <li>Nook Miles tickets</li>
+        <li>Saharah tickets</li>
+        <li>Tailors tickets</li>
+        <li>Bell vouchers</li>
+        <li>Dream Bell exchange tickets</li>
+        <li>DIYs</li>
+        <li>Message bottles</li>
+        <li>What was this again? (expired lost item)</li>
+        <li>Wisp spirit pieces</li>
+        <li>Rusted parts</li>
+        <li>Communicator parts</li>
+        <li>Communicator</li>
+        <li>Manila clams</li>
+      </ul>
+    </td>
   </tr>
 </tbody>
 </table></div>
