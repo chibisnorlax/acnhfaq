@@ -663,7 +663,23 @@ Credit to `Soleil#6271` on Discord for writing and maintaining this list!
 <sup>1</sup>: *Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.*  
 <sup>2</sup>: *Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.*  
 <sup>3</sup>: *Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.*  
-<sup>4</sup>: *Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.*  
+<sup>4</sup>: *Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.*
+
+### If I complete X quest for my villager, will they keep that item in their inventory?
+It depends on the type of quest and friendship levels! These are the storing rules for quests:
+- Buy/Trade an item from your pockets: Always stored
+- Appreciation or Apology Gift: Always stored
+- Wrongly Delivered Item Return 
+  - Friendship level 1-2: Always stored
+  - Friendship level 3-4: Stored 70% of the time
+  - Friendship level 5-6: Never stored
+- Left Item Return
+  - Friendship level 1-2: Always stored
+  - Friendship level 3-4: Stored 70% of the time
+  - Friendship level 5-6: Never stored
+Borrowed Item Return: Never stored
+Catch Request: Never stored
+Present is opened with **any of the above**: Never stored
 
 ### My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
