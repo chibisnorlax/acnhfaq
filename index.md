@@ -3,6 +3,8 @@ ver. 1.1.1
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
+**We are currently working on updating through version 1.6.0! Do note that some things may not be up-to-date until thorough testing and updating is finished. Thank you for your patience!**
+
 This page is current through version 1.5.1 of the game.
 
 ## Navigation
