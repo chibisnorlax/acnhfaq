@@ -104,7 +104,7 @@ Star fragments spawn periodically throughout the day, usually 8-10 at a time. If
 **Zodiac Star Fragment Periods**
 
 | Star Sign     | Image                                                                                      | Period          |
-|---------------|--------------------------------------------------------------------------------------------|-----------------|
+|---------------|:------------------------------------------------------------------------------------------:|-----------------|
 | ♒ Aquarius    | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAquariusCropped.png" width="35"/>    | Jan 20 - Feb 18 |
 | ♓ Pisces      | <img src="https://acnhcdn.com/latest/FtrIcon/StarpiecePiscesCropped.png" width="35"/>      | Feb 19 - Mar 20 |
 | ♈ Aries       | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAriesCropped.png" width="35"/>       | Mar 21 - Apr 19 |
@@ -253,6 +253,7 @@ See this guide, https://cestislife.github.io/img/balloons.png.
 |  Right Room Addition  |   758,000 Bells  | • Right Room (6x6 grid)<br>• 40 additional storage slots<br>• Door customization                                         |
 | Second Floor Addition |  1,248,000 Bells | • Second Floor (10x6 grid)<br>• 400 additional storage slots<br>• Home siding customization                              |
 |   Basement Addition   |  2,498,000 Bells | • Basement (10x6 grid)<br>• 800 additional storage slots<br>• Free exterior renovations (once per day)                   |
+|   Storage Upgrade     |   500,000 Bells  | • Additional 800 storage slots                                                                                           |
 
 **Notes:**
 - Paying off the previous fee unlocks each subsequent house upgrade.
