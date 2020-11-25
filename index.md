@@ -680,9 +680,10 @@ It depends on the type of quest and friendship levels! These are the storing rul
   - Friendship level 1-2: Always stored
   - Friendship level 3-4: Stored 70% of the time
   - Friendship level 5-6: Never stored
-Borrowed Item Return: Never stored
-Catch Request: Never stored
-Present is opened with **any of the above**: Never stored
+- Borrowed Item Return: Never stored
+- Catch Request: Never stored
+
+***Note:** If you are asked to deliver a present, but you open said present before delivering it, the item will never be stored by the recipient.*
 
 ### My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
