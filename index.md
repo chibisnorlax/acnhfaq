@@ -1,11 +1,9 @@
 # Frequently Asked Questions
-ver. 1.1.1
+ver. 1.2.0
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-**We are currently working on updating through version 1.6.0! Do note that some things may not be up-to-date until thorough testing and updating is finished. Thank you for your patience!**
-
-This page is current through version 1.5.1 of the game.
+This page is current through version 1.6.0 of the game.
 
 ## Navigation
 - [Island Life](#island-life)
@@ -198,6 +196,7 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
 - [Wedding](#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
 - The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](#nature-day-earth-day).  
+- [Turkey Day](#turkey-day) DIYs can be obtained by completing the event, or they are available for purchase in Nook's Cranny starting November 27th.
 - You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
@@ -206,6 +205,18 @@ Up to 3 villagers can craft per day. The first villager starts crafting when you
 
 ### What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
+
+### How do I farm balloons?
+Balloons can be funneled through tall objects, making them much easier to farm as you won't miss any that spawn. To do this, follow the steps outlined below:
+1. Find the direction your balloons are coming from. You can do this by looking at the direction smoke is blowing out the top of a house's chimney.
+2. Craft or purchase many tall objects. For a list, see here: https://docs.google.com/spreadsheets/d/16E4Dtl0ys5w0W11rU9U-FYvsyiLGTDSNzS50_YyDo40/edit#gid=0
+  - We recommend jail bars, as they're wide!
+3. Line the coast of your island where the balloons are entering, leaving a space at the bottom for the balloons to come throuhgh. If you have a river mouth on that side of your island, that can become the opening as well. You do not need to terraform cliffs for this to work.
+4. Sit by your opening and wait. Balloons *can* spawn on the XX:X4 and XX:X9 minutes, with an estimated spawn rate of about 50%. Put on some music and farm those balloons!
+
+Here's a visual of what your coast might look like, courtesy of Nours#7244!
+![Balloons 1 GIF](/assets/balloonfarm1.gif)
+![Balloons 2 GIF](/assets/balloonfarm2.gif)
 
 ### What are Pocket Camp items and how can I get them?
 Visit https://cestislife.github.io/img/pocketcamp.png for information on the Pocket Camp exclusive items.  
@@ -1002,6 +1013,14 @@ Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Hallowe
 
 For more detailed info, visit https://cestislife.github.io/halloween.
 
+### Turkey Day
+Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the player has an [upgraded Resident Services building](#building-unlocks), Franklin will visit to host the event. In exchange for ingredients Franklin needs for his dishes, he will reward you with items and a DIY pack.
+
+For more detailed info, visit https://cestislife.github.io/turkeyday.
+
+### Toy Day
+Toy Day happens on December 24th. This event and it's associated items/DIYs are currently **time-locked** and not currently available to be played.
+
 ### Countdown (New Year)
 The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.
 
@@ -1112,7 +1131,7 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 ### What is a dupe/dupe glitch?
 "Duping" refers to the act of exploiting in-game mechanics to duplicate already existing items. A "dupe" is simply the product of executing a dupe glitch successfully. Duped items are not harmful to the game or the player's save file, as there is no difference between the duped items and regular items.
 
-### What are the current known glitches? (vers. 1.5.1)
+### What are the current known glitches? (vers. 1.6.0)
 
 | Glitch Name            | Information                                                                                                                                                        | Fix                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -1121,12 +1140,11 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 | Tree Edging            | Allows the user to place trees on cliff edges. https://youtu.be/YdAzvzHgnKA                                                                                        | N/A                                                    |
 | Unremovable Path Tiles | Causes path tiles to be unremovable/unable to be terraformed over.                                                                                                 | Surround glitched tiles with identical tiles to erase. |
 | Sleep mode issues      | Some issues may occur if the game is left in sleep mode. Villagers houses being inaccessible, Nook having incorrect dialog, Villagers  crafting in unusual places. | Close and restart the game.                            |
-| Shoe & Bug Dupe Table  | If you did not set this up in 1.2.0 **it is impossible to do!** https://youtu.be/jVvHtc3VZ9c                                                                       | N/A                                                    |
 | DC Dupe Exploit        | Allows the user to duplicate items. Note: **This dupe can corrupt your save file. Attempt at your own risk.** https://www.youtube.com/watch?v=qhyHsDs-H3Y          | N/A                                                    |
 | South Hemisphere DIY   | Halloween prevents SH users from obtaining the Outdoor Picnic Set DIY from Isabelle.                                                                               | Recipe can still be found in balloons.                 |
 | Invisible Weeds        | Weeds, when placed placed between 12:00 AM and 5:00 AM on the last day of a season, are invisible until after 5:00 AM                                                       | N/A                                                    |
 
-Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. 1.5.1.
+Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. 1.6.0.
 
 ### Is X a glitch?
 The only way to tell if something is a glitch is to see if it is reproducible and if it is unintended. If you suspect you have found a glitch for the **current** version of the game, please contact littlesnorlax#1717 on Discord. As a reminder, glitches ***are not***: bad luck/RNG, unexpected but intended gameplay, or hacked items.
@@ -1135,7 +1153,7 @@ The only way to tell if something is a glitch is to see if it is reproducible an
 The Disconnect Dupe (or "DC dupe") exploits the autosave process to duplicate already-existing items. Please note: **Any interruption of the normal save process could lead to corruption. The authors of this page nor the people supplying instructions will be responsible for what may happen to your game.** With that said, please visit https://www.youtube.com/watch?v=qhyHsDs-H3Y for instructions on how to complete the DC dupe.
 
 ### What happened to star trees/wrapped critters/Harv's fence/etc.?
-The majority of hacked items have been patched out of the game. The only hacked items that remain are camo items and unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame if owned previously. 
+The majority of hacked items have been patched out of the game. The only hacked items that remain are unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame if owned previously.
 
 ## Miscellaneous
 ### I heard a rumor that X might be added to the game. Is this true?
@@ -1155,7 +1173,7 @@ A lot of the rates can be found at https://acnh.isomorphicbox.com/rates/#assortm
 Your ACNH game is now up to date!
 
 ### Can I transfer my save data/island to another switch?
-Yes, but at the moment the service is only available by contacting Nintendo directly. Please visit https://en-americas-support.nintendo.com/app/contact or the Nintendo customer service page in your country for more information.  
+Yes, you can. It requires a Nintendo Switch Online subscription. Please visit https://en-americas-support.nintendo.com/app/answers/detail/a_id/53668/~/how-to-transfer-animal-crossing%3A-new-horizons-save-data for more information.  
 
 ### What some other resources for AC:NH?
 You can find them at https://acnh.directory/.
