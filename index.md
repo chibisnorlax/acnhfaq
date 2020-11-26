@@ -210,8 +210,8 @@ Up to you! Some people save them to trade them to other players, some sell them 
 Balloons can be funneled through tall objects, making them much easier to farm as you won't miss any that spawn. To do this, follow the steps outlined below:
 1. Find the direction your balloons are coming from. You can do this by looking at the direction smoke is blowing out the top of a house's chimney.
 2. Craft or purchase many tall objects. For a list, see here: https://docs.google.com/spreadsheets/d/16E4Dtl0ys5w0W11rU9U-FYvsyiLGTDSNzS50_YyDo40/edit#gid=0
-  - We recommend jail bars, as they're wide!
-3. Line the coast of your island where the balloons are entering, leaving a space at the bottom for the balloons to come throuhgh. If you have a river mouth on that side of your island, that can become the opening as well. You do not need to terraform cliffs for this to work.
+    - We recommend jail bars, as they're wide!
+3. Line the coast of your island where the balloons are entering, leaving a space at the bottom for the balloons to come through. If you have a river mouth on that side of your island, that can become the opening as well. You do not need to terraform cliffs for this to work.
 4. Sit by your opening and wait. Balloons *can* spawn on the XX:X4 and XX:X9 minutes, with an estimated spawn rate of about 50%. Put on some music and farm those balloons!
 
 Here's a visual of what your coast might look like, courtesy of Nours#7244!
