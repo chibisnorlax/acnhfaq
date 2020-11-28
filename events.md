@@ -90,7 +90,7 @@ Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Hallowe
 For more detailed info, visit https://cestislife.github.io/halloween.
 
 ### Turkey Day
-Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the player has an [upgraded Resident Services building](/acnhfaq/unlocking-things#building-unlocks), Franklin will visit to host the event. In exchange for ingredients Franklin needs for his dishes, he will reward you with items and a DIY pack.
+Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the player has an [upgraded Resident Services building](/./unlocking-things#building-unlocks), Franklin will visit to host the event. In exchange for ingredients Franklin needs for his dishes, he will reward you with items and a DIY pack.
 
 For more detailed info, visit https://cestislife.github.io/turkeyday.
 
@@ -98,6 +98,4 @@ For more detailed info, visit https://cestislife.github.io/turkeyday.
 Toy Day happens on December 24th. This event and it's associated items/DIYs are currently **time-locked** and not currently available to be played.
 
 ### Countdown (New Year)
-The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.
-
-[Return to Homepage](/acnhfaq)
+The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.  

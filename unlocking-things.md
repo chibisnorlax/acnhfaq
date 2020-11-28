@@ -3,7 +3,6 @@ title: Unlocking Things
 nav_order: 4
 ---
 
-
 ## Unlocking Things
 ### Nook Phone Unlocks
 - **DIY:** Complete Tom Nook’s DIY workshop.
@@ -80,5 +79,3 @@ nav_order: 4
 - **Dodo Airport:** Day 2 of playing the game once you sync into real time. 
 - **Bedhead Hair:** Do not log in for a month — time travel is a great way to do this.
 - **Project K:** Upgrade Resident Services to a building, have 6 villagers moved in and settled. 
-
-[Return to Homepage](/acnhfaq)

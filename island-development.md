@@ -63,6 +63,4 @@ Visit https://cestislife.github.io/img/pocketcamp.png for information on the Poc
 See this guide, https://cestislife.github.io/img/balloons.png.
 
 ### How do I unlock all the DAL items? What are the milestones?
-![DAL rewards](/assets/dal.png)
-
-[Return to Homepage](/acnhfaq)
+![DAL rewards](/assets/dal.png)  

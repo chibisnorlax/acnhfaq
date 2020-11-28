@@ -3,7 +3,6 @@ title: Glitches
 nav_order: 11
 ---
 
-
 ## Glitches 
 ### What is a glitch?
 A glitch is an unintended malfunction or irregularity in the game due to bugs in the code. Glitches ***are not***: Bad luck/RNG, unexpected but intended gameplay, or hacked items.
@@ -33,6 +32,4 @@ The only way to tell if something is a glitch is to see if it is reproducible an
 The Disconnect Dupe (or "DC dupe") exploits the autosave process to duplicate already-existing items. Please note: **Any interruption of the normal save process could lead to corruption. The authors of this page nor the people supplying instructions will be responsible for what may happen to your game.** With that said, please visit https://www.youtube.com/watch?v=qhyHsDs-H3Y for instructions on how to complete the DC dupe.
 
 ### What happened to star trees/wrapped critters/Harv's fence/etc.?
-The majority of hacked items have been patched out of the game. The only hacked items that remain are unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame if owned previously.
-
-[Return to Homepage](/acnhfaq)
+The majority of hacked items have been patched out of the game. The only hacked items that remain are unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame if owned previously.  

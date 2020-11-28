@@ -32,6 +32,4 @@ If you are making a rock garden, it's usually something south of the garden bloc
 You need to remove it until the rock spawn.  
 
 ### What's the quickest path to each hybrid?
-![Breeding Guide](/assets/breeding.png)
-
-[Return to Homepage](/acnhfaq)
+![Breeding Guide](/assets/breeding.png)  

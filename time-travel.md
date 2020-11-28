@@ -3,7 +3,6 @@ title: Time Travel
 nav_order: 10
 ---
 
-
 ## Time Travel
 ### What is time travel?
 Animal Crossing games are based on real time -- for example, things that the game says will take one day truly take one real-life day to complete. "Time traveling" refers to the act of manually changing the time of the game to either be in the future or go back to the past. 
@@ -102,6 +101,4 @@ Nope! Though this was something that could happen in past installments of the ga
 Nope! They may have some dialogue about your disappearance if you do a big jump forward, but time traveling has no effect on friendship.
 
 ### Do the developers know I time travel? Will they do anything to me about it?
-There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to!
-
-[Return to Homepage](/acnhfaq)
+There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to!  
