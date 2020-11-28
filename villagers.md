@@ -136,11 +136,11 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
 
 ***Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts.*
 
-<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 1125px">
+<div class="tg-wrap"><table style="undefined;table-layout: auto; width: 750px">
 <colgroup>
-<col style="width: 123px">
-<col style="width: 300px">
-<col style="width: 702px">
+<col style="width: 120px">
+<col style="width: 100px">
+<col style="width: 500px">
 </colgroup>
 <tbody>
   <tr>
