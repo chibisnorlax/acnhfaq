@@ -1,3 +1,8 @@
+---
+title: Gardening
+nav_order: 5
+---
+
 ## Gardening
 The ACNH gardening community has kindly put together various resources for all your gardening needs! Please check the links below to help answer any gardening-related questions you may have.
 

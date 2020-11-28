@@ -1,3 +1,9 @@
+---
+title: Miscellaneous
+nav_order: 12
+---
+
+
 ## Miscellaneous
 ### I heard a rumor that X might be added to the game. Is this true?
 If Nintendo has not confirmed the feature/item from said rumor, then we cannot confirm if it will be added or not. However, fun and interesting things surface all the time whilst the dataminers are examining the game's code. Visit http://acnhapi.com/trivia/ for some of this information.

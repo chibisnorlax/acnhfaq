@@ -1,3 +1,9 @@
+---
+title: Glitches
+nav_order: 11
+---
+
+
 ## Glitches 
 ### What is a glitch?
 A glitch is an unintended malfunction or irregularity in the game due to bugs in the code. Glitches ***are not***: Bad luck/RNG, unexpected but intended gameplay, or hacked items.

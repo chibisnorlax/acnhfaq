@@ -1,3 +1,8 @@
+---
+title: Island Development
+nav_order: 3
+---
+
 ## Island Development
 ### How long does it take for X to be built?
 One [day](/acnh/island-life/#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.

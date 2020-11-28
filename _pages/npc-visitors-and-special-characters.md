@@ -1,3 +1,9 @@
+---
+title: NPC Visitors and Special Characters
+nav_order: 8
+---
+
+
 ## NPC Visitors and Special Characters
 ### How often does X visit? How do I unlock X character?
 ![NPC Schedule Infographic](/assets/npcskd.png)

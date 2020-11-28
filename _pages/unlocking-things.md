@@ -1,3 +1,9 @@
+---
+title: Unlocking Things
+nav_order: 4
+---
+
+
 ## Unlocking Things
 ### Nook Phone Unlocks
 - **DIY:** Complete Tom Nook’s DIY workshop.

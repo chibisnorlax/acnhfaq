@@ -1,3 +1,8 @@
+---
+title: Villagers
+nav_order: 7
+---
+
 ## Villagers
 ### Who are villagers?
 The AC community commonly refers to animal island residents as 'villagers'.

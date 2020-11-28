@@ -1,3 +1,8 @@
+---
+title: Island life
+nav_order: 2
+---
+
 ## Island Life
 ### What should I do during the first week of the game?
 Follow this guide, https://tinyurl.com/acnhtutorial.  

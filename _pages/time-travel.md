@@ -1,3 +1,9 @@
+---
+title: Time Travel
+nav_order: 10
+---
+
+
 ## Time Travel
 ### What is time travel?
 Animal Crossing games are based on real time -- for example, things that the game says will take one day truly take one real-life day to complete. "Time traveling" refers to the act of manually changing the time of the game to either be in the future or go back to the past. 
