@@ -6,7 +6,7 @@ Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serv
 This page is current through version 1.6.0 of the game.
 
 ## Navigation
-- [Island Life](/island-life)
+- [Island Life](/acnhfaq/island-life)
 - [Island Development](#island-development) 
 - [Unlocking Things](#unlocking-things)
 - [Gardening](#gardening)
