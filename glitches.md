@@ -16,7 +16,8 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 | Sleep mode issues      | Some issues may occur if the game is left in sleep mode. Villagers houses being inaccessible, Nook having incorrect dialog, Villagers  crafting in unusual places. | Close and restart the game.                            |
 | DC Dupe Exploit        | Allows the user to duplicate items. Note: **This dupe can corrupt your save file. Attempt at your own risk.** https://www.youtube.com/watch?v=qhyHsDs-H3Y          | N/A                                                    |
 | South Hemisphere DIY   | Halloween prevents SH users from obtaining the Outdoor Picnic Set DIY from Isabelle.                                                                               | Recipe can still be found in balloons.                 |
-| Invisible Weeds        | Weeds, when placed placed between 12:00 AM and 5:00 AM on the last day of a season, are invisible until after 5:00 AM                                                       | N/A                                                    |
+| Invisible Weeds        | Weeds, when placed placed between 12:00 AM and 5:00 AM on the last day of a season, are invisible until after 5:00 AM                                              | N/A                                                    |
+| Wreath Glitch          | Some villagers will not display wreaths when gifted. No information as to why this happens or how to fix it.                                                       | N/A                                                    |
 
 Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. 1.6.0.
 
