@@ -5,13 +5,13 @@ nav_order: 3
 
 ## Island Development
 ### How long does it take for X to be built?
-One [day](/acnh/island-life/#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
+One [day](/island-life/#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
 
 ### Can I move where buildings are on my island?
 Yes! Every building and house can be moved except the airport and Resident Services.
 
 ### How do I unlock terraforming?
-Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](/acnh/unlocking-things) section.
+Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](/unlocking-things) section.
 
 ### How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
@@ -28,13 +28,13 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - Trash DIY recipes are self-taught after fishing up a certain amount of trash. Visit the spreadsheet in the last bullet point for how many for a specific one.  
 - The King Tut mask is self-taught after picking up a golden nugget dropped from hitting a rock.  
 - Most Spooky DIY recipes are obtained through crafting villagers, balloons, or message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
-- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. Some are self-taught or from villagers and Zipper. See [here](/acnh/events/#bunny-day-easter) for more detail.
+- Likewise, most Bunny Day DIY recipes are from egg bottles and egg balloons. Some are self-taught or from villagers and Zipper. See [here](/events/#bunny-day-easter) for more detail.
 - Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
 - You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also gives you space-themed (celestial) DIY recipes and wand recipes.  
 - Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
-- [Wedding](/acnh/events/#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
-- The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](/acnh/events/#nature-day-earth-day).  
-- [Turkey Day](/acnh/events/#turkey-day) DIYs can be obtained by completing the event, or they are available for purchase in Nook's Cranny starting November 27th.
+- [Wedding](/events/#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
+- The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](/events/#nature-day-earth-day).  
+- [Turkey Day](/events/#turkey-day) DIYs can be obtained by completing the event, or they are available for purchase in Nook's Cranny starting November 27th.
 - You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 

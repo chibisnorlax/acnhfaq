@@ -1,6 +1,6 @@
 ---
-title: Homepage
-nav_order: 1
+title: Home
+nav_order: 1 
 ---
 
 # Frequently Asked Questions
@@ -14,7 +14,7 @@ This guide is current through version 1.6.0 of the game.
 - [Island Life](/island-life#top)
 - [Island Development](/island-development#top)
 - [Unlocking Things](/unlocking-things#top)
-- [Gardening](/docs/gardening#top)
+- [Gardening](/gardening#top)
 - [Turnips/Stalk Market](/turnipsstalk-market#top)
 - [Villagers](/villagers#top)
 - [NPC Visitors and Special Characters](/npc-visitors-and-special-characters#top)
