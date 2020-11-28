@@ -17,7 +17,6 @@ This page is current through version 1.6.0 of the game.
 - [Time Travel](/acnhfaq/time-travel)
 - [Glitches](/acnhfaq/glitches) 
 - [Miscellaneous](/acnhfaq/miscellaneous)
-- [Acknowledgements](/acnhfaq/acknowledgements)
 
 ## Terminology
 | Term                  | Usage/Definition                                                   |
