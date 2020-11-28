@@ -46,7 +46,7 @@
 - Celeste can visit on nights where you have shooting stars (see [NPC Schedule](#how-often-does-x-visit-how-do-i-unlock-x-character)). 
 
 ### K.K. Slider
-- Unlocked through completing [Project K](/acnhfaq/unlocking-things/#misc-unlocks).
+- Unlocked through completing [Project K](/acnhfaq/unlocking-things#misc-unlocks).
 - Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead.
 - Special visit for player birthdays.
 - Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. 
@@ -107,12 +107,12 @@
 ### C.J.
 - Buys fish for 1.5x Timmy and Tommy's price, but only after you complete his challenge.
 - Can make you fish models, which require 3 of the same fish, and is mailed to you the following day.
-- C.J. is the host of the [Fishing Tournament](/acnhfaq/events/#fishing-tourney).
+- C.J. is the host of the [Fishing Tournament](/acnhfaq/events#fishing-tourney).
 
 ### Flick
 - Buys bugs for 1.5x Timmy and Tommy's price.
 - Can make you bug models, which require 3 of the same bug, and is mailed to you the following day.
-- Flick is the host of the [Bug-Off](/acnhfaq/events/#bug-off).
+- Flick is the host of the [Bug-Off](/acnhfaq/events#bug-off).
 
 ### Pascal
 - Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.
@@ -167,7 +167,7 @@
 - Will wander around your island upon first encounter.
 - Speaking with him will prompt him to invite you to his own island, which allows you to take photos of your villagers and decorated sets.
 - Speak to Orville in the airport to fly to Harv's island.
-- Harv's island is the location for the [Wedding event](/acnhfaq/events/#wedding-season).
+- Harv's island is the location for the [Wedding event](/acnhfaq/events#wedding-season).
 
 ### Wisp
 - Visits at night.
@@ -175,7 +175,7 @@
 - Completing Wisp's quest will cause him to gift you either a furniture item or a clothing item.
 
 ### Zipper T. Bunny
-- First encounter at the beginning of [Bunny Day](/acnhfaq/events/#bunny-day-easter) event.
+- First encounter at the beginning of [Bunny Day](/acnhfaq/events#bunny-day-easter) event.
 - Explains and hosts Bunny Day.
 
 ### Orville and Wilbur
@@ -184,11 +184,11 @@
 - Wilbur is the pilot and provides the player with flimsy tools on mystery tours (200 Nook Miles per tool). 
 
 ### Reese and Cyrus
-- First encounter during the [Wedding event](/acnhfaq/events/#wedding-season).
+- First encounter during the [Wedding event](/acnhfaq/events#wedding-season).
 - Appear on Harv's island, the player can assist them in taking wedding photos in exchange for special furniture.
 
 ### Rover
-- First encounter during [May Day](/acnhfaq/events/#may-day) mystery tour event. 
+- First encounter during [May Day](/acnhfaq/events#may-day) mystery tour event. 
 - At the end of the maze, the player will get to speak with Rover and is gifted the "Rover's briefcase" item.
 
 ### Luna
@@ -196,14 +196,14 @@
 - Assists the player in uploading a dream or visiting other dream islands.
 
 ### Jack
-- First encounter during [Halloween](/acnhfaq/events/#halloween).
+- First encounter during [Halloween](/acnhfaq/events#halloween).
 - Gifts various rewards in exchange for candies and lollipops.
 
 ### Franklin
-- First encounter during [Turkey Day](/acnhfaq/events/#turkey-day).
+- First encounter during [Turkey Day](/acnhfaq/events#turkey-day).
 - Gifts various rewards in exchange for needed ingredients.
 
 ### Jingle
-- First encounter during [Toy Day](/acnhfaq/events/#toy-day).
+- First encounter during [Toy Day](/acnhfaq/events#toy-day).
 
 [Return to Homepage](/acnhfaq)
