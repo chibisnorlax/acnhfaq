@@ -1,5 +1,6 @@
 ---
 title: Island Development
+layout: default
 nav_order: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Island life
+layout: default
 nav_order: 2
 ---
 

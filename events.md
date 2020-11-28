@@ -1,5 +1,6 @@
 ---
 title: Events
+layout: default
 nav_order: 9
 ---
 

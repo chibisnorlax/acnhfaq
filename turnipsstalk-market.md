@@ -1,5 +1,6 @@
 ---
 title: Turnips/Stalk Market
+layout: default
 nav_order: 6
 ---
 

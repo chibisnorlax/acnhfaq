@@ -1,5 +1,6 @@
 ---
 title: Gardening
+layout: default
 nav_order: 5
 ---
 

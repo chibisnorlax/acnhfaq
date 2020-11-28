@@ -1,5 +1,6 @@
 ---
 title: Villagers
+layout: default
 nav_order: 7
 ---
 
