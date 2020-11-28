@@ -1,6 +1,5 @@
 ---
 title: Homepage
-layout: default
 nav_order: 1
 ---
 

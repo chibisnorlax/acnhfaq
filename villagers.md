@@ -1,6 +1,5 @@
 ---
 title: Villagers
-layout: default
 nav_order: 7
 ---
 
@@ -28,7 +27,7 @@ You MUST have an unsold, empty plot available to invite a villager from another 
 The villager has to be moving out and 'in boxes', if you talk to them they will mention that they are moving out and you'll be shown an option to invite them to live on your island. If you have an open plot, they will mention that they spoke to Tom Nook and are going to move in to your island and show up on your island the next day.
 
 ### How do I extend the time window my villager is in boxes (or) How do I extend the duration my plot is empty?
-[Time travel](/./time-travel) a few hours backwards, but stay within the same day.
+[Time travel](/time-travel) a few hours backwards, but stay within the same day.
 
 ### Will my villagers move out without telling me?
 No. They always need to ask you for your permission before they move out. You need to have at least six villagers, for villagers to start asking about moving out.
@@ -52,7 +51,7 @@ Giving player: Must have the villager of interest in boxes moving *out*. ("In bo
 
 The receiving player visits the giving player's island and speaks to the villager of interest twice, which will prompt the "You should move in" dialogue option. After the villager has spoken to the receiving player's Resident Services, the receiving player's empty plot should say SOLD with the villager's name on it.
 
-Note that villager-for-villager trades happen in the same way, but require both players have an extra empty plot to purchase or require [time travel](/./time-travel). 
+Note that villager-for-villager trades happen in the same way, but require both players have an extra empty plot to purchase or require [time travel](/time-travel). 
 
 ### How often does someone visit my campsite?
 Campsite visitors are determined on a percent chance roll, where the chance is based on when your last campsite visitor was. 
@@ -98,7 +97,7 @@ Each villager personality allows you to unlock reactions—these are the emotion
 
 For example, if you have no peppy villager, you cannot learn the aggravation, curiosity, happiness, sleepy, or mischief reactions. You can, however, always move out a villager once you’ve obtained all of their possible reactions!
 
-For the Halloween reactions, they are earned by playing the [Halloween](/./events#halloween) event. The Hip Reactions Collection can be bought via Nook Miles Redemption for 2,700 Nook Miles.
+For the Halloween reactions, they are earned by playing the [Halloween](/events#halloween) event. The Hip Reactions Collection can be bought via Nook Miles Redemption for 2,700 Nook Miles.
 
 All reactions and their sources: 
 
@@ -113,7 +112,7 @@ All reactions and their sources:
 | Peppy                      | <img src="/./assets/reactions/aggravation.png"/><img src="/./assets/reactions/curiosity.png"/><img src="/./assets/reactions/happiness.png"/><img src="/./assets/reactions/sleepy.png"/>                                                                                                                                                                                                                                                                | <img src="/./assets/reactions/mischief.png"/>    |
 | Snooty                     | <img src="/./assets/reactions/amazed.png"/><img src="/./assets/reactions/intense.png"/><img src="/./assets/reactions/thought.png"/><img src="/./assets/reactions/sighing.png"/>                                                                                                                                                                                                                                                                        | <img src="/./assets/reactions/love.png"/>        |
 | Normal                     | <img src="/./assets/reactions/fearful.png"/><img src="/./assets/reactions/glee.png"/><img src="/./assets/reactions/pleased.png"/><img src="/./assets/reactions/sadness.png"/>                                                                                                                                                                                                                                                                          | <img src="/./assets/reactions/daydream.png"/>    |
-| [Halloween](/./events/#halloween)    | <img src="/./assets/reactions/scare.png"/><img src="/./assets/reactions/haunt.png"/>                                                                                                                                                                                                                                                                                                                                                                               | -                                                      |
+| [Halloween](/events/#halloween)    | <img src="/./assets/reactions/scare.png"/><img src="/./assets/reactions/haunt.png"/>                                                                                                                                                                                                                                                                                                                                                                               | -                                                      |
 | Hip Reaction<br>Collection | <img src="/./assets/reactions/excited.png"/><img src="/./assets/reactions/hereyougo.png"/><img src="/./assets/reactions/sitdown.png"/><img src="/./assets/reactions/sniffsniff.png"/><img src="/./assets/reactions/tada.png"/><br><img src="/./assets/reactions/takeapicture.png"/><img src="/./assets/reactions/wavegoodbye.png"/><img src="/./assets/reactions/workout.png"/><img src="/./assets/reactions/yoga.png"/> | -                                                      |
 
 ### What are Amiibos? Who has an Amiibo? 
@@ -130,7 +129,7 @@ Amiibos can be purchased at authorized Nintendo retailers in your local area. Yo
 Unofficial Amiibos can be made using a method called "spoofing". These Amiibos are not official nor guaranteed to work, but are an option if you cannot find official Amiibos near you.
 
 ### How do I invite a villager to live on my island using their Amiibo?
-Once you unlock the campsite (see [here](/./unlocking-things#building-unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
+Once you unlock the campsite (see [here](/unlocking-things#building-unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
 
 After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
 
@@ -353,7 +352,7 @@ It depends on the type of quest and friendship levels! These are the storing rul
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
 - Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum). 
 - Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit https://bit.ly/3gWAJDe.
-- If you wish to remove a custom design, please read [here](/./npc-visitors-and-special-characters#isabelle).
+- If you wish to remove a custom design, please read [here](/npc-visitors-and-special-characters#isabelle).
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
 ### My villager placed a furniture item (or a mannequin of a clothing) I gifted them in their house, how do I remove it?
