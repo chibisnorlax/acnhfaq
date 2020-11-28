@@ -455,13 +455,26 @@ That said, there's no requirement to do this, and you should have the villagers 
 “Friendship” refers to how close you are with your villagers. Talking to them, gifting them items, and completing quests for them all increases friendship. Villagers also have friendship levels, and when you unlock new levels, you unlock new interactions and quests! For more specific details, visit Yue’s friendship guide, located here: https://yuexr.github.io/acnh/friendship.html.
 
 ### What are reactions? 
-Each villager personality allows you to unlock reactions—these are the emotion animations your character can display. Unlocking them all takes time, so be patient! The infographic below shows which reactions are unlocked based on which personalities. You need a villager of that personality living on your island to unlock those specific reactions. 
+Each villager personality allows you to unlock reactions—these are the emotion animations your character can display. Unlocking them all takes time, so be patient! The table below shows which reactions are unlocked based on which personalities. You need a villager of that personality living on your island to unlock those specific reactions.
 
 For example, if you have no peppy villager, you cannot learn the aggravation, curiosity, happiness, sleepy, or mischief reactions. You can, however, always move out a villager once you’ve obtained all of their possible reactions!
 
-All personality-based reactions: ![Reaction Infographic](/assets/reactions.png)
+For the Halloween reactions, they are earned by playing the [Halloween](#halloween) event. The Hip Reactions Collection can be bought via Nook Miles Redemption for 2,700 Nook Miles.
 
-As of version 1.5.0, there are two event reactions, **Haunt** and **Scare** which are obtainable by playing the [Halloween event](#halloween). 
+All reactions and their sources: 
+|      Type              | Reactions | Special |
+|:----------------------:|:---------:|:-------:|
+|    Initial             |<img src="/assets/reactions/delight.png"/><img src="/assets/reactions/greetings.png"/><img src="/assets/reactions/joy.png"/><img src="/assets/reactions/surprise.png"/>   |    -    |
+|     Cranky             |<img src="/assets/reactions/agreement.png"/><img src="/assets/reactions/bewilderment.png"/><img src="/assets/reactions/sheepishness.png"/><img src="/assets/reactions/worry.png"/>           |<img src="/assets/reactions/inspiration.png"/>         |
+|      Jock              |<img src="/assets/reactions/distress.png"/><img src="/assets/reactions/encouraging.png"/><img src="/assets/reactions/shocked.png"/><img src="/assets/reactions/sneezing.png"/>           |<img src="/assets/reactions/flourish.png"/>         |
+|      Lazy              |<img src="/assets/reactions/bashfulness.png"/><img src="/assets/reactions/mistaken.png"/><img src="/assets/reactions/shyness.png"/><img src="/assets/reactions/sorrow.png"/>           |<img src="/assets/reactions/pride.png"/>         |
+|      Smug              |<img src="/assets/reactions/dozing.png"/><img src="/assets/reactions/heartbreak.png"/><img src="/assets/reactions/resignation.png"/><img src="/assets/reactions/smirking.png"/>           |<img src="/assets/reactions/showmanship.png"/>         |
+|   Big Sister           |<img src="/assets/reactions/apologetic.png"/><img src="/assets/reactions/coldchill.png"/><img src="/assets/reactions/disagreement.png"/><img src="/assets/reactions/laughter.png"/>           |<img src="/assets/reactions/confident.png"/>         |
+|     Peppy              |<img src="/assets/reactions/aggravation.png"/><img src="/assets/reactions/curiosity.png"/><img src="/assets/reactions/happiness.png"/><img src="/assets/reactions/sleepy.png"/>           |<img src="/assets/reactions/mischief.png"/>         |
+|     Snooty              |<img src="/assets/reactions/amazed.png"/><img src="/assets/reactions/intense.png"/><img src="/assets/reactions/thought.png"/><img src="/assets/reactions/sighing.png"/>           |<img src="/assets/reactions/love.png"/>         |
+|     Normal              |<img src="/assets/reactions/fearful.png"/><img src="/assets/reactions/glee.png"/><img src="/assets/reactions/pleased.png"/><img src="/assets/reactions/sadness.png"/>           |<img src="/assets/reactions/daydream.png"/>         |
+|   [Halloween](#halloween)             |<img src="/assets/reactions/scare.png"/><img src="/assets/reactions/haunt.png"/>           |-         |
+| Hip Reaction<br>Collection |<img src="/assets/reactions/excited.png"/><img src="/assets/reactions/hereyougo.png"/><img src="/assets/reactions/sitdown.png"/><img src="/assets/reactions/sniffsniff.png"/><img src="/assets/reactions/tada.png"/><br><img src="/assets/reactions/takeapicture.png"/><img src="/assets/reactions/wavegoodbye.png"/><img src="/assets/reactions/workout.png"/><img src="/assets/reactions/yoga.png"/>           |-         |
 
 ### What are Amiibos? Who has an Amiibo? 
 Amiibos are Nintendo-produced collectibles that come in the form of cards or figurines and allow players to unlock special features when scanned into games. You can buy them from some online retailers or secondhand. In Animal Crossing: New Horizons, Amiibos allow you to invite villagers onto your island or unlock posters, an in-game item. There are 456 Animal Crossing Amiibo cards, including non-villager NPCs, villagers, and special villagers (such as the Sanrio x Animal Crossing villagers). 
