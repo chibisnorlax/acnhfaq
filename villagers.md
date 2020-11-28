@@ -92,7 +92,7 @@ Each villager personality allows you to unlock reactions—these are the emotion
 
 For example, if you have no peppy villager, you cannot learn the aggravation, curiosity, happiness, sleepy, or mischief reactions. You can, however, always move out a villager once you’ve obtained all of their possible reactions!
 
-For the Halloween reactions, they are earned by playing the [Halloween](/acnhfaq/events/#halloween) event. The Hip Reactions Collection can be bought via Nook Miles Redemption for 2,700 Nook Miles.
+For the Halloween reactions, they are earned by playing the [Halloween](/acnhfaq/events#halloween) event. The Hip Reactions Collection can be bought via Nook Miles Redemption for 2,700 Nook Miles.
 
 All reactions and their sources: 
 
@@ -124,7 +124,7 @@ Amiibos can be purchased at authorized Nintendo retailers in your local area. Yo
 Unofficial Amiibos can be made using a method called "spoofing". These Amiibos are not official nor guaranteed to work, but are an option if you cannot find official Amiibos near you.
 
 ### How do I invite a villager to live on my island using their Amiibo?
-Once you unlock the campsite (see [here](/acnhfaq/unlocking-things/#building-unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
+Once you unlock the campsite (see [here](/acnhfaq/unlocking-things#building-unlocks) on how to unlock it), visit Resident Services and interact with the Nook Stop. On the initial menu, the option to “Invite \[Amiibo\] Camper" should appear. Select it and touch your Amiibo card to your right joystick. Your villager will appear in your campsite as soon as you close out of the Nook Stop. 
 
 After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
 
@@ -347,7 +347,7 @@ It depends on the type of quest and friendship levels! These are the storing rul
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
 - Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum). 
 - Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit https://bit.ly/3gWAJDe.
-- If you wish to remove a custom design, please read [here](/acnhfaq/npc-visitors-and-special-characters/#isabelle).
+- If you wish to remove a custom design, please read [here](/acnhfaq/npc-visitors-and-special-characters#isabelle).
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
 ### My villager placed a furniture item (or a mannequin of a clothing) I gifted them in their house, how do I remove it?
