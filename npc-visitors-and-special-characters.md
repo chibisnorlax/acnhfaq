@@ -3,7 +3,6 @@ title: NPC Visitors and Special Characters
 nav_order: 8
 ---
 
-
 ## NPC Visitors and Special Characters
 ### How often does X visit? How do I unlock X character?
 ![NPC Schedule Infographic](/assets/npcskd.png)
@@ -27,15 +26,15 @@ nav_order: 8
 - If you aren't sure what to do, talk to him and choose "What should I do?" If he doesn't have anything for you today, he may have something for you tomorrow! 
 
 ### Timmy and Tommy (The "Nooklings")
-- Until [Nook's Cranny](/unlocking-things/building-unlocks) is unlocked, you can buy and sell items from Timmy in the Resident Services tent.
+- Until [Nook's Cranny](/unlocking-things#building-unlocks) is unlocked, you can buy and sell items from Timmy in the Resident Services tent.
 - Timmy and Tommy run Nook's Cranny once it's built, where you can purchase decor, plants, and tools.
 
 ### Blathers
 - Unlocked when you donate 5 critters to Tom Nook during the tutorial.
-- Once the [museum](/unlocking-things/building-unlocks) is built, you'll be able to donate bugs, fish, sea creatures, and art that Blathers will tell you about as well as display for players to look at. 
+- Once the [museum](/unlocking-things#building-unlocks) is built, you'll be able to donate bugs, fish, sea creatures, and art that Blathers will tell you about as well as display for players to look at. 
 
 ### Isabelle
-- Unlocked when you upgrade [Resident Services](/unlocking-things/building-unlocks) into a building.
+- Unlocked when you upgrade [Resident Services](/unlocking-things#building-unlocks) into a building.
 - Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.
 - You can talk to Isabelle to reset villagers' clothing, catchphrases through the 'Discuss a Resident' option. 
   - **Note:** Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
