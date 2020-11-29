@@ -1,3 +1,8 @@
+---
+title: Miscellaneous
+nav_order: 12
+---
+
 ## Miscellaneous
 ### I heard a rumor that X might be added to the game. Is this true?
 If Nintendo has not confirmed the feature/item from said rumor, then we cannot confirm if it will be added or not. However, fun and interesting things surface all the time whilst the dataminers are examining the game's code. Visit http://acnhapi.com/trivia/ for some of this information.
@@ -19,6 +24,4 @@ Your ACNH game is now up to date!
 Yes, you can. It requires a Nintendo Switch Online subscription. Please visit https://en-americas-support.nintendo.com/app/answers/detail/a_id/53668/~/how-to-transfer-animal-crossing%3A-new-horizons-save-data for more information.  
 
 ### What are some other resources for AC:NH?
-You can find them at https://acnh.directory/.
-
-[Return to Homepage](/acnhfaq)
+You can find them at https://acnh.directory/.  

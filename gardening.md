@@ -1,3 +1,8 @@
+---
+title: Gardening
+nav_order: 5
+---
+
 ## Gardening
 The ACNH gardening community has kindly put together various resources for all your gardening needs! Please check the links below to help answer any gardening-related questions you may have.
 
@@ -27,6 +32,4 @@ If you are making a rock garden, it's usually something south of the garden bloc
 You need to remove it until the rock spawn.  
 
 ### What's the quickest path to each hybrid?
-![Breeding Guide](/assets/breeding.png)
-
-[Return to Homepage](/acnhfaq)
+![Breeding Guide](/assets/breeding.png)  
