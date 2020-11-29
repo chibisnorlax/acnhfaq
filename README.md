@@ -45,3 +45,8 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 - Updated glitch list.
 - Added balloon farming guide.
 - Added storage expansion to list of house upgrades.
+
+### 1.3.0
+- Split FAQ into various sections.
+- Updated reactions table.
+- Added Just Docs theme & site wide search bar.
