@@ -90,7 +90,7 @@ Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Hallowe
 For more detailed info, visit https://cestislife.github.io/halloween.
 
 ### Turkey Day
-Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the player has an [upgraded Resident Services building](/unlocking-things#building-unlocks), Franklin will visit to host the event. In exchange for ingredients Franklin needs for his dishes, he will reward you with items and a DIY pack.
+Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the player has an [upgraded Resident Services building](/acnhfaq/unlocking-things#building-unlocks), Franklin will visit to host the event. In exchange for ingredients Franklin needs for his dishes, he will reward you with items and a DIY pack.
 
 For more detailed info, visit https://cestislife.github.io/turkeyday.
 
