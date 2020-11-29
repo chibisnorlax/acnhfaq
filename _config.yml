@@ -2,6 +2,7 @@ title: "Animal Crossing: New Horizons FAQ"
 remote_theme: pmarsceill/just-the-docs #get the theme
 description: Fan-made FAQ for AC:NH
 markdown: GFM
+permalink: pretty
 back_to_top: true
 back_to_top_text: "Back to top" #add back to top as footer
 last_edit_timestamp: true
