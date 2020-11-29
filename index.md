@@ -1,22 +1,27 @@
+---
+title: Home
+nav_order: 1 
+---
+
 # Frequently Asked Questions
 ver. 1.2.0
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-This page is current through version 1.6.0 of the game.
+This guide is current through version 1.6.0 of the game.
 
 ## Navigation
-- [Island Life](/acnhfaq/island-life)
-- [Island Development](/acnhfaq/island-development)
-- [Unlocking Things](/acnhfaq/unlocking-things)
-- [Gardening](/acnhfaq/gardening)
-- [Turnips/Stalk Market](/acnhfaq/turnipsstalk-market)
-- [Villagers](/acnhfaq/villagers)
-- [NPC Visitors and Special Characters](/acnhfaq/npc-visitors-and-special-characters)
-- [Events](/acnhfaq/events)
-- [Time Travel](/acnhfaq/time-travel)
-- [Glitches](/acnhfaq/glitches) 
-- [Miscellaneous](/acnhfaq/miscellaneous)
+- [Island Life](/island-life#top)
+- [Island Development](/island-development#top)
+- [Unlocking Things](/unlocking-things#top)
+- [Gardening](/gardening#top)
+- [Turnips/Stalk Market](/turnipsstalk-market#top)
+- [Villagers](/villagers#top)
+- [NPC Visitors and Special Characters](/npc-visitors-and-special-characters#top)
+- [Events](/events#top)
+- [Time Travel](/time-travel#top)
+- [Glitches](/glitches#top) 
+- [Miscellaneous](/miscellaneous#top)
 
 ## Terminology
 | Term                  | Usage/Definition                                                   |

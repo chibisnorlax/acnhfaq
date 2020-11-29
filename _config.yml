@@ -1,4 +1,10 @@
 title: "Animal Crossing: New Horizons FAQ"
+remote_theme: pmarsceill/just-the-docs #get the theme
 description: Fan-made FAQ for AC:NH
 markdown: GFM
-url: https://chibisnorlax.github.io
+permalink: pretty #make url pretty
+back_to_top: true
+back_to_top_text: "Back to top" #add back to top as footer
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p" #added this because back to top didn't show up without this, probably don't need it
+

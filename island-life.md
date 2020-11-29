@@ -1,3 +1,8 @@
+---
+title: Island life
+nav_order: 2
+---
+
 ## Island Life
 ### What should I do during the first week of the game?
 Follow this guide, https://tinyurl.com/acnhtutorial.  
@@ -6,7 +11,7 @@ Follow this guide, https://tinyurl.com/acnhtutorial.
 Visit https://tinyurl.com/acnhfriends.
 
 ### How do I visit other people/invite visitors over?
-Starting day 2 of the game, speak with [Orville](/acnhfaq/npc-visitors-and-special-characters#orville-and-wilbur) in the airport and choose "I wanna fly!" to visit someone, or "I want visitors." to open your gates for people to visit you. In order to use the "online play" options, you will need to have an active Nintendo Switch Online subscription. NSO is a paid subscription that you can purchase through the E-Shop that allows you to use the online features of various games, including AC:NH. If you have a friend that is physically close to you (i.e., in the same room or building), you can also choose the "Local Play" option! This option does not require the internet or an NSO subscription, but still allows you to visit other islands. 
+Starting day 2 of the game, speak with [Orville](/npc-visitors-and-special-characters#orville-and-wilbur) in the airport and choose "I wanna fly!" to visit someone, or "I want visitors." to open your gates for people to visit you. In order to use the "online play" options, you will need to have an active Nintendo Switch Online subscription. NSO is a paid subscription that you can purchase through the E-Shop that allows you to use the online features of various games, including AC:NH. If you have a friend that is physically close to you (i.e., in the same room or building), you can also choose the "Local Play" option! This option does not require the internet or an NSO subscription, but still allows you to visit other islands. 
 
 ### What defines a week and a day in-game?
 An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
@@ -131,7 +136,5 @@ You can explore other user's islands at your own leisure to get inspiration or t
 - See [here](https://bigfootmg.github.io/ACNH-Plant-Guide/07.png) for young spring bamboo, cherry blossom, acorns, pine cones, maple leaves, and mushrooms.  
 - Summer shells are found on the beach and more spawn every five minutes.
 - Snowflakes flow around you island and can be caught with a net.
-- Ornaments drop from decorated cedar trees. They will only appear after Isabelle announces their presence. See [here](/acnhfaq/time-travel#i-time-traveled-to-festive-season-but-why-are-none-of-the-cedar-trees-decorated) for how to get them. 
-- Note for acorns, pinecones and ornaments: you can simply shake one tree infinitely until it produces the amount you want.
-
-[Return to Homepage](/acnhfaq)
+- Ornaments drop from decorated cedar trees. They will only appear after Isabelle announces their presence. See [here](/time-travel#i-time-traveled-to-festive-season-but-why-are-none-of-the-cedar-trees-decorated) for how to get them. 
+- Note for acorns, pinecones and ornaments: you can simply shake one tree infinitely until it produces the amount you want.  
