@@ -10,6 +10,8 @@ Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serv
 
 This guide is current through version 1.6.0a of the game.
 
+<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Click here for Dark Mode'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Return to Light Mode'; } }); </script>
+
 ## Terminology
 | Term                  | Usage/Definition                                                   |
 |-----------------------|--------------------------------------------------------------------|
