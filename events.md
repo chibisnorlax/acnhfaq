@@ -98,7 +98,7 @@ For more detailed info, visit https://cestislife.github.io/turkeyday.
 {: .d-inline-block }
 
 time-locked
-{: .label .label-red }
+{: .label .label-red }     
 Toy Day happens on December 24th. This event and it's associated items/DIYs are currently **time-locked** and not currently available to be played.
 
 ### Countdown (New Year)
