@@ -94,11 +94,7 @@ Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the pla
 
 For more detailed info, visit https://cestislife.github.io/turkeyday.
 
-### Toy Day
-{: .d-inline-block }
-
-time-locked     
-{: .label .label-red }     
+### Toy Day   
 Toy Day happens on December 24th. This event and it's associated items/DIYs are currently **time-locked** and not currently available to be played.
 
 ### Countdown (New Year)
