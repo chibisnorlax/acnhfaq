@@ -95,7 +95,9 @@ Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the pla
 For more detailed info, visit https://cestislife.github.io/turkeyday.
 
 ### Toy Day
-Toy Day happens on December 24th. This event and it's associated items/DIYs are currently **time-locked** and not currently available to be played.
+Toy Day happens on December 24th. This event and its associated DIYs are currently **time-locked** and not currently available to be played.
+
+As of `1.6.0b`, Toy Day toys are available in Nook's Cranny from December 1st onwards.
 
 ### Countdown (New Year)
 The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.  
