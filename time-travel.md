@@ -56,6 +56,7 @@ If you time travel backward more than a day, it will be like going back to "fake
 - Turnips will spoil.
 - Turnip prices will change and your trend will be reset.
 - Watered effect will be removed from flowers and they will not grow/breed.
+- ABD chain will reset.
 
 **Neutral Effects:**
 - It will not count as a "new day" in terms of progression.
@@ -64,9 +65,6 @@ If you time travel backward more than a day, it will be like going back to "fake
 - Shop stock will be the same as it was the first time you visited that day unless you leave the current week.
 - Rocks and trees will not refresh.
 - Mail will not be delivered.
-
-**Positive Effects:**
-- ABD chain will remain, and you can claim another daily bonus, even if you time travel backward more than a day.
 
 ### An update or seasonal items were announced, can I time travel to access it?
 No, you can only access it if the game was patched to have the update or Nintendo unlocked the seasonal item.  
