@@ -326,7 +326,7 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
 
 Credit to `Soleil#6271` on Discord for writing and maintaining this list! 
 
-####Sub-Notes:  
+Sub-Notes:  
 <sup>1</sup>: *Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.*  
 <sup>2</sup>: *Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.*  
 <sup>3</sup>: *Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.*  
