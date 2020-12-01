@@ -3,8 +3,8 @@ title: Unlocking Things
 nav_order: 4
 ---
 
-## Unlocking Things
-### Nook Phone Unlocks
+# Unlocking Things
+## Nook Phone Unlocks
 - **DIY:** Complete Tom Nook’s DIY workshop.
 - **Critterpedia:** Donate a critter to Tom Nook.
 - **Pro Custom Designs:** While the Custom Designs app is available from the start, the Pro Designs can be unlocked through purchasing it at the Nook Stop. Alternatively, you can access Pro Designs from the kiosk of a dream island; the same happens when you unlock the kiosk the first time. While you can wear downloaded designs, however, you cannot edit or create them until you buy it at the Nook Stop.
@@ -12,13 +12,13 @@ nav_order: 4
 - **Island Designer:** Complete Project K and redeem the purchases from the Nook Stop (“Redeem Nook Miles”). Preset path permits cost 2000 Nook Miles, the Custom Path permit costs 2,300 Nook Miles, and the waterscaping and cliff-construction permits cost 6000 Nook Miles each.
 - **Nook Shopping:** After purchasing 100 items from “Nook Shopping” in the Nook Stop, you will get a prompt that you unlocked the app. You can track your progress with the “Shop to it” Nook Miles achievement.
 
-### Villager Plot Unlocks
+## Villager Plot Unlocks
 - **Villagers 1 and 2:** Create your island!
 - **Villagers 3-5:** Unlock the Museum Tent, build Nook’s Cranny, build your first bridge.
 - **Villager 6:** Unlock and build the Campsite.
 - **Villagers 7-10:** Speak to Tom Nook about purchasing land.
 
-### Building Unlocks
+## Building Unlocks
 - **Museum Tent:** Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.
 - **Museum:** Donate 15 bugs, fishes, or fossils to Blathers.
 - **Museum Art Wing:** Total 60 donations to Blathers (40 on top of the 20 donated to unlock the previous two stages). 
@@ -28,7 +28,7 @@ nav_order: 4
 - **Resident Services Building:** Pay your Nook Miles debt, give 5 critters to Tom Nook, build Nook’s Cranny, build a bridge, and complete the three villager houses mission.
 - **Campsite:** Upgrade Resident Services into a building and talk to Tom Nook, who will have you craft and place the Campground Construction Kit.
 
-### House Unlocks
+## House Unlocks
 
 |        Upgrade        |        Fee       | Unlocks                                                                                                            |
 |:---------------------:|:----------------:|--------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@ nav_order: 4
 - Paying off the previous fee unlocks each subsequent house upgrade.
 - Free exterior renovations are only unlocked after paying the final loan in full.
 
-### DIY Unlocks
+## DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
 - **Flimsy Net:** Finish DIY workshop.
 - **Flimsy Axe:** Donate 2 creatures to Tom Nook (“I found a creature!”).
@@ -62,7 +62,7 @@ nav_order: 4
  - *For players other than the Island Representative, the flimsy tools, Ladder and Vaulting Pole DIYs can be bought from Nook's Cranny.*
 
 
-### Golden Tool Unlocks (Note: Spoilers!)
+## Golden Tool Unlocks (Note: Spoilers!)
 - **Golden Axe:** Break 100 axes. Your character will be struck by inspiration and learn the DIY by themselves.
 - **Golden Shovel:** Help Gulliver 30 times (Gullivarrr does not count towards this). Gulliver will mail you the DIY the next day instead of the usual reward.
 - **Golden Net:** Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.
@@ -72,7 +72,7 @@ nav_order: 4
 
 ***Note:** Golden tools can still break, but have a considerably higher durability. Visit https://cestislife.github.io/img/tools.png for tool durability*
 
-### Misc Unlocks
+## Misc Unlocks
 - **Nook Miles Redemption:** Pay off 5,000 Nook Miles house debt. 
   - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors.
 - **Nook Miles+:** Upgrade your tent into a house (“About my home…”).

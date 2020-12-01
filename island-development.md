@@ -3,25 +3,25 @@ title: Island Development
 nav_order: 3
 ---
 
-## Island Development
-### How long does it take for X to be built?
+# Island Development
+## How long does it take for X to be built?
 One [day](/acnhfaq/island-life#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
 
-### Can I move where buildings are on my island?
+## Can I move where buildings are on my island?
 Yes! Every building and house can be moved except the airport and Resident Services.
 
-### How do I unlock terraforming?
+## How do I unlock terraforming?
 Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](/acnhfaq/unlocking-things) section.
 
-### How do I raise my island rating?
+## How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
 
-### What can secondary (non-Island-Representative) players do?
+## What can secondary (non-Island-Representative) players do?
 Secondary residents can do everything that Island Representatives can except story progression and certain infrastructural decisions. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
 
 They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
 
-### How do I obtain "X" DIY recipe?
+## How do I obtain "X" DIY recipe?
 - Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personalities give you which recipes.   
 - The Pitfall Seed DIY is either received from a crafting Jock villager or self-taught through digging up a pitfall seed. 
 - Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. come from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons work, and [here](https://cestislife.github.io/seasonaldiy) for a complete list of seasonal DIYs.
@@ -38,13 +38,13 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
-### How long do villagers craft for? How many can craft per day?
+## How long do villagers craft for? How many can craft per day?
 Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. Villagers won't craft on event days (e.g. bug-off, fishing tourney, etc.).
 
-### What do I do with duplicate DIYs?
+## What do I do with duplicate DIYs?
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
 
-### How do I farm balloons?
+## How do I farm balloons?
 Balloons can be funneled through tall objects, making them much easier to farm as you won't miss any that spawn. To do this, follow the steps outlined below:
 1. Find the direction your balloons are coming from. You can do this by looking at the direction smoke is blowing out the top of a house's chimney.
 2. Craft or purchase many tall objects. For a list, see here: https://docs.google.com/spreadsheets/d/16E4Dtl0ys5w0W11rU9U-FYvsyiLGTDSNzS50_YyDo40/edit#gid=0
@@ -56,11 +56,11 @@ Here's a visual of what your coast might look like, courtesy of Nours#7244!
 ![Balloons 1 GIF](/assets/balloonfarm1.gif)
 ![Balloons 2 GIF](/assets/balloonfarm2.gif)
 
-### What are Pocket Camp items and how can I get them?
+## What are Pocket Camp items and how can I get them?
 Visit https://cestislife.github.io/img/pocketcamp.png for information on the Pocket Camp exclusive items.  
 
-### When does a balloon spawn and what do they drop?
+## When does a balloon spawn and what do they drop?
 See this guide, https://cestislife.github.io/img/balloons.png.
 
-### How do I unlock all the DAL items? What are the milestones?
+## How do I unlock all the DAL items? What are the milestones?
 ![DAL rewards](/assets/dal.png)  
