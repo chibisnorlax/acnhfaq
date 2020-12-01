@@ -86,7 +86,7 @@ Star fragments spawn periodically throughout the day, usually 8-10 at a time. If
 | ♌ Leo         | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLeoCropped.png" width="35"/>         | Jul 23 - Aug 22 |
 | ♍ Virgo       | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceVirgoCropped.png" width="35"/>       | Aug 23 - Sep 22 |
 | ♎ Libra       | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLibraCropped.png" width="35"/>       | Sep 23 - Oct 23 |
-| ♏ Scorpius    | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceScorpioCropped.png" width="35"/>     | Oct 24 - Nov 22 |
+| ♏ Scorpio    | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceScorpioCropped.png" width="35"/>     | Oct 24 - Nov 22 |
 | ♐ Sagittarius | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceSagittariusCropped.png" width="35"/> | Nov 23 - Dec 21 |
 | ♑ Capricorn   | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceCapricornusCropped.png" width="35"/> | Dec 22 - Jan 19 |
 
