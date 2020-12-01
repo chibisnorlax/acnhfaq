@@ -271,10 +271,8 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
             <li>Trees</li>
           </ul>
         </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td><b>Safe but Rejected</b></td>
     <td>These items are never stored or displayed, but the villager will give them back.</td>
     <td>
@@ -287,8 +285,8 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
         <li>Bells</li>
       </ul>
     </td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td><b>Cannot Gift</b></td>
     <td>These items cannot be gifted.</td>
     <td>
