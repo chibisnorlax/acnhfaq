@@ -141,13 +141,14 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
 
 ***Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts.*
 
+
 <div class="tg-wrap">
-<table style="undefined;table-layout: auto">
-<colgroup>
-<col style="width: 100px">
-<col style="width: 120px">
-<col style="width: 500px">
-</colgroup>
+  <table style="undefined;table-layout: auto">
+    <colgroup>
+    <col style="width: 100px">
+    <col style="width: 120px">
+    <col style="width: 500px">
+    </colgroup>
   <tbody>
   <tr>
     <td><b>Not Safe</b></td>
@@ -324,9 +325,8 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
   </tbody>
   </table>
 </div>
-     
 
-Credit to `Soleil#6271` on Discord for writing and maintaining this list! 
+*Credit to `Soleil#6271` on Discord for writing and maintaining this list!*
 
 ####Sub-Notes:  
 <sup>1</sup>: *Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.*  
