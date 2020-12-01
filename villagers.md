@@ -141,13 +141,14 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
 
 ***Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts.*
 
-<div class="tg-wrap"><table style="undefined;table-layout: auto">
+<div class="tg-wrap">
+<table style="undefined;table-layout: auto">
 <colgroup>
 <col style="width: 100px">
 <col style="width: 120px">
 <col style="width: 500px">
 </colgroup>
-<tbody>
+  <tbody>
   <tr>
     <td><b>Not Safe</b></td>
     <td>These items can be displayed when gifted by hand, via the mail, or on the villager's birthday.</td>
@@ -322,8 +323,9 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
   </tr>
   </tbody>
   </table>
-  </div>
+</div>
      
+
 Credit to `Soleil#6271` on Discord for writing and maintaining this list! 
 
 ####Sub-Notes:  
