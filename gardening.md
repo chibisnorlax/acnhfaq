@@ -13,7 +13,7 @@ https://bit.ly/acnhflowerfaq
 ### What's the quickest path to each hybrid?
 ![Breeding Guide](/assets/breeding.png)  
 
-#### Resources
+### Resources
 * [Aeter's Comprehensive Flower Guide](https://aiterusawato.github.io/satogu/acnh/flowers)
 * [Yue's Garden Layout Guide](https://yuexr.github.io/acnh/garden_layouts)
 * [Aeon's Flower Breeding Simulator](https://gardenscience.ac/)
