@@ -5,10 +5,10 @@ nav_order: 2
 
 # Island Life
 ## What should I do during the first week of the game?
-Follow this guide, https://tinyurl.com/acnhtutorial.  
+Follow this guide, <https://tinyurl.com/acnhtutorial/>.  
 
 ## How can I become friends/best friends with other people? What can they do on my island?
-Visit https://tinyurl.com/acnhfriends.
+Visit <https://tinyurl.com/acnhfriends>.
 
 ## How do I visit other people/invite visitors over?
 Starting day 2 of the game, speak with [Orville](/acnhfaq/npc-visitors-and-special-characters#orville-and-wilbur) in the airport and choose "I wanna fly!" to visit someone, or "I want visitors." to open your gates for people to visit you. In order to use the "online play" options, you will need to have an active Nintendo Switch Online subscription. NSO is a paid subscription that you can purchase through the E-Shop that allows you to use the online features of various games, including AC:NH. If you have a friend that is physically close to you (i.e., in the same room or building), you can also choose the "Local Play" option! This option does not require the internet or an NSO subscription, but still allows you to visit other islands. 
@@ -25,16 +25,16 @@ Dig two holes diagonally in one of the corners around the rock. Stand in the cor
 After you eat one, you can dig up a tree or break a rock. If you break a rock, one will respawn per day if there's a place it can spawn. You can get rid of the effect by sitting on a toilet.  
 
 ## What determines the weather on my island?
-The weather on your island is determined by your weather *seed*. A seed is a special number generated at the creation of your island that determines a specific pattern. In this case, your weather pattern for the entire game. Weather includes things like shooting stars, rainbows, thunderstorms, etc. If you are interested in finding out what your weather seed is, visit https://wuffs.org/acnh/weather/.
+The weather on your island is determined by your weather *seed*. A seed is a special number generated at the creation of your island that determines a specific pattern. In this case, your weather pattern for the entire game. Weather includes things like shooting stars, rainbows, thunderstorms, etc. If you are interested in finding out what your weather seed is, visit <https://wuffs.org/acnh/weather/>.
 
 Your weather pattern is permanent and unchanging. This means if you were to see a rainbow at 1:00 PM on June 1st, 2020, you would always see a rainbow at that time on that day if you were to time travel there. This is helpful to know for [meteor showers/shooting stars](#when-will-i-see-shooting-stars).
 
 ## What is the spawn rate of X critter?
-For the spawn rates of **ocean fish**, visit https://tinyurl.com/OceanFishSpawn.
+For the spawn rates of **ocean fish**, visit <https://tinyurl.com/OceanFishSpawn>.
 
-For the spawn rates of **river fish**, visit https://tinyurl.com/riverfishspawn.
+For the spawn rates of **river fish**, visit <https://tinyurl.com/riverfishspawn>.
 
-For the spawn rates of **deep sea creatures**, visit https://tinyurl.com/seafoodspawn.
+For the spawn rates of **deep sea creatures**, visit <https://tinyurl.com/seafoodspawn>.
 
 The spawn rates for **bugs** are a bit more complex to calculate, so we recommend referring to the [data spreadsheet](https://bit.ly/3gWAJDe) and comparing their base values relative to other bugs. 
 
@@ -96,14 +96,15 @@ Note that the dates are the same for both Northern & Southern Hemispheres.
 ![Building Dimensions](/assets/sizes.png)
 
 ## What does X villager's house look like?
-Please visit https://tinyurl.com/villagerintext for a complete list of villager interiors and exteriors!
+Please visit <https://tinyurl.com/villagerintext> for a complete list of villager interiors and exteriors!
 
 <!-- TODO: Ninji's website is out of date, either use Ahri's (which is out of date but less so), or find another resource -->
 ## What are the different mystery islands and what can I find on them?
-Please visit https://wuffs.org/acnh/mysterytour.html for a complete list of them.  
+Please visit <https://wuffs.org/acnh/mysterytour.html> for a complete list of them.  
 Additionally, there is a 30% chance of finding fossil, as well as a 30% chance of finding a DIY message bottle per island. You can always find one wasp's nest and a piece of furniture from shaking a non-fruit tree. If you have an empty, unsold plot, you can also find a random villager. See [here](https://docs.google.com/document/d/16yHQzdYx4VznhnKSGZdtaKi_Yo8NpDwCYK8dmpR481s/edit) to learn about how the game determines the villager. See [here](https://acnhapi.com/nmt-calculator/) for figuring out your chances of finding a specific villager.  
 
 ## Which Mom's items can I get each month?
+
 |Month          |North Hemisphere    |Southern Hemisphere |
 |---------------|--------------------|--------------------|
 |January        |Art                 |Plushie             |

@@ -11,6 +11,7 @@ Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serv
 This guide is current through version `1.6.0b` of the game.
 
 ## Terminology
+
 | Term                  | Usage/Definition                                                   |
 |-----------------------|--------------------------------------------------------------------|
 | NMT                   | Abbreviation for "Nook Miles Ticket"                               |

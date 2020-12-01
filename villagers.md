@@ -17,10 +17,10 @@ You can have 10 animal villagers and up to 8 human villagers. You can only have 
 Unfortunately there’s no 100% guaranteed way to get a specific villager unless you have their Amiibo card or adopt them from someone else’s island. Your other options are to use NMT to find them on mystery islands, or hope they visit your campsite!
 
 ## How do I make a villager move out?
-Please refer to Yue’s move-out guide here: https://yuexr.github.io/acnh/moveout.html.
+Please refer to Yue’s move-out guide here: <https://yuexr.github.io/acnh/moveout.html>.
 
 ## I agreed to let one of my villagers move out today, when can I go looking for a new villager?
-For a timeline of the move-out sequence, visit https://yuexr.github.io/img/mo/2.png.
+For a timeline of the move-out sequence, visit <https://yuexr.github.io/img/mo/2.png>.
 You MUST have an unsold, empty plot available to invite a villager from another player's island, or to find villagers on mystery islands (and you can only invite *one villager from a mystery island* per day). Note: If someone visited and claimed your villager who was in boxes their house will immediately say 'I moved out', but you will still need to wait until the next day for an empty plot.
 
 ## How do I invite a villager from another player's island?
@@ -137,7 +137,7 @@ After you speak to them in the campsite, the villager will ask you to craft an i
 Yes. Additionally, any furniture, fish/bug you gifted them and **is on their floor** will be reset when they move to a new island.
 
 ## Is there any gameplay related benefit to gifting villagers?
-Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship-levels) with them. For more info on gifting, please refer to Yue's gifting guide here - https://yuexr.github.io/acnh/gift.html.
+Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship-levels) with them. For more info on gifting, please refer to Yue's gifting guide here - <https://yuexr.github.io/acnh/gift.html>.
 
 ***Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts.*
 
@@ -321,11 +321,12 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
     </td>
   </tr>
 </tbody>
-</table></div>
+</table>
+</div>
 
 Credit to `Soleil#6271` on Discord for writing and maintaining this list! 
 
-**Sub-Notes:**  
+####Sub-Notes:  
 <sup>1</sup>: *Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.*  
 <sup>2</sup>: *Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.*  
 <sup>3</sup>: *Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.*  

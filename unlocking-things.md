@@ -70,7 +70,7 @@ nav_order: 4
 - **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.
 - **Golden Slingshot:** Shoot 300 balloons. The DIY will be carried in a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.
 
-***Note:** Golden tools can still break, but have a considerably higher durability. Visit https://cestislife.github.io/img/tools.png for tool durability*
+***Note:** Golden tools can still break, but have a considerably higher durability. Visit <https://cestislife.github.io/img/tools.png> for tool durability*
 
 ## Misc Unlocks
 - **Nook Miles Redemption:** Pay off 5,000 Nook Miles house debt. 

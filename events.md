@@ -16,7 +16,7 @@ The points can also be used to redeem items, of which there are 13. Once you hav
 
 Each bug you catch adds 1 point to your total and each bug after the first three adds a bonus 2 points. The bugs you catch will immediately appear in Flick’s bug cage. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
 
-For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
+For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
 
 ## Fishing Tourney
 The fishing tourney occurs on the 2nd weekend of April, July, October, and January from 9:00 AM to 6:00 PM. The dates do not vary across hemispheres. 
@@ -27,7 +27,7 @@ The points can also be used to redeem items, of which there are 13. Once you hav
 
 Each fish you catch adds 1 point to your total and each fish after the first three adds a bonus 2 points. The fish you catch will immediately appear in C.J.’s cooler box. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
 
-For more detailed info, visit https://yuexr.github.io/acnh/ev_bugfish.html.
+For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
 
 ## Bunny Day (Easter)
 Bunny Day starts on April 1st and ends on April 12th. If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. During the event, villagers will come up to you to teach you the Bunny Day crown and bag recipe. Egg-theme clothing such as, the stone egg hat and outfit, is self taught after you collect a certain amount of that kind of egg. When you learned all of them, you'll learn the egg party dress and hat. You can get the other recipes from Bunny Day message bottles and balloons. 
@@ -52,17 +52,16 @@ The Nature Day Nook Miles+ Achievements are:
 
 | Achievement Name                        | Nook Miles Given |
 |-----------------------------------------|------------------|
-| Tree Transplantation (Move a tree)      | 100              | <!-- Sari confirm -->
-| Decorate with flowers                   | 150              | <!-- Sari confirm -->
-| Get Stylin' by Wearing Flowers          | 150              | <!-- Sari confirm -->
-| Plant Coconuts on the Beach             | 150              | <!-- Sari confirm -->
-| Craft Fencing for Beautiful Gardens     | 150              | <!-- Wuffs confirm -->
-| Send Gratitude with Flowers             | 200              | <!-- Sari confirm -->
-| Plant 3 of a specified flower           | 200              | <!-- Sari confirm -->
-| Plant 3 Shrub Starts                    | 200              | <!-- Sari confirm -->
-| Weave Flowers to Craft a Wreath         | 300              | <!-- Wuffs confirm -->
-| Pluck Blossoms and Craft a Flower Crown | 300              | <!-- Wuffs confirm -->
-<!-- I believe this is the complete list, confirmed w/ Sari and from https://wuffs.org/acnh/bcsv_150/html/EventFlagsLifeSupportDailyParam.html -->
+| Tree Transplantation (Move a tree)      | 100              |
+| Decorate with flowers                   | 150              |
+| Get Stylin' by Wearing Flowers          | 150              |
+| Plant Coconuts on the Beach             | 150              |
+| Craft Fencing for Beautiful Gardens     | 150              |
+| Send Gratitude with Flowers             | 200              |
+| Plant 3 of a specified flower           | 200              |
+| Plant 3 Shrub Starts                    | 200              |
+| Weave Flowers to Craft a Wreath         | 300              |
+| Pluck Blossoms and Craft a Flower Crown | 300              |
 
 If you talk to Tom Nook after completing one Nature Day activity, he will send the hedge DIY recipe to your Nook phone.
 
@@ -79,7 +78,7 @@ If you visit Harvey’s island from June 1st to June 30th, Reese and Cyrus will 
 
 You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each shoot after. You can always time travel back to complete the shoot or farm heart crystals. 
 
-For more detailed info, visit https://yuexr.github.io/acnh/ev_wedding.html.
+For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 
 ## Fireworks Festival
 Firework shows last from 7:00 PM to 12:00 AM every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
@@ -87,14 +86,18 @@ Firework shows last from 7:00 PM to 12:00 AM every Sunday in August. If you pay 
 ## Halloween 
 Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the spooky set and lollipops. Villagers will teach you the scare reaction after you give them a piece of candy and likewise, Jack will teach you the haunt reaction. If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear Jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
 
-For more detailed info, visit https://cestislife.github.io/halloween.
+For more detailed info, visit <https://cestislife.github.io/halloween>.
 
 ## Turkey Day
 Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the player has an [upgraded Resident Services building](/acnhfaq/unlocking-things#building-unlocks), Franklin will visit to host the event. In exchange for ingredients Franklin needs for his dishes, he will reward you with items and a DIY pack.
 
-For more detailed info, visit https://cestislife.github.io/turkeyday.
+For more detailed info, visit <https://cestislife.github.io/turkeyday>.
 
 ## Toy Day
+{: .d-inline-block }
+
+time-locked 
+{: .label .label-red }
 Toy Day happens on December 24th. This event and its associated DIYs are currently **time-locked** and not currently available to be played.
 
 As of `1.6.0b`, Toy Day toys are available in Nook's Cranny from December 1st to December 25th.
