@@ -154,7 +154,7 @@ nav_order: 8
 
 ## Leif
 - Shop vendor in the Resident Services plaza.
-- Sells shrubs and flower seeds. Also sells pumpkin starts, but only during the month of October.
+- Sells shrubs and flower seeds. Also sells pumpkin starts year-round.
 
 ## Gulliver
 - Can be found sleeping on the island's beaches.
