@@ -143,7 +143,7 @@ You can explore other user's islands at your own leisure to get inspiration or t
 ## What is HHA and what do they do?
 After you upgrade to a house, Happy Home Academy (HHA) will begin to evaluate your interior decoration skills every Sunday at 5 AM. Every room in your house will be assessed and you will be given a rank and a score by letter on Sunday. If you reach a certain amount of points, you will also receive a prize in the mail.
 
-## What are the ranks?
+### What are the ranks?
 Rank Requirements by House Level:
 
 |   House Level         | B Rank           | A Rank                | S Rank  |
@@ -157,7 +157,7 @@ Rank Requirements by House Level:
 | Second Floor Addition | 0 \- 63,999      | 64,000 \- 74,999      | 75,000+ |
 |   Basement Addition   | 0 \- 79,999      | 80,000 \- 89,999      | 90,000+ |
 
-## How is the rating determined?
+### How is the rating determined?
 
 - You can find the base points, set, series, category, concept and color for all of the items, [here](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=1919547711).
 - *Base points*: The base HHA point for each items.
@@ -240,7 +240,7 @@ Rank Requirements by House Level:
 
 *Note*: Points are calculated per room, unless stated otherwise. There's no luck mechanic in the game.
 
-## What are the rewards?
+### What are the rewards?
 
 | Points  | Reward            |
 |---------|-------------------|
