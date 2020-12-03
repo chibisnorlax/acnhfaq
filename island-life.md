@@ -172,15 +172,15 @@ Rank Requirements by House Level:
 | Hang furniture items on wall          | 400 per item, maximum 1,200 points  |
 
 - Type Bonus: Bonus Points for displaying all daily life necessities (chair, table, bed, and wardrobe or dresser) within the house.
- - They can be in different rooms and points are reward once for the house.
- - You'll get 2,500 points if you have all four types.
+  - They can be in different rooms and the points are rewarded once for the house.
+  - You'll get 2,500 points if you have all four types.
 - Series Bonus: Bonus Points for displaying multiple items from the same series (antique, cherry blossoms, carboard, etc.). 
- - If you have 4 or more items from the same series displayed, you'll get 1,000 points per items from that series.
- - If you have more than one series in a room, the series with the most items displaced will be used for the scoring.
+  - If you have 4 or more items from the same series displayed, you'll get 1,000 points per items from that series.
+  - If you have more than one series in a room, the series with the most items displaced will be used for the scoring.
 - Set Completion Bonus: Bonus Points for displaying all items from a set in the same room.
- - Sets are furniture that match each other.
- - If you displaced all of the furniture from a set, you'll get 800 points for each set items.
- - Multiple completed sets in the same room counts towards the bonus, but duplicate sets won't be counted.
+  - Sets are furniture that match each other.
+  - If you displaced all of the furniture from a set, you'll get 800 points for each set items.
+  - Multiple completed sets in the same room counts towards the bonus, but duplicate sets won't be counted.
 - Color Bonus: Points for color uniformity among items in the room.
   - To get the bonus, you have at least 8 items in the room. If at least 70% of the items have same color, you'll get 200 points for each unique items. If you have 90% uniformity, you'll get 600 points for each unique items.
   - Wallpaper and flooring doesn't count toward this bonus.
@@ -196,7 +196,7 @@ Rank Requirements by House Level:
 - Lucky/Season Bonus: Points for items which match the current season, or items which are “Lucky".
   - You get 777 points for each unique seasonal or lucky items displayed.
   - Seasonal bonus are only rewarded for items displace in the appropriate season.
-  - They can be in different rooms and points are reward once for the house.
+  - They can be in different rooms and the points are rewarded once for the house.
 
   Seasonal items:
 
