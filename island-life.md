@@ -231,12 +231,12 @@ Rank Requirements by House Level:
 
 - **Penalties**: Points deducted for rooms in poor condition (cockroaches, trash, furniture facing wall, etc)
 
-  | Conditions                 | Points Deducted                        |
-  |----------------------------|----------------------------------------|
-  | Items dropped on the floor | \-1 times # of items                   |
-  | Items facing the wall      | \-300 times # of improperly items [^1] |
-  | Cockroaches in the room    | \-2500 times # of cockroaches          |
-  | Trash in room              | \-500 times # of pieces of trash       |
+  | Conditions                 | Points Deducted                               |
+  |----------------------------|-----------------------------------------------|
+  | Items dropped on the floor | \-1 times # of items                          |
+  | Items facing the wall      | \-300 times # of improperly placed items [^1] |
+  | Cockroaches in the room    | \-2500 times # of cockroaches                 |
+  | Trash in room              | \-500 times # of pieces of trash              |
 
 [^1]: Items with ItemHHADirection as 1 in the spreadsheet.
 
