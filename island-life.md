@@ -38,6 +38,8 @@ For the spawn rates of **deep sea creatures**, visit <https://tinyurl.com/seafoo
 
 The spawn rates for **bugs** are a bit more complex to calculate, so we recommend referring to the [data spreadsheet](https://bit.ly/3gWAJDe) and comparing their base values relative to other bugs. 
 
+* * *
+
 ## When will I see meteor showers?
 Meteor showers are dependent on your [weather seed](#what-determines-the-weather-on-my-island). On nights with certain clear weather patterns, you may see shooting stars between 7:00 PM and 4:00 AM. There are two types of star showers:
 - **Heavy meteor showers:** Usually (but not always!) announced by Isabelle. Villagers will mention it/talk about it if you talk to them. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
@@ -92,6 +94,8 @@ Star fragments spawn periodically throughout the day, usually 8-10 at a time. If
 
 Note: that the dates are the same for both Northern & Southern Hemispheres.
 
+* * *
+
 ## What are the dimensions of X building?
 ![Building Dimensions](/assets/sizes.png)
 
@@ -123,6 +127,8 @@ Additionally, there is a 30% chance of finding fossil, as well as a 30% chance o
 
 You can get different colors on different profiles. The birthday cake item can sometimes be sent early if you time travel. You will still get a birthday cake if you sync back to real time for your birthday.
 
+* * *
+
 ## How do I dream?
 Go to a bed indoors and lie down. Select "I want to sleep." This will allow you to enter the dream world and meet Luna! From there, select "I want to dream" and then enter a dream address!  
 
@@ -133,12 +139,16 @@ Your weather and time in the dream will be same as when you upload the dream.
 ### What can you do in a dream?
 You can explore other user's islands at your own leisure to get inspiration or talk to different villagers! Any changes made by visitors will NOT affect your real island and visitors can NOT take anything from a dream!  
 
+* * *
+
 ## How can I find X seasonal material?
 - See [here](https://bigfootmg.github.io/ACNH-Plant-Guide/07.png) for young spring bamboo, cherry blossom, acorns, pine cones, maple leaves, and mushrooms.  
 - Summer shells are found on the beach and more spawn every five minutes.
 - Snowflakes flow around you island and can be caught with a net.
 - Ornaments drop from decorated cedar trees. They will only appear after Isabelle announces their presence. See [here](/acnhfaq/time-travel#i-time-traveled-to-festive-season-but-why-are-none-of-the-cedar-trees-decorated) for how to get them. 
 - Note for acorns, pinecones and ornaments: you can simply shake one tree infinitely until it produces the amount you want.  
+
+* * *
 
 ## What is HHA and what do they do?
 After you upgrade to a house, Happy Home Academy (HHA) will begin to evaluate your interior decoration skills every Sunday at 5 AM. Every room in your house will be assessed and you will be given a rank and a score by letter on Sunday. If you reach a certain amount of points, you will also receive a prize in the mail.
