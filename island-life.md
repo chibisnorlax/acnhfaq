@@ -191,7 +191,7 @@ Rank Requirements by House Level:
   - If you have at least 3 furniture from a category displayed, you'll get 500 points for each categories.
 - Concept Bonus: Points for displaying more than a set number of items from the same “concept”
   - If 5 or more items with same concept is displayed in one room, you'll get 400 points for each item matching that concept.
-  - If there are more than one concept, the concept with the most items will be used for calculation.
+  - If there are more than one concept in a room, the concept with the most items will be used for calculation.
   - The items doesn't have to be unique.
 - Lucky/Season Bonus: Points for items which match the current season, or items which are “Lucky".
   - You get 777 points for each unique seasonal or lucky items displayed.
@@ -231,14 +231,14 @@ Rank Requirements by House Level:
 
 - Penalties: Points deducted for rooms in poor condition (cockroaches, trash, furniture facing wall, etc)
 
-| Conditions                 | Points Deducted                   |
-|----------------------------|-----------------------------------|
-| Items dropped on the floor | \-1 times # of items              |
-| Items facing the wall      | \-300 times # of improperly items |
-| Cockroaches in the room    | \-2500 times # of cockroaches     |
-| Trash in room              | \-500 times # of pieces of trash  |
+  | Conditions                 | Points Deducted                   |
+  |----------------------------|-----------------------------------|
+  | Items dropped on the floor | \-1 times # of items              |
+  | Items facing the wall      | \-300 times # of improperly items |
+  | Cockroaches in the room    | \-2500 times # of cockroaches     |
+  | Trash in room              | \-500 times # of pieces of trash  |
 
-Note: Points are calculated per rooms, unless stated otherwise. There's no luck mechanic in the game.
+Note: Points are calculated per room, unless stated otherwise. There's no luck mechanic in the game.
 
 ## What are the rewards?
 
