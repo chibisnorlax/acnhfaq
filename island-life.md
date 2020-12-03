@@ -159,7 +159,7 @@ Rank Requirements by House Level:
 
 ### How is the rating determined?
 
-- You can find the base points, set, series, category, concept and color for all of the items, [here](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=1919547711).
+- You can find the base points, set, series, category, concept and color for all of the items in this [spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=1919547711).
 - **Base points**: The base HHA point for each items.
 - **Basic Interior Design Bonus**: You get bonus points for the number of furniture you have in each room. All of the points stack with the previous tier. i.e. if you have 20 pieces of furniture in a room, you'll get 4,000 points from that room.
 
@@ -175,9 +175,9 @@ Rank Requirements by House Level:
   - They can be in different rooms and the points are rewarded once for the house.
   - You'll get 2,500 points if you have all four types.
 - **Series Bonus**: Bonus Points for displaying multiple items from the same series (antique, cherry blossoms, carboard, etc.). 
-  - If you have 4 or more items from the same series displayed, you'll get 1,000 points per items from that series.
+  - If you have 4 or more unique items from the same series displayed, you'll get 1,000 points per items from that series.
   - If you have more than one series in a room, the series with the most items displaced will be used for the scoring.
-- **Set Completion Bonus**: Bonus Points for displaying all items from a set in the same room.
+- **Set Completion Bonus**: Bonus Points for displaying all of the unique items from a set in the same room.
   - Sets are furniture that match each other.
   - If you displaced all of the furniture from a set, you'll get 800 points for each set items.
   - Multiple completed sets in the same room counts towards the bonus, but duplicate sets won't be counted.
@@ -188,14 +188,14 @@ Rank Requirements by House Level:
   - East: Red,  South: Green, West: Yellow
   - You'll get 500 points for each walls and you only have to displace one item of the matching color in each area.
 - **Category Bonus**: Points for displaying items of various categories within the same room.
-  - If you have at least 3 furniture from a category displayed, you'll get 500 points for each categories.
+  - If you have at least 3 unique furniture from a category displayed, you'll get 500 points for each categories.
 - **Concept Bonus**: Points for displaying more than a set number of items from the same “concept”
   - If 5 or more items with same concept is displayed in one room, you'll get 400 points for each item matching that concept.
   - If there are more than one concept in a room, the concept with the most items will be used for calculation.
   - The items doesn't have to be unique.
 - **Lucky/Season Bonus**: Points for items which match the current season, or items which are “Lucky".
   - You get 777 points for each unique seasonal or lucky items displayed.
-  - Seasonal bonus are only rewarded for items displace in the appropriate season.
+  - Seasonal bonus are only rewarded for items displaced in the appropriate season.
   - They can be in different rooms and the points are rewarded once for the house.
 
   Seasonal items:
@@ -231,12 +231,14 @@ Rank Requirements by House Level:
 
 - **Penalties**: Points deducted for rooms in poor condition (cockroaches, trash, furniture facing wall, etc)
 
-  | Conditions                 | Points Deducted                   |
-  |----------------------------|-----------------------------------|
-  | Items dropped on the floor | \-1 times # of items              |
-  | Items facing the wall      | \-300 times # of improperly items |
-  | Cockroaches in the room    | \-2500 times # of cockroaches     |
-  | Trash in room              | \-500 times # of pieces of trash  |
+  | Conditions                 | Points Deducted                        |
+  |----------------------------|----------------------------------------|
+  | Items dropped on the floor | \-1 times # of items                   |
+  | Items facing the wall      | \-300 times # of improperly items [^1] |
+  | Cockroaches in the room    | \-2500 times # of cockroaches          |
+  | Trash in room              | \-500 times # of pieces of trash       |
+
+[^1]: Items with ItemHHADirection as 1 in the spreadsheet.
 
 **Note**: Points are calculated per room, unless stated otherwise. There's no luck mechanic in the game.
 
