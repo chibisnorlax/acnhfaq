@@ -189,7 +189,7 @@ Rank Requirements by House Level:
   - You'll get 500 points for each walls and you only have to displace one item of the matching color in each area.
 - **Category Bonus**: Points for displaying items of various categories within the same room.
   - If you have at least 3 unique furniture from a category displayed, you'll get 500 points for each categories.
-- **Concept Bonus**: Points for displaying more than a set number of items from the same “concept”
+- **Concept Bonus**: Points for displaying more than a set number of items from the same “concept”.
   - If 5 or more items with same concept is displayed in one room, you'll get 400 points for each item matching that concept.
   - If there are more than one concept in a room, the concept with the most items will be used for calculation.
   - The items doesn't have to be unique.
