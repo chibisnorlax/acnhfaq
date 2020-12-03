@@ -1,5 +1,5 @@
 ---
-title: Island life
+title: Island Life
 nav_order: 2
 ---
 
