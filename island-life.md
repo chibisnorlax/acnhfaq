@@ -43,7 +43,7 @@ The spawn rates for **bugs** are a bit more complex to calculate, so we recommen
 ## When will I see meteor showers?
 Meteor showers are dependent on your [weather seed](#what-determines-the-weather-on-my-island). On nights with certain clear weather patterns, you may see shooting stars between 7:00 PM and 4:00 AM. There are two types of star showers:
 - **Heavy meteor showers:** Usually (but not always!) announced by Isabelle. Villagers will mention it/talk about it if you talk to them. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
-- **Light meteor showers:** On light shower nights, you will see only a handful of shooting stars each hour, if that hour has a clear sky. These are more common, occurring on average 5-10 nights per month. 
+- **Light meteor showers:** On light shower nights, you will see only a handful of shooting stars each hour. These are more common, occurring on average 5-10 nights per month. 
 
 Both heavy and light meteor showers are locked to the date on which they occur, and will always occur on that date even if you time travel. 
 
