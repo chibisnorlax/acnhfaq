@@ -7,22 +7,22 @@ nav_order: 10
 ## What is time travel?
 Animal Crossing games are based on real time -- for example, things that the game says will take one day truly take one real-life day to complete. "Time traveling" refers to the act of manually changing the time of the game to either be in the future or go back to the past. 
 
-Time traveling is *not* considered hacking. Time traveling also does not reverse/rewind progress. You keep all the progress, items, etc. that you've completed/acquired even if you time travel backwards.
+Time traveling is ***not*** considered hacking. Time traveling also does not reverse/rewind progress. You keep all the progress, items, etc. that you've completed/acquired even if you time travel backwards.
 
 ## How do I time travel?
 To time travel, you must either close your game or go to the ‘Save Complete’ screen after doing a ‘Save and End’.
 You now need to change your date in your Switch settings:	
-1. Open System Settings, System, Date and Time.
-2. Disable ‘Synchronize Clock via internet’ if it is ON.
-3. Go to Date and Time and adjust to whatever time you would like.
+1. Open `System Settings` > `System` > `Date and Time`.
+2. Disable `Synchronize Clock via internet` if it is ON.
+3. Go to `Date and Time` and adjust to whatever time you would like.
 4. Return to the game and the new date & time will take effect!
 
 ## What are the *general* effects of time traveling (*backward* or *forward*)?
-Negative Effects:
+**Negative Effects:**
 - Open plots may fill.
 - Campers will leave.
 
-Positive Effects:
+**Positive Effects:**
 - All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.
 - Redd's art will be delivered if you purchased one.
 - Fossils will respawn.
@@ -38,10 +38,10 @@ It is important to remember that time traveling forwards is no different than cl
 
 **Negative Effects:**
 - Weeds and flowers will grow/spread.
-- Cockroaches may appear in your house (1+ month).
-- You may get the bedhead animation (1+ month).
+- Cockroaches may appear in your house (1 month or more).
+- You may get the bedhead animation (1 month or more).
 - Villagers may ask/comment on where you have been.
-- Turnips will spoil *if* you time travel past the following Sunday.
+- Turnips ***will*** spoil ***if*** you time travel past 5 AM the following Sunday.
 
 **Positive Effects:**
 - Building construction/upgrades/moves will be completed.
@@ -52,6 +52,7 @@ It is important to remember that time traveling forwards is no different than cl
 
 ## What are the *specific* effects of time traveling backwards?
 If you time travel backward more than a day, it will be like going back to "fake" yesterday.
+
 **Negative Effects:**
 - Turnips will spoil.
 - Turnip prices will change and your trend will be reset.
@@ -86,11 +87,11 @@ Player birthdays can only be experienced once every in-game year; TTing back to 
 Make sure you have time traveled *forward* into the season (rather than backwards) and you have at least 1 cedar tree, and at least 23 trees (not including fruit trees) total.    
 
 ## How do I time travel to farm an NPC visitor?
-If the NPC is on a weekday EXCEPT Monday:
- - TT to 4:58 AM on the same day of NPC. At 5 AM, it will change to new day and NPC will be there
+If the NPC is on a weekday ***except*** Monday:
+ - Time travel to 4:58 AM on the same day as the NPC. At 5 AM, it will change to the new day and the NPC will be there
 
 If the NPC is on a Monday:
- - TT forward a day to Tuesday, then go back to Monday (after 5 AM)
+ - Time travel forward a day to Tuesday, then go back to Monday (after 5 AM)
 
 ## Will my villagers move out if I time travel too much? 
 Nope! Though this was something that could happen in past installments of the game, villagers in New Horizons will not move out unless you give them explicit permission to do so.
@@ -99,4 +100,4 @@ Nope! Though this was something that could happen in past installments of the ga
 Nope! They may have some dialogue about your disappearance if you do a big jump forward, but time traveling has no effect on friendship.
 
 ## Do the developers know I time travel? Will they do anything to me about it?
-There is actually a variable turned up by data mining called "isTimeSly" that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to!  
+There is actually a variable turned up by data mining called `isTimeSly` that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to!  
