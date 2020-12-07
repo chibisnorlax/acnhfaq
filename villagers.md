@@ -95,8 +95,18 @@ That said, there's no requirement to do this, and you should have the villagers 
 Note
 {: .label .label-red }
 
-<div class="code-example">
-Note that the guide is outdated in terms of when certain interactions unlock as of 1.6.0.
+<div class="code-example" markdown="1">
+Note that the guide is outdated in terms of when certain interactions unlock as of `1.6.0`. The table below shows what villagers can approach you for and how likely they are to do so. More ticks means they are more likely to do that specific activity.
+
+| Friendship Level | Present | Nickname | Selling | Catchphrase | Want | Trade |
+|:----------------:|:-------:|----------|---------|-------------|------|-------|
+|         1        |    ✔    |          |         |             |      |       |
+|         2        |    ✔    |          |         |             |      |       |
+|         3        |    ✔    |     ✔    |    ✔    |             |      |       |
+|         4        |    ✔✔   |     ✔    |    ✔✔   |      ✔      |      |       |
+|         5        |    ✔    |     ✔    |    ✔    |      ✔      |   ✔✔ |   ✔✔  |
+|         6        |    ✔✔✔  |     ✔    |    ✔    |      ✔      |   ✔  |   ✔   |
+
 </div>
 
 ## What are reactions? 
