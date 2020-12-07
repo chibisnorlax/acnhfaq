@@ -100,10 +100,10 @@ Note that the guide is outdated in terms of when certain interactions unlock as 
 
 | Friendship Level | Present | Nickname | Selling | Catchphrase | Want | Trade |
 |:----------------:|:-------:|:--------:|:-------:|:-----------:|:----:|:-----:|
-|         1        |    ✔    |          |         |             |      |       |
-|         2        |    ✔    |          |         |             |      |       |
-|         3        |    ✔    |     ✔    |    ✔    |             |      |       |
-|         4        |    ✔✔   |     ✔    |    ✔✔   |      ✔      |      |       |
+|         1        |    ✔    |    -     |    -    |      -      |  -   |   -   |
+|         2        |    ✔    |    -     |    -    |      -      |  -   |   -   |
+|         3        |    ✔    |     ✔    |    ✔    |     -       |  -   |   -   |
+|         4        |    ✔✔   |     ✔    |    ✔✔   |      ✔      |  -   |  -    |
 |         5        |    ✔    |     ✔    |    ✔    |      ✔      |   ✔✔ |   ✔✔  |
 |         6        |    ✔✔✔  |     ✔    |    ✔    |      ✔      |   ✔  |   ✔   |
 
