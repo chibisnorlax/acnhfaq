@@ -92,6 +92,9 @@ That said, there's no requirement to do this, and you should have the villagers 
 ## What is friendship/What are friendship levels?
 “Friendship” refers to how close you are with your villagers. Talking to them, gifting them items, and completing quests for them all increases friendship. Villagers also have friendship levels, and when you unlock new levels, you unlock new interactions and quests! For more specific details, visit Yue’s friendship guide, located here: <https://yuexr.github.io/acnh/friendship.html>.
 
+{: .note }
+The guide is outdated in terms of when certain interactions unlock as of 1.6.0
+
 ## What are reactions? 
 Each villager personality allows you to unlock reactions—these are the emotion animations your character can display. Unlocking them all takes time, so be patient! The table below shows which reactions are unlocked based on which personalities. You need a villager of that personality living on your island to unlock those specific reactions.
 
