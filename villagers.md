@@ -97,6 +97,7 @@ Note
 
 <div class="code-example" markdown="1">
 Note that the guide is outdated in terms of when certain interactions unlock as of `1.6.0`. The table below shows what villagers can approach you for and how likely they are to do so. More ticks means they are more likely to do that specific activity.
+</div>
 
 | Friendship Level | Present | Nickname | Selling | Catchphrase | Want | Trade |
 |:----------------:|:-------:|:--------:|:-------:|:-----------:|:----:|:-----:|
@@ -107,7 +108,6 @@ Note that the guide is outdated in terms of when certain interactions unlock as 
 |         5        |    ✔    |     ✔    |    ✔    |      ✔      |   ✔✔ |   ✔✔  |
 |         6        |    ✔✔✔  |     ✔    |    ✔    |      ✔      |   ✔  |   ✔   |
 
-</div>
 
 ## What are reactions? 
 Each villager personality allows you to unlock reactions—these are the emotion animations your character can display. Unlocking them all takes time, so be patient! The table below shows which reactions are unlocked based on which personalities. You need a villager of that personality living on your island to unlock those specific reactions.
