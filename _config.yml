@@ -1,5 +1,5 @@
 title: "Animal Crossing: New Horizons FAQ"
-remote_theme: pdmosses/just-the-docs #get the theme
+remote_theme: pmarsceill/just-the-docs
 description: Fan-made FAQ for AC:NH
 permalink: pretty #make url pretty
 #logo: "https://chibisnorlax.github.io/acnhfaq/assets/logo_banner.png"
