@@ -66,8 +66,8 @@ Campsite visitors are determined on a percent chance roll, where the chance is b
 
 Meaning for every day starting the 6th day after your last campsite visitor, there is a 20% chance another campsite visitor will appear. Note that campsite visitors are not date-based, so time traveling to a date that you previously had a camper will not work to spawn another one. Also you **can't** get a camper from someone else's campsite. For more information on campsite see [here](https://docs.google.com/document/d/1c8rsKWWtwsOo_JOxwO-lVRx2MUhc-bcdZg1mhXgtRPg/edit).
 
-## Can I chose who the camper replace?
-For "normal" campers, no, but you can reset who they chose. Visit https://yuexr.github.io/img/mo/4.png for more detail. [Amiibo](#how-do-i-invite-a-villager-to-live-on-my-island-using-their-amiibo) campers allow you to choose who they replace.
+## Can I choose who the camper replace?
+For "normal" campers, no, but you can reset who they chose. Visit <https://yuexr.github.io/img/mo/4.png> for more detail. [Amiibo](#how-do-i-invite-a-villager-to-live-on-my-island-using-their-amiibo) campers allow you to choose who they replace.
 
 ## What are the villager personalities?
 There are 8 villager personalities.
