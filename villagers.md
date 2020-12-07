@@ -98,14 +98,14 @@ Note
 Note that the guide is outdated in terms of when certain interactions unlock as of `1.6.0`. The table below shows what villagers can approach you for and how likely they are to do so. More ticks means they are more likely to do that specific activity.
 </div>
 
-| Friendship Level | Will gift you presents | Will give you nicknames | Will sell you items | Will ask to change catchphrase | Will ask for items | Will trade for items |
-|:----------------:|:----------------------:|:-----------------------:|:-------------------:|:------------------------------:|:------------------:|:--------------------:|
-|        1         |           ✔            |            -            |          -          |               -                |         -          |          -           |
-|        2         |           ✔            |            -            |          -          |               -                |         -          |          -           |
-|        3         |           ✔            |            ✔            |          ✔          |               -                |         -          |          -           |
-|        4         |           ✔✔           |            ✔            |         ✔✔          |               ✔                |         -          |          -           |
-|        5         |           ✔            |            ✔            |          ✔          |               ✔                |         ✔✔         |          ✔✔          |
-|        6         |          ✔✔✔           |            ✔            |          ✔          |               ✔                |         ✔          |          ✔           |
+| Friendship Level | Will gift you presents | Will give you nicknames | Will sell you items | Will ask to change catchphrase | Will buy items from you | Will trade for items | Will ask to change greeting |
+|:----------------:|:----------------------:|:-----------------------:|:-------------------:|:------------------------------:|:-----------------------:|:--------------------:|:---------------------------:|
+|        1         |           ✔            |            -            |          -          |               -                |            -            |          -           |              -              |
+|        2         |           ✔            |            -            |          -          |               -                |            -            |          -           |              -              |
+|        3         |           ✔            |            ✔            |          ✔          |               -                |            -            |          -           |              -              |
+|        4         |           ✔✔           |            ✔            |         ✔✔          |               ✔                |            -            |          -           |              -              |
+|        5         |           ✔            |            ✔            |          ✔          |               ✔                |           ✔✔            |          ✔✔          |              ✔              |
+|        6         |          ✔✔✔           |            ✔            |          ✔          |               ✔                |            ✔            |          ✔           |              ✔              |
 
 
 ## What are reactions? 
