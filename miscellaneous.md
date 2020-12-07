@@ -25,6 +25,3 @@ Yes, you can. It requires a Nintendo Switch Online subscription. Please visit <h
 
 ## What are some other resources for AC:NH?
 You can find them at <https://acnh.directory/>.  
-
-{: .highlight }
-A paragraph
