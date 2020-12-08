@@ -228,12 +228,7 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
 <td><strong>Completely Safe</strong></td>
 <td>These items are never stored or displayed, regardless of gifting method.</td>
 <td>
-<ul>
-<li>Certain furniture items
-<ul>
-<li>Insect models</li>
-<li>Fish models</li>
-</ul>
+<li>Fish & insect models</li>
 </li>
 <li>Certain clothing items
 <ul>
