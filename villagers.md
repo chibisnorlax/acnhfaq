@@ -158,7 +158,10 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
 ***Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts.*
 
 <div>
-<table><colgroup> <col style="width: 100px"> <col style="width: 150px"> <col /> </colgroup>
+<style>
+    table#gifting tr:nth-child(even) { background-color:#dddddd; }
+</style>
+<table id="gifting"><colgroup> <col style="width: 100px"> <col style="width: 150px"> <col /> </colgroup>
 <tbody>
 <tr>
 <td><strong>Not Safe</strong></td>
