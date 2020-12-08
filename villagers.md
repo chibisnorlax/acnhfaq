@@ -159,7 +159,7 @@ Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship
 
 <div>
 <style>
-    table#gifting tr:nth-child(even) { background-color:#dddddd; }
+table#gifting tr:nth-child(even) { background-color:#dddddd; }
 </style>
 <table id="gifting"><colgroup> <col style="width: 100px"> <col style="width: 150px"> <col /> </colgroup>
 <tbody>
