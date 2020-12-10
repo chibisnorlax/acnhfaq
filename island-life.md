@@ -146,7 +146,24 @@ You can explore other user's islands at your own leisure to get inspiration or t
 - Summer shells are found on the beach and more spawn every five minutes.
 - Snowflakes flow around you island and can be caught with a net.
 - Ornaments drop from decorated cedar trees. They will only appear after Isabelle announces their presence. See [here](/acnhfaq/time-travel#i-time-traveled-to-festive-season-but-why-are-none-of-the-cedar-trees-decorated) for how to get them. 
-- Note for acorns, pinecones and ornaments: you can simply shake one tree infinitely until it produces the amount you want.  
+- Note for acorns, pinecones and ornaments: you can simply shake one tree infinitely until it produces the amount you want.
+
+## How do I build a perfect Snowboy?
+The top of the Snowboy's body should be the same height as the top of the player's eyes, while the Snowboy's head should be the same height as the bottom of the player's ears. Perfect Snowboys reward a Frozen DIY and 1 large snowflake to their builder, and a Frozen DIY to other island residents that speak with them on the day they are built.
+
+*Coming soon: In-game Snowboy visual!*
+
+### Other Snowboy mechanics!
+Snowboys have a bunch of different reward cases depending on the player. 
+- Only one Snowboy can be built per day.
+- If the Snowboy built is the first one ever by the player, the builder will be awarded a Frozen DIY and 1 large snowflake regardless of perfection.
+- If the Snowboy is perfect, the builder is rewarded a frozen DIY and 1 large snowflake. However: 
+  - If the player speaking to the Snowboy knows all Frozen DIYs prior to building, the Snowboy will only give them 1 large snowflake. 
+  - If the builder knows all Frozen DIYs prior to building, ***and*** has crafted one of each DIY, the Snowboy will mail them a crafted Frozen item.
+  - For each subsequent day the perfect Snowboy is spoken to by the builder, they will give 1 large snowflake.
+- If the Snowboy is **not** perfect, they will not give anything to the builder nor other residents on any day they are present on the island.
+
+***Special Case:*** If a player has a house but hasn't learned how to craft yet, then they'll get mailed the DIY on the first Snowboy. **This is the only way to obtain the recipe cards for trading purposes.** For subsequent perfect Snowboys, the player will only receive 1 large snowflake until they learn to craft.
 
 * * *
 
