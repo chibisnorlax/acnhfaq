@@ -154,7 +154,6 @@ The top of the Snowboy's body should be the same height as the top of the player
 *Coming soon: In-game Snowboy visual!*
 
 ### Other Snowboy mechanics!
-Snowboys have a bunch of different reward cases depending on the player. 
 - Only one Snowboy can be built per day.
 - If the Snowboy built is the first one ever by the player, the builder will be awarded a Frozen DIY and 1 large snowflake regardless of perfection.
 - If the Snowboy is perfect, the builder is rewarded a frozen DIY and 1 large snowflake. However: 
