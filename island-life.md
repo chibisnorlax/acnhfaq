@@ -154,7 +154,7 @@ It is important to note that size is not the determining factor in how a perfect
 <div class="tg-wrap"><table>
 <tbody>
   <tr>
-    <td>Head</td>
+    <td><b>Head</b></td>
     <td>~60%</td>
     <td>~70%</td>
     <td>~80%</td>
@@ -164,7 +164,7 @@ It is important to note that size is not the determining factor in how a perfect
     <td>&gt;110%</td>
   </tr>
   <tr>
-    <td>Rating</td>
+    <td><b>Rating</b></td>
     <td>Worst</td>
     <td>Not Good</td>
     <td>Good</td>
@@ -176,7 +176,7 @@ It is important to note that size is not the determining factor in how a perfect
 </tbody>
 </table></div>
 
-If estimation is not your forte, a general guideline for the perfect Snowboy is to have the top of the Snowboy's body should be the same height as the top of the player's eyes, while the Snowboy's head should be the same height as the bottom of the player's ears. Perfect Snowboys reward a Frozen DIY and 1 large snowflake to their builder, and a Frozen DIY to other island residents that speak with them on the day they are built.
+If estimation is not your forte, a general guideline for the perfect Snowboy is to have the top of the Snowboy's body to be the same height as the top of the player's eyes, while the Snowboy's head should be the same height as the bottom of the player's ears. Perfect Snowboys reward a Frozen DIY and 1 large snowflake to their builder, and a Frozen DIY to other island residents that speak with them on the day they are built.
 
 *Coming soon: In-game Snowboy visual!*
 
