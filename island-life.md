@@ -77,18 +77,18 @@ Star fragments spawn periodically throughout the day, usually 8-10 at a time. If
 
 **Zodiac Star Fragment Periods**
 
-| Star Sign     | Image                                                                                      | Period          |
+| Star Sign     |                                           Image                                            | Period          |
 |---------------|:------------------------------------------------------------------------------------------:|-----------------|
-| ♒ Aquarius    | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAquariusCropped.png" width="35"/>    | Jan 20 - Feb 18 |
-| ♓ Pisces      | <img src="https://acnhcdn.com/latest/FtrIcon/StarpiecePiscesCropped.png" width="35"/>      | Feb 19 - Mar 20 |
-| ♈ Aries       | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAriesCropped.png" width="35"/>       | Mar 21 - Apr 19 |
-| ♉ Taurus      | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceTaurusCropped.png" width="35"/>      | Apr 20 - May 20 |
-| ♊ Gemini      | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceGeminiCropped.png" width="35"/>      | May 21 - Jun 21 |
-| ♋ Cancer      | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceCancerCropped.png" width="35"/>      | Jun 22 - Jul 22 |
-| ♌ Leo         | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLeoCropped.png" width="35"/>         | Jul 23 - Aug 22 |
-| ♍ Virgo       | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceVirgoCropped.png" width="35"/>       | Aug 23 - Sep 22 |
-| ♎ Libra       | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLibraCropped.png" width="35"/>       | Sep 23 - Oct 23 |
-| ♏ Scorpio    | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceScorpioCropped.png" width="35"/>     | Oct 24 - Nov 22 |
+| ♒ Aquarius    |  <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAquariusCropped.png" width="35"/>   | Jan 20 - Feb 18 |
+| ♓ Pisces      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpiecePiscesCropped.png" width="35"/>    | Feb 19 - Mar 20 |
+| ♈ Aries       |    <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAriesCropped.png" width="35"/>    | Mar 21 - Apr 19 |
+| ♉ Taurus      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceTaurusCropped.png" width="35"/>    | Apr 20 - May 20 |
+| ♊ Gemini      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceGeminiCropped.png" width="35"/>    | May 21 - Jun 21 |
+| ♋ Cancer      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceCancerCropped.png" width="35"/>    | Jun 22 - Jul 22 |
+| ♌ Leo         |     <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLeoCropped.png" width="35"/>     | Jul 23 - Aug 22 |
+| ♍ Virgo       |    <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceVirgoCropped.png" width="35"/>    | Aug 23 - Sep 22 |
+| ♎ Libra       |    <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLibraCropped.png" width="35"/>    | Sep 23 - Oct 23 |
+| ♏ Scorpio     |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceScorpioCropped.png" width="35"/>   | Oct 24 - Nov 22 |
 | ♐ Sagittarius | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceSagittariusCropped.png" width="35"/> | Nov 23 - Dec 21 |
 | ♑ Capricorn   | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceCapricornusCropped.png" width="35"/> | Dec 22 - Jan 19 |
 
@@ -109,21 +109,21 @@ Additionally, there is a 30% chance of finding fossil, as well as a 30% chance o
 
 ## Which Mom's items can I get each month?
 
-|Month          |North Hemisphere    |Southern Hemisphere |
-|---------------|--------------------|--------------------|
-|January        |Art                 |Plushie             |
-|February       |Embroidery          |Pen Stand           |
-|March          |Candle Set          |Cushion             |
-|April          |Tissue Box          |Tea Cozy            |
-|May            |Knapsack            |Kitchen Mat         |
-|June           |Handmade Apron      |Hand-knit Sweater   |
-|July           |Plushie             |Art                 |
-|August         |Pen Stand           |Embroidery          |
-|September      |Cushion             |Candle Set          |
-|October        |Tea Cozy            |Tissue Box          |
-|November       |Kitchen Mat         |Knapsack            |
-|December       |Hand-knit Sweater   |Handmade Apron      |
-|Your Birthday! |Birthday Cake       |Birthday Cake       |
+| Month          | North Hemisphere  | Southern Hemisphere |
+|----------------|-------------------|---------------------|
+| January        | Art               | Plushie             |
+| February       | Embroidery        | Pen Stand           |
+| March          | Candle Set        | Cushion             |
+| April          | Tissue Box        | Tea Cozy            |
+| May            | Knapsack          | Kitchen Mat         |
+| June           | Handmade Apron    | Hand-knit Sweater   |
+| July           | Plushie           | Art                 |
+| August         | Pen Stand         | Embroidery          |
+| September      | Cushion           | Candle Set          |
+| October        | Tea Cozy          | Tissue Box          |
+| November       | Kitchen Mat       | Knapsack            |
+| December       | Hand-knit Sweater | Handmade Apron      |
+| Your Birthday! | Birthday Cake     | Birthday Cake       |
 
 You can get different colors on different profiles. The birthday cake item can sometimes be sent early if you time travel. You will still get a birthday cake if you sync back to real time for your birthday.
 
@@ -151,30 +151,15 @@ You can explore other user's islands at your own leisure to get inspiration or t
 ## How do I build a perfect Snowboy?
 It is important to note that size is not the determining factor in how a perfect Snowboy would be, but rather its porportions. The head should be about **10% smaller than the body** for it to be considered perfect. The table below shows the correlation of the head to body ratio and its rating.
 
-<div class="tg-wrap"><table>
-<tbody>
-  <tr>
-    <td><b>Head</b></td>
-    <td>~60%</td>
-    <td>~70%</td>
-    <td>~80%</td>
-    <td>~90%</td>
-    <td>100%</td>
-    <td>~110%</td>
-    <td>&gt;110%</td>
-  </tr>
-  <tr>
-    <td><b>Rating</b></td>
-    <td>Worst</td>
-    <td>Not Good</td>
-    <td>Good</td>
-    <td>Perfect</td>
-    <td>Good</td>
-    <td>Not Good</td>
-    <td>Worst</td>
-  </tr>
-</tbody>
-</table></div>
+|   Head   |   Rating    |
+|:--------:|:-----------:|
+|   ~60%   |    Worst    |
+|   ~70%   |  Not Good   |
+|   ~80%   |    Good     |
+| **~90%** | **Perfect** |
+|   100%   |    Good     |
+|  ~110%   |  Not Good   |
+|  >110%   |    Worst    |
 
 If estimation is not your forte, a general guideline for the perfect Snowboy is to have the top of the Snowboy's body to be the same height as the top of the player's eyes, while the Snowboy's head should be the same height as the bottom of the player's ears. Perfect Snowboys reward a Frozen DIY and 1 large snowflake to their builder, and a Frozen DIY to other island residents that speak with them on the day they are built.
 
@@ -199,16 +184,16 @@ After you upgrade to a house, Happy Home Academy (HHA) will begin to evaluate yo
 ### What are the ranks?
 Rank Requirements by House Level:
 
-|   House Level         | B Rank           | A Rank                | S Rank  |
-|-----------------------|------------------|-----------------------|---------|
-|        Tent           | \-               | \-                    | \-      |
-|   House upgrade       | 0 \- 9,999       | 10,000 \- 14,999      | 15,000+ |
-|   House size upgrade  | 0 \- 16,999      | 17,000 \- 22,999      | 23,000+ |
-|   Back Room Addition  | 0 \- 24,999      | 25,000 \- 34,999      | 35,000+ |
-|   Left Room Addition  | 0 \- 37,999      | 38,000 \- 46,999      | 47,000+ |
-|  Right Room Addition  | 0 \- 49,999      | 50,000 \- 59,999      | 60,000+ |
-| Second Floor Addition | 0 \- 63,999      | 64,000 \- 74,999      | 75,000+ |
-|   Basement Addition   | 0 \- 79,999      | 80,000 \- 89,999      | 90,000+ |
+| House Level           | B Rank      | A Rank           | S Rank  |
+|-----------------------|-------------|------------------|---------|
+| Tent                  | \-          | \-               | \-      |
+| House upgrade         | 0 \- 9,999  | 10,000 \- 14,999 | 15,000+ |
+| House size upgrade    | 0 \- 16,999 | 17,000 \- 22,999 | 23,000+ |
+| Back Room Addition    | 0 \- 24,999 | 25,000 \- 34,999 | 35,000+ |
+| Left Room Addition    | 0 \- 37,999 | 38,000 \- 46,999 | 47,000+ |
+| Right Room Addition   | 0 \- 49,999 | 50,000 \- 59,999 | 60,000+ |
+| Second Floor Addition | 0 \- 63,999 | 64,000 \- 74,999 | 75,000+ |
+| Basement Addition     | 0 \- 79,999 | 80,000 \- 89,999 | 90,000+ |
 
 ### How is the rating determined?
 
@@ -216,13 +201,13 @@ Rank Requirements by House Level:
 - **Base points**: The base HHA point for each items.
 - **Basic Interior Design Bonus**: You get bonus points for the number of furniture you have in each room. All of the points stack with the previous tier. i.e. if you have 20 pieces of furniture in a room, you'll get 4,000 points from that room.
 
-| Requirement                           | Points                              |
-|---------------------------------------|-------------------------------------|
-| Place at least 6 pieces of furniture  | 1,000                               |
-| Place at least 10 pieces of furniture | 1,000                               |
-| Place at least 15 pieces of furniture | 1,000                               |
-| Place at least 20 pieces of furniture | 1,000                               |
-| Hang furniture items on wall          | 400 per item, maximum 1,200 points  |
+| Requirement                           | Points                             |
+|---------------------------------------|------------------------------------|
+| Place at least 6 pieces of furniture  | 1,000                              |
+| Place at least 10 pieces of furniture | 1,000                              |
+| Place at least 15 pieces of furniture | 1,000                              |
+| Place at least 20 pieces of furniture | 1,000                              |
+| Hang furniture items on wall          | 400 per item, maximum 1,200 points |
 
 - **Type Bonus**: Bonus Points for displaying all daily life necessities (chair, table, bed, and wardrobe or dresser) within the house.
   - They can be in different rooms and the points are rewarded once for the house.
@@ -253,43 +238,43 @@ Rank Requirements by House Level:
 
   Seasonal items:
 
-  | Spring                | Summer             | Autumn       | Winter           |
-  |-----------------------|--------------------|--------------|------------------|
-  | Bamboo shelf          | Anchor statue      | Cricket      | Big festive tree |
-  | Cherry-blossom bonsai | Artisanal bug cage | Mush parasol | Frozen tree      |
-  | Wobbling Zipper toy   | Horned hercules    | \-           | Stringfish       |
-  | \-                    | Napolenofish       | \-           | Tarantula        |
-  | \-                    | Palm-tree lamp     | \-           | \-               |
-  | \-                    | Scorpion           | \-           | \-               |
-  | \-                    | Shell wreath       | \-           | \-               |
+| Spring                | Summer             | Autumn       | Winter           |
+|-----------------------|--------------------|--------------|------------------|
+| Bamboo shelf          | Anchor statue      | Cricket      | Big festive tree |
+| Cherry-blossom bonsai | Artisanal bug cage | Mush parasol | Frozen tree      |
+| Wobbling Zipper toy   | Horned hercules    | \-           | Stringfish       |
+| \-                    | Napolenofish       | \-           | Tarantula        |
+| \-                    | Palm-tree lamp     | \-           | \-               |
+| \-                    | Scorpion           | \-           | \-               |
+| \-                    | Shell wreath       | \-           | \-               |
 
-  | Lucky item           |
-  |----------------------|
-  | Gold fish trophy     |
-  | Gold bug trophy      |
-  | Robot hero           |
-  | Ring                 | 
-  | Koi                  |
-  | Pop-eyed goldfish    |
-  | Katana               |
-  | Kanji tee            |
-  | Golden candlestick   |
-  | Gold rose wreath     |
-  | Crescent-moon chair  |
-  | Gold HHA trophy      |
-  | Lucky gold cat       |
-  | ACNH Nintendo Switch |
-  | Jingle's photo       |
-  | Resident photo       |
+| Lucky item           |
+|----------------------|
+| Gold fish trophy     |
+| Gold bug trophy      |
+| Robot hero           |
+| Ring                 |
+| Koi                  |
+| Pop-eyed goldfish    |
+| Katana               |
+| Kanji tee            |
+| Golden candlestick   |
+| Gold rose wreath     |
+| Crescent-moon chair  |
+| Gold HHA trophy      |
+| Lucky gold cat       |
+| ACNH Nintendo Switch |
+| Jingle's photo       |
+| Resident photo       |
 
 - **Penalties**: Points deducted for rooms in poor condition (cockroaches, trash, furniture facing wall, etc)
 
-  | Conditions                 | Points Deducted                               |
-  |----------------------------|-----------------------------------------------|
-  | Items dropped on the floor | \-1 times # of items                          |
-  | Items facing the wall      | \-300 times # of improperly placed items [^1] |
-  | Cockroaches in the room    | \-2500 times # of cockroaches                 |
-  | Trash in room              | \-500 times # of pieces of trash              |
+| Conditions                 | Points Deducted                               |
+|----------------------------|-----------------------------------------------|
+| Items dropped on the floor | \-1 times # of items                          |
+| Items facing the wall      | \-300 times # of improperly placed items [^1] |
+| Cockroaches in the room    | \-2500 times # of cockroaches                 |
+| Trash in room              | \-500 times # of pieces of trash              |
 
 [^1]: Items with ItemHHADirection as 1 in the spreadsheet.
 
@@ -305,4 +290,4 @@ Rank Requirements by House Level:
 | 50,000  | Gold HHA plaque   |
 | 70,000  | Bronze HHA trophy |
 | 100,000 | Silver HHA trophy |
-| 150,000 | Gold HHA trophy   | 
+| 150,000 | Gold HHA trophy   |
