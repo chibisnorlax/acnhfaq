@@ -167,6 +167,7 @@ If estimation is not your forte, a general guideline for the perfect Snowboy is 
 
 ### Other Snowboy mechanics!
 - Only one Snowboy can be built per day.
+- If other residents (i.e., residents that did not build the Snowboy) speak to a **perfect** Snowboy on the day they were built, they are also awarded a DIY, or 1 large snowflake if they know all Frozen DIYs.
 - If the Snowboy built is the first one ever by the player, the builder will be awarded a Frozen DIY and 1 large snowflake regardless of perfection.
 - If the Snowboy is perfect, the builder is rewarded a frozen DIY and 1 large snowflake. However: 
   - If the player speaking to the Snowboy knows all Frozen DIYs prior to building, the Snowboy will only give them 1 large snowflake. 
