@@ -165,6 +165,11 @@ If estimation is not your forte, a general guideline for the perfect Snowboy is 
 
 ![Snowboy Guide](/assets/snowboy_guide.jpg)
 
+### Where can I find snowballs?
+From testing (courtesy of *Stoney#9215*), Snowballs will spawn in a **6x6 area of empty grass tiles**, though the area can be smaller or partially occupied depending on what you put there. The first snowball will usually be in the middle of this area, and the second snowball will spawn close by. The second snowball does not seem to be governed by the same spawning rules as the first snowball, as it can appear to spawn on custom designs, in flower/weed fields, as well as paths. 
+
+If you have destroyed your snowballs, entering and exiting a building will usually respawn snowballs. At times it requires the game to be closed before they can respawn.
+
 ### Other Snowboy mechanics!
 - Only one Snowboy can be built per day.
 - If other residents (i.e., residents that did not build the Snowboy) speak to a **perfect** Snowboy on the day they were built, they are also awarded a DIY, or 1 large snowflake if they know all Frozen DIYs.
