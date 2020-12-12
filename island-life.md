@@ -161,9 +161,9 @@ It is important to note that size is not the determining factor in how a perfect
 |  ~110%   |  Not Good   |
 |  >110%   |    Worst    |
 
-If estimation is not your forte, a general guideline for the perfect Snowboy is to have the top of the Snowboy's body to be the same height as the top of the player's eyes, while the Snowboy's head should be the same height as the bottom of the player's ears. Perfect Snowboys reward a Frozen DIY and 1 large snowflake to their builder, and a Frozen DIY to other island residents that speak with them on the day they are built.
+If estimation is not your forte, a general guideline for the perfect Snowboy is to have the top of the Snowboy's body to be the same height as the top of the player's eyes, while the Snowboy's head should be the same height as the bottom of the player's ears. See below for a visual example. Perfect Snowboys reward a Frozen DIY and 1 large snowflake to their builder, and a Frozen DIY to other island residents that speak with them on the day they are built.
 
-*Coming soon: In-game Snowboy visual!*
+![Snowboy Guide](/assets/snowboy_guide.jpg)
 
 ### Other Snowboy mechanics!
 - Only one Snowboy can be built per day.
@@ -174,7 +174,7 @@ If estimation is not your forte, a general guideline for the perfect Snowboy is 
   - For each subsequent day the perfect Snowboy is spoken to by the builder, they will give 1 large snowflake.
 - If the Snowboy is **not** perfect, they will not give anything to the builder nor other residents on any day they are present on the island.
 
-***Special Case:*** If a player has a house but hasn't learned how to craft yet, then they'll get mailed the DIY on the first Snowboy. **This is the only way to obtain the recipe cards for trading purposes.** For subsequent perfect Snowboys, the player will only receive 1 large snowflake until they learn to craft.
+***Special Case:*** If a player has at least a tent but hasn't learned how to craft yet, then they'll get mailed the DIY on the first Snowboy. **This is the only way to obtain the recipe cards for trading purposes.** For subsequent perfect Snowboys, the player will only receive 1 large snowflake until they learn to craft.
 
 * * *
 
