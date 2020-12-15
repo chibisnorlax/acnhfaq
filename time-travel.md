@@ -84,7 +84,7 @@ All events (with the exception of Seasonal DIY events, New Year's, Fishing Tourn
 Player birthdays can only be experienced once every in-game year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
 
 ## I time traveled to Festive season, but why are none of the cedar trees decorated?
-Make sure you have time traveled *forward* into the season (rather than backwards) and you have at least 1 cedar tree. For more information on how cedar trees are decorated, refer to the Seasonal EX section of the [Non-Flower Plant Guide](/acnhfaq/gardening#non-flower-plant-guide).
+Make sure you have time traveled *forward* into the season (rather than backwards) and you have at least 1 cedar tree. For more information on how cedar trees are decorated, refer to the [infographic here](https://bigfootmg.github.io/ACNH-Plant-Guide/ex8.png).
 
 ## How do I time travel to farm an NPC visitor?
 If the NPC is on a weekday ***except*** Monday:
