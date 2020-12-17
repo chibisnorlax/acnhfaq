@@ -378,12 +378,12 @@ If you select "Investigate" on the item from your inventory, the description you
 ## My villager wears clothing I gifted them, how do I reset it?
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
 - Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum). 
-- Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit https://bit.ly/3gWAJDe.
+- Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit <https://bit.ly/3gWAJDe>.
 - If you wish to remove a custom design, please read [here](/acnhfaq/npc-visitors-and-special-characters#isabelle).
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
 ## My villager placed a furniture item (or a mannequin of a clothing) I gifted them in their house, how do I remove it?
-You cannot remove the furniture/mannequin, but you can replace it using this guide https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing. Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
+You cannot remove the furniture/mannequin, but you can replace it using this guide <https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing>. Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
 
 ## What is the difference between 'gifted' and 'ungifted' villagers during trading, and why is it important to inform someone you are trading with know?
 - Gifted villagers have been given gifts or wear custom designs displayed on Able's back wall. They tend to be less desirable to other players in comparison to ungifted villagers. They can never be ungifted, only have their gifts replaced.
