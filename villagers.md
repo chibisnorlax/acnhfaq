@@ -92,11 +92,8 @@ That said, there's no requirement to do this, and you should have the villagers 
 ## What is friendship/What are friendship levels?
 “Friendship” refers to how close you are with your villagers. Talking to them, gifting them items, and completing quests for them all increases friendship. Villagers also have friendship levels, and when you unlock new levels, you unlock new interactions and quests! For more specific details, visit Yue’s friendship guide, located here: <https://yuexr.github.io/acnh/friendship.html>.
 
-<div class="code-example" markdown="1">
-Note
-{: .label .label-red }
-**Warning:** Note that the guide is outdated in terms of when certain interactions unlock as of `1.6.0`. The table below shows what villagers can approach you for and how likely they are to do so. More ticks means they are more likely to do that specific activity.
-</div>
+{: .warning }
+Note that the guide is outdated in terms of when certain interactions unlock as of `1.6.0`. The table below shows what villagers can approach you for and how likely they are to do so. More ticks means they are more likely to do that specific activity.
 
 | Friendship Level | Will gift you presents | Will give you nicknames | Will sell you items | Will ask to change catchphrase | Will buy items from you | Will trade for items | Will ask to change greeting |
 |:----------------:|:----------------------:|:-----------------------:|:-------------------:|:------------------------------:|:-----------------------:|:--------------------:|:---------------------------:|
