@@ -395,12 +395,16 @@ Every player has two "voids": a Move In Queue (MIQ) and a Move Out Queue (MOQ).
 - The MOQ is what is commonly referred to as "the void". It is an invisible space where villagers who move out, but are not adopted, go to live (also indefinitely) until they can be passed into another player's MIQ. The MOQ holds up to 10 villagers.
 
 ## When does X villager wake up/go to bed?
-- **Lazy:** 8:00 AM – 11:00 PM  
-- **Jock:** 6:30 AM – 12:30 AM  
-- **Cranky:** 9:00 AM – 3:30 AM  
-- **Smug:** 7:00 AM – 2:00 AM  
-- **Normal:** 6:00 AM – 12:00 AM  
-- **Peppy:** 7:00 AM – 1:30 AM  
-- **Snooty:** 8:30 AM – 2:30 AM  
-- **Sisterly:** 9:30 AM – 3 AM  
+
+| Personality |        Time        |
+|:-----------:|:------------------:|
+|    Lazy     | 8:00 AM – 11:00 PM |
+|    Jock     | 6:30 AM – 12:30 AM |
+|   Cranky    | 9:00 AM – 3:30 AM  |
+|    Smug     | 7:00 AM – 2:00 AM  |
+|   Normal    | 6:00 AM – 12:00 AM |
+|    Peppy    | 7:00 AM – 1:30 AM  |
+|   Snooty    | 8:30 AM – 2:30 AM  |
+|  Sisterly   | 9:30 AM – 3:00 AM  |
+
 - ***Note:** Villagers also have the ability to wake up early or pull all-nighters.*  
