@@ -50,3 +50,8 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 - Split FAQ into various sections.
 - Updated reactions table.
 - Added Just Docs theme & site wide search bar.
+
+### 1.3.1
+- Additional information on Toy Day
+- Addition of several new sections in the Villager and Island Life categories.
+- New character deletion steps in Misc.
