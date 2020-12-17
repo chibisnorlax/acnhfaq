@@ -84,7 +84,7 @@ You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each s
 
 For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 
-## Fireworks Festival (Hanami)
+## Fireworks Festival
 Firework shows last from 7:00 PM to 12:00 AM every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
 
 ## Halloween 
