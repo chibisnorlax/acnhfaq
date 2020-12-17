@@ -7,6 +7,8 @@ nav_order: 9
 ## When is X event/season?
 Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
 
+* * *
+
 ## Bug-Off
 In the Northern Hemisphere, the Bug-Off occurs on the 4th Saturday of June, July, August, and September from 9:00 AM to 6:00 PM. In the Southern Hemisphere, it occurs on the 3rd Saturday of November, December, January, and February from 9:00 AM to 6:00 PM. 
 
@@ -28,6 +30,8 @@ The points can also be used to redeem items, of which there are 13. Once you hav
 Each fish you catch adds 1 point to your total and each fish after the first three adds a bonus 2 points. The fish you catch will immediately appear in C.J.’s cooler box. He will also buy them from you for 1.5x the regular selling price. If you play with others, you will receive bonus points and waive the 500 bell fee.
 
 For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
+
+* * *
 
 ## Bunny Day (Easter)
 Bunny Day starts on April 1st and ends on April 12th. If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. During the event, villagers will come up to you to teach you the Bunny Day crown and bag recipe. Egg-theme clothing such as, the stone egg hat and outfit, is self taught after you collect a certain amount of that kind of egg. When you learned all of them, you'll learn the egg party dress and hat. You can get the other recipes from Bunny Day message bottles and balloons. 
@@ -65,7 +69,7 @@ The Nature Day Nook Miles+ Achievements are:
 
 If you talk to Tom Nook after completing one Nature Day activity, he will send the hedge DIY recipe to your Nook phone.
 
-## May Day
+## May Day (Labour Day)
 From May 1st until May 7th, you will be able to go on the May Day tour after talking to Tom Nook. To participate in the tour, go to the airport and talk to Orville, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover to get the Rover’s briefcase item. You can also get up to nine Bell Vouchers (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
 
 For a guide on how to complete the maze and obtain all possible prizes, see [here](https://www.ign.com/wikis/animal-crossing-new-horizons/May_Day_-_How_to_Complete_Rover%27s_Maze#How_to_Get_a_May_Day_Ticket).
@@ -80,7 +84,7 @@ You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each s
 
 For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 
-## Fireworks Festival
+## Fireworks Festival (Hanami)
 Firework shows last from 7:00 PM to 12:00 AM every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
 
 ## Halloween 
@@ -88,12 +92,12 @@ Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Hallowe
 
 For more detailed info, visit <https://cestislife.github.io/halloween>.
 
-## Turkey Day
+## Turkey Day (Thanksgiving)
 Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the player has an [upgraded Resident Services building](/acnhfaq/unlocking-things#building-unlocks), Franklin will visit to host the event. In exchange for ingredients Franklin needs for his dishes, he will reward you with items and a DIY pack.
 
 For more detailed info, visit <https://cestislife.github.io/turkeyday>.
 
-## Toy Day
+## Toy Day (Christmas)
 {: .d-inline-block }
 
 time-locked 
