@@ -149,18 +149,18 @@ You can explore other user's islands at your own leisure to get inspiration or t
 - Note for acorns, pinecones and ornaments: you can simply shake one tree infinitely until it produces the amount you want.
 
 ## How do I build a perfect Snowboy?
-It is important to note that size is not the determining factor in how a perfect Snowboy would be, but rather its porportions. The head should be about **10% smaller than the body** for it to be considered perfect. The table below shows the correlation of the head to body ratio and its rating.
+It is important to note that size is not the determining factor in how a perfect Snowboy would be, but rather its proportions. The head should be about **10-20% smaller than the body** for it to be considered perfect. The table below shows the correlation of the head to body ratio and its rating.
 
-|   Head   |   Rating    |
-|:--------:|:-----------:|
-|   ~60%   |    Worst    |
-|   ~70%   |  Not Good   |
-|   ~80%   |    Good     |
-| **~90%** | **Perfect** |
-|   100%   |    Good     |
-|  ~110%   |  Not Good   |
-|  >110%   |    Worst    |
-
+| Head          | Rating        |
+|:-------------:|:-------------:|
+| <60%          | Worst         |
+| ~60%          | Not Good      |
+| ~70%          | Good          |
+| **~80-90%**   | **Perfect**   |
+| 100%          | Good          |
+| ~110%         | Not Good      |
+| >110%         | Worst         |
+  
 If estimation is not your forte, a general guideline for the perfect Snowboy is to have the top of the Snowboy's body to be the same height as the top of the player's eyes, while the Snowboy's head should be the same height as the bottom of the player's ears. See below for a visual example. Perfect Snowboys reward a Frozen DIY and 1 large snowflake to their builder, and a Frozen DIY to other island residents that speak with them on the day they are built.
 
 ![Snowboy Guide](/assets/snowboy_guide.jpg)
