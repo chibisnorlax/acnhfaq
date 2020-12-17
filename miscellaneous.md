@@ -41,6 +41,4 @@ Yes, you can. It requires a Nintendo Switch Online subscription. Please visit <h
 You can find them at <https://acnh.directory/>.  
 
 {: .note }
-> Test
-> 
-> Do not blah blah blah...
+Do not blah blah blah...
