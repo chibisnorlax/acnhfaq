@@ -2,6 +2,13 @@
 title: Events
 nav_order: 9
 ---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+* * *
 
 # Events
 ## When is X event/season?
