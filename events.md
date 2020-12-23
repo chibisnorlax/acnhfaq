@@ -2,17 +2,18 @@
 title: Events
 nav_order: 9
 ---
+# Events
+{: .no_toc }
+## When is X event/season?
+{: .no_toc }
+Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
+
+* * *
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-* * *
-
-# Events
-## When is X event/season?
-Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
 
 * * *
 
