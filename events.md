@@ -98,13 +98,11 @@ Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the pla
 For more detailed info, visit <https://cestislife.github.io/turkeyday>.
 
 ## Toy Day (Christmas)
-{: .d-inline-block }
+Toy Day happens on December 24th and requires game version `1.6.0c`. During Toy Day, you will be tasked to deliver presents by Jingle. Craft 3 festive wrapping paper for him, and he will give you a magic bag to deliver presents to all your villagers. He will also give you a Toy Day stockings to hang up. Hang these up, then check them the next day to receive Jingle's photo.
 
-time-locked 
-{: .label .label-red }
-Toy Day happens on December 24th and requires game version `1.6.0c`. The events' rewards (Toy Day sleigh, Jingle's Photo) and its associated DIYs (festive wrapping paper and gift pile) are currently **time-locked** and not currently available.
+If you manage to deliver half of the presents, he will present you with the gift pile DIY, and if you manage to deliver all of the presents, he will gift you with the Toy Day sleigh furniture item.
 
-As of `1.6.0b`:
+Some other notes:
 * **Toy Day toys** are available in Nook's Cranny from December 1st to December 25th.
 * The **Santa and Reindeer Costumes** will start to appear in Able Sisters as part of the random selection.
 * The **Festive Wreath** will be given to you once via a villager approach from December 15th onwards. 
