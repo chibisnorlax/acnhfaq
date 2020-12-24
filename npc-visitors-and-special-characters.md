@@ -4,10 +4,13 @@ nav_order: 8
 ---
 
 # NPC Visitors and Special Characters
+{: .no_toc }
 ## How often does X visit? How do I unlock X character?
+{: .no_toc }
 ![NPC Schedule Infographic](/assets/npcskd.png)
 
 ## How long does X NPC stay on my island?
+{: .no_toc }
 - **Label, Kicks, Leif, Mabel (before Able Sisters is built):** 5:00 AM - 10:00 PM  
 - **Flick, C.J., Redd, Gulliver, Gullivarrr:** 5:00 AM - 5:00 AM (next day)  
 - **Saharah, K.K. Slider:** 5:00 AM - 12:00 AM
@@ -20,6 +23,14 @@ nav_order: 8
 - **Wisp:** 8:00 PM - 5:00 AM
   - Disappears right after being helped.  
 - **Pascal:** Can appear when you obtain a scallop, regardless of time.  
+
+* * *
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+* * *
 
 ## Tom Nook
 - Helps you navigate the tutorial phase of the game, and is the point of contact for construction-related queries.
