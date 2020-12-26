@@ -36,7 +36,7 @@ This guide is current through version `1.6.0c` of the game.
 
 ## Acknowledgements
 The creation of this guide was an effort led by littlesnorlax#1717. It was brought to you with the love and hard work of:
-littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, Nours#7244, mybae#1905, Yamza#0836, pojayto#1996, and#6915, and danc#0854 ♥
+littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, Nours#7244, mybae#1905, Yamza#0836, pojayto#1996, and#6915, danc#0854, and cloud#1580 ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
