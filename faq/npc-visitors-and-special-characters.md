@@ -205,7 +205,7 @@ permalink: npc/
 - Appear on Harv's island, the player can assist them in taking wedding photos in exchange for special furniture.
 
 ## Rover
-- First encounter during [May Day](/acnhfaq/events#may-day) mystery tour event. 
+- First encounter during [May Day](/acnhfaq/events#may-day-labour-day) mystery tour event. 
 - At the end of the maze, the player will get to speak with Rover and is gifted the "Rover's briefcase" item.
 
 ## Luna
@@ -217,8 +217,8 @@ permalink: npc/
 - Gifts various rewards in exchange for candies and lollipops.
 
 ## Franklin
-- First encounter during [Turkey Day](/acnhfaq/events#turkey-day).
+- First encounter during [Turkey Day](/acnhfaq/events#turkey-day-thanksgiving).
 - Gifts various rewards in exchange for needed ingredients.
 
 ## Jingle
-- First encounter during [Toy Day](/acnhfaq/events#toy-day).  
+- First encounter during [Toy Day](/acnhfaq/events#toy-day-christmas).  
