@@ -55,3 +55,7 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 - Additional information on Toy Day
 - Addition of several new sections in the Villager and Island Life categories.
 - New character deletion steps in Misc.
+
+### 1.3.2
+- Pages restructure, and better reorganisation of the various topics.
+- Island Life has children pages now.
