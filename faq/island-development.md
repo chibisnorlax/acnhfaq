@@ -98,7 +98,7 @@ For more information, please visit <https://bigfootmg.github.io/Snowboys/index.h
 
 ## Balloons
 ### When does a balloon spawn and what do they drop?
-See this guide, <https://cestislife.github.io/img/balloons.png>.
+![Balloons](https://cestislife.github.io/img/balloons.png)
 
 ### How do I farm balloons?
 Balloons can be funneled through tall objects, making them much easier to farm as you won't miss any that spawn. To do this, follow the steps outlined below:
@@ -116,7 +116,7 @@ Here's a visual of what your coast might look like, courtesy of Nours#7244!
 * * *
 
 ## What are Pocket Camp items and how can I get them?
-Visit <https://cestislife.github.io/img/pocketcamp.png> for information on the Pocket Camp exclusive items.  
+![Pocket Camp](https://cestislife.github.io/img/pocketcamp.png)
 
 ## How do I unlock all the DAL items? What are the milestones?
 ![DAL rewards](/acnhfaq/assets/dal.png)  
