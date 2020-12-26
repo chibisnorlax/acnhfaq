@@ -16,22 +16,22 @@ A lot of the rates can be found at <https://acnh.isomorphicbox.com/rates/#assort
 
 ## How do I manually update my AC:NH game?
 1. Hover over AC:NH on the Switch home menu.
-2. Press the `+` button.
+2. Press the plus `+` button.
 3. Go to `Software Update`, then `via the Internet`.
 
 Your ACNH game is now up to date!
 
 ## How do I delete a human resident off of my island?
 1. Log into AC:NH on the profile of the character you want to delete.
-2. Press the minus button on the title screen of AC:NH.
+2. Press the minus `-` button on the title screen of AC:NH.
 3. When Tom Nook appears, choose to talk to him about the `Save Data` option.
 4. He will ask if you want to delete your resident registration, click `Yes`. 
 
 ## I deleted the profile of the character I want to delete. What now?
 1. Log into AC:NH on the **island representative** account. This is the profile of the player who made and named the island.
-2. Press the `-` button on the title screen of AC:NH.
+2. Press the minus `-` button on the title screen of AC:NH.
 3. When Tom Nook appears, choose to talk to him about the `Save Data` option.
-4. He will ask if you want to delete a resident's registration, click "Yes" and choose the designated player to be deleted. 
+4. He will ask if you want to delete a resident's registration, click `Yes` and choose the designated player to be deleted. 
 
 *Note:* The island representative account cannot be deleted without the entire island going with it.
 
