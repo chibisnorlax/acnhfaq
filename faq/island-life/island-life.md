@@ -91,10 +91,10 @@ You can explore other user's islands at your own leisure to get inspiration or t
 ### How do I swim?
 First you need a wetsuit, they can be bought from the cabinet in Nook's Cranny or ordered from the nook stop under Redeem Nook Miles. Once you have a wetsuit, face the ocean and press "A". To swim faster hold "A" and when you see bubbles, select "Y" to dive and catch a sea creature.
 
-## How to catch fast sea creatures?
+### How to catch fast sea creatures?
 If you are having trouble catching a sea creature because it is moving too quickly you could try approching it without holding "A" then selecting "Y" when you are near enough to dive and catch it. Or you could try swimming towards it and making it move into the corners of the net since they can't go past it.
 
-## Who is Pascal?
+### Who is Pascal?
 If you catch a scallop and it's the first scallop of that day caught, an NPC named [Pascal](/acnhfaq/npc#pascal) will appear and ask for the scallop, if you tell him yes, then he will give you either a pearl, a mermaid furniture diy, or mermaid clothing that will go directly into your pockets if you have enough pocket space.
 
 For more information, please visit <https://yuexr.github.io/img/pascal2.png>
