@@ -1,6 +1,7 @@
 ---
 title: Gardening
 nav_order: 5
+permalink: gardening/
 ---
 
 # Gardening

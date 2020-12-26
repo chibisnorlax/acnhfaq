@@ -1,6 +1,7 @@
 ---
 title: Villagers
 nav_order: 7
+permalink: villagers/
 ---
 
 # Villagers

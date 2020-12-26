@@ -1,6 +1,7 @@
 ---
 title: Events
 nav_order: 9
+permalink: events/
 ---
 # Events
 {: .no_toc }

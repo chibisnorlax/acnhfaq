@@ -1,6 +1,7 @@
 ---
 title: Island Development
 nav_order: 3
+permalink: island-dev/
 ---
 
 # Island Development

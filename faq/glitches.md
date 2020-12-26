@@ -1,6 +1,7 @@
 ---
 title: Glitches
 nav_order: 11
+permalink: glitches/
 ---
 
 # Glitches 

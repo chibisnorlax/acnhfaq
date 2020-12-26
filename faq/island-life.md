@@ -1,6 +1,7 @@
 ---
 title: Island Life
 nav_order: 2
+permalink: island-life/
 ---
 
 # Island Life

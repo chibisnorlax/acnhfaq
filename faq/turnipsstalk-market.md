@@ -1,6 +1,7 @@
 ---
 title: Turnips/Stalk Market
 nav_order: 6
+permalink: turnips/
 ---
 
 # Turnips/Stalk Market

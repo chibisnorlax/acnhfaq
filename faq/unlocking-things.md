@@ -1,6 +1,7 @@
 ---
 title: Unlocking Things
 nav_order: 4
+permalink: unlocks/
 ---
 
 # Unlocking Things

@@ -1,6 +1,7 @@
 ---
 title: NPC Visitors and Special Characters
 nav_order: 8
+permalink: npc/
 ---
 
 # NPC Visitors and Special Characters

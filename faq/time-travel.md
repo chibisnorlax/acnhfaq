@@ -1,6 +1,7 @@
 ---
 title: Time Travel
 nav_order: 10
+permalink: tt/
 ---
 
 # Time Travel
