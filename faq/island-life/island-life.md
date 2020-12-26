@@ -76,10 +76,10 @@ You can get different colors on different profiles. The birthday cake item can s
 * * *
 ## Dreams
 ### How do I dream?
-Go to a bed indoors and lie down. Select "I want to sleep." This will allow you to enter the dream world and meet Luna! From there, select "I want to dream" and then enter a dream address!  
+Go to a bed indoors and lie down. Select `I want to sleep`. This will allow you to enter the dream world and meet Luna! From there, select `I want to dream` and then enter a dream address!  
 
 ### How do I get my dream address?
-Go to a bed indoors and lie down. Select "I want to sleep." From there you will meet Luna! Select "Share a dream" to receive your dream code.  
+Go to a bed indoors and lie down. Select `I want to sleep`. From there you will meet Luna! Select `Share a dream` to receive your dream code.  
 Your weather and time in the dream will be same as when you upload the dream.
 
 ### What can you do in a dream?
@@ -89,10 +89,10 @@ You can explore other user's islands at your own leisure to get inspiration or t
 
 ## Swimming
 ### How do I swim?
-First you need a wetsuit, they can be bought from the cabinet in Nook's Cranny or ordered from the nook stop under Redeem Nook Miles. Once you have a wetsuit, face the ocean and press "A". To swim faster hold "A" and when you see bubbles, select "Y" to dive and catch a sea creature.
+First you need a wetsuit, they can be bought from the cabinet in Nook's Cranny or ordered from the nook stop under Redeem Nook Miles. Once you have a wetsuit, face the ocean and press `A`. To swim faster hold `A` and when you see bubbles, select `Y` to dive and catch a sea creature.
 
 ### How to catch fast sea creatures?
-If you are having trouble catching a sea creature because it is moving too quickly you could try approching it without holding "A" then selecting "Y" when you are near enough to dive and catch it. Or you could try swimming towards it and making it move into the corners of the net since they can't go past it.
+If you are having trouble catching a sea creature because it is moving too quickly you could try approching it without holding `A` then selecting `Y` when you are near enough to dive and catch it. Or you could try swimming towards it and making it move into the corners of the net since they can't go past it.
 
 ### Who is Pascal?
 If you catch a scallop and it's the first scallop of that day caught, an NPC named [Pascal](/acnhfaq/npc#pascal) will appear and ask for the scallop, if you tell him yes, then he will give you either a pearl, a mermaid furniture diy, or mermaid clothing that will go directly into your pockets if you have enough pocket space.
