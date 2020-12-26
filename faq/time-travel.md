@@ -1,6 +1,6 @@
 ---
 title: Time Travel
-nav_order: 10
+nav_order: 8
 permalink: tt/
 ---
 

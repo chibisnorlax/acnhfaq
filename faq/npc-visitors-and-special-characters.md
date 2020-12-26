@@ -1,6 +1,6 @@
 ---
 title: NPC Visitors and Special Characters
-nav_order: 8
+nav_order: 6
 permalink: npc/
 ---
 

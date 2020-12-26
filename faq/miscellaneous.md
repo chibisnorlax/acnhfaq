@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-nav_order: 12
+nav_order: 10
 permalink: misc/
 ---
 

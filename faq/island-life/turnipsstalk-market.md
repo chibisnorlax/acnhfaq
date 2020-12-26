@@ -1,7 +1,9 @@
 ---
-title: Turnips/Stalk Market
-nav_order: 6
-permalink: turnips/
+layout: default
+title: Turnips & The Stalk Market
+nav_order: 4
+parent: Island Life
+permalink: island-life/turnips/
 ---
 
 # Turnips/Stalk Market

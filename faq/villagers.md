@@ -1,6 +1,6 @@
 ---
 title: Villagers
-nav_order: 7
+nav_order: 5
 permalink: villagers/
 ---
 
