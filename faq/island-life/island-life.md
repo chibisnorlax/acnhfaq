@@ -22,7 +22,7 @@ An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor
 ## How can I get 8 hits from a rock?
 Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock 8 times without being knocked away. See below for an example.
 
-![Rock Drops GIF](.../assets/rockdrops.gif)
+![Rock Drops GIF](/acnhfaq/assets/rockdrops.gif)
 
 ## What does eating fruit/turnip/cupcake/candy/lollipop do?
 After you eat one, you can dig up a tree or break a rock. If you break a rock, one will respawn per day if there's a place it can spawn. You can get rid of the effect by sitting on a toilet.  
@@ -42,7 +42,7 @@ For the spawn rates of **deep sea creatures**, visit <https://tinyurl.com/seafoo
 The spawn rates for **bugs** are a bit more complex to calculate, so we recommend referring to the [data spreadsheet](https://bit.ly/3gWAJDe) and comparing their base values relative to other bugs. 
 
 ## What are the dimensions of X building?
-![Building Dimensions](.../assets/sizes.png)
+![Building Dimensions](/acnhfaq/assets/sizes.png)
 
 ## What does X villager's house look like?
 Please visit <https://tinyurl.com/villagerintext> for a complete list of villager interiors and exteriors!
@@ -108,7 +108,7 @@ It is important to note that size is not the determining factor in how a perfect
   
 If estimation is not your forte, a general guideline for the perfect Snowboy is to have the top of the Snowboy's body to be the same height as the top of the player's eyes, while the Snowboy's head should be the same height as the bottom of the player's ears. See below for a visual example. Perfect Snowboys reward a Frozen DIY and 1 large snowflake to their builder, and a Frozen DIY to other island residents that speak with them on the day they are built.
 
-![Snowboy Guide](.../assets/snowboy_guide.jpg)
+![Snowboy Guide](/acnhfaq/assets/snowboy_guide.jpg)
 
 ### Where can I find snowballs?
 From testing (courtesy of *Stoney#9215*), Snowballs will spawn in a **6x6 area of empty grass tiles**, though the area can be smaller or partially occupied depending on what you put there. The first snowball will usually be in the middle of this area, and the second snowball will spawn close by. The second snowball does not seem to be governed by the same spawning rules as the first snowball, as it can appear to spawn on custom designs, in flower/weed fields, as well as paths. 

@@ -12,7 +12,7 @@ One [day](/acnhfaq/island-life#what-defines-a-week-and-a-day-in-game) after you 
 Yes! Every building and house can be moved except the airport and Resident Services.
 
 ## How do I unlock terraforming?
-Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](/acnhfaq/unlocking-things) section.
+Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](/acnhfaq/unlocks) section.
 
 ## How do I raise my island rating?
 Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
@@ -33,7 +33,7 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - Frozen DIY recipes are given by Snowboy after you build a perfect one. See [here](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/5/21/21262825/how-to-make-perfect-snowboy-diy-recipe-list) for how to make a perfect Snowboy.  
 - You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also gives you space-themed (celestial) DIY recipes and wand recipes.  
 - Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
-- [Wedding](/events#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
+- [Wedding](/acnhfaq/events#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
 - The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](/acnhfaq/events#nature-day-earth-day).  
 - [Turkey Day](/acnhfaq/events#turkey-day) DIYs can be obtained by completing the event, or they are available for purchase in Nook's Cranny starting November 27th.
 - You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
@@ -54,8 +54,8 @@ Balloons can be funneled through tall objects, making them much easier to farm a
 4. Sit by your opening and wait. Balloons *can* spawn on the XX:X4 and XX:X9 minutes, with an estimated spawn rate of about 50%. Put on some music and farm those balloons!
 
 Here's a visual of what your coast might look like, courtesy of Nours#7244!
-![Balloons 1 GIF](/assets/balloonfarm1.gif)
-![Balloons 2 GIF](/assets/balloonfarm2.gif)
+![Balloons 1 GIF](/acnhfaq/assets/balloonfarm1.gif)
+![Balloons 2 GIF](/acnhfaq/assets/balloonfarm2.gif)
 
 ## What are Pocket Camp items and how can I get them?
 Visit <https://cestislife.github.io/img/pocketcamp.png> for information on the Pocket Camp exclusive items.  
@@ -64,4 +64,4 @@ Visit <https://cestislife.github.io/img/pocketcamp.png> for information on the P
 See this guide, <https://cestislife.github.io/img/balloons.png>.
 
 ## How do I unlock all the DAL items? What are the milestones?
-![DAL rewards](/assets/dal.png)  
+![DAL rewards](/acnhfaq/assets/dal.png)  

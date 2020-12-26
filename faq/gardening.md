@@ -12,7 +12,7 @@ The ACNH gardening community has kindly put together various resources for all y
 
 ## Flower Guides & Resources
 ### What's the quickest path to each hybrid?
-![Breeding Guide](/assets/breeding.png)  
+![Breeding Guide](/acnhfaq/assets/breeding.png)  
 
 ### Resources
 * [Aeter's Comprehensive Flower Guide](https://aiterusawato.github.io/satogu/acnh/flowers)

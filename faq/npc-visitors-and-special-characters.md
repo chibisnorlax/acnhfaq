@@ -8,7 +8,7 @@ permalink: npc/
 {: .no_toc }
 ## How often does X visit? How do I unlock X character?
 {: .no_toc }
-![NPC Schedule Infographic](/assets/npcskd.png)
+![NPC Schedule Infographic](/acnhfaq/assets/npcskd.png)
 
 ## How long does X NPC stay on my island?
 {: .no_toc }
@@ -38,15 +38,15 @@ permalink: npc/
 - If you aren't sure what to do, talk to him and choose "What should I do?" If he doesn't have anything for you today, he may have something for you tomorrow! 
 
 ## Timmy and Tommy (The "Nooklings")
-- Until [Nook's Cranny](/acnhfaq/unlocking-things#building-unlocks) is unlocked, you can buy and sell items from Timmy in the Resident Services tent.
+- Until [Nook's Cranny](/acnhfaq/unlocks#building-unlocks) is unlocked, you can buy and sell items from Timmy in the Resident Services tent.
 - Timmy and Tommy run Nook's Cranny once it's built, where you can purchase decor, plants, and tools.
 
 ## Blathers
 - Unlocked when you donate 5 critters to Tom Nook during the tutorial.
-- Once the [museum](/acnhfaq/unlocking-things#building-unlocks) is built, you'll be able to donate bugs, fish, sea creatures, and art that Blathers will tell you about as well as display for players to look at. 
+- Once the [museum](/acnhfaq/unlocks#building-unlocks) is built, you'll be able to donate bugs, fish, sea creatures, and art that Blathers will tell you about as well as display for players to look at. 
 
 ## Isabelle
-- Unlocked when you upgrade [Resident Services](/acnhfaq/unlocking-things#building-unlocks) into a building.
+- Unlocked when you upgrade [Resident Services](/acnhfaq/unlocks#building-unlocks) into a building.
 - Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.
 - You can talk to Isabelle to reset villagers' clothing, catchphrases through the 'Discuss a Resident' option. 
   - **Note:** Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
@@ -54,7 +54,7 @@ permalink: npc/
   - The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
 
 ## Daisy Mae
-- Visits every Sunday to sell turnips (see [Turnips/Stalk Market](/acnhfaq/turnipsstalk-market)) once Nook's Cranny is unlocked.
+- Visits every Sunday to sell turnips (see [Turnips/Stalk Market](/acnhfaq/turnips)) once Nook's Cranny is unlocked.
 
 ## Celeste
 - [Blathers'](#blathers) sister.
@@ -63,7 +63,7 @@ permalink: npc/
 - Celeste can visit on nights where you have shooting stars (see [NPC Schedule](#how-often-does-x-visit-how-do-i-unlock-x-character)). 
 
 ## K.K. Slider
-- Unlocked through completing [Project K](/acnhfaq/unlocking-things#misc-unlocks).
+- Unlocked through completing [Project K](/acnhfaq/unlocks#misc-unlocks).
 - Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead.
 - Special visit for player birthdays.
 - Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. 
