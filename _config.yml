@@ -1,9 +1,5 @@
 title: "Animal Crossing: New Horizons FAQ"
-<<<<<<< HEAD
-remote_theme: pmarsceill/just-the-docs
-=======
 remote_theme: pdmosses/just-the-docs@callouts
->>>>>>> parent of 6af2c6b... dark mode
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -17,6 +13,3 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" #added this because back to top di
 search.button: true
 kramdown:
   input: GFM
-aux_links:
-  "Toggle Theme":
-    - "jtd.setTheme('dark');"
