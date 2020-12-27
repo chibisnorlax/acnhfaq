@@ -1,5 +1,9 @@
 title: "Animal Crossing: New Horizons FAQ"
+<<<<<<< HEAD
 remote_theme: pmarsceill/just-the-docs
+=======
+remote_theme: pdmosses/just-the-docs@callouts
+>>>>>>> parent of 6af2c6b... dark mode
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
