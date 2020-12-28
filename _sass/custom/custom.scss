@@ -64,8 +64,7 @@ tr:nth-child(even) {
 }
 
 .center {
-  display: flex;
-  justify-content: center;
+  margin: 0 auto;
 }
 
 @font-face {
