@@ -63,6 +63,11 @@ tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 @font-face {
   font-family: 'icomoon';
   src:  url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.eot?i6fqf1');

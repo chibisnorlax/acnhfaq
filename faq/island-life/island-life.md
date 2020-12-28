@@ -24,6 +24,7 @@ An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor
 Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock 8 times without being knocked away. See below for an example.
 
 ![Rock Drops GIF](/acnhfaq/assets/rockdrops.gif)
+{: .center}
 
 ## What does eating fruit/turnip/cupcake/candy/lollipop do?
 After you eat one, you can dig up a tree or break a rock. If you break a rock, one will respawn per day if there's a place it can spawn. You can get rid of the effect by sitting on a toilet.  
