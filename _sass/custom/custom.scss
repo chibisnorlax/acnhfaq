@@ -5,7 +5,7 @@
 }*/
 
 .admonition {
-  border-left: $border-radius solid nth($blue-300, 1);
+  border-left: $border-radius solid nth($blue-000, 1);
   border-radius: $border-radius;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
 	padding-bottom: 0.2em;
@@ -15,7 +15,7 @@
 }
 
 .admonition-title {
-	color: $blue-300;
+	color: $blue-000;
 	display: block;
 	font-weight: bold;
 	font-size: 1.05em;
@@ -23,7 +23,7 @@
 }
 
 $callouts: (
-    note: ($blue-300, rgba($blue-000, .2), 'INFO'),
+    note: ($blue-000, rgba($blue-000, .2), 'INFO'),
     caution: ($yellow-300, rgba($yellow-000, .2), 'WARNING'),
     danger: ($red-300, rgba($red-000, .2), 'DANGER')
 );
