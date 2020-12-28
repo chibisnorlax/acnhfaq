@@ -35,7 +35,12 @@ Any previously known glitches, if not contained in this list, **have been patche
 The only way to tell if something is a glitch is to see if it is reproducible and if it is unintended. If you suspect you have found a glitch for the **current** version of the game, please contact littlesnorlax#1717 on Discord. As a reminder, glitches ***are not***: bad luck/RNG, unexpected but intended gameplay, or hacked items.
 
 ## How do I perform the DC dupe? 
-The Disconnect Dupe (or "DC dupe") exploits the autosave process to duplicate already-existing items. Please note: **Any interruption of the normal save process could lead to corruption. The authors of this page nor the people supplying instructions will be responsible for what may happen to your game.** With that said, please visit <https://www.youtube.com/watch?v=qhyHsDs-H3Y> for instructions on how to complete the DC dupe.
+The Disconnect Dupe (or "DC dupe") exploits the autosave process to duplicate already-existing items. 
+
+{: .caution }
+Any interruption of the normal save process could lead to corruption. The authors of this page nor the people supplying instructions will be responsible for what may happen to your game.
+
+With that said, please visit <https://www.youtube.com/watch?v=qhyHsDs-H3Y> for instructions on how to complete the DC dupe.
 
 ## What happened to star trees/wrapped critters/Harv's fence/etc.?
 The majority of hacked items have been patched out of the game. The only hacked items that remain are unobtainable DIY recipe cards (King Tut mask, golden watering can, etc). Bridge and Incline kits can also be picked up if left unwrapped, but must be used to be removed from inventory. Luna gyroids and mailboxes are left ingame if owned previously.  

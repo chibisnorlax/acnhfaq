@@ -59,3 +59,7 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 ### 1.3.2
 - Pages restructure, and better reorganisation of the various topics.
 - Island Life has children pages now.
+
+### 1.3.3 
+- Added dark mode.
+- Added inline icon font.
