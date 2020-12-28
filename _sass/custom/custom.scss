@@ -65,11 +65,11 @@ tr:nth-child(even) {
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.eot?2xt42w');
-  src:  url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.eot?2xt42w') format('embedded-opentype'),
-    url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.ttf?2xt42w') format('truetype'),
-    url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.woff?2xt42w') format('woff'),
-    url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.svg?2xt42w#icomoon') format('svg');
+  src:  url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.eot?i6fqf1');
+  src:  url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.eot?i6fqf1') format('embedded-opentype'),
+    url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.ttf?i6fqf1') format('truetype'),
+    url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.woff?i6fqf1') format('woff'),
+    url('https://chibisnorlax.github.io/acnhfaq/assets/fonts/icomoon.svg?i6fqf1#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -99,6 +99,30 @@ tr:nth-child(even) {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-Bells:before {
+  content: "\e910";
+}
+.icon-Chat:before {
+  content: "\e911";
+}
+.icon-Ex:before {
+  content: "\e912";
+}
+.icon-Minus:before {
+  content: "\e913";
+}
+.icon-NM:before {
+  content: "\e914";
+}
+.icon-Plus:before {
+  content: "\e915";
+}
+.icon-Power:before {
+  content: "\e916";
+}
+.icon-Talk:before {
+  content: "\e917";
+}
 .icon-A:before {
   content: "\e900";
 }

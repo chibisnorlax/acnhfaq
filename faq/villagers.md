@@ -111,7 +111,7 @@ Each villager personality allows you to unlock reactions—these are the emotion
 
 For example, if you have no peppy villager, you cannot learn the aggravation, curiosity, happiness, sleepy, or mischief reactions. You can, however, always move out a villager once you’ve obtained all of their possible reactions!
 
-For the Halloween reactions, they are earned by playing the [Halloween](/acnhfaq/events#halloween) event. The Hip Reactions Collection can be bought via Nook Miles Redemption for 2,700 Nook Miles.
+For the Halloween reactions, they are earned by playing the [Halloween](/acnhfaq/events#halloween) event. The Hip Reactions Collection can be bought via Nook Miles Redemption for 2,700 <span class="icon-NM"></span>.
 
 All reactions and their sources: 
 
