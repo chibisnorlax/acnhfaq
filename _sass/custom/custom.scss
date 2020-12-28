@@ -64,7 +64,11 @@ tr:nth-child(even) {
 }
 
 .center {
-  margin: 0 auto;
+  text-align: center;
+  max-width: 100%;
+  max-height:100%;
+  display: inline-block; /* Instead of display: block; */
+  vertical-align: middle;
 }
 
 @font-face {
