@@ -14,7 +14,7 @@ Meteor showers are dependent on your [weather seed](#what-determines-the-weather
 Both heavy and light meteor showers are locked to the date on which they occur, and will always occur on that date even if you time travel. 
 
 ## How do I wish on a star, and what does it do?
-To wish on a star: when you see or hear it moving across the sky, stand still, look up with <span class="icon-RS"></span>, and press the <span class="icon-A"></span> button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
+To wish on a star: when you see or hear it moving across the sky, stand still, look up with <span class="icon-R-S"></span>, and press the <span class="icon-A"></span> button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
 
 Star fragments are a crafting material that can be used in DIY recipes.
 
