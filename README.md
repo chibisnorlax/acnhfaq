@@ -14,7 +14,11 @@ For all users submitting changes to the document, please refer to this style gui
 
 ### Nintendo Switch Parts
 - Joystick, when referring to the analog/joy sticks.
-- Capitalised letters for buttons and wrap them in code tags (`A`, `B`, `X/Y`).
+- Use custom font display for such buttons, i.e. to display the <span class="icon-A"></span> or `A` button: 
+
+```html
+<span class="icon-A"></span>
+```
 
 ### Links
 - If links are reasonably long, use tinyurl or bit.ly to shorten them.
