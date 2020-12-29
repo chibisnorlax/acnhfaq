@@ -85,7 +85,7 @@ If you have destroyed your snowballs, entering and exiting a building will usual
 - If other residents (i.e., residents that did not build the Snowboy) speak to a **perfect** Snowboy on the day they were built, they are also awarded a DIY, or 1 large snowflake if they know all Frozen DIYs.
 - If the Snowboy built is the first one ever by the player, the builder will be awarded a Frozen DIY and 1 large snowflake regardless of perfection.
 - If the Snowboy is perfect, the builder is rewarded a frozen DIY and 1 large snowflake. However: 
-  - If the player speaking to the Snowboy knows all Frozen DIYs prior to building, the Snowboy will only give them 1 large snowflake. 
+  - If the player speaking to the Snowboy knows all Frozen DIYs prior to building, the Snowboy will only give them 1 large snowflake, provided they have not crafted every DIY at least once. 
   - If the builder knows all Frozen DIYs prior to building, ***and*** has crafted one of each DIY, the Snowboy will mail them a crafted Frozen item.
   - For each subsequent day the perfect Snowboy is spoken to by the builder, they will give 1 large snowflake.
 - If the Snowboy is **not** perfect, they will not give anything to the builder nor other residents on any day they are present on the island.
