@@ -75,8 +75,8 @@ permalink: unlocks/
 
 ## Misc Unlocks
 - **Nook Miles Redemption:** Pay off 5,000 <span class="icon-NM"></span> house debt. 
-  - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors.
-- **Nook Miles+:** Upgrade your tent into a house (“About my home…”).
+  - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection.
+- **Nook Miles+:** Upgrade your tent into a house by selecting the `About my home…` option when talking to Tom Nook.
 - **Dodo Airport:** Day 2 of playing the game once you sync into real time. 
 - **Bedhead Hair:** Do not log in for a month — time travel is a great way to do this.
-- **Project K:** Upgrade Resident Services to a building, have 6 villagers moved in and settled. 
+- **Project K:** To unlock this quest line, upgrade Resident Services to a building and have 6 villagers moved in and settled. 
