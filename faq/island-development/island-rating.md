@@ -61,11 +61,14 @@ Development points are calculated from the buildings, structures, and furniture 
 |     Outdoor Bonus*     |      0.5       |
 |     Size 3 Bonus*      |       3        |
 
-<sup>*</sup>: These are additive, e.g. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 points.
+<sup>*</sup>: These are additive, i.e. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 points.
 
 **This category has the following point/rating caps:**
 > * Having less than **100 weeds** will not incur a penalty, but having more than that will reduce development points by 1 point per 30  weeds after that.
 > * Having **6 or less villagers** will cap star rating at 1⭐.
 > * Having **7 villagers** will cap star rating at 2⭐.
-> * Having **15 or more dropped items** will cap star rating at 4⭐.
+> * Having **15 or more dropped items** on the ground will cap star rating at 4⭐.
 > * Placing more than **45 items in a 8x8 area** will cap star rating at 4⭐.
+
+{: .info}
+Certain dropped items will not affect your island rating score. This includes tree branches, stones, sea shells, star fragments, mushrooms, and message bottles. Items dropped on a surface, i.e. a table will also not incur a penalty.
