@@ -1,3 +1,29 @@
 {%- if site.footer_content -%}
   <p class="text-small text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
 {%- endif -%}
+<script>
+  let theme = sessionStorage.getItem('theme');
+      function modeSwitcher() {
+      let theme = sessionStorage.getItem('theme');
+      if (theme === "dark") {
+          jtd.setTheme('light');
+          sessionStorage.setItem('theme', 'light');
+          document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+      } else {
+          jtd.setTheme('custom');
+          sessionStorage.setItem('theme', 'dark');
+          document.getElementById("theme-toggle").innerHTML = "Light Mode";
+      }
+      }
+      
+      if (theme === "light") {
+      jtd.setTheme('light');
+      sessionStorage.setItem('theme', 'light');
+      document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+      }
+      else {
+      jtd.setTheme('custom');
+      sessionStorage.setItem('theme', 'dark');
+      document.getElementById("theme-toggle").innerHTML = "Light Mode";
+      }
+  </script>
