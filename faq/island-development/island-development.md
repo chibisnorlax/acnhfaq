@@ -2,6 +2,8 @@
 title: Island Development
 nav_order: 3
 permalink: island-dev/
+has_children: true
+has_toc: false
 ---
 
 # Island Development
@@ -13,9 +15,6 @@ Yes! Every building and house can be moved except the airport and Resident Servi
 
 ## How do I unlock terraforming?
 Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](/acnhfaq/unlocks) section.
-
-## How do I raise my island rating?
-Once you upgrade Resident Services and unlock the Project K quest, Isabelle will talk to you about increasing your island’s rating. To see a breakdown of how the island rating system works, read here: https://tinyurl.com/islandrating. In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
 
 ## What can secondary (non-Island-Representative) players do?
 Secondary residents can do everything that Island Representatives can except story progression and certain infrastructural decisions. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
