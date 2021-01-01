@@ -153,7 +153,8 @@ Yes. Additionally, any furniture, fish/bug you gifted them and **is on their flo
 ## Is there any gameplay related benefit to gifting villagers?
 Yes, it increases your [friendship level](#what-is-friendshipwhat-are-friendship-levels) with them. For more info on gifting, please refer to Yue's gifting guide here - <https://yuexr.github.io/acnh/gift.html>.
 
-***Note:** The "safe gifts" section of Yue's gifting guide is currently out of date. Please refer to the table below for an up-to-date list of safe gifts.*
+{: .caution}
+The "safe gifts" section of Yue's gifting guide is currently **out of date**. Please refer to the table below for an up-to-date list of safe gifts.
 
 <div>
 <table id="gifting"><colgroup> <col style="width: 100px"> <col style="width: 150px"> <col /> </colgroup>
