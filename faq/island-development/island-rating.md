@@ -33,7 +33,7 @@ Nature points takes into account of the quantity of trees, bamboo, flowers, and 
 |:--------------------------:|:--------------:|
 | Fully grown trees & bamboo |       1        |
 |    Fully grown flowers     |       1        |
-|     Flower gtems/buds      |      0.7       |
+|     Flower stems/buds      |      0.7       |
 |        Flower seeds        |      0.5       |
 |           Bushes           |      0.5       |
 |       DIY furniture        |      0.25      |
