@@ -40,6 +40,7 @@ Nature points takes into account of the quantity of trees, bamboo, flowers, and 
 |    Size 3 DIY furniture    |      0.75      |
 
 **This category has the following point/rating caps:**
+> * Trees, bamboo trees, and bushes **do not provide any points** before they are fully grown.
 > * Trees, bamboo trees, and bushes cannot give more than **190** combined nature points.
 > * The island rating will not exceed 4⭐ if there are more than **220** trees/bamboo.
 
