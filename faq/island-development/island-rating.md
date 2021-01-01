@@ -7,7 +7,7 @@ permalink: island-dev/rating/
 ---
 
 # Island Rating
-Once you upgrade Resident Services and unlock the Project K quest line, [Isabelle](acnhfaq/npc/#isabelle) will talk to you about increasing your island’s rating. To see a full breakdown of how the island rating system works, read here: <https://tinyurl.com/islandrating>. Research, testing and document courtesy of `Stoney#9215`, `Phil#6666`.
+Once you upgrade Resident Services and unlock the Project K quest line, [Isabelle](/acnhfaq/npc/#isabelle) will talk to you about increasing your island’s rating. To see a full breakdown of how the island rating system works, read here: <https://tinyurl.com/islandrating>. Research, testing and document courtesy of `Stoney#9215`, `Phil#6666`.
 
 In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
 
@@ -39,9 +39,9 @@ Nature points takes into account of the quantity of trees, bamboo, flowers, and 
 |       DIY furniture        |      0.25      |
 |    Size 3 DIY furniture    |      0.75      |
 
-This category has the following point/rating caps:
-* Trees, bamboo trees, and bushes cannot give more than **190** combined nature points.
-* The island rating will not exceed 4⭐ if there are more than **220** trees/bamboo.
+> This category has the following point/rating caps:
+> * Trees, bamboo trees, and bushes cannot give more than **190** combined nature points.
+> * The island rating will not exceed 4⭐ if there are more than **220** trees/bamboo.
 
 ### Development Points
 Development points are calculated from the buildings, structures, and furniture placed on the island. This category is also affected by the number of villagers currently on your island, and to a smaller extent, weed count. The amount of points awarded by each of the different items listed before can be found in the following table:
@@ -63,9 +63,9 @@ Development points are calculated from the buildings, structures, and furniture 
 
 <sup>*</sup>: These are additive, e.g. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 points.
 
-This category has the following point/rating caps:
-* Having less than 100 weeds will not incur a penalty, but having more than that will reduce development points by 1 point per 30 weeds after that.
-* Having 6 or less villagers will cap star rating at 1⭐.
-* Having 7 villagers will cap star rating at 2⭐.
-* Having 15 or more dropped items will cap star rating at 4⭐.
-* Placing more than 45 items in a 8x8 area will cap star rating at 4⭐.
+> This category has the following point/rating caps:
+> * Having less than **100 weeds** will not incur a penalty, but having more than that will reduce development points by 1 point per 30  weeds after that.
+> * Having **6 or less villagers** will cap star rating at 1⭐.
+> * Having **7 villagers** will cap star rating at 2⭐.
+> * Having **15 or more dropped items** will cap star rating at 4⭐.
+> * Placing more than **45 items in a 8x8 area** will cap star rating at 4⭐.
