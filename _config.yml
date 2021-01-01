@@ -1,5 +1,5 @@
 title: "Animal Crossing: New Horizons FAQ"
-remote_theme: pdmosses/just-the-docs@callouts
+remote_theme: Nexies1/just-the-docs
 color_scheme: custom
 plugins:
   - jekyll-feed
