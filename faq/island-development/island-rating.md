@@ -70,5 +70,5 @@ Development points are calculated from the buildings, structures, and furniture 
 > * Having **15 or more dropped items** on the ground will cap star rating at 4⭐.
 > * Placing more than **45 items in a 8x8 area** will cap star rating at 4⭐.
 
-{: .info}
-Certain dropped items will not affect your island rating score. This includes tree branches, stones, sea shells, star fragments, mushrooms, and message bottles. Items dropped on a surface, i.e. a table will also not incur a penalty.
+{: .note}
+Certain dropped items **will not** affect your island rating score. This includes tree branches, stones, sea shells, star fragments, mushrooms, and message bottles. Items dropped on a surface, i.e. a table will also **not** incur a penalty.
