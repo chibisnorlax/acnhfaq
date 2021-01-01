@@ -14,3 +14,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" #added this because back to top di
 search.button: true
 kramdown:
   input: GFM
+aux_links:
+    '<button id="theme-toggle"></button>':
+      - '#"onclick="modeSwitcher()"'
