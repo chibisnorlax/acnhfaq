@@ -23,7 +23,7 @@
 }
 
 $callouts: (
-    note: ($blue-000, rgba($blue-000, .2), 'INFO'),
+    note: ($blue-000, rgba($blue-000, .2), 'NOTE'),
     caution: ($yellow-300, rgba($yellow-000, .2), 'WARNING'),
     danger: ($red-300, rgba($red-000, .2), 'DANGER')
 );
