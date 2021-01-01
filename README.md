@@ -67,3 +67,8 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 ### 1.3.3 
 - Added dark mode.
 - Added inline icon font.
+
+### 1.3.4
+- Implemented light mode/dark mode switch
+- Fixed search body text in dark mode not being legible. 
+- Added Island Rating section under Island Development.
