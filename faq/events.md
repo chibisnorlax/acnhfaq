@@ -119,4 +119,6 @@ Some other notes:
 For more detailed info, visit <https://cestislife.github.io/toyday>.
 
 ## Countdown (New Year)
-The countdown happens on New Year’s eve. Isabelle will be outside of resident service handing out lightsticks. Tom nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. As the year draws to a close, villagers will gather in the plaza to countdown to the new year. At midnight, the year ends with a fireworks display.  
+The countdown happens on New Year’s Eve. Isabelle will be outside of Resident Services, and will hand out a light stick if you talk to her. Tom Nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. To obtain other variants of the hats, you will need to trade with other players. As the year draws to a close, villagers will gather in the plaza to countdown to the New Year. At midnight, the year ends with a fireworks display.  
+
+Note that you will be unable to access Resident Services on this day.
