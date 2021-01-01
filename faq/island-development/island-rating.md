@@ -7,6 +7,7 @@ permalink: island-dev/rating/
 ---
 
 # Island Rating
+![](/acnhfaq/assets/is_evaluation.png)
 Once you upgrade Resident Services and unlock the Project K quest line, [Isabelle](/acnhfaq/npc/#isabelle) will talk to you about increasing your island’s rating. To see a full breakdown of how the island rating system works, read here: <https://tinyurl.com/islandrating>. Research, testing and document courtesy of `Stoney#9215`, `Phil#6666`.
 
 In general, the best advice we can give is to listen to Isabelle, as she reviews your island in real time and can provide feedback on the areas you’re lacking. That said, it’s always a good idea to put out lots of furniture (both purchased and crafted) and plant lots of flowers and trees!
