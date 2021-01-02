@@ -111,7 +111,19 @@ The Able Sister's will also be selling various yukatas on Firework Sundays.
 For more detailed info on raffle rewards, visit <https://yuexr.github.io/img/hanabi.png>
 
 ## Halloween 
-Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the spooky set and lollipops. Villagers will teach you the scare reaction after you give them a piece of candy and likewise, Jack will teach you the haunt reaction. If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear Jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>31<sup>st</sup> October</dd>
+<dt>Time</dt>
+<dd>5:00 PM - 12:00 AM</dd>
+<dt>Rewards</dt>
+<dd>Scare and Haunt reactions, Lollipops, Spooky furniture and their DIYs (garland, table setting, carriage, wand), Jack's Face, Jack's Robe</dd>
+</dl>
+</div>
+The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the Spooky set and lollipops. Villagers will teach you the `Scare` reaction after you give them a piece of candy and likewise, Jack will teach you the `Haunt` reaction. 
+
+If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear Jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
 
 For more detailed info, visit <https://cestislife.github.io/halloween>.
 
