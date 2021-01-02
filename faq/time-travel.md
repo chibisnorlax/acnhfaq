@@ -110,3 +110,4 @@ BCAT and NTP unlocks are flags that gets flipped when the actual date of the int
 <dd>These will append an alphabet to the game's version at the title screen, e.g. <code>1.6.0 c</code>. These are usually used for event unlocks.</dd> 
 <dt>NTP</dt>
 <dd>These do not change any observable value on the title screen or anywhere in game. These are usually used for unlocking Nook Seasonal Shopping items.</dd>
+</dl>
