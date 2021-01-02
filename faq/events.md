@@ -95,8 +95,6 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 
 ## Fireworks Festival
 
-<div class="container">
-
 Date
 : Every Sunday of August
 
@@ -106,9 +104,9 @@ Time
 Rewards
 : Boppers, Redd's Raffle items.
 
-</div>
-
 During the event, [Redd](/acnhfaq/npc#Redd), who has set up a raffle in the Resident Services plaza. Participating in this raffle will earn you firework items. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences during this event.
+
+The Able Sister's will also be selling various yukatas on Firework Sundays.
 
 For more detailed info on raffle rewards, visit <https://yuexr.github.io/img/hanabi.png>
 
