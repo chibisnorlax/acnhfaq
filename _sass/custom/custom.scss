@@ -5,10 +5,7 @@
 }*/
 
 
-dl {
-  display: grid;
-  grid-template: auto / 5em 1fr;
-}
+dl { grid-template: auto / 5em 1fr; }
 
 .admonition {
   border-left: $border-radius solid nth($blue-000, 1);
