@@ -94,7 +94,7 @@ You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each s
 For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 
 ## Fireworks Festival
-<div class="container">
+<div class="code-example">
 <dl>
 <dt>Date</dt>
 <dd>Every Sunday of August</dd>
