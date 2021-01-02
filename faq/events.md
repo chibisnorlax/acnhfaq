@@ -5,7 +5,7 @@ permalink: events/
 ---
 # Events
 {: .no_toc }
-Events are special days where (in most cases) a special NPC will arrive on the island to host said event. You will be rewarded in some form or another, either with furniture, DIYs, or even reactions. Events are usually **time-locked**, that is, they will only be available when they are unlocked on the actual date of the event in realtime (which we will term as BCAT or NTP unlocks). 
+Events are special days where (in most cases) a special NPC will arrive on the island to host said event. You will be rewarded in some form or another, either with furniture, DIYs, or even reactions. Events are usually **time-locked**, that is, they will only be available when they are unlocked on the actual date of the event in realtime (which we will term as [BCAT or NTP unlocks](/acnhfaq/tt#what-are-bcat-or-ntp-unlocks)). 
 
 Time travelling to these events will not be possible, unless of course the actual event day has passed. In this case, you are free to time travel back to a past event to redo them. 
 
