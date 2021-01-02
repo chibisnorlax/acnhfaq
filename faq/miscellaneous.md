@@ -33,7 +33,16 @@ Your ACNH game is now up to date!
 3. When Tom Nook appears, choose to talk to him about the `Save Data` option.
 4. He will ask if you want to delete a resident's registration, click `Yes` and choose the designated player to be deleted. 
 
-*Note:* The island representative account cannot be deleted without the entire island going with it.
+{. :note}
+The island representative account cannot be deleted without the entire island going with it.
+
+## How do I restart my island?
+1. From the Switch main menu, select `System Settings`.
+2. Navigate to `Data Management` then select `Delete Save Data`.
+3. Select `Animal Crossing: New Horizons` then select `Delete All Save Data for this Software`.
+
+{: .danger}
+This will delete the island and everything on it, including other residents. Please make sure you are very sure of this before proceeding. 
 
 ## Can I transfer my save data/island to another switch?
 Yes, you can. It requires a Nintendo Switch Online subscription. Please visit <https://en-americas-support.nintendo.com/app/answers/detail/a_id/53668/~/how-to-transfer-animal-crossing%3A-new-horizons-save-data> for more information.  
