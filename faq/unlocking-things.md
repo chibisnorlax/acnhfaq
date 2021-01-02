@@ -18,7 +18,7 @@ permalink: unlocks/
 <dt>Island Designer</dt>
 <dd>Complete Project K and redeem the purchases from the Nook Stop (“Redeem Nook Miles”). Preset path permits cost 2000 <span class="icon-NM"></span>, the Custom Path permit costs 2,300 <span class="icon-NM"></span>, and the waterscaping and cliff-construction permits cost 6000 <span class="icon-NM"></span> each.</dd>
 <dt>Nook Shopping</dt>
-<dd>After purchasing 100 items from “Nook Shopping” in the Nook Stop, you will get a prompt that you unlocked the app. You can track your progress with the “Shop to it” Nook Miles achievement.</dt>
+<dd>After purchasing 100 items from “Nook Shopping” in the Nook Stop, you will get a prompt that you unlocked the app. You can track your progress with the “Shop to it” Nook Miles achievement.</dd>
 </dl>
 
 ## Villager Plot Unlocks
