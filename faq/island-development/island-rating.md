@@ -75,3 +75,10 @@ Development points are calculated from the buildings, structures, and furniture 
 
 {: .note}
 Certain dropped items **will not** affect your island rating score. This includes tree branches, stones, sea shells, star fragments, mushrooms, and message bottles. Items dropped on a surface, i.e. a table will also **not** incur a penalty.
+
+### Unknown Factors
+While the Island Rating system is heavily researched, there may be some other factors that were not discovered. As quoted from the authors from the breakdown document:
+
+> "There may still be unknown factors that affect the Island Evaluation. It is more likely that there are undiscovered points penalties because our tests are currently coming up a few points too high than they should."
+
+Do take your calculations with a pinch of salt with this in mind, and again - the best advise we can give is to listen to Isabelle.
