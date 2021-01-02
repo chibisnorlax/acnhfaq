@@ -5,6 +5,17 @@ permalink: events/
 ---
 # Events
 {: .no_toc }
+Events are special days where (in most cases) a special NPC will arrive on the island to host said event. You will be rewarded in some form or another, either with furniture, DIYs, or even reactions. Events are usually **time-locked**, that is, they will only be available when they are unlocked on the actual date of the event in realtime (which we will term as BCAT or NTP unlocks). 
+
+Time travelling to these events will not be possible, unless of course the actual event day has passed. In this case, you are free to time travel back to a past event to redo them. 
+
+{: .note}
+> There are several requirements for most of the events listed here:
+> - Most of the events can only occur if you have an upgraded Resident Services (building, not a tent).
+> - You must not have a banned Nintendo Switch (as they cannot receive BCAT unlocks).
+> - You must connect your profile to a Nintendo Account.
+> - You must be connected to the Internet.
+
 ## When is X event/season?
 {: .no_toc }
 Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
@@ -76,7 +87,7 @@ On the last day of Bunny Day, Zipper will come to your island and give you the B
 <dt>Time</dt>
 <dd>All Day</dd>
 <dt>Rewards</dt>
-<dd>Hedgy DIY</dd>
+<dd>Hedge DIY</dd>
 </dl>
 </div>
 Nature Day starts on April 23rd and lasts until May 4th. During this time period, a Nature Day activity will replace one of your daily Nook Miles+ challenges.
