@@ -94,7 +94,20 @@ You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each s
 For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 
 ## Fireworks Festival
-Firework shows last from 7:00 PM to 12:00 AM every Sunday in August. If you pay 500 bells to Redd, who has set up a shop in the Resident Services plaza, you will receive a random prize. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences!
+<div class="container">
+Date
+: Every Sunday of August
+
+Time
+: 7:00 PM - 12:00 AM
+
+Rewards
+: Boppers, Redd's Raffle items.
+</div>
+
+During the event, [Redd](/acnhfaq/npc#Redd), who has set up a raffle in the Resident Services plaza. Participating in this raffle will earn you firework items. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences during this event.
+
+For more detailed info on raffle rewards, visit <https://yuexr.github.io/img/hanabi.png>
 
 ## Halloween 
 Halloween happens on October 31st from 5:00 PM to 12:00 AM. The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the spooky set and lollipops. Villagers will teach you the scare reaction after you give them a piece of candy and likewise, Jack will teach you the haunt reaction. If you don’t have candy when a villager comes up to you, they will give three pieces of candy the first time. But everytime after that or if you don’t give them candy, they will change your bodypaint, eye contact color, and face paint, called a "trick". You can get more candy from villagers that are inside of their house by talking to them while wearing a scary costume. If you wear Jack’s outfits while talking to villagers, they will also give you candy. It doesn’t matter if they are outside or inside, but you can only do this once per villager.
