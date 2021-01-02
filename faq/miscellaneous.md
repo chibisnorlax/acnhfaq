@@ -45,7 +45,7 @@ The island representative account cannot be deleted without the entire island go
 This will delete the island and everything on it, including other residents. Please make sure you are very sure of this before proceeding. 
 
 ## Can I transfer my save data/island to another switch?
-Yes, you can. It requires a Nintendo Switch Online subscription. Please visit <https://en-americas-support.nintendo.com/app/answers/detail/a_id/53668/~/how-to-transfer-animal-crossing%3A-new-horizons-save-data> for more information.  
+Yes, you can. It requires a Nintendo Switch Online subscription. Please visit [Nintendo's website](https://en-americas-support.nintendo.com/app/answers/detail/a_id/53668/~/how-to-transfer-animal-crossing%3A-new-horizons-save-data) for more information.  
 
 ## What are some other resources for AC:NH?
 You can find them at <https://acnh.directory/>.  
