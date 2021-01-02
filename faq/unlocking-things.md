@@ -6,20 +6,12 @@ permalink: unlocks/
 
 # Unlocking Things
 ## Nook Phone Unlocks
-<dl>
-<dt>DIY</dt>
-<dd>Complete Tom Nook’s DIY workshop.</dd>
-<dt>Critterpedia</dt>
-<dd>Donate a critter to Tom Nook.</dd>
-<dt>Pro Custom Designs</dt>
-<dd>While the Custom Designs app is available from the start, the Pro Designs can be unlocked through purchasing it at the Nook Stop. Alternatively, you can access Pro Designs from the kiosk of a dream island; the same happens when you unlock the kiosk the first time. While you can wear downloaded designs, however, you cannot edit or create them until you buy it at the Nook Stop.</dd>
-<dt>Friends</dt>
-<dd>Talk to Orville about playing with others.</dd>
-<dt>Island Designer</dt>
-<dd>Complete Project K and redeem the purchases from the Nook Stop (“Redeem Nook Miles”). Preset path permits cost 2000 <span class="icon-NM"></span>, the Custom Path permit costs 2,300 <span class="icon-NM"></span>, and the waterscaping and cliff-construction permits cost 6000 <span class="icon-NM"></span> each.</dd>
-<dt>Nook Shopping</dt>
-<dd>After purchasing 100 items from “Nook Shopping” in the Nook Stop, you will get a prompt that you unlocked the app. You can track your progress with the “Shop to it” Nook Miles achievement.</dd>
-</dl>
+- **DIY:** Complete Tom Nook’s DIY workshop.
+- **Critterpedia:** Donate a critter to Tom Nook.
+- **Pro Custom Designs:** While the Custom Designs app is available from the start, the Pro Designs can be unlocked through purchasing it at the Nook Stop. Alternatively, you can access Pro Designs from the kiosk of a dream island; the same happens when you unlock the kiosk the first time. While you can wear downloaded designs, however, you cannot edit or create them until you buy it at the Nook Stop.
+- **Friends:** Talk to Orville about playing with others.
+- **Island Designer:** Complete Project K and redeem the purchases from the Nook Stop (“Redeem Nook Miles”). Preset path permits cost 2000 <span class="icon-NM"></span>, the Custom Path permit costs 2,300 <span class="icon-NM"></span>, and the waterscaping and cliff-construction permits cost 6000 <span class="icon-NM"></span> each.
+- **Nook Shopping:** After purchasing 100 items from “Nook Shopping” in the Nook Stop, you will get a prompt that you unlocked the app. You can track your progress with the “Shop to it” Nook Miles achievement.
 
 ## Villager Plot Unlocks
 - **Villagers 1 and 2:** Create your island!
@@ -51,9 +43,9 @@ permalink: unlocks/
 |   Basement Addition   | 2,498,000 <span class="icon-Bells"></span> | • Basement (10x6 grid)<br>• 800 additional storage slots<br>• Free exterior renovations (once per day)                     |
 |    Storage Upgrade    |  500,000 <span class="icon-Bells"></span>  | • Additional 800 storage slots                                                                                             |
 
-**Notes:**
-- Paying off the previous fee unlocks each subsequent house upgrade.
-- Free exterior renovations are only unlocked after paying the final loan in full.
+{: .note}
+> - Paying off the previous fee unlocks each subsequent house upgrade.
+> - Free exterior renovations are only unlocked after paying the final loan in full.
 
 ## DIY Unlocks
 - **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
@@ -64,11 +56,11 @@ permalink: unlocks/
 - **Vaulting Pole:** Talk to Blathers for the first time.  
 - **Ladder:** Start the quest to furnish 3 houses — it should start after Nook’s Cranny is built.
 - **Slingshot:** Purchase from the cabinet at Nook's Cranny.
-- **Upgraded Tools:** To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must purchase the Better Tools recipe kit from the Nook Miles store after paying off your initial 5,000M loan.
+- **Upgraded Tools:** To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must purchase the Better Tools recipe kit from the Nook Miles store after paying off your initial 5,000 <span class="icon-NM"></span> loan.
 
-***Notes:***
- - *The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.*
- - *For players other than the Island Representative, the flimsy tools, Ladder and Vaulting Pole DIYs can be bought from Nook's Cranny.*
+{: .note}
+> - The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.
+> - For players other than the Island Representative, the flimsy tools, Ladder and Vaulting Pole DIYs can be bought from Nook's Cranny.
 
 
 ## Golden Tool Unlocks (Note: Spoilers!)
@@ -79,7 +71,8 @@ permalink: unlocks/
 - **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.
 - **Golden Slingshot:** Shoot 300 balloons. The DIY will be carried in a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.
 
-***Note:** Golden tools can still break, but have a considerably higher durability. Visit <https://cestislife.github.io/img/tools.png> for tool durability*
+{: .note}
+Golden tools can still break, but have a considerably higher durability. Visit <https://cestislife.github.io/img/tools.png> for tool durability.
 
 ## Misc Unlocks
 - **Nook Miles Redemption:** Pay off 5,000 <span class="icon-NM"></span> house debt. 
