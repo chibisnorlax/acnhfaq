@@ -43,7 +43,17 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
 * * *
 
 ## Bunny Day (Easter)
-Bunny Day starts on April 1st and ends on April 12th. If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. During the event, villagers will come up to you to teach you the Bunny Day crown and bag recipe. Egg-theme clothing such as, the stone egg hat and outfit, is self taught after you collect a certain amount of that kind of egg. When you learned all of them, you'll learn the egg party dress and hat. You can get the other recipes from Bunny Day message bottles and balloons. 
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>1<sup>st</sup> April - 12<sup>th</sup> April</dd>
+<dt>Time</dt>
+<dd>All Day</dd>
+<dt>Rewards</dt>
+<dd>Bunny Day Items and DIYs, Bunny Day Eggs</dd>
+</dl>
+</div>
+If it is the first time you’re doing this event, Zipper will come to your island and give you a Bunny Day bed recipe. During the event, villagers will come up to you to teach you the Bunny Day crown and bag recipe. Egg-theme clothing such as, the stone egg hat and outfit, is self taught after you collect a certain amount of that kind of egg. When you learned all of them, you'll learn the egg party dress and hat. You can get the other recipes from Bunny Day message bottles and balloons. 
  
 Different eggs are required to make the DIYs. There are six different types of eggs. They are the following:
 
@@ -59,6 +69,16 @@ Different eggs are required to make the DIYs. There are six different types of e
 On the last day of Bunny Day, Zipper will come to your island and give you the Bunny Day Arch recipe. If you crafted all of the Bunny Day recipes, talk to Zipper again to get the Wobbling Zipper Toy DIY. After you craft the toy, you can talk to Zipper to receive the Bunny Day Wand recipe. Zipper will also trade you one egg of any kind in exchange for three of the same one. If you have one of each type of egg, you can give them to Zipper to get a Bunny Day Basket. You can get as many baskets as you want.
 
 ## Nature Day (Earth Day)
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>23<sup>rd</sup> April - 4<sup>th</sup> May</dd>
+<dt>Time</dt>
+<dd>All Day</dd>
+<dt>Rewards</dt>
+<dd>Hedgy DIY</dd>
+</dl>
+</div>
 Nature Day starts on April 23rd and lasts until May 4th. During this time period, a Nature Day activity will replace one of your daily Nook Miles+ challenges.
 
 The Nature Day Nook Miles+ Achievements are:
@@ -79,15 +99,45 @@ The Nature Day Nook Miles+ Achievements are:
 If you talk to Tom Nook after completing one Nature Day activity, he will send the hedge DIY recipe to your Nook phone.
 
 ## May Day (Labour Day)
-From May 1st until May 7th, you will be able to go on the May Day tour after talking to Tom Nook. To participate in the tour, go to the airport and talk to Orville, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover to get the Rover’s briefcase item. You can also get up to nine Bell Vouchers (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>1<sup>st</sup> May - 7<sup>th</sup> May</dd>
+<dt>Time</dt>
+<dd>All Day</dd>
+<dt>Rewards</dt>
+<dd>Rover's Briefcase, Bell Vouchers</dd>
+</dl>
+</div>
+Talk to Tom Nook to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover to get the Rover’s briefcase item. You can also get up to nine Bell Vouchers (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
 
 For a guide on how to complete the maze and obtain all possible prizes, see [here](https://www.ign.com/wikis/animal-crossing-new-horizons/May_Day_-_How_to_Complete_Rover%27s_Maze#How_to_Get_a_May_Day_Ticket).
 
 ## International Museum Day
-From May 18th until May 31st, the museum will host a stamp rally everyday. The fossil, bug, and fish wings each will have three stamp stations in them. After you collect the three stamps from an exhibit, talk to Blathers to receive a plaque for that exhibit. The locations of stamp stations will change day to day, but you will get the same reward every time you complete the card.
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>18<sup>th</sup> May - 31<sup>st</sup> May</dd>
+<dt>Time</dt>
+<dd>All Day</dd>
+<dt>Rewards</dt>
+<dd>Bug Plaque, Fish Plaque, Fossil Plaque</dd>
+</dl>
+</div>
+The museum will host a stamp rally everyday during this period. The fossil, bug, and fish wings each will have three stamp stations in them. After you collect the three stamps from an exhibit, talk to Blathers to receive a plaque for that exhibit. The locations of stamp stations will change day to day, but you will get the same reward every time you complete the card.
 
 ## Wedding Season
-If you visit Harvey’s island from June 1st to June 30th, Reese and Cyrus will be there to ask for your help with their wedding anniversary photos. There is one photoshoot opportunity per day. Photo shoots will unlock more wedding items. The heart crystals you receive from Reece can be used to redeem the wedding items you’ve unlocked from Cyrus. You'll get Reese & Cyrus photo plate after the 6th visit. You also unlock special wedding DIYs on the 7th photoshoot from Cyrus and Harv. 
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>1<sup>st</sup> June - 30<sup>th</sup> June</dd>
+<dt>Time</dt>
+<dd>All Day</dd>
+<dt>Rewards</dt>
+<dd>Heart Crystals, Wedding furniture, Wedding Fence DIY, Wedding Wand DIY</dd>
+</dl>
+</div>
+If you visit Harvey’s island during this period, Reese and Cyrus will be there to ask for your help with their wedding anniversary photos. There is one photoshoot opportunity per day. Photo shoots will unlock more wedding items. The heart crystals you receive from Reece can be used to redeem the wedding items you’ve unlocked from Cyrus. You'll get Reese & Cyrus photo plate after the 6th visit. You also unlock special wedding DIYs on the 7th photoshoot from Cyrus and Harv. 
 
 You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each shoot after. You can always time travel back to complete the shoot or farm heart crystals. 
 
@@ -101,7 +151,7 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 <dt>Time</dt>
 <dd>7:00 PM - 12:00 AM</dd>
 <dt>Rewards</dt>
-<dd>Boppers, Redd's Raffle items.</dd>
+<dd>Boppers, Redd's Raffle items</dd>
 </dl>
 </div>
 During the event, [Redd](/acnhfaq/npc#Redd), who has set up a raffle in the Resident Services plaza. Participating in this raffle will earn you firework items. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences during this event.
@@ -118,7 +168,7 @@ For more detailed info on raffle rewards, visit <https://yuexr.github.io/img/han
 <dt>Time</dt>
 <dd>5:00 PM - 12:00 AM</dd>
 <dt>Rewards</dt>
-<dd>Scare and Haunt reactions, Lollipops, Spooky furniture and their DIYs (garland, table setting, carriage, wand), Jack's Face, Jack's Robe</dd>
+<dd>Scare and Haunt reactions, Lollipops, Spooky items and their DIYs (garland, table setting, carriage, wand), Jack's Face, Jack's Robe</dd>
 </dl>
 </div>
 The "Czar of Halloween", Jack, will pay a visit to your island. Jack will give you his outfit in exchange for candies. If you give him lollipops, he’ll give you the Spooky Carriage and Spooky Wand recipe. You can also give candy to villagers that are outside to get furniture and recipes from the Spooky set and lollipops. Villagers will teach you the `Scare` reaction after you give them a piece of candy and likewise, Jack will teach you the `Haunt` reaction. 
@@ -128,12 +178,32 @@ If you don’t have candy when a villager comes up to you, they will give three 
 For more detailed info, visit <https://cestislife.github.io/halloween>.
 
 ## Turkey Day (Thanksgiving)
-Turkey day happens on November 26th from 9:00 AM to 12:00 AM. As long as the player has an [upgraded Resident Services building](/acnhfaq/unlocking-things#building-unlocks), Franklin will visit to host the event. In exchange for ingredients Franklin needs for his dishes, he will reward you with items and a DIY pack.
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>26<sup>th</sup> November</dd>
+<dt>Time</dt>
+<dd>9:00 AM - 12:00 AM</dd>
+<dt>Rewards</dt>
+<dd>Turkey Day items (and their DIYs), Cornucopia</dd>
+</dl>
+</div>
+In exchange for ingredients Franklin needs for his dishes, he will reward you with Turkey Day items, especially the exclusive Cornucopia. He will also award you wiht the Cozy Turkey Day DIY pack containing all 8 Turkey Day furniture DIYs if you manage to source the secret ingredients for all of his dishes!
 
 For more detailed info, visit <https://cestislife.github.io/turkeyday>.
 
 ## Toy Day (Christmas)
-Toy Day happens on December 24th and requires game version `1.6.0c`. During Toy Day, you will be tasked to deliver presents by Jingle. Craft 3 festive wrapping paper for him, and he will give you a magic bag to deliver presents to all your villagers. He will also give you a Toy Day stockings to hang up. Hang these up, then check them the next day to receive Jingle's photo.
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>24<sup>th</sup> December</dd>
+<dt>Time</dt>
+<dd>All Day</dd>
+<dt>Rewards</dt>
+<dd>Toys, Festive Wrapping Paper DIY, Gift Pile DIY, Toy Day Stockings, Toy Day Sleigh, Jingle's Photo</dd>
+</dl>
+</div>
+During Toy Day, you will be tasked to deliver presents by Jingle. Craft 3 festive wrapping paper for him, and he will give you a magic bag to deliver presents to all your villagers. He will also give you a Toy Day stockings to hang up. Hang these up, then check them the next day to receive Jingle's photo.
 
 If you manage to deliver half of the presents, he will present you with the gift pile DIY, and if you manage to deliver all of the presents, he will gift you with the Toy Day sleigh furniture item.
 
@@ -145,6 +215,16 @@ Some other notes:
 For more detailed info, visit <https://cestislife.github.io/toyday>.
 
 ## Countdown (New Year)
+<div class="code-example">
+<dl>
+<dt>Date</dt>
+<dd>31<sup>st</sup> December</dd>
+<dt>Time</dt>
+<dd>All Day</dd>
+<dt>Rewards</dt>
+<dd>Light stick, New Year's hats</dd>
+</dl>
+</div>
 The countdown happens on New Year’s Eve. Isabelle will be outside of Resident Services, and will hand out a light stick if you talk to her. Tom Nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. To obtain other variants of the hats, you will need to trade with other players. As the year draws to a close, villagers will gather in the plaza to countdown to the New Year. At midnight, the year ends with a fireworks display.  
 
 Note that you will be unable to access Resident Services on this day.
