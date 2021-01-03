@@ -18,12 +18,12 @@ permalink: unlocks/
 
 ## Villager Plot Unlocks
 
-|    Villager Count     | Unlock Criteria                                                       |
-|-----------------------|-----------------------------------------------------------------------|
-| **Villagers 1 and 2** | Create your island!                                                   |
-|   **Villagers 3-5**   | Unlock the Museum Tent, build Nook’s Cranny, build your first bridge. |
-|    **Villager 6**     | Unlock and build the Campsite.                                        |
-|  **Villagers 7-10**   | Speak to Tom Nook about purchasing land.                              |
+| Plot Number | Unlock Criteria                                                       |
+|-------------|-----------------------------------------------------------------------|
+| **1 and 2** | Create your island!                                                   |
+| **3 to 5**  | Unlock the Museum Tent, build Nook’s Cranny, build your first bridge. |
+| **6**       | Unlock and build the Campsite.                                        |
+| **7 to 10** | Speak to Tom Nook about purchasing land.                              |
 
 ## Building Unlocks
 
@@ -32,25 +32,25 @@ permalink: unlocks/
 |**Museum Tent**| Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.|
 |**Museum**| Donate 15 bugs, fishes, or fossils to Blathers.|
 |**Museum Art Wing**| Total 60 donations to Blathers (40 on top of the 20 donated to unlock the previous two stages).|
-|**Nook’s Cranny, stage 1**| Pay off your Nook Miles debt and upgrade your tent into a house.|
-|**Nook’s Cranny, stage 2**| It must have been 30 days since Nook’s Cranny was built. You must have made 200,000 <span class="icon-Bells"></span> worth of transactions (buying and/or selling) at the shop, and Mabel must have visited! Once all three requirements are fulfilled, the upgrade is unlocked.|
+|**Nook’s Cranny <br>(Stage 1)**| Pay off your Nook Miles debt and upgrade your tent into a house.|
+|**Nook’s Cranny <br>(Stage 2)**| It must have been 30 days since Nook’s Cranny was built. You must have made 200,000 <span class="icon-Bells"></span> worth of transactions (buying and/or selling) at the shop, and Mabel must have visited! Once all three requirements are fulfilled, the upgrade is unlocked.|
 |**Able Sisters**| Buy at least one item from Mabel’s stand in front of Residents Services on three different visits.| 
 |**Resident Services Building**| Pay your Nook Miles debt, give 5 critters to Tom Nook, build Nook’s Cranny, build a bridge, and complete the three villager houses mission.|
 |**Campsite**| Upgrade Resident Services into a building and talk to Tom Nook, who will have you craft and place the Campground Construction Kit.|
 
 ## House Unlocks
 
-|        Upgrade        |                    Fee                     | Unlocks                                                                                                                    |
-|:---------------------:|:------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------|
-| Moving To The Island  |    5,000 <span class="icon-NM"></span>     | • A tent and a mailbox                                                                                                     |
-| Tent-to-house upgrade |  98,000 <span class="icon-Bells"></span>   | • 80 storage slots                                                                                                         |
-|  House size upgrade   |  198,000 <span class="icon-Bells"></span>  | • 8x8 grid<br>• 40 additional storage slots                                                                                |
-|  Back Room Addition   |  348,000 <span class="icon-Bells"></span>  | • Back Room (6x6 grid)<br>• 120 additional storage slots                                                                   |
-|  Left Room Addition   |  548,000 <span class="icon-Bells"></span>  | • Left Room (6x6 grid)<br>• 120 additional storage slots<br>• Mailbox and roof customizations<br>• Ability to move mailbox |
-|  Right Room Addition  |  758,000 <span class="icon-Bells"></span>  | • Right Room (6x6 grid)<br>• 40 additional storage slots<br>• Door customization                                           |
-| Second Floor Addition | 1,248,000 <span class="icon-Bells"></span> | • Second Floor (10x6 grid)<br>• 400 additional storage slots<br>• Home siding customization                                |
-|   Basement Addition   | 2,498,000 <span class="icon-Bells"></span> | • Basement (10x6 grid)<br>• 800 additional storage slots<br>• Free exterior renovations (once per day)                     |
-|    Storage Upgrade    |  500,000 <span class="icon-Bells"></span>  | • Additional 800 storage slots                                                                                             |
+|          Upgrade          |                    Fee                     | Unlocks                                                                                                                    |
+|:-------------------------:|:------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------|
+| **Moving To The Island**  |    5,000 <span class="icon-NM"></span>     | • A tent and a mailbox                                                                                                     |
+| **Tent-to-house upgrade** |  98,000 <span class="icon-Bells"></span>   | • 80 storage slots                                                                                                         |
+|  **House size upgrade**   |  198,000 <span class="icon-Bells"></span>  | • 8x8 grid<br>• 40 additional storage slots                                                                                |
+|  **Back Room Addition**   |  348,000 <span class="icon-Bells"></span>  | • Back Room (6x6 grid)<br>• 120 additional storage slots                                                                   |
+|  **Left Room Addition**   |  548,000 <span class="icon-Bells"></span>  | • Left Room (6x6 grid)<br>• 120 additional storage slots<br>• Mailbox and roof customizations<br>• Ability to move mailbox |
+|  **Right Room Addition**  |  758,000 <span class="icon-Bells"></span>  | • Right Room (6x6 grid)<br>• 40 additional storage slots<br>• Door customization                                           |
+| **Second Floor Addition** | 1,248,000 <span class="icon-Bells"></span> | • Second Floor (10x6 grid)<br>• 400 additional storage slots<br>• Home siding customization                                |
+|   **Basement Addition**   | 2,498,000 <span class="icon-Bells"></span> | • Basement (10x6 grid)<br>• 800 additional storage slots<br>• Free exterior renovations (once per day)                     |
+|    **Storage Upgrade**    |  500,000 <span class="icon-Bells"></span>  | • Additional 800 storage slots                                                                                             |
 
 {: .note}
 > - Paying off the previous fee unlocks each subsequent house upgrade.
@@ -93,7 +93,7 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 
 |Item|Unlock Criteria|
 |---|-|
-|**Nook Miles Redemption**| - Pay off 5,000 <span class="icon-NM"></span> house debt.</br> - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection.|
+|**Nook Miles Redemption**| • Pay off 5,000 <span class="icon-NM"></span> house debt.<br> • Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection.|
 |**Nook Miles+**| Upgrade your tent into a house by selecting the `About my home…` option when talking to Tom Nook.|
 |**Dodo Airport**| Day 2 of playing the game once you sync into real time.|
 |**Bedhead Hair**| Do not log in for a month — time travel is a great way to do this.|
