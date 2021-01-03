@@ -18,22 +18,25 @@ permalink: unlocks/
 
 ## Villager Plot Unlocks
 
-|Villager Count|Criteria|
-|:-:|-|
-|**Villagers 1 and 2**| Create your island!|
-|**Villagers 3-5**| Unlock the Museum Tent, build Nook’s Cranny, build your first bridge.|
-|**Villager 6**| Unlock and build the Campsite.|
-|**Villagers 7-10**| Speak to Tom Nook about purchasing land.|
+|    Villager Count     | Unlock Criteria                                                       |
+|:---------------------:|-----------------------------------------------------------------------|
+| **Villagers 1 and 2** | Create your island!                                                   |
+|   **Villagers 3-5**   | Unlock the Museum Tent, build Nook’s Cranny, build your first bridge. |
+|    **Villager 6**     | Unlock and build the Campsite.                                        |
+|  **Villagers 7-10**   | Speak to Tom Nook about purchasing land.                              |
 
 ## Building Unlocks
-- **Museum Tent:** Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.
-- **Museum:** Donate 15 bugs, fishes, or fossils to Blathers.
-- **Museum Art Wing:** Total 60 donations to Blathers (40 on top of the 20 donated to unlock the previous two stages). 
-- **Nook’s Cranny, stage 1:** Pay off your Nook Miles debt and upgrade your tent into a house.
-- **Nook’s Cranny, stage 2:** It must have been 30 days since Nook’s Cranny was built. You must have made 200,000 <span class="icon-Bells"></span> worth of transactions (buying and/or selling) at the shop, and Mabel must have visited! Once all three requirements are fulfilled, the upgrade is unlocked.
-- **Able Sisters:** Buy at least one item from Mabel’s stand in front of Residents Services on three different visits. 
-- **Resident Services Building:** Pay your Nook Miles debt, give 5 critters to Tom Nook, build Nook’s Cranny, build a bridge, and complete the three villager houses mission.
-- **Campsite:** Upgrade Resident Services into a building and talk to Tom Nook, who will have you craft and place the Campground Construction Kit.
+
+|Building|Unlock Criteria|
+|:-:|-|
+|**Museum Tent**| Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.|
+|**Museum**| Donate 15 bugs, fishes, or fossils to Blathers.|
+|**Museum Art Wing**| Total 60 donations to Blathers (40 on top of the 20 donated to unlock the previous two stages).|
+|**Nook’s Cranny, stage 1**| Pay off your Nook Miles debt and upgrade your tent into a house.|
+|**Nook’s Cranny, stage 2**| It must have been 30 days since Nook’s Cranny was built. You must have made 200,000 <span class="icon-Bells"></span> worth of transactions (buying and/or selling) at the shop, and Mabel must have visited! Once all three requirements are fulfilled, the upgrade is unlocked.|
+|**Able Sisters**| Buy at least one item from Mabel’s stand in front of Residents Services on three different visits.| 
+|**Resident Services Building**| Pay your Nook Miles debt, give 5 critters to Tom Nook, build Nook’s Cranny, build a bridge, and complete the three villager houses mission.|
+|**Campsite**| Upgrade Resident Services into a building and talk to Tom Nook, who will have you craft and place the Campground Construction Kit.|
 
 ## House Unlocks
 
@@ -54,15 +57,18 @@ permalink: unlocks/
 > - Free exterior renovations are only unlocked after paying the final loan in full.
 
 ## DIY Unlocks
-- **Flimsy Fishing Rod:** Talk to Tom Nook about the DIY workshop and participate in it. 
-- **Flimsy Net:** Finish DIY workshop.
-- **Flimsy Axe:** Donate 2 creatures to Tom Nook (“I found a creature!”).
-- **Flimsy Watering Can:** Donate 2 more creatures to Tom Nook for a total of 4.
-- **Flimsy Shovel:** Talk to Blathers for the first time. 
-- **Vaulting Pole:** Talk to Blathers for the first time.  
-- **Ladder:** Start the quest to furnish 3 houses — it should start after Nook’s Cranny is built.
-- **Slingshot:** Purchase from the cabinet at Nook's Cranny.
-- **Upgraded Tools:** To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must purchase the Better Tools recipe kit from the Nook Miles store after paying off your initial 5,000 <span class="icon-NM"></span> loan.
+
+|DIY|Unlock Criteria|
+|:-:|-|
+|**Flimsy Fishing Rod**| Talk to Tom Nook about the DIY workshop and participate in it.|
+|**Flimsy Net**| Finish DIY workshop.|
+|**Flimsy Axe**| Donate 2 creatures to Tom Nook (“I found a creature!”).|
+|**Flimsy Watering Can**| Donate 2 more creatures to Tom Nook for a total of 4.|
+|**Flimsy Shovel**| Talk to Blathers for the first time.|
+|**Vaulting Pole**| Talk to Blathers for the first time.|
+|**Ladder**| Start the quest to furnish 3 houses — it should start after Nook’s Cranny is built.|
+|**Slingshot**| Purchase from the cabinet at Nook's Cranny.|
+|**Upgraded Tools**| To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must purchase the Better Tools recipe kit from the Nook Miles store after paying off your initial 5,000 <span class="icon-NM"></span> loan.|
 
 {: .note}
 > - The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.
@@ -70,20 +76,26 @@ permalink: unlocks/
 
 
 ## Golden Tool Unlocks (Note: Spoilers!)
-- **Golden Axe:** Break 100 axes. Your character will be struck by inspiration and learn the DIY by themselves.
-- **Golden Shovel:** Help Gulliver 30 times (Gullivarrr does not count towards this). Gulliver will mail you the DIY the next day instead of the usual reward.
-- **Golden Net:** Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.
-- **Golden Rod:** Complete the fish portion of the Critterpedia. The DIY will be mailed the next day by the museum.
-- **Golden Watering Can:** Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.
-- **Golden Slingshot:** Shoot 300 balloons. The DIY will be carried in a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.
+
+|Golden DIY|Unlock Criteria|
+|:-:|-|
+|**Golden Axe**| Break 100 axes. Your character will be struck by inspiration and learn the DIY by themselves.|
+|**Golden Shovel**| Help Gulliver 30 times (Gullivarrr does not count towards this). Gulliver will mail you the DIY the next day instead of the usual reward.|
+|**Golden Net**| Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.|
+|**Golden Rod**| Complete the fish portion of the Critterpedia. The DIY will be mailed the next day by the museum.|
+|**Golden Watering Can**| Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.|
+|**Golden Slingshot**| Shoot 300 balloons. The DIY will be carried in a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.|
 
 {: .note}
 Golden tools can still break, but have a considerably higher durability. Visit <https://cestislife.github.io/img/tools.png> for tool durability.
 
 ## Misc Unlocks
-- **Nook Miles Redemption:** Pay off 5,000 <span class="icon-NM"></span> house debt. 
-  - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection.
-- **Nook Miles+:** Upgrade your tent into a house by selecting the `About my home…` option when talking to Tom Nook.
-- **Dodo Airport:** Day 2 of playing the game once you sync into real time. 
-- **Bedhead Hair:** Do not log in for a month — time travel is a great way to do this.
-- **Project K:** To unlock this quest line, upgrade Resident Services to a building and have 6 villagers moved in and settled. 
+
+|Item|Unlock Criteria|
+|:-:|-|
+|**Nook Miles Redemption**| Pay off 5,000 <span class="icon-NM"></span> house debt.</br>
+  - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection.|
+|**Nook Miles+**| Upgrade your tent into a house by selecting the `About my home…` option when talking to Tom Nook.|
+|**Dodo Airport**| Day 2 of playing the game once you sync into real time.|
+|**Bedhead Hair**| Do not log in for a month — time travel is a great way to do this.|
+|**Project K**| To unlock this quest line, upgrade Resident Services to a building and have 6 villagers moved in and settled.|
