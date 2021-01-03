@@ -6,18 +6,24 @@ permalink: unlocks/
 
 # Unlocking Things
 ## Nook Phone Unlocks
-- **DIY:** Complete Tom Nook’s DIY workshop.
-- **Critterpedia:** Donate a critter to Tom Nook.
-- **Pro Custom Designs:** While the Custom Designs app is available from the start, the Pro Designs can be unlocked through purchasing it at the Nook Stop. Alternatively, you can access Pro Designs from the kiosk of a dream island; the same happens when you unlock the kiosk the first time. While you can wear downloaded designs, however, you cannot edit or create them until you buy it at the Nook Stop.
-- **Friends:** Talk to Orville about playing with others.
-- **Island Designer:** Complete Project K and redeem the purchases from the Nook Stop (“Redeem Nook Miles”). Preset path permits cost 2000 <span class="icon-NM"></span>, the Custom Path permit costs 2,300 <span class="icon-NM"></span>, and the waterscaping and cliff-construction permits cost 6000 <span class="icon-NM"></span> each.
-- **Nook Shopping:** After purchasing 100 items from “Nook Shopping” in the Nook Stop, you will get a prompt that you unlocked the app. You can track your progress with the “Shop to it” Nook Miles achievement.
+
+|          Item          | Unlock Criteria                                                                                                                                                                                                                                                                                                                                                                            |
+|:----------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        **DIY**         | Complete Tom Nook’s DIY workshop.                                                                                                                                                                                                                                                                                                                                                          |
+|    **Critterpedia**    | Donate a critter to Tom Nook.                                                                                                                                                                                                                                                                                                                                                              |
+| **Pro Custom Designs** | While the Custom Designs app is available from the start, the Pro Designs can be unlocked through purchasing it at the Nook Stop. Alternatively, you can access Pro Designs from the kiosk of a dream island; the same happens when you unlock the kiosk the first time. While you can wear downloaded designs, however, you cannot edit or create them until you buy it at the Nook Stop. |
+|      **Friends**       | Talk to Orville about playing with others.                                                                                                                                                                                                                                                                                                                                                 |
+|  **Island Designer**   | Complete Project K and redeem the purchases from the Nook Stop (“Redeem Nook Miles”). Preset path permits cost 2000 <span class="icon-NM"></span>, the Custom Path permit costs 2,300 <span class="icon-NM"></span>, and the waterscaping and cliff-construction permits cost 6000 <span class="icon-NM"></span> each.                                                                     |
+|   **Nook Shopping**    | After purchasing 100 items from “Nook Shopping” in the Nook Stop, you will get a prompt that you unlocked the app. You can track your progress with the “Shop to it” Nook Miles achievement.                                                                                                                                                                                               |
 
 ## Villager Plot Unlocks
-- **Villagers 1 and 2:** Create your island!
-- **Villagers 3-5:** Unlock the Museum Tent, build Nook’s Cranny, build your first bridge.
-- **Villager 6:** Unlock and build the Campsite.
-- **Villagers 7-10:** Speak to Tom Nook about purchasing land.
+
+|Villager Count|Criteria|
+|:-:|-|
+|**Villagers 1 and 2**| Create your island!|
+|**Villagers 3-5**| Unlock the Museum Tent, build Nook’s Cranny, build your first bridge.|
+|**Villager 6**| Unlock and build the Campsite.|
+|**Villagers 7-10**| Speak to Tom Nook about purchasing land.|
 
 ## Building Unlocks
 - **Museum Tent:** Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.
