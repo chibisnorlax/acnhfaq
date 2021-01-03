@@ -8,7 +8,7 @@ permalink: unlocks/
 ## Nook Phone Unlocks
 
 |          Item          | Unlock Criteria                                                                                                                                                                                                                                                                                                                                                                            |
-|:----------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        **DIY**         | Complete Tom Nook’s DIY workshop.                                                                                                                                                                                                                                                                                                                                                          |
 |    **Critterpedia**    | Donate a critter to Tom Nook.                                                                                                                                                                                                                                                                                                                                                              |
 | **Pro Custom Designs** | While the Custom Designs app is available from the start, the Pro Designs can be unlocked through purchasing it at the Nook Stop. Alternatively, you can access Pro Designs from the kiosk of a dream island; the same happens when you unlock the kiosk the first time. While you can wear downloaded designs, however, you cannot edit or create them until you buy it at the Nook Stop. |
@@ -19,7 +19,7 @@ permalink: unlocks/
 ## Villager Plot Unlocks
 
 |    Villager Count     | Unlock Criteria                                                       |
-|:---------------------:|-----------------------------------------------------------------------|
+|-----------------------|-----------------------------------------------------------------------|
 | **Villagers 1 and 2** | Create your island!                                                   |
 |   **Villagers 3-5**   | Unlock the Museum Tent, build Nook’s Cranny, build your first bridge. |
 |    **Villager 6**     | Unlock and build the Campsite.                                        |
@@ -28,7 +28,7 @@ permalink: unlocks/
 ## Building Unlocks
 
 |Building|Unlock Criteria|
-|:-:|-|
+|---|-|
 |**Museum Tent**| Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.|
 |**Museum**| Donate 15 bugs, fishes, or fossils to Blathers.|
 |**Museum Art Wing**| Total 60 donations to Blathers (40 on top of the 20 donated to unlock the previous two stages).|
@@ -59,7 +59,7 @@ permalink: unlocks/
 ## DIY Unlocks
 
 |DIY|Unlock Criteria|
-|:-:|-|
+|---|-|
 |**Flimsy Fishing Rod**| Talk to Tom Nook about the DIY workshop and participate in it.|
 |**Flimsy Net**| Finish DIY workshop.|
 |**Flimsy Axe**| Donate 2 creatures to Tom Nook (“I found a creature!”).|
@@ -78,7 +78,7 @@ permalink: unlocks/
 ## Golden Tool Unlocks (Note: Spoilers!)
 
 |Golden DIY|Unlock Criteria|
-|:-:|-|
+|---|-|
 |**Golden Axe**| Break 100 axes. Your character will be struck by inspiration and learn the DIY by themselves.|
 |**Golden Shovel**| Help Gulliver 30 times (Gullivarrr does not count towards this). Gulliver will mail you the DIY the next day instead of the usual reward.|
 |**Golden Net**| Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.|
@@ -92,9 +92,8 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 ## Misc Unlocks
 
 |Item|Unlock Criteria|
-|:-:|-|
-|**Nook Miles Redemption**| Pay off 5,000 <span class="icon-NM"></span> house debt.</br>
-  - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection.|
+|---|-|
+|**Nook Miles Redemption**| - Pay off 5,000 <span class="icon-NM"></span> house debt.</br> - Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection.|
 |**Nook Miles+**| Upgrade your tent into a house by selecting the `About my home…` option when talking to Tom Nook.|
 |**Dodo Airport**| Day 2 of playing the game once you sync into real time.|
 |**Bedhead Hair**| Do not log in for a month — time travel is a great way to do this.|
