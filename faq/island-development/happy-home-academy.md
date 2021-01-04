@@ -2,8 +2,8 @@
 layout: default
 title: Happy Home Academy
 nav_order: 2
-parent: Island Life
-permalink: island-life/hha/
+parent: Island Development
+permalink: island-dev/hha/
 ---
 # Happy Home Academy
 ## What is HHA and what do they do?
