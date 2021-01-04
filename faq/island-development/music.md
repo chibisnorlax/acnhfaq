@@ -74,7 +74,7 @@ Table below shows all K.K. songs and their corresponding moods:
 | -                | -                  | -               | -                 | Soulful K.K.     |
 | -                | -                  | -               | -                 | Wandering        |
 
-There are also an additional **8 songs** not included in the above list, denoted below and how to obtain:
+There are also an additional **5 songs** not included in the above list, denoted below and how to obtain:
 
 | Song Name        | How to Obtain                                                           |
 |------------------|-------------------------------------------------------------------------|
@@ -85,7 +85,10 @@ There are also an additional **8 songs** not included in the above list, denoted
 | Welcome Horizons | Obtained after player's very first concert.                             |
 
 ### Can I request multiple tracks from K.K. on a single day?
-No, you are only able to take home one track per K.K. concert. 
+No, you are only able to take home one track per K.K. concert.
+
+### Can I obtain K.K. tracks from another island's concert?
+Yes, you are also able to obtain K.K. tracks from other islands.
 
 ### Can I catalogue the K.K. songs?
 Yes, you can, with the exception being the `Welcome Horizons` track. These are one per player only. 
