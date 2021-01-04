@@ -18,7 +18,7 @@ Time travelling to these events will not be possible, unless of course the actua
 
 ## When is X event/season?
 {: .no_toc }
-Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items.
+Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items. Spreadsheet courtesy of `capstone#3473`.
 
 * * *
 ## Table of contents
