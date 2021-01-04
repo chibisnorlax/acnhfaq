@@ -43,7 +43,7 @@ There are several types of music players, and they have their own speaker type w
 |   Pro tape recorder    | Retro | Miscellaneous |
 
 ### How do I put music in the music players?
-You would need a [K.K.](/acnhfaq/npc#k.k.slider) Track to be able to put music in your music players. Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". The table below denotes the various moods you can choose and the songs that he can play by choosing that mood. 
+You would need a [K.K.](/acnhfaq/npc#kk-slider) Track to be able to put music in your music players. Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". The table below denotes the various moods you can choose and the songs that he can play by choosing that mood. 
 
 {: .note}
 It is important to key in the exact name of the song you are requesting, down to the correct capitalisation and spaces. Failure to do so, or requesting a non-existant track will prompt K.K. to play the invalid songs (Hazure 01, 02 or 03) which do not have a take-home track.
