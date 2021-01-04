@@ -46,7 +46,7 @@ There are several types of music players, and they have their own speaker type w
 You would need a [K.K.](/acnhfaq/npc#kk-slider) Track to be able to put music in your music players. Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". The table below denotes the various moods you can choose and the songs that he can play by choosing that mood. 
 
 {: .note}
-It is important to key in the exact name of the song you are requesting, down to the correct capitalisation and spaces. Failure to do so, or requesting a non-existant track will prompt K.K. to play the invalid songs (Hazure 01, 02 or 03) which do not have a take-home track.
+It is important to key in the exact name of the song you are requesting, down to the correct capitalisation and spaces. Failure to do so, or requesting a non-existant track will prompt K.K. to play the invalid songs (`Hazure01`, `Hazure02` or `Hazure03`) which do not have a take-home track.
 
 Table below shows all K.K. songs and their corresponding moods:
 
@@ -86,9 +86,6 @@ There are also an additional **5 songs** not included in the above list, denoted
 
 ### Can I request multiple tracks from K.K. on a single day?
 No, you are only able to take home one track per K.K. concert.
-
-### Can I obtain K.K. tracks from another island's concert?
-Yes, you are also able to obtain K.K. tracks from other islands.
 
 ### Can I catalogue the K.K. songs?
 Yes, you can, with the exception being the `Welcome Horizons` track. These are one per player only. 
