@@ -85,7 +85,7 @@ There are also an additional **5 songs** not included in the above list, denoted
 | Welcome Horizons | Obtained after player's very first concert.                             |
 
 ### Can I request multiple tracks from K.K. on a single day?
-No, you are only able to take home one track per K.K. concert.
+No, you are only able to take home one track per K.K. concert, per day.
 
 ### Can I catalogue the K.K. songs?
 Yes, you can, with the exception being the `Welcome Horizons` track. These are one per player only. 
