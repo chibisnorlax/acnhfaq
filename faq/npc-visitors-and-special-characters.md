@@ -67,7 +67,7 @@ permalink: npc/
 - Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead.
 - Special visit for player birthdays.
 - Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. 
-- Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". All K.K. songs and their corresponding moods can be found [here](/acnhfaq/island-dev/music#how-do-i-put-music-in-the-music-players?).
+- Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". All K.K. songs and their corresponding moods can be found [here](/acnhfaq/island-dev/music#how-do-i-put-music-in-the-music-players).
 
 ## Saharah
 - Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.
