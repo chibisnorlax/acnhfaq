@@ -1,7 +1,4 @@
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker
-        .register(`sw.js`)
-        .then(function () {
-            console.log("Service Worker Registered");
-        });
-}
+import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+const el = document.createElement('pwa-update');
+document.body.appendChild(el);
