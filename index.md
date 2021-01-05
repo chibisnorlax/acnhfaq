@@ -15,22 +15,7 @@ permalink: /
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="ACNH: FAQ"/>
     <meta name="twitter:image" content="https://chibisnorlax.github.io/acnhfaq/assets/logo_sq.png"/>
-    <script>
-        if ("serviceWorker" in navigator) {
-            if (navigator.serviceWorker.controller) {
-                console.log("An active service worker found, no need to register");
-            } else {
-                // Register the service worker
-                navigator.serviceWorker
-                .register("{{ site.baseurl }}/serviceworker.js", {
-                    scope: "./"
-                })
-                .then(function (reg) {
-                    console.log("Service worker has been registered for scope: " + reg.scope);
-                });
-            }
-        }
-    </script>
+    <script src="assets/serviceloader.js"></script>
 </head>
 
 # ![Frequently Asked Questions](/assets/logo.png)
