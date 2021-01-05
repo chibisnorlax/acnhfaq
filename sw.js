@@ -14,6 +14,11 @@ if (workbox) {
   );
 
   workbox.routing.registerRoute(
+    new RegExp('manifest.json'),
+    workbox.strategies.networkFirst()
+  );
+
+  workbox.routing.registerRoute(
     /.*\.html/,
     workbox.strategies.networkFirst()
   );
