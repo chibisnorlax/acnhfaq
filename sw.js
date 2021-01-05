@@ -2,13 +2,13 @@ let cacheName = "acnhfaq";
 
 let filesToCache = [
   "/acnhfaq/",
-  "service-worker.js",
-  "assets/js/just-the-docs.js",
-  "assets/js/vendor/lunr.min.js",
-  "assets/fonts/font.css",
-  "assets/css/just-the-docs-custom.css",
-  "assets/logo.png",
-  "manifest.json"
+  "/acnhfaq/service-worker.js",
+  "/acnhfaq/assets/js/just-the-docs.js",
+  "/acnhfaq/assets/js/vendor/lunr.min.js",
+  "/acnhfaq/assets/fonts/font.css",
+  "/acnhfaq/assets/css/just-the-docs-custom.css",
+  "/acnhfaq/assets/logo.png",
+  "/acnhfaq/manifest.json"
 ];
 
 self.addEventListener("install", function (event) {
