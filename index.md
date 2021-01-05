@@ -10,10 +10,27 @@ permalink: /
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon.ico">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon.ico">
     <link rel="shortcut icon" href="assets/favicon.ico">
+    <link rel="manifest" href="manifest.json">
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="ACNH: FAQ"/>
     <meta name="twitter:image" content="https://chibisnorlax.github.io/acnhfaq/assets/logo_sq.png"/>
+    <script>
+        if ("serviceWorker" in navigator) {
+            if (navigator.serviceWorker.controller) {
+                console.log("An active service worker found, no need to register");
+            } else {
+                // Register the service worker
+                navigator.serviceWorker
+                .register("{{ site.baseurl }}/serviceworker.js", {
+                    scope: "./"
+                })
+                .then(function (reg) {
+                    console.log("Service worker has been registered for scope: " + reg.scope);
+                });
+            }
+        }
+    </script>
 </head>
 
 # ![Frequently Asked Questions](/assets/logo.png)
