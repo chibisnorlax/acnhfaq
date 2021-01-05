@@ -1,59 +1,51 @@
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js');
+let cacheName = "acnhfaq";
 
-if (workbox) {
-  console.log(`Loaded workbox`);
-  
-  workbox.routing.registerRoute(
-    new RegExp('.*\.js'),
-    workbox.strategies.networkFirst()
-  );
+let filesToCache = [
+  "/acnhfaq/",
+  "service-worker.js",
+  "assets/js/just-the-docs.js",
+  "assets/js/vendor/lunr.min.js",
+  "assets/fonts/font.css",
+  "assets/css/just-the-docs-custom.css",
+  "assets/logo.png",
+  "manifest.json"
+];
 
-  workbox.routing.registerRoute(
-    new RegExp('sw.js'),
-    workbox.strategies.networkFirst()
-  );
+self.addEventListener("install", function (event) {
+  event.waitUntil(caches.open(cacheName).then((cache) => {
+    console.log('installed successfully')
+    return cache.addAll(filesToCache);
+  }));
+});
 
-  workbox.routing.registerRoute(
-    new RegExp('manifest.json'),
-    workbox.strategies.networkFirst()
-  );
+self.addEventListener('fetch', function (event) {
 
-  workbox.routing.registerRoute(
-    /.*\.html/,
-    workbox.strategies.networkFirst()
-  );
+  if (event.request.url.includes('clean-cache')) {
+    caches.delete(cacheName);
+    console.log('Cache cleared')
+  }
 
-  workbox.routing.registerRoute(
-    new RegExp('/'),
-    workbox.strategies.networkFirst()
+  event.respondWith(caches.match(event.request).then(function (response) {
+    if (response) {
+      console.log('served form cache')
+    } else {
+      console.log('Not serving from cache ', event.request.url)
+    }
+    return response || fetch(event.request);
+  })
   );
-  workbox.routing.registerRoute(
-    // Cache CSS files
-    /.*\.css/,
-    // Use cache but update in the background ASAP
-    workbox.strategies.staleWhileRevalidate({
-      // Use a custom cache name
-      cacheName: 'css-cache',
+});
+
+self.addEventListener('activate', function (e) {
+  e.waitUntil(
+    caches.keys().then(function (keyList) {
+      return Promise.all(keyList.map(function (key) {
+        if (key !== cacheName) {
+          console.log('service worker: Removing old cache', key);
+          return caches.delete(key);
+        }
+      }));
     })
   );
-  
-  workbox.routing.registerRoute(
-    // Cache image files
-    /.*\.(?:png|jpg|jpeg|svg|gif|ico)/,
-    // Use the cache if it's available
-    workbox.strategies.cacheFirst({
-      // Use a custom cache name
-      cacheName: 'image-cache',
-      plugins: [
-        new workbox.expiration.Plugin({
-          // Cache only 20 images
-          maxEntries: 20,
-          // Cache for a maximum of a day
-          maxAgeSeconds: 24 * 60 * 60,
-        })
-      ],
-    })
-  );
-} else {
-  console.log(`Workbox failed to load.`);
-}
+  return self.clients.claim();
+});

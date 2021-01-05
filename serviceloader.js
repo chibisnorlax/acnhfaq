@@ -1,5 +1,7 @@
 if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/acnhfaq/sw.js');
-    });
+    navigator.serviceWorker
+        .register(`sw.js`)
+        .then(function () {
+            console.log("Service Worker Registered");
+        });
 }
