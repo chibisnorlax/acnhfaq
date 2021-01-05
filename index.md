@@ -15,7 +15,7 @@ permalink: /
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="ACNH: FAQ"/>
     <meta name="twitter:image" content="https://chibisnorlax.github.io/acnhfaq/assets/logo_sq.png"/>
-    <script src="assets/serviceloader.js"></script>
+    <script src="serviceloader.js"></script>
 </head>
 
 # ![Frequently Asked Questions](/assets/logo.png)
