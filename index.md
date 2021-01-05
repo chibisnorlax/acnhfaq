@@ -40,7 +40,7 @@ littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monov
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
-This guide also would not have been possible without the extraordinary work of the dataminers, testers, and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (https://twitter.com/_ninji).
+This guide also would not have been possible without the extraordinary work of the dataminers, testers, and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (<https://twitter.com/_ninji>).
 
 Please contact littlesnorlax#1717 on Discord or submit a PR if you would like to request changes to the document! 
 
