@@ -35,7 +35,7 @@ permalink: unlocks/
 |**Nook’s Cranny <br>(Stage 1)**| Pay off your Nook Miles debt and upgrade your tent into a house.|
 |**Nook’s Cranny <br>(Stage 2)**| It must have been 30 days since Nook’s Cranny was built. You must have made 200,000 <span class="icon-Bells"></span> worth of transactions (buying and/or selling) at the shop, and Mabel must have visited! Once all three requirements are fulfilled, the upgrade is unlocked.|
 |**Able Sisters**| Buy at least one item from Mabel’s stand in front of Residents Services on **three** different visits.| 
-|**Resident Services Building**| Pay your Nook Miles debt, give 5 critters to Tom Nook, build Blather's tent, build the first bridge, and complete furnishing the 3 plots.|
+|**Resident Services Building**| Pay your Nook Miles debt, give 5 critters to Tom Nook, build Blather's tent, build the first bridge, build Nook's Cranny and complete furnishing the 3 plots.|
 |**Campsite**| Upgrade Resident Services into a **building** and talk to Tom Nook, who will have you craft and place the Campground Construction Kit.|
 
 ## House Unlocks
