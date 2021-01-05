@@ -5,7 +5,7 @@ nav_order: 3
 parent: Island Life
 permalink: island-life/gardening/
 ---
-**test**
+
 # Gardening
 The ACNH gardening community has kindly put together various resources for all your gardening needs! Please check the links below to help answer any gardening-related questions you may have.
 
