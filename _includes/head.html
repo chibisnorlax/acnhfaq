@@ -13,14 +13,6 @@
   <meta name="twitter:image" content="https://chibisnorlax.github.io/acnhfaq/assets/logo_sq.png"/>
   <script src="serviceloader.js"></script>
 
-  {% unless site.plugins contains "jekyll-seo-tag" %}
-    <title>{{ page.title }} - {{ site.title }}</title>
-
-    {% if page.description %}
-      <meta name="Description" content="{{ page.description }}">
-    {% endif %}
-  {% endunless %}
-
   <link rel="shortcut icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon">
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
@@ -33,7 +25,5 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo %}
-
-  {% include head_custom.html %}
 
 </head>
