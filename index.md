@@ -4,9 +4,6 @@ nav_order: 1
 permalink: /
 ---
 
-<head>
-</head>
-
 # ![Frequently Asked Questions](/assets/logo.png)
 ver. 1.3.4
 
