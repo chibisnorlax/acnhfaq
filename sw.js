@@ -11,25 +11,7 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/acnhfaq/assets/fonts/icomoon.woff2',
   '/acnhfaq/assets/fonts/icomoon.svg',
   '/acnhfaq/assets/fonts/font.css',
-  '/acnhfaq/assets/css/just-the-docs-custom.scss',
-  '/acnhfaq/villagers/',
-  '/acnhfaq/npc/',
-  '/acnhfaq/misc/',
-  '/acnhfaq/unlocks/',
-  '/acnhfaq/glitches/',
-  '/acnhfaq/island-life/',
-  '/acnhfaq/island-life/gardening/',
-  '/acnhfaq/island-life/turnips/',
-  '/acnhfaq/island-life/stars/',
-  '/acnhfaq/island-life/island-life/',
-  '/acnhfaq/tt/',
-  '/acnhfaq/island-dev/',
-  '/acnhfaq/island-dev/music/',
-  '/acnhfaq/island-dev/',
-  '/acnhfaq/island-dev/hha/',
-  '/acnhfaq/island-dev/rating/',
-  '/acnhfaq/events/',
-  '/acnhfaq/assets/js/search-data.json'
+  '/acnhfaq/assets/css/just-the-docs-default.css',
 ]
 
 // Respond with cached resources
