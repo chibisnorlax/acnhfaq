@@ -44,7 +44,7 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 - Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
 - [Wedding](/acnhfaq/events#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
 - The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](/acnhfaq/events#nature-day-earth-day).  
-- [Turkey Day](/acnhfaq/events#turkey-day) DIYs can be obtained by completing the event, or they are available for purchase in Nook's Cranny starting November 27th.
+- [Turkey Day](/acnhfaq/events#turkey-day) DIYs can be obtained by completing the event, or they are available for purchase in Nook's Cranny starting November 27<sup>th</sup>.
 - You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
@@ -91,7 +91,8 @@ If you have destroyed your snowballs, entering and exiting a building will usual
 
 For more information, please visit <https://bigfootmg.github.io/Snowboys/index.html>
 
-***Special Case:*** If a player has at least a tent but hasn't learned how to craft yet, then they'll get mailed the DIY on the first Snowboy. **This is the only way to obtain the recipe cards for trading purposes.** For subsequent perfect Snowboys, the player will only receive 1 large snowflake until they learn to craft.
+{: .note}
+If a player has at least a tent but hasn't learned how to craft yet, then they'll get mailed the DIY on the first Snowboy. **This is the only way to obtain the recipe cards for trading purposes.** For subsequent perfect Snowboys, the player will only receive 1 large snowflake until they learn to craft.
 
 * * *
 
@@ -107,7 +108,7 @@ Balloons can be funneled through tall objects, making them much easier to farm a
 3. Line the coast of your island where the balloons are entering, leaving a space at the bottom for the balloons to come through. If you have a river mouth on that side of your island, that can become the opening as well. You do not need to terraform cliffs for this to work.
 4. Sit by your opening and wait. Balloons *can* spawn on the XX:X4 and XX:X9 minutes, with an estimated spawn rate of about 50%. Put on some music and farm those balloons!
 
-Here's a visual of what your coast might look like, courtesy of Nours#7244!
+Here's a visual of what your coast might look like, courtesy of `Nours#7244`!
 <video width="100%" controls="controls">
   <source src="https://chibisnorlax.github.io/acnhfaq/assets/balloonfarm1.mp4#t=0.001" type="video/mp4">
 </video>

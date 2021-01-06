@@ -43,8 +43,8 @@ Star fragments spawn periodically throughout the day, usually 8-10 at a time. If
 
 **Zodiac Star Fragment Periods**
 
-| Star Sign     |                                           Image                                            | Period          |
-|---------------|:------------------------------------------------------------------------------------------:|-----------------|
+| Star Sign     |                                           Image                                            |     Period      |
+|---------------|:------------------------------------------------------------------------------------------:|:---------------:|
 | ♒ Aquarius    |  <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAquariusCropped.png" width="35"/>   | Jan 20 - Feb 18 |
 | ♓ Pisces      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpiecePiscesCropped.png" width="35"/>    | Feb 19 - Mar 20 |
 | ♈ Aries       |    <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAriesCropped.png" width="35"/>    | Mar 21 - Apr 19 |

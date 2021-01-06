@@ -23,7 +23,7 @@ An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor
 ## How can I get 8 hits from a rock?
 Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock 8 times without being knocked away. See below for an example.
 
-<video width="100%" controls="controls">
+<video class="center" width="100%" controls="controls">
   <source src="https://chibisnorlax.github.io/acnhfaq/assets/rockdrops.mp4#t=0.001" type="video/mp4">
 </video>
 {: .center}
@@ -59,7 +59,7 @@ Additionally, there is a 30% chance of finding fossil, as well as a 30% chance o
 ## Which Mom's items can I get each month?
 
 | Month          | North Hemisphere  | Southern Hemisphere |
-|----------------|-------------------|---------------------|
+|:--------------:|-------------------|---------------------|
 | January        | Art               | Plushie             |
 | February       | Embroidery        | Pen Stand           |
 | March          | Candle Set        | Cushion             |
@@ -79,10 +79,10 @@ You can get different colors on different profiles. The birthday cake item can s
 * * *
 ## Dreams
 ### How do I dream?
-Go to a bed indoors and lie down. Select `I want to sleep`. This will allow you to enter the dream world and meet Luna! From there, select `I want to dream` and then enter a dream address!  
+Go to a bed indoors and walk towards the bed lie down. Select `I want to sleep`. This will allow you to enter the dream world and meet [Luna](/acnhfaq/npc/#luna)! From there, select `I want to dream` and then enter a dream address!  
 
 ### How do I get my dream address?
-Go to a bed indoors and lie down. Select `I want to sleep`. From there you will meet Luna! Select `Share a dream` to receive your dream code.  
+Go to a bed indoors and walk towards the bed lie down. Select `I want to sleep`. Talk to Luna and select `Share a dream` to receive your dream code.  
 Your weather and time in the dream will be same as when you upload the dream.
 
 ### What can you do in a dream?

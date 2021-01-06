@@ -82,7 +82,7 @@ permalink: npc/
 - Each player can purchase up to one piece of artwork from him, and an unlimited amount of the 2 furniture items he brings each visit.
 - Art is mailed to you the following day, furniture is in your pocket immediately after purchase.
 - For more info on Redd's art see [here](https://yuexr.github.io/img/redd1.png) and [here](https://yuexr.github.io/img/redd2.png).
-- Click [here](https://nookplaza.net/tools?tab=fake_art) to find the differences between fake and real art.
+- The [Fake Art Identifier tool here](https://nookplaza.net/tools?tab=fake_art) can be used to find the differences between fake and real art.
 
 ## C.J.
 - Buys fish for 1.5x Timmy and Tommy's price, but only after you complete his challenge.
@@ -98,8 +98,8 @@ permalink: npc/
 - Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.
 - Will give Mermaid DIYs, clothing, or a pearl in exchange for the scallop you catch.
 - Limited to one exchange with Pascal per day.
-- See [here](https://yuexr.github.io/img/pascal2.png) for more info on Pascal.
-- See [here](https://yuexr.github.io/img/mermaidclothing.png) and [here](https://yuexr.github.io/img/mermaidset.png) for his reward.
+- See [the guide here](https://yuexr.github.io/img/pascal2.png) for more info on Pascal.
+- See [here for the list of Mermaid Clothing](https://yuexr.github.io/img/mermaidclothing.png) and [here for the Mermaid Furniture set](https://yuexr.github.io/img/mermaidset.png).
 
 ## Mabel
 - Visits your island to sell clothes once Nook's Cranny has been opened.
@@ -140,8 +140,8 @@ permalink: npc/
 - Can be found sleeping on the island's beaches.
 - Upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.
 - If the player completes his favor, he will mail the player a special pirate furniture item the following day.
-- See [here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
-- See [here](https://yuexr.github.io/img/pirate.png) for his rewards.
+- See [Yue's guide here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
+- See [here for a list](https://yuexr.github.io/img/pirate.png) of his rewards.
 
 ## Harvey (Harv)
 - Will wander around your island upon first encounter.

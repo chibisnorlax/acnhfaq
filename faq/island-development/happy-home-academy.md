@@ -101,7 +101,7 @@ Rank Requirements by House Level:
 |----------------------------|-----------------------------------------------|
 | Items dropped on the floor | \-1 times # of items                          |
 | Items facing the wall      | \-300 times # of improperly placed items [^1] |
-| Cockroaches in the room    | \-2500 times # of cockroaches                 |
+| Cockroaches in the room    | \-2,500 times # of cockroaches                |
 | Trash in room              | \-500 times # of pieces of trash              |
 
 [^1]: Items with ItemHHADirection as 1 in the spreadsheet.

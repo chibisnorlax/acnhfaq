@@ -122,7 +122,7 @@ If you talk to Tom Nook after completing one Nature Day activity, he will send t
 </div>
 Talk to Tom Nook to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover to get the Rover’s briefcase item. You can also get up to nine Bell Vouchers (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
 
-For a guide on how to complete the maze and obtain all possible prizes, see [here](https://www.ign.com/wikis/animal-crossing-new-horizons/May_Day_-_How_to_Complete_Rover%27s_Maze#How_to_Get_a_May_Day_Ticket).
+For a guide on how to complete the maze and obtain all possible prizes, see [the guide outlined here](https://www.ign.com/wikis/animal-crossing-new-horizons/May_Day_-_How_to_Complete_Rover%27s_Maze#How_to_Get_a_May_Day_Ticket).
 
 ## International Museum Day
 <div class="code-example">

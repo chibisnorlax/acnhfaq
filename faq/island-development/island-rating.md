@@ -15,7 +15,7 @@ In general, the best advice we can give is to listen to Isabelle, as she reviews
 * * *
 
 ## How is Island Rating calculated?
-The island's rating is based on two separate categories of points. One is based mostly on the buildings, structures, and furniture on the island, which is called **Development Points** and the other is based mostly on the plant-life on the island called **Nature Points**. To aid you in calculation, you can use [this tool](https://nookplaza.net/tools?tab=island_rating) to help calculate your island's total points.
+The island's rating is based on two separate categories of points. One is based mostly on the buildings, structures, and furniture on the island, which is called **Development Points** and the other is based mostly on the plant-life on the island called **Nature Points**. To aid you in calculation, you can use [this Island Rating calculator](https://nookplaza.net/tools?tab=island_rating) to help calculate your island's total points.
 
 Isabelle will let you know which category you are lacking in, depending on her response to you when you ask her about island evaluation. The total points required for each category for each star rating is tabled below:
 
