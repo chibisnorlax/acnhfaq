@@ -109,10 +109,10 @@ Balloons can be funneled through tall objects, making them much easier to farm a
 
 Here's a visual of what your coast might look like, courtesy of Nours#7244!
 <video width="100%" controls="controls">
-  <source src="https://chibisnorlax.github.io/acnhfaq/assets/balloonfarm1.mp4" type="video/mp4">
+  <source src="https://chibisnorlax.github.io/acnhfaq/assets/balloonfarm1.mp4#t=0.001" type="video/mp4">
 </video>
 <video width="100%" controls="controls">
-  <source src="https://chibisnorlax.github.io/acnhfaq/assets/balloonfarm2.mp4" type="video/mp4">
+  <source src="https://chibisnorlax.github.io/acnhfaq/assets/balloonfarm2.mp4#t=0.001" type="video/mp4">
 </video>
 
 * * *
