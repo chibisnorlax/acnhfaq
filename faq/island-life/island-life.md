@@ -23,7 +23,7 @@ An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor
 ## How can I get 8 hits from a rock?
 Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock 8 times without being knocked away. See below for an example.
 
-<video controls="controls">
+<video width="100%" controls="controls">
   <source src="https://chibisnorlax.github.io/acnhfaq/assets/rockdrops.mp4" type="video/mp4">
 </video>
 {: .center}

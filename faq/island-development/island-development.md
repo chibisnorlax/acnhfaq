@@ -108,10 +108,10 @@ Balloons can be funneled through tall objects, making them much easier to farm a
 4. Sit by your opening and wait. Balloons *can* spawn on the XX:X4 and XX:X9 minutes, with an estimated spawn rate of about 50%. Put on some music and farm those balloons!
 
 Here's a visual of what your coast might look like, courtesy of Nours#7244!
-<video controls="controls">
+<video width="100%" controls="controls">
   <source src="https://chibisnorlax.github.io/acnhfaq/assets/balloonfarm1.mp4" type="video/mp4">
 </video>
-<video controls="controls">
+<video width="100%" controls="controls">
   <source src="https://chibisnorlax.github.io/acnhfaq/assets/balloonfarm2.mp4" type="video/mp4">
 </video>
 
