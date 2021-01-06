@@ -33,7 +33,8 @@
         {
             "src": "https://chibisnorlax.github.io/acnhfaq/assets/logo_icn_512.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ],
     "theme_color": "#1a1a1a",
