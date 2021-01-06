@@ -1,5 +1,5 @@
 var APP_PREFIX = 'ACNHFAQ'     // Identifier for this app (this needs to be consistent across every cache update)
-var VERSION = '0.0.2'              // Version of the off-line cache (change this value everytime you want to update cache)
+var VERSION = '0.0.3'              // Version of the off-line cache (change this value everytime you want to update cache)
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                            // Add URL you want to cache in this list.
   '/acnhfaq/',                          // If you have separate JS/CSS files,
@@ -13,21 +13,21 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/acnhfaq/assets/fonts/font.css',
   '/acnhfaq/assets/css/just-the-docs-custom.scss',
   '/acnhfaq/villagers',
-  '/acnhfaq/npc-visitors-and-special-characters',
-  '/acnhfaq/miscellaneous',
-  '/acnhfaq/unlocking-things',
+  '/acnhfaq/npc',
+  '/acnhfaq/misc',
+  '/acnhfaq/unlocks',
   '/acnhfaq/glitches',
   '/acnhfaq/island-life',
   '/acnhfaq/island-life/gardening',
-  '/acnhfaq/island-life/turnipsstalk-market',
-  '/acnhfaq/island-life/meteor-showers',
+  '/acnhfaq/island-life/turnips',
+  '/acnhfaq/island-life/stars',
   '/acnhfaq/island-life/island-life',
-  '/acnhfaq/time-travel',
+  '/acnhfaq/tt',
   '/acnhfaq/island-dev',
   '/acnhfaq/island-dev/music',
-  '/acnhfaq/island-dev/island-development',
-  '/acnhfaq/island-dev/happy-home-academy',
-  '/acnhfaq/island-dev/island-rating',
+  '/acnhfaq/island-dev',
+  '/acnhfaq/island-dev/hha',
+  '/acnhfaq/island-dev/rating',
   '/acnhfaq/events'
 ]
 
