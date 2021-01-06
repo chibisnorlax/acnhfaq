@@ -5,17 +5,6 @@ permalink: /
 ---
 
 <head>
-    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-apple.ico">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon.ico">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon.ico">
-    <link rel="shortcut icon" href="assets/favicon.ico">
-    <link rel="manifest" href="manifest.json">
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="ACNH: FAQ"/>
-    <meta name="twitter:image" content="https://chibisnorlax.github.io/acnhfaq/assets/logo_sq.png"/>
-    <script src="serviceloader.js"></script>
 </head>
 
 # ![Frequently Asked Questions](/assets/logo.png)
