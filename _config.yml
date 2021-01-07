@@ -15,5 +15,5 @@ search.button: true
 kramdown:
   input: GFM
 aux_links:
-    '<button id="theme-toggle"></button>':
+    '<button class="btn" id="theme-toggle"></button>':
       - '#"onclick="modeSwitcher()"'
