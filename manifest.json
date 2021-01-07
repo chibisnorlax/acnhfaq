@@ -42,7 +42,7 @@
             "name": "Open The Home Page",
             "short_name": "Home Page",
             "description": "Open the Home page of the app.",
-            "url": "/"
+            "url": "/acnhfaq/"
         }
     ],
     "theme_color": "#1a1a1a",
