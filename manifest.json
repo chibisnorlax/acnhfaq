@@ -47,9 +47,12 @@
     ],
     "theme_color": "#1a1a1a",
     "background_color": "#1a1a1a",
+    "categories": [
+        "education"
+    ],
     "start_url": "https://chibisnorlax.github.io/acnhfaq/",
     "display": "standalone",
-    "orientation": "natural",
+    "orientation": "portrait",
     "url": "https://chibisnorlax.github.io/acnhfaq/",
     "screenshots": [],
     "prefer_related_applications": false
