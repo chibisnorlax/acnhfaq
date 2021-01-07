@@ -37,6 +37,32 @@
             "purpose": "maskable"
         }
     ],
+    "shortcuts": [
+        {
+            "name": "Open The Home Page",
+            "short_name": "Home Page",
+            "description": "Open the Home page of the app.",
+            "url": "/",
+            "icons": [
+                {
+                    "src": "/icons/play-later.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "View Subscriptions",
+            "short_name": "Subscriptions",
+            "description": "View the list of podcasts you listen to",
+            "url": "/subscriptions?utm_source=homescreen",
+            "icons": [
+                {
+                    "src": "/icons/subscriptions.png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
     "theme_color": "#1a1a1a",
     "background_color": "#1a1a1a",
     "start_url": "https://chibisnorlax.github.io/acnhfaq/",
