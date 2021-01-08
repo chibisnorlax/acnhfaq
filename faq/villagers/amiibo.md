@@ -6,7 +6,7 @@ parent: Villagers
 permalink: villagers/amiibo/
 ---
 
-## Amiibos 
+# Amiibos 
 Amiibos are Nintendo-produced collectibles that come in the form of cards or figurines and allow players to unlock special features when scanned into games. You can buy them from some online retailers or secondhand. In Animal Crossing: New Horizons, Amiibos allow you to invite villagers onto your island or unlock posters, an in-game item. There are 456 Animal Crossing Amiibo cards, including non-villager NPCs, villagers, and special villagers (such as the Sanrio x Animal Crossing villagers). 
 
 ## Who has an Amiibo?
