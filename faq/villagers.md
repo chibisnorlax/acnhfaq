@@ -20,6 +20,9 @@ Unfortunately there’s no 100% guaranteed way to get a specific villager unless
 ## How do I make a villager move out?
 Please refer to Yue’s move-out guide here: <https://yuexr.github.io/acnh/moveout.html>.
 
+{: .note}
+As of `1.6.0`, for villagers to have move-out bubbles, [K.K. Slider](/acnhfaq/npc/visiting#kk-slider) must have already performed for the first time.
+
 ## I agreed to let one of my villagers move out today, when can I go looking for a new villager?
 For a timeline of the move-out sequence, visit <https://yuexr.github.io/img/mo/2.png>.
 You MUST have an unsold, empty plot available to invite a villager from another player's island, or to find villagers on mystery islands (and you can only invite *one villager from a mystery island* per day). Note: If someone visited and claimed your villager who was in boxes their house will immediately say 'I moved out', but you will still need to wait until the next day for an empty plot.
