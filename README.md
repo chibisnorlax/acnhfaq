@@ -34,15 +34,38 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
   - i.e., "Only the *Island Representative* can forward the storyline."
 
 ## Change Log
-### 1.0
-- Initial document, current through game version 1.5.1.
+<details>
+<summary>Click here to open</summary>
 
-### 1.1.0
-- Updated versioning system to major/minor/patch.
-- Updated information regarding Sable, villagers, Amiibos, and fixed minor errors.
+### 1.3.6
+- Separated NPC page into 3 categories
 
-### 1.1.1
-- Added zodiac fragment dates, edited tables to be more readable.
+### 1.3.5
+- Added PWA support.
+- Reduced image size.
+
+### 1.3.4
+- Implemented light mode/dark mode switch
+- Fixed search body text in dark mode not being legible. 
+- Added Island Rating section under Island Development.
+
+### 1.3.3 
+- Added dark mode.
+- Added inline icon font.
+
+### 1.3.2
+- Pages restructure, and better reorganisation of the various topics.
+- Island Life has children pages now.
+
+### 1.3.1
+- Additional information on Toy Day
+- Addition of several new sections in the Villager and Island Life categories.
+- New character deletion steps in Misc.
+
+### 1.3.0
+- Split FAQ into various sections.
+- Updated reactions table.
+- Added Just Docs theme & site wide search bar.
 
 ### 1.2.0
 - Added Turkey Day and Toy Day to list of events.
@@ -50,29 +73,14 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 - Added balloon farming guide.
 - Added storage expansion to list of house upgrades.
 
-### 1.3.0
-- Split FAQ into various sections.
-- Updated reactions table.
-- Added Just Docs theme & site wide search bar.
+### 1.1.1
+- Added zodiac fragment dates, edited tables to be more readable.
 
-### 1.3.1
-- Additional information on Toy Day
-- Addition of several new sections in the Villager and Island Life categories.
-- New character deletion steps in Misc.
+### 1.1.0
+- Updated versioning system to major/minor/patch.
+- Updated information regarding Sable, villagers, Amiibos, and fixed minor errors.
 
-### 1.3.2
-- Pages restructure, and better reorganisation of the various topics.
-- Island Life has children pages now.
+### 1.0
+- Initial document, current through game version 1.5.1.
 
-### 1.3.3 
-- Added dark mode.
-- Added inline icon font.
-
-### 1.3.4
-- Implemented light mode/dark mode switch
-- Fixed search body text in dark mode not being legible. 
-- Added Island Rating section under Island Development.
-
-### 1.3.5
-- Added PWA support.
-- Reduced image size.
+</details>
