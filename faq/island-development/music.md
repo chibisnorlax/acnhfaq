@@ -64,12 +64,12 @@ Table below shows all K.K. songs and their corresponding moods:
 | K.K. Sonata      | K.K. Jongara       | K.K. Mariachi   | K.K. Song         | K.K. Love Song   |
 | K.K. Waltz       | K.K. Metal         | K.K. Parade     | K.K. Soul         | K.K. Moody       |
 | K.K. Western     | K.K. Rock          | K.K. Ragtime    | K.K. Technopop    | K.K. Reggae      |
-| K.K. Western     | K.K. Safari        | K.K. Rockabilly | Space K.K.        | K.K. Stroll      |
-| King K.K.        | K.K. Steppe        | K.K. Salsa      | The K. Funk       | K.K. Swing       |
-| Only Me          | K.K. Tango         | K.K. Samba      | To the Edge       | K.K. Synth       |
-| Stale Cupcakes   | Lucky K.K.         | K.K. Ska        | -                 | Marine Song 2001 |
-| Steep Hill       | Rockin' K.K.       | Mountain Song   | -                 | Mr. K.K.         |
-| Two Days Ago     | Surfin' K.K.       | Neapolitan      | -                 | My Place         |
+| King K.K.        | K.K. Safari        | K.K. Rockabilly | Space K.K.        | K.K. Stroll      |
+| Only Me          | K.K. Steppe        | K.K. Salsa      | The K. Funk       | K.K. Swing       |
+| Stale Cupcakes   | K.K. Tango         | K.K. Samba      | To the Edge       | K.K. Synth       |
+| Steep Hill       | Lucky K.K.         | K.K. Ska        | -                 | Marine Song 2001 |
+| Two Days Ago     | Rockin' K.K.       | Mountain Song   | -                 | Mr. K.K.         |
+| -                | Surfin' K.K.       | Neapolitan      | -                 | My Place         |
 | -                | -                  | Spring Blossoms | -                 | Pondering        |
 | -                | -                  | -               | -                 | Soulful K.K.     |
 | -                | -                  | -               | -                 | Wandering        |
