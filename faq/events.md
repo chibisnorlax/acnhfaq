@@ -175,7 +175,7 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 <dd>Boppers, Redd's Raffle items</dd>
 </dl>
 </div>
-During the event, [Redd](/acnhfaq/npc#Redd), who has set up a raffle in the Resident Services plaza. Participating in this raffle will earn you firework items. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences during this event.
+During the event, [Redd](/acnhfaq/npc/visiting#Redd), who has set up a raffle in the Resident Services plaza. Participating in this raffle will earn you firework items. If you talk to Isabelle, you will receive one of four boppers, a new one each week. Isabelle also allows you to input custom firework design sequences during this event.
 
 The Able Sister's will also be selling various yukatas on Firework Sundays.
 
@@ -252,4 +252,5 @@ For more detailed info, visit <https://cestislife.github.io/toyday>.
 </div>
 The countdown happens on New Year’s Eve. Isabelle will be outside of Resident Services, and will hand out a light stick if you talk to her. Tom Nook will also be outside selling New Year’s hats and party poppers. You can buy four different colored hats from him. To obtain other variants of the hats, you will need to trade with other players. As the year draws to a close, villagers will gather in the plaza to countdown to the New Year. At midnight, the year ends with a fireworks display.  
 
-Note that you will be unable to access Resident Services on this day.
+{: .note}
+You will be unable to access Resident Services on this day.
