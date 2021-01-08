@@ -19,6 +19,7 @@ To learn more about the NPC visiting schedule, refer to the infographic below.
 <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> Mabel is considered a visiting NPC before she sets up her shop, the Able Sisters.
 
 ## How long does X NPC stay on my island?
+{: .no_toc}
 Visiting NPCs do have visiting hours, they are listed below.
 
 | NPC                                                           |   Visiting Hours   |
