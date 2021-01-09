@@ -66,10 +66,7 @@ If you time travel backward more than a day, it will be like going back to "fake
 - Building construction/upgrades/moves will not be completed.
 - Shop stock will be the same as it was the first time you visited that day unless you leave the current week.
 - Rocks and trees will not refresh.
-- Mail will not be delivered.
-
-## An update or seasonal items were announced, can I time travel to access it?
-No, you can only access it if the game was patched to have the update or Nintendo unlocked the seasonal item.  
+- Mail will not be delivered. 
 
 ## What happens to my other games when I time travel for AC:NH?
 Time traveling for AC:NH will not affect other time-based games unless you launch them whilst the system time is changed.
@@ -102,6 +99,9 @@ Nope! They may have some dialogue about your disappearance if you do a big jump 
 
 ## Do the developers know I time travel? Will they do anything to me about it?
 There is actually a variable turned up by data mining called `isTimeSly` that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to!  
+
+## An update or seasonal items were announced, can I time travel to access it?
+No, you can only access it if the game was patched to have the update or Nintendo unlocked the seasonal item. 
 
 ## What are BCAT or NTP unlocks?
 BCAT and NTP unlocks are flags that gets flipped when the actual date of the intended release of an event or period has arrived in real time. There is no way to manually unlock these flags other than hacking the Switch. The difference between these two unlocks are:

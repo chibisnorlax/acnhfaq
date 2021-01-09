@@ -5,6 +5,7 @@ nav_order: 2
 parent: Island Development
 permalink: island-dev/hha/
 ---
+
 # Happy Home Academy
 ## What is HHA and what do they do?
 After you upgrade to a house, Happy Home Academy (HHA) will begin to evaluate your interior decoration skills every Sunday at 5 AM. Every room in your house will be assessed and you will be given a rank and a score by letter on Sunday. If you reach a certain amount of points, you will also receive a prize in the mail.

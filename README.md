@@ -37,6 +37,10 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 <details>
 <summary>Click here to open</summary>
 
+### 1.3.7
+- Separated Villager page into different categories.
+- Added inventory icons to several furniture names. 
+
 ### 1.3.6
 - Separated NPC page into 3 categories
 

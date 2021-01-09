@@ -12,10 +12,9 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 "Duping" refers to the act of exploiting in-game mechanics to duplicate already existing items. A "dupe" is simply the product of executing a dupe glitch successfully. Duped items are not harmful to the game or the player's save file, as there is no difference between the duped items and regular items.
 
 ## What are the current known glitches?
-{: .d-inline-block }
 
-1.6.0
-{: .label .label-green }
+{: .note}
+Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. `1.6.0`.
 
 | Glitch Name            | Information                                                                                                                                                        | Fix                                                                                                          |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -28,8 +27,6 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 | Invisible Weeds        | Weeds, when placed placed between 12:00 AM and 5:00 AM on the last day of a season, are invisible until after 5:00 AM                                              | N/A                                                                                                          |
 | Wreath Glitch          | Some villagers will not display wreaths when gifted. No information as to why this happens or how to fix it.                                                       | N/A                                                                                                          |
 | 4th Level Present      | The game allows falling presents to land on the inaccessible 4th level, which is unable to be removed via the cleanup feature. <https://imgur.com/a/Q69xl7m>       | Use an OOB glitch to get onto the 4th level and grab it, or close without saving the game for it to despawn. |
-
-Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. `1.6.0`.
 
 ## Is X a glitch?
 The only way to tell if something is a glitch is to see if it is reproducible and if it is unintended. If you suspect you have found a glitch for the **current** version of the game, please contact littlesnorlax#1717 on Discord. As a reminder, glitches ***are not***: bad luck/RNG, unexpected but intended gameplay, or hacked items.
