@@ -8,11 +8,11 @@ permalink: island-life/stars/
 # Meteor Showers & Stars
 ## When will I see meteor showers?
 Meteor showers are dependent on your [weather seed](#what-determines-the-weather-on-my-island). On nights with certain clear weather patterns, you may see shooting stars between 7:00 PM and 4:00 AM. There are two types of star showers:
-- **Heavy meteor showers:** Usually announced by Isabelle <span><img src="https://acnhcdn.com/latest/NpcIcon/sza.png" id="inv-icon"></span>. Villagers will mention it/talk about it if you talk to them. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
+- **Heavy meteor showers:** Usually announced by Isabelle <span><img src="https://alexislours.github.io/img/NpcIcon/sza.png" id="inv-icon"></span>. Villagers will mention it/talk about it if you talk to them. Heavy showers will bring groups of 5-8 shooting stars roughly every minute or so. These are rare, only occurring on average about 10 times per year. 
 - **Light meteor showers:** On light shower nights, you will see only a handful of shooting stars each hour. These are more common, occurring on average 5-10 nights per month.
 
 {: .caution}
-If she has anything else to announce for the day, like a villager moving in or out or a camper visiting, Isabelle <span><img src="https://acnhcdn.com/latest/NpcIcon/sza.png" id="inv-icon"></span> will **not** announce a heavy meteor shower if one is to happen that day.
+If she has anything else to announce for the day, like a villager moving in or out or a camper visiting, Isabelle <span><img src="https://alexislours.github.io/img/NpcIcon/sza.png" id="inv-icon"></span> will **not** announce a heavy meteor shower if one is to happen that day.
 
 {: .note}
 Both heavy and light meteor showers are locked to the date on which they occur, and will always occur on that date even if you time travel. 
@@ -20,7 +20,7 @@ Both heavy and light meteor showers are locked to the date on which they occur, 
 ## How do I wish on a star, and what does it do?
 To wish on a star: when you see or hear it moving across the sky, stand still, look up with <span class="icon-R-S"></span>, and press the <span class="icon-A"></span> button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
 
-Star fragments are a crafting material that can be used in <span><img src="https://acnhcdn.com/latest/MenuIcon/PaperRecipe.png" id="inv-icon"></span> DIY recipes.
+Star fragments are a crafting material that can be used in <span><img src="https://alexislours.github.io/img/MenuIcon/PaperRecipe.png" id="inv-icon"></span> DIY recipes.
 
 ## What's the max amount of star fragments I can get?
 1 wish = 1 star fragment. You can also visit other players who have shooting stars and wish on their islands; wishes made on someone else's island will count as personal wishes.
@@ -30,7 +30,7 @@ By yourself, you can obtain a maximum of 20 star fragments. If you invite visito
 ## Can I visit other islands for meteor showers and/or Celeste?
 Yes! You can wish on shooting stars while visiting another player’s island and the star fragments will appear on your island’s beach the next day. Just like on your own island, each wish you make on another island counts for one star fragment, to a maximum of 20 wishes. Any zodiac fragments you receive will correspond to the date on your island and not the date of the host island. By extension if you had wished on stars on the last zodiac day on your island (or someone else's island), the star fragments you find on the beach the next day will be from the zodiac corresponding to the day you wished.
 
-However, if you visit Celeste <span><img src="https://acnhcdn.com/latest/NpcIcon/ows.png" id="inv-icon"></span> on another player’s island, any zodiac DIY you receive will correspond to the date of the host island.  
+However, if you visit Celeste <span><img src="https://alexislours.github.io/img/NpcIcon/ows.png" id="inv-icon"></span> on another player’s island, any zodiac DIY you receive will correspond to the date of the host island.  
 
 ## I didn’t get all my star fragments the next day! What gives?
 Star fragments spawn periodically throughout the day, usually 8-10 at a time. If the next set doesn’t appear after a little while, clear your beaches of shells and other items that may block the spawns and wait a little while longer. 
@@ -49,18 +49,18 @@ Star fragments spawn periodically throughout the day, usually 8-10 at a time. If
 
 | Star Sign     |                                           Image                                            |     Period      |
 |---------------|:------------------------------------------------------------------------------------------:|:---------------:|
-| ♒ Aquarius    |  <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAquariusCropped.png" width="35"/>   | Jan 20 - Feb 18 |
-| ♓ Pisces      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpiecePiscesCropped.png" width="35"/>    | Feb 19 - Mar 20 |
-| ♈ Aries       |    <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceAriesCropped.png" width="35"/>    | Mar 21 - Apr 19 |
-| ♉ Taurus      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceTaurusCropped.png" width="35"/>    | Apr 20 - May 20 |
-| ♊ Gemini      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceGeminiCropped.png" width="35"/>    | May 21 - Jun 21 |
-| ♋ Cancer      |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceCancerCropped.png" width="35"/>    | Jun 22 - Jul 22 |
-| ♌ Leo         |     <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLeoCropped.png" width="35"/>     | Jul 23 - Aug 22 |
-| ♍ Virgo       |    <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceVirgoCropped.png" width="35"/>    | Aug 23 - Sep 22 |
-| ♎ Libra       |    <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceLibraCropped.png" width="35"/>    | Sep 23 - Oct 23 |
-| ♏ Scorpio     |   <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceScorpioCropped.png" width="35"/>   | Oct 24 - Nov 22 |
-| ♐ Sagittarius | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceSagittariusCropped.png" width="35"/> | Nov 23 - Dec 21 |
-| ♑ Capricorn   | <img src="https://acnhcdn.com/latest/FtrIcon/StarpieceCapricornusCropped.png" width="35"/> | Dec 22 - Jan 19 |
+| ♒ Aquarius    |  <img src="https://alexislours.github.io/img/FtrIcon/StarpieceAquariusCropped.png" width="35"/>   | Jan 20 - Feb 18 |
+| ♓ Pisces      |   <img src="https://alexislours.github.io/img/FtrIcon/StarpiecePiscesCropped.png" width="35"/>    | Feb 19 - Mar 20 |
+| ♈ Aries       |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceAriesCropped.png" width="35"/>    | Mar 21 - Apr 19 |
+| ♉ Taurus      |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceTaurusCropped.png" width="35"/>    | Apr 20 - May 20 |
+| ♊ Gemini      |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceGeminiCropped.png" width="35"/>    | May 21 - Jun 21 |
+| ♋ Cancer      |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceCancerCropped.png" width="35"/>    | Jun 22 - Jul 22 |
+| ♌ Leo         |     <img src="https://alexislours.github.io/img/FtrIcon/StarpieceLeoCropped.png" width="35"/>     | Jul 23 - Aug 22 |
+| ♍ Virgo       |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceVirgoCropped.png" width="35"/>    | Aug 23 - Sep 22 |
+| ♎ Libra       |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceLibraCropped.png" width="35"/>    | Sep 23 - Oct 23 |
+| ♏ Scorpio     |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceScorpioCropped.png" width="35"/>   | Oct 24 - Nov 22 |
+| ♐ Sagittarius | <img src="https://alexislours.github.io/img/FtrIcon/StarpieceSagittariusCropped.png" width="35"/> | Nov 23 - Dec 21 |
+| ♑ Capricorn   | <img src="https://alexislours.github.io/img/FtrIcon/StarpieceCapricornusCropped.png" width="35"/> | Dec 22 - Jan 19 |
 
 {: .note}
 The dates are the same for both Northern & Southern Hemispheres.

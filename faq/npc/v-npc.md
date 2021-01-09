@@ -16,7 +16,7 @@ To learn more about the NPC visiting schedule, refer to the infographic below.
 ![NPC Schedule Infographic](/acnhfaq/assets/npcskd.png)
 
 {: .note}
-<span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> Mabel is considered a visiting NPC before she sets up her shop, the Able Sisters.
+<span><img src="https://alexislours.github.io/img/NpcIcon/hgh.png" id="inv-icon"></span> Mabel is considered a visiting NPC before she sets up her shop, the Able Sisters.
 
 ## How long does X NPC stay on my island?
 {: .no_toc}
@@ -66,7 +66,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
 - Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.
 - Rugs and mysterious flooring/wallpaper purchased with **<span class="icon-Bells"></span> bells** are the same for every player.
 - Mysterious flooring/wallpaper purchased with **Saharah Tickets** are random for each player.
-- <span><img src="https://acnhcdn.com/latest/MenuIcon/RollanTicket.png" id="inv-icon"></span> **Saharah Tickets** can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.
+- <span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> **Saharah Tickets** can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.
 - Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.
 
 ## Redd
@@ -124,6 +124,6 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
 
 ## Wisp
 - Visits only at night.
-- Upon speaking to Wisp, he will become scared and "fall apart". This will prompt him to ask you to find his **5** <span><img src="https://acnhcdn.com/latest/MenuIcon/YutaroWisp.png" id="inv-icon"></span> **spirit pieces.**
+- Upon speaking to Wisp, he will become scared and "fall apart". This will prompt him to ask you to find his **5** <span><img src="https://alexislours.github.io/img/MenuIcon/YutaroWisp.png" id="inv-icon"></span> **spirit pieces.**
 - Completing Wisp's quest will cause him to gift you either a furniture, clothing, wallpaper or flooring item. He will ask if you want `Something expensive` or `Something new`.
 - Exact rates and logic of the rewards can be found on [asteriation's website.](https://acnh.isomorphicbox.com/rates/#wisp).

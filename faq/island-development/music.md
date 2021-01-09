@@ -24,23 +24,23 @@ There are several types of music players, and they have their own speaker type w
 
 | Speaker                                                                                                                                 | Type  |   Category    |
 |-----------------------------------------------------------------------------------------------------------------------------------------|:-----:|:-------------:|
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDJbooth_Remake_0_0.png" id="inv-icon"></span> DJ's turntable                      | Hi-fi |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrComponentPro.png" id="inv-icon"></span> High-end stereo                           | Hi-fi |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrComponentHighclass.png" id="inv-icon"></span> Hi-fi stereo                        | Hi-fi |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBlockCompo_Remake_0_0.png" id="inv-icon"></span> Wooden-block stereo              | Hi-fi |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFlowerRecordplayer_Remake_0_0.png" id="inv-icon"></span> Lily record player       | Phono |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBambooMusic_Remake_0_0.png" id="inv-icon"></span> Bamboo speaker                  | Retro |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrJukebox.png" id="inv-icon"></span> Jukebox                                        | Retro |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrStereoRetro_Remake_0_0.png" id="inv-icon"></span> Retro stereo                    | Retro |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrRadicaseW_Remake_0_0.png" id="inv-icon"></span> Cassette player                   | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFruitsMusic_Remake_0_0.png" id="inv-icon"></span> Cherry speakers                 | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCuteAudio_Remake_0_0.png" id="inv-icon"></span> Cute music player                 | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPortablerecordplayer_Remake_0_0.png" id="inv-icon"></span> Portable record player | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrShellMusic_Remake_0_0.png" id="inv-icon"></span> Shell speaker                    | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrRadicase_Remake_0_0.png" id="inv-icon"></span> Tape deck                          | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBoyAudio_Remake_0_0.png" id="inv-icon"></span> Throwback skull radio              | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPhonograph.png" id="inv-icon"></span> Phonograph                                  | Phono | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrReelrecorder_Remake_0_0.png" id="inv-icon"></span> Pro tape recorder              | Retro | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDJbooth_Remake_0_0.png" id="inv-icon"></span> DJ's turntable                      | Hi-fi |   Houseware   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrComponentPro.png" id="inv-icon"></span> High-end stereo                           | Hi-fi |   Houseware   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrComponentHighclass.png" id="inv-icon"></span> Hi-fi stereo                        | Hi-fi |   Houseware   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrBlockCompo_Remake_0_0.png" id="inv-icon"></span> Wooden-block stereo              | Hi-fi |   Houseware   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrFlowerRecordplayer_Remake_0_0.png" id="inv-icon"></span> Lily record player       | Phono |   Houseware   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrBambooMusic_Remake_0_0.png" id="inv-icon"></span> Bamboo speaker                  | Retro |   Houseware   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrJukebox.png" id="inv-icon"></span> Jukebox                                        | Retro |   Houseware   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrStereoRetro_Remake_0_0.png" id="inv-icon"></span> Retro stereo                    | Retro |   Houseware   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrRadicaseW_Remake_0_0.png" id="inv-icon"></span> Cassette player                   | Cheap | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrFruitsMusic_Remake_0_0.png" id="inv-icon"></span> Cherry speakers                 | Cheap | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCuteAudio_Remake_0_0.png" id="inv-icon"></span> Cute music player                 | Cheap | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrPortablerecordplayer_Remake_0_0.png" id="inv-icon"></span> Portable record player | Cheap | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrShellMusic_Remake_0_0.png" id="inv-icon"></span> Shell speaker                    | Cheap | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrRadicase_Remake_0_0.png" id="inv-icon"></span> Tape deck                          | Cheap | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrBoyAudio_Remake_0_0.png" id="inv-icon"></span> Throwback skull radio              | Cheap | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrPhonograph.png" id="inv-icon"></span> Phonograph                                  | Phono | Miscellaneous |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrReelrecorder_Remake_0_0.png" id="inv-icon"></span> Pro tape recorder              | Retro | Miscellaneous |
 
 ### How do I put music in the music players?
 You would need a [K.K.](/acnhfaq/npc#kk-slider) Track to be able to put music in your music players. Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". The table below denotes the various moods you can choose and the songs that he can play by choosing that mood.
