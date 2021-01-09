@@ -38,8 +38,8 @@ You need to remove it until the rock spawn.
 
 * * *
 ## Pumpkins
-### How to I find pumpkin starters?
-Pumpkin starters can be bought from [Leif](/acnhfaq/npc#leif) throughout the year. During the month of October, it can also be bought from Nook's Cranny, as well as half off from Leif.
+### How to I find pumpkin starts?
+<span><img src="https://acnhcdn.com/latest/MenuIcon/SeedlingVegetable.png" id="inv-icon"></span> Pumpkin starts can be bought from [Leif](/acnhfaq/npc#leif) <span><img src="https://acnhcdn.com/latest/NpcIcon/slo.png" id="inv-icon"></span>throughout the year. During the month of October, it can also be bought from Nook's Cranny, as well as half off from Leif.
 
 ### Do I need to water pumpkins?
 No watering is required for the pumpkins' growth, but watering it during every day of its growth stage will increase its yield, to a maximum of 3 pumpkins per harvest. 
