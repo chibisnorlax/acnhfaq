@@ -88,4 +88,4 @@ There are also an additional **5 songs** not included in the above list, denoted
 No, you are only able to take home one track per K.K. concert, per day.
 
 ### Can I catalogue the K.K. songs?
-Yes, you can, with the exception being the `Welcome Horizons` track. These are one per player only.
+Yes, you can, with the exception of the 5 special tracks listed above. You would have to re-request from K.K. to obtain more copies of these tracks.
