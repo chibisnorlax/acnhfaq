@@ -39,7 +39,7 @@ Visiting NPCs do have visiting hours, they are listed below.
 {:toc}
 * * *
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="heading-icon"></span> Daisy Mae
+## <span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconKaburiba^w.png" id="heading-icon"></span> Daisy Mae
 - Visits every Sunday to sell turnips (see [Turnips/Stalk Market](/acnhfaq/turnips)) once Nook's Cranny is unlocked.
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/ows.png" id="heading-icon"></span> Celeste
