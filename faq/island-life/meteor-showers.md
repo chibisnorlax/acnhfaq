@@ -47,20 +47,20 @@ Star fragments spawn periodically throughout the day, usually 8-10 at a time. If
 
 **Zodiac Star Fragment Periods**
 
-| Star Sign     |                                           Image                                            |     Period      |
-|---------------|:------------------------------------------------------------------------------------------:|:---------------:|
-| ♒ Aquarius    |  <img src="https://alexislours.github.io/img/FtrIcon/StarpieceAquarius.png" width="35"/>   | Jan 20 - Feb 18 |
-| ♓ Pisces      |   <img src="https://alexislours.github.io/img/FtrIcon/StarpiecePisces.png" width="35"/>    | Feb 19 - Mar 20 |
-| ♈ Aries       |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceAries.png" width="35"/>    | Mar 21 - Apr 19 |
-| ♉ Taurus      |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceTaurus.png" width="35"/>    | Apr 20 - May 20 |
-| ♊ Gemini      |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceGemini.png" width="35"/>    | May 21 - Jun 21 |
-| ♋ Cancer      |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceCancer.png" width="35"/>    | Jun 22 - Jul 22 |
-| ♌ Leo         |     <img src="https://alexislours.github.io/img/FtrIcon/StarpieceLeo.png" width="35"/>     | Jul 23 - Aug 22 |
-| ♍ Virgo       |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceVirgo.png" width="35"/>    | Aug 23 - Sep 22 |
-| ♎ Libra       |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceLibra.png" width="35"/>    | Sep 23 - Oct 23 |
-| ♏ Scorpio     |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceScorpio.png" width="35"/>   | Oct 24 - Nov 22 |
-| ♐ Sagittarius | <img src="https://alexislours.github.io/img/FtrIcon/StarpieceSagittarius.png" width="35"/> | Nov 23 - Dec 21 |
-| ♑ Capricorn   | <img src="https://alexislours.github.io/img/FtrIcon/StarpieceCapricornus.png" width="35"/> | Dec 22 - Jan 19 |
+| Star Sign     | DIY                                                                                                                          |                                       Fragment Image                                       |     Period      |
+|---------------|------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------:|:---------------:|
+| ♒ Aquarius    | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacAquarius.png" id="inv-icon"></span> Aquarius urn          |  <img src="https://alexislours.github.io/img/FtrIcon/StarpieceAquarius.png" width="35"/>   | Jan 20 - Feb 18 |
+| ♓ Pisces      | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacPisces.png" id="inv-icon"></span> Pisces lamp             |   <img src="https://alexislours.github.io/img/FtrIcon/StarpiecePisces.png" width="35"/>    | Feb 19 - Mar 20 |
+| ♈ Aries       | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacAries.png" id="inv-icon"></span> Aries rocking chair      |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceAries.png" width="35"/>    | Mar 21 - Apr 19 |
+| ♉ Taurus      | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacTaurus.png" id="inv-icon"></span> Taurus bathtub          |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceTaurus.png" width="35"/>    | Apr 20 - May 20 |
+| ♊ Gemini      | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacGemini.png" id="inv-icon"></span> Gemini closet           |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceGemini.png" width="35"/>    | May 21 - Jun 21 |
+| ♋ Cancer      | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacCancer.png" id="inv-icon"></span> Cancer table            |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceCancer.png" width="35"/>    | Jun 22 - Jul 22 |
+| ♌ Leo         | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacLeo.png" id="inv-icon"></span> Leo sculpture              |     <img src="https://alexislours.github.io/img/FtrIcon/StarpieceLeo.png" width="35"/>     | Jul 23 - Aug 22 |
+| ♍ Virgo       | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacVirgo.png" id="inv-icon"></span> Virgo harp               |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceVirgo.png" width="35"/>    | Aug 23 - Sep 22 |
+| ♎ Libra       | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacLibra.png" id="inv-icon"></span> Libra scale              |    <img src="https://alexislours.github.io/img/FtrIcon/StarpieceLibra.png" width="35"/>    | Sep 23 - Oct 23 |
+| ♏ Scorpio     | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacScorpio.png" id="inv-icon"></span> Scorpio lamp           |   <img src="https://alexislours.github.io/img/FtrIcon/StarpieceScorpio.png" width="35"/>   | Oct 24 - Nov 22 |
+| ♐ Sagittarius | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacSagittarius.png" id="inv-icon"></span> Sagittarius arrow  | <img src="https://alexislours.github.io/img/FtrIcon/StarpieceSagittarius.png" width="35"/> | Nov 23 - Dec 21 |
+| ♑ Capricorn   | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrZodiacCapricornus.png" id="inv-icon"></span> Capricorn ornament | <img src="https://alexislours.github.io/img/FtrIcon/StarpieceCapricornus.png" width="35"/> | Dec 22 - Jan 19 |
 
 {: .note}
 The dates are the same for both Northern & Southern Hemispheres.
