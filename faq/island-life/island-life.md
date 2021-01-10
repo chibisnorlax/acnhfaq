@@ -120,6 +120,6 @@ First you need a wetsuit, they can be bought from the cabinet in Nook's Cranny o
 If you are having trouble catching a sea creature because it is moving too quickly you could try approching it without holding <span class="icon-A"></span> then selecting <span class="icon-Y"></span> when you are near enough to dive and catch it. Or you could try swimming towards it and making it move into the corners of the net since they can't go past it.
 
 ### Who is Pascal?
-If you catch a scallop and it's the first scallop of that day caught, an NPC named [Pascal](/acnhfaq/npc#pascal) will appear and ask for the scallop, if you tell him yes, then he will give you either a pearl, a mermaid furniture diy, or mermaid clothing that will go directly into your pockets if you have enough pocket space.
+If you catch a scallop and it's the first scallop of that day caught, an NPC named [Pascal](/acnhfaq/npc/permanent#pascal) will appear and ask for the scallop, if you tell him yes, then he will give you either a pearl, a mermaid furniture diy, or mermaid clothing that will go directly into your pockets if you have enough pocket space.
 
 For more information, please visit <https://yuexr.github.io/img/pascal2.png>
