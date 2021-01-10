@@ -18,7 +18,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 {:toc}
 * * *
 
-## Tom Nook
+## Tom Nook <span><img src="https://alexislours.github.io/img/NpcIcon/rco.png" id="inv-icon"></span>
 - Helps you navigate the tutorial phase of the game, and is the point of contact for construction-related queries.
 - If you aren't sure what to do, talk to him and choose "What should I do?" If he doesn't have anything for you today, he may have something for you tomorrow! 
 - He is also the NPC who is in charge of critical decisions. Access this menu by pressing the <span class="icon-minus"></span> button while on the game title screen. 
@@ -35,9 +35,11 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 - Unlocked when you upgrade [Resident Services](/acnhfaq/unlocks#building-unlocks) into a building.
 - Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.
 - You can talk to Isabelle to reset villagers' clothing, catchphrases through the 'Discuss a Resident' option. 
-  - **Note:** Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
-  - The way they talk: Resets custom catchphrases, but NOT nicknames or greetings.
-  - The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
+
+{: .note}
+Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
+- The way they talk: Resets custom catchphrases, but NOT nicknames or greetings.
+- The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
 
 ## Pascal
 - Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.
