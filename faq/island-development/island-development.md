@@ -25,16 +25,33 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 
 ## Materials & DIYs
 ### How can I find X seasonal material?
-- See [here](https://bigfootmg.github.io/ACNH-Plant-Guide/07.png) for young spring bamboo, cherry blossom, acorns, pine cones, maple leaves, and mushrooms.  
-- Summer shells are found on the beach and more spawn every five minutes.
-- Snowflakes flow around you island and can be caught with a net.
+The timeframe of which each seasonal material can be obtained in is tabled below. 
+
+|Seasonal Material|Time Period|
+|:-:|:-:|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/DIYBambooSpring.png" id="inv-icon"><br>Young spring bamboo | NH: Feb 25 - May 21<br>SH: Aug 25 - Nov 30|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/Sakurapetal.png" id="inv-icon"><br>Cherry-blossom petals | NH: Apr 1 - Apr 10<br>SH: Oct 1 - Oct 10|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/ShellSummer.png" id="inv-icon"><br>Summer shells | NH: Jun 1 - Aug 31<br>SH: Dec 1 - Feb 29|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/DIYAcorn.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/DIYPinecone.png" id="inv-icon"><br>Acorns and pine cones | NH: Sep 1 - Dec 10<br>SH: Mar 1 - Jun 10|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/Mush0.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/Mush1.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/Mush2.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/Mush3.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/Mush4.png" id="inv-icon"><br>Mushrooms | NH: Nov 1 - Nov 30<br>SH: May 1 - May 31|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/AutumnLeaf.png" id="inv-icon"><br>Maple Leaves | NH: Nov 16 - Nov 25<br>SH: May 16 - May 25|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/SnowCrystal.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/SnowCrystalLarge.png" id="inv-icon"><br>Snowflakes | NH: Dec 11 - Feb 25<br>SH: June 11 - Aug 24|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/ChristmasOrnamentA.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/ChristmasOrnamentB.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/ChristmasOrnamentC.png" id="inv-icon"><br>Ornaments | Dec 15 - Jan 6|
+
+- See [here](https://bigfootmg.github.io/ACNH-Plant-Guide/07.png) for more explanation on young spring bamboo, cherry blossom, acorns, pine cones, maple leaves, and mushrooms.  
+- Summer shells are found on the beach and more spawn **every five minutes**.
+- Snowflakes float around your island and can be caught with a net.
+- Large snowflaeks are rewarded for [building perfect snowboys.](/acnhfaq/island-dev/#snowboys)
 - Ornaments drop from decorated cedar trees. They will only appear after Isabelle announces their presence. See [here](/acnhfaq/tt/#i-time-traveled-to-festive-season-but-why-are-none-of-the-cedar-trees-decorated) for how to get them. 
-- Note for acorns, pinecones and ornaments: you can simply shake one tree infinitely until it produces the amount you want.
+- Head [here](https://cestislife.github.io/seasonaldiy) for a complete list of seasonal DIYs that use these materials.
+
+{:. note}
+> **For acorns, pinecones and ornaments:** you can simply shake one tree infinitely until it produces the amount you want.
 
 ### How do I obtain "X" DIY recipe?
 - Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personalities give you which recipes.   
 - The Pitfall Seed DIY is either received from a crafting Jock villager or self-taught through digging up a pitfall seed. 
-- Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. come from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons work, and [here](https://cestislife.github.io/seasonaldiy) for a complete list of seasonal DIYs.
+- Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. come from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons work.
 - Trash DIY recipes are self-taught after fishing up a certain amount of trash. Visit the spreadsheet in the last bullet point for how many for a specific one.  
 - The King Tut mask is self-taught after picking up a golden nugget dropped from hitting a rock.  
 - Most Spooky DIY recipes are obtained through crafting villagers, balloons, or message bottles. The rest can be obtained from villagers and Jack on Halloween. See [here](https://cestislife.github.io/img/hwn-diy-sources.png) for more detail.  
