@@ -110,6 +110,9 @@ Your weather and time in the dream will be same as when you upload the dream.
 ### What can you do in a dream?
 You can explore other user's islands at your own leisure to get inspiration or talk to different villagers! Any changes made by visitors will NOT affect your real island and visitors can NOT take anything from a dream!  
 
+### What are dream bell exchange tickets for?
+These <span><img src="https://alexislours.github.io/img/MenuIcon/DreamBellExchangeTicket.png" id="inv-icon"></span> tickets are given to you by Luna via the mail the next day after uploading your dream. They can be sold at Nook's Cranny for 5,000 <span class="icon-Bells"></span>. They have no other use.  
+
 * * *
 
 ## Swimming
