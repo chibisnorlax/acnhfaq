@@ -8,7 +8,7 @@ permalink: island-life/gardening/
 ---
 
 # Gardening
-The ACNH gardening community has kindly put together various resources for all your gardening needs! Please check the links below to help answer any gardening-related questions you may have. ALternatively, head over to the different pages in the Table of Contents below.
+The ACNH gardening community has kindly put together various resources for all your gardening needs! Please check the links below to help answer any gardening-related questions you may have. Alternatively, head over to the different pages in the Table of Contents below.
 
 ## Gardening FAQ
 <https://bit.ly/acnhflowerfaq>  
