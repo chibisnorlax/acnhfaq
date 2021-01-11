@@ -41,7 +41,7 @@ The timeframe of which each seasonal material can be obtained in is tabled below
 - See [here](https://bigfootmg.github.io/ACNH-Plant-Guide/07.png) for more explanation on young spring bamboo, cherry blossom, acorns, pine cones, maple leaves, and mushrooms.  
 - Summer shells are found on the beach and more spawn **every five minutes**.
 - Snowflakes float around your island and can be caught with a net.
-- Large snowflaeks are rewarded for [building perfect snowboys.](/acnhfaq/island-dev/#snowboys)
+- Large snowflakes are rewarded for [building perfect snowboys.](/acnhfaq/island-dev/#snowboys)
 - Ornaments drop from decorated cedar trees. They will only appear after Isabelle announces their presence. See [here](/acnhfaq/tt/#i-time-traveled-to-festive-season-but-why-are-none-of-the-cedar-trees-decorated) for how to get them. 
 - Head [here](https://cestislife.github.io/seasonaldiy) for a complete list of seasonal DIYs that use these materials.
 
