@@ -6,6 +6,7 @@ parent: Gardening
 grand_parent: Island Life
 has_children: true
 permalink: island-life/gardening/others/
+has_toc: false
 ---
 # Other Gardening Mechanics
 ## Rock Gardens
@@ -29,11 +30,10 @@ There are 6 types of trees in total, for more details, see: <https://bigfootmg.g
 |:-:|-|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/PltOak.png" id="inv-icon"></span><br>Hardwood|• Naturally found on Islands<br>• Buy saplings from Nook’s Cranny|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/PltConifer.png" id="inv-icon"></span><br>Cedar|• Naturally found on island cliffs.<br>• Buy saplings from Nook’s Cranny|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltConifer.png" id="inv-icon"></span><br>Cedar|• Naturally found on island cliffs.<br>• Buy saplings from Nook’s Cranny|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltApple.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltPeach.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltPear.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltCherry.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltOrange.png" id="inv-icon"></span><br>Cedar|• Naturally found on islands.<br>• Plant fruit to grow|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/PltApple.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltPeach.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltPear.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltCherry.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltOrange.png" id="inv-icon"></span><br>Fruit|• Naturally found on islands.<br>• Plant fruit to grow|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/PltPalm.png" id="inv-icon"></span><br>Coconut|• Found on mystery islands.<br>• Plant coconut to grow.|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltBamboo.png" id="inv-icon"></span><br>Coconut|• Found on Bamboo Island.<br>• Plant bamboo to grow.|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltMoney.png" id="inv-icon"></span><br>Coconut|• Bury bells in glowing spots to grow.|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/PltBamboo.png" id="inv-icon"></span><br>Bamboo|• Found on Bamboo Island.<br>• Plant bamboo to grow.|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/PltMoney.png" id="inv-icon"></span><br>Money Tree|• Bury bells in glowing spots to grow.|
 
 ### Why aren’t my trees growing?
 Trees have 5 growth stages. A tree will grow 1 stage per day as long as there are fewer than 12 trees at stage 2 or higher (or stage 1 or higher fruit trees) within a 9x9 tile area centered on the tree that is growing. If you are having trouble with stunted trees, move them to a more open area and replant them when they are fully grown. For more details, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/#Tree%20Growth>

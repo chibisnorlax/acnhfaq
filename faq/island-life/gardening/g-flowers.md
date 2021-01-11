@@ -6,6 +6,7 @@ parent: Gardening
 grand_parent: Island Life
 has_children: true
 permalink: island-life/gardening/flowers/
+has_toc: false
 ---
 
 # Flowers

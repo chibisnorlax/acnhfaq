@@ -6,6 +6,7 @@ parent: Gardening
 grand_parent: Island Life
 has_children: true
 permalink: island-life/gardening/breeding/
+has_toc: false
 ---
 # Flower Breeding Mechanics 
 ## What is breeding?
