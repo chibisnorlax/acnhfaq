@@ -37,8 +37,10 @@ Nature points takes into account of the quantity of trees, bamboo, flowers, and 
 |     Flower stems/buds      |      0.7       |
 |        Flower seeds        |      0.5       |
 |           Bushes           |      0.5       |
-|       DIY furniture        |      0.25      |
-|    Size 3 DIY furniture    |      0.75      |
+|       DIY furniture*       |      0.25      |
+|   Size 3 DIY furniture*    |      0.75      |
+
+*: These are additive, i.e. if a DIY furniture is at least 3 blocks wide. It gives a total scenery score of 1.
 
 **This category has the following point/rating caps:**
 > * Trees, bamboo trees, and bushes **do not provide any points** before they are fully grown.
@@ -63,7 +65,7 @@ Development points are calculated from the buildings, structures, and furniture 
 |     Outdoor Bonus*     |      0.5       |
 |     Size 3 Bonus*      |       3        |
 
-<sup>*</sup>: These are additive, i.e. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 points.
+*: These are additive, i.e. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 points.
 
 **This category has the following point/rating caps:**
 > * Having fewer than **100 weeds** will not incur a penalty, but having more than that will reduce development points by 1 point per 30 weeds after that, capping at 30 points penalised. 
