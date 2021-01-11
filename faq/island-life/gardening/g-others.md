@@ -72,7 +72,7 @@ Shrubs can be bought from Leif, who will sell one type that is in-season and one
 ### What shrubs are in season?
 
 |Shrub|Period|
-|-|-|
+|:-:|-|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/PltBushCamelliaPink.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltBushCamelliaRed.png" id="inv-icon"></span><br>Camellia|NH: Jan 1 - Mar 31<br>SH: Jun 16 - Sep 30|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/PltAzaleaPink.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltAzaleaWhite.png" id="inv-icon"></span><br>Azalea|NH: Apr 11 - May 31<br>SH: Oct 11 - Nov 30|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/PltHydrangeaBlue.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltHydrangeaPink.png" id="inv-icon"></span><br>Hydrangea|NH: Jun 1 - Jul 20<br>SH: Dec 1 - Jan 20|
