@@ -28,7 +28,7 @@ They *cannot* buy bridges or inclines, move buildings, or progress the story (i.
 The timeframe of which each seasonal material can be obtained in is tabled below. 
 
 |Seasonal Material|Time Period|
-|:-:|:-:|
+|:-:|-|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/DIYBambooSpring.png" id="inv-icon"><br>Young spring bamboo | NH: Feb 25 - May 21<br>SH: Aug 25 - Nov 30|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/Sakurapetal.png" id="inv-icon"><br>Cherry-blossom petals | NH: Apr 1 - Apr 10<br>SH: Oct 1 - Oct 10|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/ShellSummer.png" id="inv-icon"><br>Summer shells | NH: Jun 1 - Aug 31<br>SH: Dec 1 - Feb 29|
@@ -45,7 +45,7 @@ The timeframe of which each seasonal material can be obtained in is tabled below
 - Ornaments drop from decorated cedar trees. They will only appear after Isabelle announces their presence. See [here](/acnhfaq/tt/#i-time-traveled-to-festive-season-but-why-are-none-of-the-cedar-trees-decorated) for how to get them. 
 - Head [here](https://cestislife.github.io/seasonaldiy) for a complete list of seasonal DIYs that use these materials.
 
-{:. note}
+{: .note}
 > **For acorns, pinecones and ornaments:** you can simply shake one tree infinitely until it produces the amount you want.
 
 ### How do I obtain "X" DIY recipe?
