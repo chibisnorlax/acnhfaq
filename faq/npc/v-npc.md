@@ -172,7 +172,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/slo.png" id="heading-icon"></span>Leif
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/skk.png">
+    <img src="/acnhfaq/assets/NPCPortrait/slo.png">
     <div class="details">
     <ul>
         <li>Shop vendor in the Resident Services plaza.</li>
@@ -195,7 +195,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/gulB.png" id="heading-icon"></span>Gullivarrr
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/gul.png">
+    <img src="/acnhfaq/assets/NPCPortrait/gulB.png">
     <div class="details">
     <ul>
         <li>Can be found sleeping on the island's beaches.</li>
@@ -210,7 +210,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/gst.png" id="heading-icon"></span>Wisp
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/gul.png">
+    <img src="/acnhfaq/assets/NPCPortrait/gst.png">
     <div class="details">
     <ul>
         <li>Only visits at night.</li>
