@@ -44,7 +44,7 @@ Hitting trees with an axe will drop the three types of wood. Shaking a tree will
 ### How do I grow money trees?
 Everyday there will be a spot on your island that is glowing. If you dig that spot, you will get a bag of 1000 bells. If you bury bells in the hole while it is glowing, it will create a money tree sapling. The amount of money you can harvest from the money tree when it is fully grown depends on how many bells you bury, and rng. It is recommended to only plant 10k bell bags to make money trees for the highest profits over time. For more details, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Money%20Trees>
 
-## Ornament Trees:
+## Ornament Trees
 ### Why aren’t my trees decorated?
 Cedar trees can become decorated only from Dec 15 to Jan 6, in both hemispheres. 50% of the cedar trees on your island will be decorated. 
 NOTE: Prior to version 1.6.0, you needed to have at least 22 hardwood and cedar trees inorder for cedar trees to become decorated, because trees filled with items could not become decorated. This has been changed so that 50% of all cedar trees, regardless of any items that were in the tree, will become decorated.
