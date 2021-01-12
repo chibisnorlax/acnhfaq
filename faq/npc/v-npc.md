@@ -91,7 +91,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
     <ul>
         <li>Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.</li>
         <li>Mysterious flooring/wallpaper purchased with <b>Saharah Tickets</b> are random for each player.</li>
-        <li>Buy from her to obtain <span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> <b>Saharah Tickets</b>. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
+        <li>Buy from her to obtain <b>Saharah Tickets</b>. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
     </ul>
     </div>
 </div>
@@ -216,7 +216,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
     <div class="details">
     <ul>
         <li>Only visits at night.</li>
-        <li>Upon speaking to Wisp, he will become scared and "fall apart". This will prompt him to ask you to find his <b>5 <span><img src="https://alexislours.github.io/img/MenuIcon/YutaroWisp.png" id="inv-icon"></span> spirit pieces.</b></li>
+        <li>Upon speaking to Wisp, he will become scared and "fall apart". This will prompt him to ask you to find his <b>5 spirit pieces.</b></li>
         <li>Completing Wisp's quest will cause him to gift you either a furniture, clothing, wallpaper or flooring item. He will ask if you want <code>Something expensive</code> or <code>Something new</code>.</li>
     </ul>
     </div>
