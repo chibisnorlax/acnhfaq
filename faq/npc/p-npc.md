@@ -120,7 +120,7 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
 
 ## <span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconDal^w.png" id="heading-icon"></span><span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="heading-icon"></span>Orville and Wilbur
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/doc.png"><img src="/acnhfaq/assets/NPCPortrait/dod.png">
+    <img src="/acnhfaq/assets/NPCPortrait/dod.png"><img src="/acnhfaq/assets/NPCPortrait/doc.png">
     <div class="details">
     <ul>
         <li>Run the airport.</li>
