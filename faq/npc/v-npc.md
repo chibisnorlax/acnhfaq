@@ -57,7 +57,7 @@ Visiting NPCs do have visiting hours, they are listed below.
         <li><a href="/acnhfaq/npc/permanent#blathers">Blathers'</a> sister.</li>
         <li>Shares information about astronomy and gives the player <b>Celestial and Zodiac DIYs.</b></li>
         <li>Once the player has learned all of her obtainable recipes, she will give the player star fragments.</li>
-        <li>Celeste can visit on nights where you have shooting stars (see <a href="/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character">NPC Schedule</a>. 
+        <li>Celeste can visit on nights where you have shooting stars (see <a href="/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character">NPC Schedule</a>.</li>
     </ul>
     </div>
 </div>
@@ -73,7 +73,7 @@ Celeste's appearance will be blocked by K.K. Slider.
         <li>Unlocked through completing <a href="/acnhfaq/unlocks#misc-unlocks">Project K</a>.</li>
         <li>Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead.</li>
         <li>Special visit for player birthdays.</li>
-        <li>Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song.</a>. 
+        <li>Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song.</a>.</li>
     </ul>
     </div>
 </div>
@@ -92,7 +92,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
         <li>Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.</li>
         <li>Mysterious flooring/wallpaper purchased with <b>Saharah Tickets</b> are random for each player.</li>
         <li><span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> **Saharah Tickets** can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
-        <li>Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.</a>. 
+        <li>Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.</a>.</li>
     </ul>
     </div>
 </div>
@@ -105,7 +105,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
         <li>Sells artwork (real and fake) and non-native color variant furniture.</li>
         <li>Docks his ship at the player's secret beach on the north shore of the island.</li>
         <li>Each player can purchase up to one piece of artwork from him, and an unlimited amount of the 2 furniture items he brings each visit.</li>
-        <li>Art is mailed to you the following day, furniture is in your pocket immediately after purchase.</a>. 
+        <li>Art is mailed to you the following day, furniture is in your pocket immediately after purchase.</a>.</li>
     </ul>
     </div>
 </div>
