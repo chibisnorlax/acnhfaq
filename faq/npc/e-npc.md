@@ -47,7 +47,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
     <div class="details">
     <ul>
         <li>First encounter during <a href="/acnhfaq/events#may-day-labour-day">May Day</a> mystery tour event. </li>
-        <li>At the end of the maze, the player will get to speak with Rover and is gifted the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrTrunkXct.png" id="inv-icon"></span>Rover's briefcase.</li>
+        <li>At the end of the maze, the player will get to speak with Rover and is gifted the "Rover's briefcase."</li>
     </ul>
     </div>
 </div>
