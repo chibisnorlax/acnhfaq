@@ -57,7 +57,7 @@ Visiting NPCs do have visiting hours, they are listed below.
         <li><a href="/acnhfaq/npc/permanent#blathers">Blathers'</a> sister.</li>
         <li>Shares information about astronomy and gives the player <b>Celestial and Zodiac DIYs.</b></li>
         <li>Once the player has learned all of her obtainable recipes, she will give the player star fragments.</li>
-        <li>Celeste can visit on nights where you have shooting stars (see <a href="/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character">NPC Schedule</a>.</li>
+        <li>Celeste can visit on nights where you have shooting stars (see <a href="/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character">NPC Schedule</a>).</li>
     </ul>
     </div>
 </div>
