@@ -24,7 +24,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     <div class="details">
     <ul>
         <li>Helps you navigate the tutorial phase of the game, and is the point of contact for construction-related queries.</li>
-        <li>f you aren't sure what to do, talk to him and choose "What should I do?" If he doesn't have anything for you today, he may have something for you tomorrow!</li>
+        <li>If you aren't sure what to do, talk to him and choose "What should I do?" If he doesn't have anything for you today, he may have something for you tomorrow!</li>
         <li>He is also the NPC who is in charge of critical decisions. Access this menu by pressing the <span class="icon-Minus"></span> button while on the game title screen.</li>
     </ul>
     </div>
