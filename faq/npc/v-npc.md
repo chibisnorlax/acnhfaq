@@ -40,22 +40,44 @@ Visiting NPCs do have visiting hours, they are listed below.
 * * *
 
 ## <span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconKaburiba^w.png" id="heading-icon"></span>Daisy Mae
-- Visits every Sunday to sell turnips (see [Turnips/Stalk Market](/acnhfaq/turnips)) once Nook's Cranny is unlocked.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/boc.png">
+    <div class="details">
+    <ul>
+        <li>Visits every Sunday to sell turnips (see <a href="/acnhfaq/turnips">Turnips/Stalk Market</a> once Nook's Cranny is unlocked.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/ows.png" id="heading-icon"></span>Celeste
-- [Blathers'](/acnhfaq/npc/permanent#blathers) sister.
-- Shares information about astronomy and gives the player **Celestial** and **Zodiac** DIYs.
-- Once the player has learned all of her obtainable recipes, she will give the player star fragments. 
-- Celeste can visit on nights where you have shooting stars (see [NPC Schedule](#how-often-does-x-visit-how-do-i-unlock-x-character)). 
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/ows.png">
+    <div class="details">
+    <ul>
+        <li><a href="/acnhfaq/npc/permanent#blathers">Blathers'</a> sister.</li>
+        <li>Shares information about astronomy and gives the player <b>Celestial and Zodiac DIYs.</b></li>
+        <li>Once the player has learned all of her obtainable recipes, she will give the player star fragments.</li>
+        <li>Celeste can visit on nights where you have shooting stars (see <a href="/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character">NPC Schedule</a>. 
+    </ul>
+    </div>
+</div>
 
 {: .note}
 Celeste's appearance will be blocked by K.K. Slider.
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/tkkA.png" id="heading-icon"></span>K.K. Slider
-- Unlocked through completing [Project K](/acnhfaq/unlocks#misc-unlocks).
-- Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead.
-- Special visit for player birthdays.
-- Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. 
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/tKK.png">
+    <div class="details">
+    <ul>
+        <li>Unlocked through completing <a href="/acnhfaq/unlocks#misc-unlocks">Project K</a>.</li>
+        <li>Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead.</li>
+        <li>Special visit for player birthdays.</li>
+        <li>Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song.</a>. 
+    </ul>
+    </div>
+</div>
+
 - Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". All K.K. songs and their corresponding moods can be found [here](/acnhfaq/island-dev/music#how-do-i-put-music-in-the-music-players).
   - K.K. Slider only takes song requests from 6:00 PM - 12:00 AM
 
@@ -63,34 +85,69 @@ Celeste's appearance will be blocked by K.K. Slider.
 K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off, etc) on the Saturday, and will be pushed to Monday if there is also an event (Fireworks Festival in August) on Sunday.
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/cml.png" id="heading-icon"></span>Saharah
-- Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.
-- Rugs and mysterious flooring/wallpaper purchased with **<span class="icon-Bells"></span> bells** are the same for every player.
-- Mysterious flooring/wallpaper purchased with **Saharah Tickets** are random for each player.
-- <span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> **Saharah Tickets** can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.
-- Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/cml.png">
+    <div class="details">
+    <ul>
+        <li>Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.</li>
+        <li>Mysterious flooring/wallpaper purchased with <b>Saharah Tickets</b> are random for each player.</li>
+        <li><span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> **Saharah Tickets** can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
+        <li>Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.</a>. 
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/fox.png" id="heading-icon"></span>Redd
-- Sells artwork (real and fake) and non-native color variant furniture.
-- Docks his ship at the player's secret beach on the north shore of the island.
-- Each player can purchase up to one piece of artwork from him, and an unlimited amount of the 2 furniture items he brings each visit.
-- Art is mailed to you the following day, furniture is in your pocket immediately after purchase.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/fox.png">
+    <div class="details">
+    <ul>
+        <li>Sells artwork (real and fake) and non-native color variant furniture.</li>
+        <li>Docks his ship at the player's secret beach on the north shore of the island.</li>
+        <li>Each player can purchase up to one piece of artwork from him, and an unlimited amount of the 2 furniture items he brings each visit.</li>
+        <li>Art is mailed to you the following day, furniture is in your pocket immediately after purchase.</a>. 
+    </ul>
+    </div>
+</div>
+
 - For more info on Redd's art see [here](https://yuexr.github.io/img/redd1.png) and [here](https://yuexr.github.io/img/redd2.png).
 - The [Fake Art Identifier tool here](https://nookplaza.net/tools?tab=fake_art) can be used to find the differences between fake and real art.
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/bey.png" id="heading-icon"></span>C.J.
-- Buys fish for **1.5x** Timmy and Tommy's price, but only after you complete his challenge.
-- Can make you fish models, which require 3 of the same fish, and is mailed to you the following day.
-- C.J. is the host of the [Fishing Tournament](/acnhfaq/events#fishing-tourney).
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/bey.png">
+    <div class="details">
+    <ul>
+        <li>Buys fish for <b>1.5x</b> Timmy and Tommy's price, but only after you complete his challenge.</li>
+        <li>Can make you fish models, which require 3 of the same fish, and is mailed to you the following day.</li>
+        <li>C.J. is the host of the <a href="/acnhfaq/events#fishing-tourney">Fishing Tournament</a>.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/chy.png" id="heading-icon"></span>Flick
-- Buys bugs for **1.5x** Timmy and Tommy's price.
-- Can make you bug models, which require 3 of the same bug, and is mailed to you the following day.
-- Flick is the host of the [Bug-Off](/acnhfaq/events#bug-off).
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/chy.png">
+    <div class="details">
+    <ul>
+        <li>Buys bugs for <b>1.5x</b> Timmy and Tommy's price.</li>
+        <li>Can make you bug models, which require 3 of the same bug, and is mailed to you the following day.</li>
+        <li>Flick is the host of the <a href="/acnhfaq/events#bug-off">Bug-Off</a>.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/hgc.png" id="heading-icon"></span>Label
-- The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
-- Conducts fashion challenges with the player in exchange for clothing and/or **Tailor's Tickets** which can be used in The Able Sisters shop.
-- Label quest rewards are calculated as below
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/hgc.png">
+    <div class="details">
+    <ul>
+        <li>The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.</li>
+        <li>Conducts fashion challenges with the player in exchange for clothing and/or <b>Tailor's Tickets</b> which can be used in The Able Sisters shop.</li>
+        <li>Label quest rewards are calculated as below:</li>
+    </ul>
+    </div>
+</div>
 
 |  Evaluation  | Items that fit the theme | Reward                                                       | Friendship points increase |
 |:------------:|:------------------------:|--------------------------------------------------------------|:--------------------------:|
@@ -103,27 +160,64 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
 Friendship levels with Label only impact her and Sable's dialogs (referencing Label).
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/skk.png" id="heading-icon"></span>Kicks
-- Shop vendor in the Resident Services plaza.
-- Sells mostly exclusive accessories, bags and shoes.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/skk.png">
+    <div class="details">
+    <ul>
+        <li>Shop vendor in the Resident Services plaza.</li>
+        <li>Sells mostly exclusive accessories, bags and shoes.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/slo.png" id="heading-icon"></span>Leif
-- Shop vendor in the Resident Services plaza.
-- Sells shrubs and flower seeds. Also sells pumpkin starts year-round.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/skk.png">
+    <div class="details">
+    <ul>
+        <li>Shop vendor in the Resident Services plaza.</li>
+        <li>Sells shrubs and flower seeds. Also sells pumpkin starts year-round.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/gul.png" id="heading-icon"></span>Gulliver
-- Can be found sleeping on the island's beaches.
-- Upon waking Gulliver up, he will ask you to find 5 communicator parts which are buried in the sand.
-- If the player completes his favor, he will mail the player a special furniture item the following day.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/gul.png">
+    <div class="details">
+    <ul>
+        <li>Can be found sleeping on the island's beaches.</li>
+        <li>Upon waking Gulliver up, he will ask you to find 5 communicator parts which are buried in the sand.</li>
+        <li>If the player completes his favor, he will mail the player a special furniture item the following day.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/gulB.png" id="heading-icon"></span>Gullivarrr
-- Can be found sleeping on the island's beaches.
-- Upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.
-- If the player completes his favor, he will mail the player a special pirate furniture item the following day.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/gul.png">
+    <div class="details">
+    <ul>
+        <li>Can be found sleeping on the island's beaches.</li>
+        <li>Upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.</li>
+        <li>If the player completes his favor, he will mail the player a special pirate furniture item the following day.</li>
+    </ul>
+    </div>
+</div>
+
 - See [Yue's guide here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
 - See [here for a list](https://yuexr.github.io/img/pirate.png) of his rewards.
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/gst.png" id="heading-icon"></span>Wisp
-- Visits only at night.
-- Upon speaking to Wisp, he will become scared and "fall apart". This will prompt him to ask you to find his **5** <span><img src="https://alexislours.github.io/img/MenuIcon/YutaroWisp.png" id="inv-icon"></span> **spirit pieces.**
-- Completing Wisp's quest will cause him to gift you either a furniture, clothing, wallpaper or flooring item. He will ask if you want `Something expensive` or `Something new`.
-- Exact rates and logic of the rewards can be found on [asteriation's website.](https://acnh.isomorphicbox.com/rates/#wisp).
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/gul.png">
+    <div class="details">
+    <ul>
+        <li>Only visits at night.</li>
+        <li>Upon speaking to Wisp, he will become scared and "fall apart". This will prompt him to ask you to find his <b>5 <span><img src="https://alexislours.github.io/img/MenuIcon/YutaroWisp.png" id="inv-icon"></span> spirit pieces.</b></li>
+        <li>Completing Wisp's quest will cause him to gift you either a furniture, clothing, wallpaper or flooring item. He will ask if you want <code>Something expensive</code> or <code>Something new</code>.</li>
+    </ul>
+    </div>
+</div>
+
+- Exact rates and logic of the rewards can be found on [asteriation's website](https://acnh.isomorphicbox.com/rates/#wisp).
