@@ -73,7 +73,7 @@ Celeste's appearance will be blocked by K.K. Slider.
         <li>Unlocked through completing <a href="/acnhfaq/unlocks#misc-unlocks">Project K</a>.</li>
         <li>Visits every Saturday. In the case of a Saturday event, K.K. will visit on Sunday instead.</li>
         <li>Special visit for player birthdays.</li>
-        <li>Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song.</a>.</li>
+        <li>Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song.</li>
     </ul>
     </div>
 </div>
@@ -91,7 +91,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
     <ul>
         <li>Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.</li>
         <li>Mysterious flooring/wallpaper purchased with <b>Saharah Tickets</b> are random for each player.</li>
-        <li><span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> **Saharah Tickets** can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
+        <li><span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> <b>Saharah Tickets</b> can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
         <li>Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.</li>
     </ul>
     </div>
