@@ -76,7 +76,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/rei.png" id="heading-icon"></span>Jingle
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/tuk.png">
+    <img src="/acnhfaq/assets/NPCPortrait/rei.png">
     <div class="details">
     <ul>
         <li>First encounter during <a href="/acnhfaq/events#toy-day-christmas">Toy Day</a>. </li>
