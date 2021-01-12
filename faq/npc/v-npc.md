@@ -44,7 +44,7 @@ Visiting NPCs do have visiting hours, they are listed below.
     <img src="/acnhfaq/assets/NPCPortrait/boc.png">
     <div class="details">
     <ul>
-        <li>Visits every Sunday to sell turnips (see <a href="/acnhfaq/turnips">Turnips/Stalk Market</a> once Nook's Cranny is unlocked.</li>
+        <li>Visits every Sunday to sell turnips (see <a href="/acnhfaq/island-life/turnips">Turnips/Stalk Market</a> once Nook's Cranny is unlocked.</li>
     </ul>
     </div>
 </div>
