@@ -19,25 +19,68 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 * * *
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/pyn.png" id="heading-icon"></span>Zipper T. Bunny
-- First encounter at the beginning of [Bunny Day](/acnhfaq/events#bunny-day-easter) event.
-- Explains and hosts Bunny Day.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/pyn.png">
+    <div class="details">
+    <ul>
+        <li>First encounter at the beginning of <a href="/acnhfaq/events#bunny-day-easter">Bunny Day</a> event.</li>
+        <li>Explains and hosts Bunny Day.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/alw.png" id="heading-icon"></span><span><img src="https://alexislours.github.io/img/NpcIcon/alp.png" id="heading-icon"></span>Reese and Cyrus
-- First encounter during the [Wedding event](/acnhfaq/events#wedding-season).
-- Appear on Harv's island, the player can assist them in taking wedding photos in exchange for special furniture.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/alw.png">
+    <img src="/acnhfaq/assets/NPCPortrait/alp.png">
+    <div class="details">
+    <ul>
+        <li>First encounter during the <a href="/acnhfaq/events#wedding-season">Wedding event</a></li>
+        <li>Appear on Harv's island, the player can assist them in taking wedding photos in exchange for special furniture.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/xct.png" id="heading-icon"></span>Rover
-- First encounter during [May Day](/acnhfaq/events#may-day-labour-day) mystery tour event. 
-- At the end of the maze, the player will get to speak with Rover and is gifted the "Rover's briefcase" item.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/xct.png">
+    <div class="details">
+    <ul>
+        <li>First encounter during <a href="/acnhfaq/events#may-day-labour-day">May Day</a> mystery tour event. </li>
+        <li>At the end of the maze, the player will get to speak with Rover and is gifted the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrTrunkXct.png" id="inv-icon"></span>Rover's briefcase.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/pkn.png" id="heading-icon"></span>Jack
-- First encounter during [Halloween](/acnhfaq/events#halloween).
-- Gifts various rewards in exchange for candies and lollipops.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/pkn.png">
+    <div class="details">
+    <ul>
+        <li>First encounter during <a href="/acnhfaq/events#halloween">Halloween</a>.</li>
+        <li>Gifts various rewards in exchange for candies and lollipops.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/tuk.png" id="heading-icon"></span>Franklin
-- First encounter during [Turkey Day](/acnhfaq/events#turkey-day-thanksgiving).
-- Gifts various rewards in exchange for needed ingredients.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/tuk.png">
+    <div class="details">
+    <ul>
+        <li>First encounter during <a href="/acnhfaq/events#turkey-day-thanksgiving">Turkey Day</a>.</li>
+        <li>Gifts various rewards in exchange for needed ingredients.</li>
+    </ul>
+    </div>
+</div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/rei.png" id="heading-icon"></span>Jingle
-- First encounter during [Toy Day](/acnhfaq/events#toy-day-christmas).  
-- Hosts the event and rewards players with Toy Day related DIYs and furniture.
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/tuk.png">
+    <div class="details">
+    <ul>
+        <li>First encounter during <a href="/acnhfaq/events#toy-day-christmas">Toy Day</a>. </li>
+        <li>Hosts the event and rewards players with Toy Day related DIYs and furniture.</li>
+    </ul>
+    </div>
+</div>
