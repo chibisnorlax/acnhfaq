@@ -35,7 +35,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     <img src="/acnhfaq/assets/NPCPortrait/rctrcm.png">
     <div class="details">
     <ul>
-        <li>Until [Nook's Cranny](/acnhfaq/unlocks#building-unlocks) is unlocked, you can buy and sell items from Timmy in the Resident Services tent.
+        <li>Until <a href="/acnhfaq/unlocks#building-unlocks">Nook's Cranny</a> is unlocked, you can buy and sell items from Timmy in the Resident Services tent.</li>
         <li>Timmy and Tommy run Nook's Cranny once it's built, where you can purchase decor, plants, and tools.</li>
     </ul>
     </div>
@@ -46,18 +46,18 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     <img src="/acnhfaq/assets/NPCPortrait/owl.png">
     <div class="details">
     <ul>
-        <li>Unlocked when you donate 5 critters to Tom Nook during the tutorial.
-        <li>Once the [museum](/acnhfaq/unlocks#building-unlocks) is built, you'll be able to donate bugs, fish, sea creatures, and art that Blathers will tell you about as well as display for players to look at. </li>
+        <li>Unlocked when you donate 5 critters to Tom Nook during the tutorial.</li>
+        <li>Once the <a href="/acnhfaq/unlocks#building-unlocks">museum</a> is built, you'll be able to donate bugs, fish, sea creatures, and art that Blathers will tell you about as well as display for players to look at. </li>
     </ul>
     </div>
 </div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/sza.png" id="heading-icon"></span>Isabelle
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/owl.png">
+    <img src="/acnhfaq/assets/NPCPortrait/sza.png">
     <div class="details">
     <ul>
-        <li>Unlocked when you upgrade [Resident Services](/acnhfaq/unlocks#building-unlocks) into a building.</li>
+        <li>Unlocked when you upgrade <a href="/acnhfaq/unlocks#building-unlocks">Resident Services</a> into a building.</li>
         <li>Isabelle handles daily announcements and is the point of contact for resident concerns, island evaluations, and personalizing your island's flag and tune.</li>
         <li>You can talk to Isabelle to reset villagers' clothing, catchphrases through the 'Discuss a Resident' option.</li>        
     </ul>
@@ -77,7 +77,7 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
         <li>Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.</li>
         <li>Will give Mermaid DIYs, clothing, or a pearl in exchange for the scallop you catch.</li>
         <li>Limited to one exchange with Pascal per day.</li>
-        <li>See [the guide here](https://yuexr.github.io/img/pascal2.png) for more info on Pascal.</li>
+        <li>See <a href="https://yuexr.github.io/img/pascal2.png">the guide here</a> for more info on Pascal.</li>
     </ul>
     </div>
 </div>
@@ -113,7 +113,7 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
         <li>Will wander around your island upon first encounter.</li>
         <li>Speaking with him will prompt him to invite you to his own island, which allows you to take photos of your villagers and decorated sets.</li>
         <li>Speak to Orville in the airport to fly to Harv's island.</li>
-        <li>Harv's island is the location for the [Wedding event](/acnhfaq/events#wedding-season).</li>
+        <li>Harv's island is the location for the <a href="/acnhfaq/events#wedding-season">Wedding event</a></li>
     </ul>
     </div>
 </div>
@@ -125,7 +125,7 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
     <ul>
         <li>Run the airport.</li>
         <li>Orville helps open gates for visitors, prepares your flights to other islands, and sends mail to your friends and neighbors.</li>
-        <li>Wilbur is the pilot and provides the player with flimsy tools on mystery tours (200 Nook Miles per tool).</li>
+        <li>Wilbur is the pilot and provides the player with flimsy tools on mystery tours (200 <span class="icon-NM"></span> per tool).</li>
     </ul>
     </div>
 </div>
