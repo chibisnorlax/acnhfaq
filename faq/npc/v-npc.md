@@ -91,11 +91,13 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
     <ul>
         <li>Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.</li>
         <li>Mysterious flooring/wallpaper purchased with <b>Saharah Tickets</b> are random for each player.</li>
-        <li><span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> <b>Saharah Tickets</b> can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
-        <li>Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.</li>
+        <li>Buy from her to obtain <span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> <b>Saharah Tickets</b>. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
     </ul>
     </div>
 </div>
+
+{: .note}
+Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/fox.png" id="heading-icon"></span>Redd
 <div class="content">
