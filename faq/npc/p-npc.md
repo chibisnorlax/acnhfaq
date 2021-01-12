@@ -19,7 +19,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 * * *
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/rco.png" id="heading-icon"></span>Tom Nook
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/rco.png">
     <div class="details">
     <ul>
@@ -31,7 +31,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 </div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/rcm.png" id="heading-icon"></span><span><img src="https://alexislours.github.io/img/NpcIcon/rct.png" id="heading-icon"></span>Timmy and Tommy (The "Nooklings")
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/rctrcm.png">
     <div class="details">
     <ul>
@@ -42,7 +42,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 </div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="heading-icon"></span>Blathers
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/owl.png">
     <div class="details">
     <ul>
@@ -53,7 +53,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 </div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/sza.png" id="heading-icon"></span>Isabelle
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/owl.png">
     <div class="details">
     <ul>
@@ -70,61 +70,73 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
 - The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/seo.png" id="heading-icon"></span>Pascal
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/seo.png">
     <div class="details">
-- Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.
-- Will give Mermaid DIYs, clothing, or a pearl in exchange for the scallop you catch.
-- Limited to one exchange with Pascal per day.
-- See [the guide here](https://yuexr.github.io/img/pascal2.png) for more info on Pascal.
+    <ul>
+        <li>Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.</li>
+        <li>Will give Mermaid DIYs, clothing, or a pearl in exchange for the scallop you catch.</li>
+        <li>Limited to one exchange with Pascal per day.</li>
+        <li>See [the guide here](https://yuexr.github.io/img/pascal2.png) for more info on Pascal.</li>
+    </ul>
     </div>
 </div>
 - See [here for the list of Mermaid Clothing](https://yuexr.github.io/img/mermaidclothing.png) and [here for the Mermaid Furniture set](https://yuexr.github.io/img/mermaidset.png).
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/hgh.png" id="heading-icon"></span>Mabel
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/hgh.png">
     <div class="details">
-- Visits your island to sell clothes once Nook's Cranny has been opened.
-- Opens up a store called The Able Sisters with Sable, where clothing can be purchased.
+    <ul>
+        <li>Visits your island to sell clothes once Nook's Cranny has been opened.</li>
+        <li>Opens up a store called The Able Sisters with Sable, where clothing can be purchased.</li>
+    </ul>
     </div>
 </div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/hgs.png" id="heading-icon"></span>Sable
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/hgs.png">
     <div class="details">
-- Appears in the back of The Able Sisters shop once opened.
-- Talking to her for 10 days will allow the player to befriend her, at which point Sable will start gifting the player customization patterns that they can use when customizing certain furniture items. 
+    <ul>
+        <li>Appears in the back of The Able Sisters shop once opened.</li>
+        <li>Talking to her for 10 days will allow the player to befriend her, at which point Sable will start gifting the player customization patterns that they can use when customizing certain furniture items.</li>
+    </ul>
     </div>
 </div>
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/spn.png" id="heading-icon"></span>Harvey (Harv)
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/spn.png">
     <div class="details">
-- Will wander around your island upon first encounter.
-- Speaking with him will prompt him to invite you to his own island, which allows you to take photos of your villagers and decorated sets.
-- Speak to Orville in the airport to fly to Harv's island.
-- Harv's island is the location for the [Wedding event](/acnhfaq/events#wedding-season).
+    <ul>
+        <li>Will wander around your island upon first encounter.</li>
+        <li>Speaking with him will prompt him to invite you to his own island, which allows you to take photos of your villagers and decorated sets.</li>
+        <li>Speak to Orville in the airport to fly to Harv's island.</li>
+        <li>Harv's island is the location for the [Wedding event](/acnhfaq/events#wedding-season).</li>
+    </ul>
     </div>
 </div>
 
 ## <span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconDal^w.png" id="heading-icon"></span><span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="heading-icon"></span>Orville and Wilbur
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/doc.png"><img src="/acnhfaq/assets/NPCPortrait/dod.png">
     <div class="details">
-- Run the airport.
-- Orville helps open gates for visitors, prepares your flights to other islands, and sends mail to your friends and neighbors.
-- Wilbur is the pilot and provides the player with flimsy tools on mystery tours (200 Nook Miles per tool).
+    <ul>
+        <li>Run the airport.</li>
+        <li>Orville helps open gates for visitors, prepares your flights to other islands, and sends mail to your friends and neighbors.</li>
+        <li>Wilbur is the pilot and provides the player with flimsy tools on mystery tours (200 Nook Miles per tool).</li>
+    </ul>
     </div>
 </div>
  
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/tap.png" id="heading-icon"></span>Luna
-<div class="content" markdown="1">
+<div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/tap.png">
     <div class="details">
-- First encounter when the player dreams for the first time.
-- Assists the player in uploading a dream or visiting other dream islands.
+    <ul>
+        <li>First encounter when the player dreams for the first time.</li>
+        <li>Assists the player in uploading a dream or visiting other dream islands.</li>
+    </ul>
     </div>
 </div>
