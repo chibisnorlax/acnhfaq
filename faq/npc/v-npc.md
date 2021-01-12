@@ -92,7 +92,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
         <li>Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.</li>
         <li>Mysterious flooring/wallpaper purchased with <b>Saharah Tickets</b> are random for each player.</li>
         <li><span><img src="https://alexislours.github.io/img/MenuIcon/RollanTicket.png" id="inv-icon"></span> **Saharah Tickets** can be obtained by buying rugs from her. They can be used to buy extra mysterious flooring/wallpaper, which cost 5 tickets each. Small rugs grant 1 ticket, medium rugs grant 2, and large rugs grant 3.</li>
-        <li>Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.</a>.</li>
+        <li>Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.</li>
     </ul>
     </div>
 </div>
@@ -105,7 +105,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
         <li>Sells artwork (real and fake) and non-native color variant furniture.</li>
         <li>Docks his ship at the player's secret beach on the north shore of the island.</li>
         <li>Each player can purchase up to one piece of artwork from him, and an unlimited amount of the 2 furniture items he brings each visit.</li>
-        <li>Art is mailed to you the following day, furniture is in your pocket immediately after purchase.</a>.</li>
+        <li>Art is mailed to you the following day, furniture is in your pocket immediately after purchase.</li>
     </ul>
     </div>
 </div>
