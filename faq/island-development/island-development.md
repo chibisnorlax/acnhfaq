@@ -148,17 +148,17 @@ Currently, the Pocket Camp promotional items include the following:
 
 |Item|Bell Cost|
 |:-:|:-:|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassSlot.png"></span><br>Brake Tapper|2,700 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassSignCamp.png"></span><br>Campsite sign|2,500 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassFortuneshop.png"></span><br>Fortune-cookie cart|2,600 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassPole.png"></span><br>Market Place decoration|3,200 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassSignOK.png"></span><br>OK Motors sign|3,000 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_0_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_1_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_2_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_3_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_4_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_5_0.png"></span><br>Pocket modern camper|1,500 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_0_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_1_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_2_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_3_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_4_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_5_0.png"></span><br>Pocket vintage camper|1,500 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/CapHatOkmotors0.png"></span><br>OK Motors cap|770 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopTshirtsHOkmotors0.png"></span><br>Camper tee|840 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopYshirtsHOkmotors0.png"></span><br>OK Motors jacket|1,500 <span class="icon-Bells"></span>|
-|<span><img src="https://alexislours.github.io/img/FtrIcon/SmartphoneCaseComp.png"></span><br>Pocket Camp phone case|2,000 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassSlot.png" id="inv-icon"></span><br>Brake Tapper|2,700 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassSignCamp.png" id="inv-icon"></span><br>Campsite sign|2,500 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassFortuneshop.png" id="inv-icon"></span><br>Fortune-cookie cart|2,600 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassPole.png" id="inv-icon"></span><br>Market Place decoration|3,200 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassSignOK.png" id="inv-icon"></span><br>OK Motors sign|3,000 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_0_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_1_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_2_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_3_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_4_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarB_Remake_5_0.png" id="inv-icon"></span><br>Pocket modern camper|1,500 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_0_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_1_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_2_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_3_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_4_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrCompassCarA_Remake_5_0.png" id="inv-icon"></span><br>Pocket vintage camper|1,500 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/CapHatOkmotors0.png" id="inv-icon"></span><br>OK Motors cap|770 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopTshirtsHOkmotors0.png" id="inv-icon"></span><br>Camper tee|840 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopYshirtsHOkmotors0.png" id="inv-icon"></span><br>OK Motors jacket|1,500 <span class="icon-Bells"></span>|
+|<span><img src="https://alexislours.github.io/img/FtrIcon/SmartphoneCaseComp.png" id="inv-icon"></span><br>Pocket Camp phone case|2,000 <span class="icon-Bells"></span>|
 
 For a compressed guide, have a look at cestislife's guide: <https://cestislife.github.io/img/pocketcamp.png>
 Alternatively, Nintendo's full instructions can be found here: <https://ac-pocketcamp.com/en-US/horizons>
@@ -175,17 +175,17 @@ The DAL rewards and point thresholds are listed in the table below:
 
 | Item             | Points Required |
 |:----------------:|:---------------:|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopTshirtsHDal0.png"></span><br>DAL tee|5|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/AccessoryGlassDalmask0.png"></span><br>DAL eyemask|15|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/AccessoryGlassSlippers0.png"></span><br>DAL slippers|30|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDalMug.png"></span><br>DAL mug|50|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/AccessoryGlassDalglass0.png"></span><br>DAL sunglasses|75|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopCoatHDal0.png"></span><br>DAL apron|100|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/CapHatDal0.png"></span><br>DAL cap|130|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/UmbrellaDoc0.png"></span><br>DAL umbrella|160|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/BagBackpackDal0.png"></span><br>DAL backpack|200|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopOuterLDal0.png"></span><br>DAL pilot jacket|250|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_0_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_1_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_2_0.png"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_3_0.png"></span><br>DAL model plane  |300|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopTshirtsHDal0.png" id="inv-icon"></span><br>DAL tee|5|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/AccessoryGlassDalmask0.png" id="inv-icon"></span><br>DAL eyemask|15|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/AccessoryGlassSlippers0.png" id="inv-icon"></span><br>DAL slippers|30|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDalMug.png" id="inv-icon"></span><br>DAL mug|50|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/AccessoryGlassDalglass0.png" id="inv-icon"></span><br>DAL sunglasses|75|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopCoatHDal0.png" id="inv-icon"></span><br>DAL apron|100|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/CapHatDal0.png" id="inv-icon"></span><br>DAL cap|130|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/UmbrellaDoc0.png" id="inv-icon"></span><br>DAL umbrella|160|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/BagBackpackDal0.png" id="inv-icon"></span><br>DAL backpack|200|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopOuterLDal0.png" id="inv-icon"></span><br>DAL pilot jacket|250|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_0_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_1_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_2_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_3_0.png" id="inv-icon"></span><br>DAL model plane  |300|
 
 {: .note}
 You are only able to get these rewards **once** from DAL. Any additional you may require would need to be traded from other players, as all of the things are are not reorderable from Nook Shopping.
