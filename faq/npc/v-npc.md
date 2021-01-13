@@ -147,7 +147,7 @@ Visting players are unable to commission from C.J. and are also unable to sell t
     </div>
 </div>
 
-- Can make you bug models, which require 3 of the same bug, and is mailed to you the following day.</li>
+- Can make you bug models, which require 3 of the same bug, and is mailed to you the following day.
 - Flick is the host of the <a href="/acnhfaq/events#bug-off">Bug-Off</a>.
 
 {: .note}
