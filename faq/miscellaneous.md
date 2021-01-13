@@ -33,8 +33,10 @@ Your ACNH game is now up to date!
 3. When Tom Nook appears, choose to talk to him about the `Save Data` option.
 4. He will ask if you want to delete a resident's registration, click `Yes` and choose the designated player to be deleted. 
 
-{: .note}
-The island representative account cannot be deleted without the entire island going with it.
+{: .note-title}
+> <span class="icon-Chat></span> NOTE
+>
+> The island representative account cannot be deleted without the entire island going with it.
 
 ## How do I restart my island?
 1. From the Switch main menu, select `System Settings`.
