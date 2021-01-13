@@ -14,7 +14,7 @@ Visiting NPCs, as the name suggests, visits your island. These NPCs have a visit
 {: .no_toc}
 Visiting NPCs are on a set **bi-weekly** schedule, and each rotating NPC can only visit a maximum of once per week. In short, you should see a particular visiting NPC at least once every two weeks. 
 
-To learn more about the NPC visiting schedule, refer to Yue's guide here: <https://yuexr.github.io/img/npcskd.png>
+Refer to Yue's guide here for a compressed version of the information on this page: <https://yuexr.github.io/img/npcskd.png>
 
 {: .note}
 <span><img src="https://alexislours.github.io/img/NpcIcon/hgh.png" id="inv-icon"></span> Mabel is considered a visiting NPC before she sets up her shop, the Able Sisters. She can visit on any day, but prioritises weekends. 
@@ -32,8 +32,8 @@ To learn more about the NPC visiting schedule, refer to Yue's guide here: <https
     <img src="/acnhfaq/assets/NPCPortrait/boc.png">
     <div class="details">
     <ul>
-        <li>Requirements: Nook's Cranny built.</li>
-        <li>Visiting Hours: 5 AM - 12 PM on Sundays</li>
+        <li><b>Requirements:</b> Nook's Cranny built.</li>
+        <li><b>Visiting Hours:</b> 5 AM - 12 PM on Sundays</li>
         <li>Visits every Sunday to sell turnips (see <a href="/acnhfaq/island-life/turnips">Turnips/Stalk Market</a>.</li>
     </ul>
     </div>
@@ -44,8 +44,8 @@ To learn more about the NPC visiting schedule, refer to Yue's guide here: <https
     <img src="/acnhfaq/assets/NPCPortrait/ows.png">
     <div class="details">
     <ul>
-        <li>Requirements: Museum built.</li>
-        <li>Visiting Hours: 7 PM - 4 AM on meteor shower nights</li>
+        <li><b>Requirements:</b> Museum built.</li>
+        <li><b>Visiting Hours:</b> 7 PM - 4 AM on meteor shower nights</li>
         <li><a href="/acnhfaq/npc/permanent#blathers">Blathers'</a> sister.</li>
         <li>Shares information about astronomy and gives the player <b>Celestial and Zodiac DIYs.</b></li>
     </ul>
@@ -63,8 +63,8 @@ Celeste's appearance will be blocked by K.K. Slider, e.g. when the only meteor s
     <img src="/acnhfaq/assets/NPCPortrait/tKK.png">
     <div class="details">
     <ul>
-        <li>Requirements: 3⭐ island rating and completion of <a href="/acnhfaq/unlocks#misc-unlocks">Project K</a>.</li>
-        <li>Visiting Hours: 5 AM - 12 AM</li>
+        <li><b>Requirements:</b> 3⭐ island rating and completion of <a href="/acnhfaq/unlocks#misc-unlocks">Project K</a>.</li>
+        <li><b>Visiting Hours:</b> 5 AM - 12 AM</li>
         <li>Holds special visits for player birthdays.</li>
     </ul>
     </div>
@@ -82,8 +82,8 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
     <img src="/acnhfaq/assets/NPCPortrait/cml.png">
     <div class="details">
     <ul>
-        <li>Requirements: Player's house built.</li>
-        <li>Visiting Hours: 5 AM - 12 AM</li>    
+        <li><b>Requirements:</b> Player's house built.</li>
+        <li><b>Visiting Hours:</b> 5 AM - 12 AM</li>    
         <li>Sells rugs (small, medium, and large) and exclusive flooring and wallpaper.</li>
     </ul>
     </div>
@@ -104,8 +104,8 @@ Saharah rugs can be reordered through the catalogue, but her flooring and wallpa
     <img src="/acnhfaq/assets/NPCPortrait/fox.png">
     <div class="details">
     <ul>
-        <li>Requirements: Museum built with at least 60 total donations.</li>
-        <li>Visiting Hours: All Day</li>   
+        <li><b>Requirements:</b> Museum built with at least 60 total donations.</li>
+        <li><b>Visiting Hours:</b> All Day</li>   
         <li>Sells artwork (real and fake) and non-native color variant furniture.</li>
     </ul>
     </div>
@@ -122,8 +122,8 @@ Saharah rugs can be reordered through the catalogue, but her flooring and wallpa
     <img src="/acnhfaq/assets/NPCPortrait/bey.png">
     <div class="details">
     <ul>
-        <li>Requirements: Resident Services upgraded.</li>
-        <li>Visiting Hours: All Day</li>   
+        <li><b>Requirements:</b> Resident Services upgraded.</li>
+        <li><b>Visiting Hours:</b> All Day</li>   
         <li>Buys fish for <b>1.5x</b> Timmy and Tommy's price, but only after you complete his challenge.</li>
     </ul>
     </div>
@@ -140,8 +140,8 @@ Visting players are unable to commission from C.J. and are also unable to sell t
     <img src="/acnhfaq/assets/NPCPortrait/chy.png">
     <div class="details">
     <ul>
-        <li>Requirements: Resident Services upgraded.</li>
-        <li>Visiting Hours: All Day</li>   
+        <li><b>Requirements:</b> Resident Services upgraded.</li>
+        <li><b>Visiting Hours:</b> All Day</li>   
         <li>Buys bugs for <b>1.5x</b> Timmy and Tommy's price.</li>
     </ul>
     </div>
@@ -158,8 +158,8 @@ Visting players are unable to commission from Flick and are also unable to sell 
     <img src="/acnhfaq/assets/NPCPortrait/hgc.png">
     <div class="details">
     <ul>
-        <li>Requirements: Able Sisters built.</li>
-        <li>Visiting Hours: 5 AM - 10 PM</li>           
+        <li><b>Requirements:</b> Able Sisters built.</li>
+        <li><b>Visiting Hours:</b> 5 AM - 10 PM</li>           
         <li>Conducts fashion challenges with the player in exchange for clothing and/or <b>Tailor's Tickets</b> which can be used in The Able Sisters shop.</li>
     </ul>
     </div>
@@ -184,8 +184,8 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
     <img src="/acnhfaq/assets/NPCPortrait/skk.png">
     <div class="details">
     <ul>
-        <li>Requirements: Able Sisters built.</li>
-        <li>Visiting Hours: 5 AM - 10 PM</li>  
+        <li><b>Requirements:</b> Able Sisters built.</li>
+        <li><b>Visiting Hours:</b> 5 AM - 10 PM</li>  
         <li>Shop vendor in the Resident Services plaza that sells mostly exclusive accessories, bags and shoes.</li>
     </ul>
     </div>
@@ -196,8 +196,8 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
     <img src="/acnhfaq/assets/NPCPortrait/slo.png">
     <div class="details">
     <ul>
-        <li>Requirements: None.</li>
-        <li>Visiting Hours: 5 AM - 10 PM</li>  
+        <li><b>Requirements:</b> None.</li>
+        <li><b>Visiting Hours:</b> 5 AM - 10 PM</li>  
         <li>Shop vendor in the Resident Services plaza that sells shrubs starts, flower seeds, and pumpkin starts.</li>
     </ul>
     </div>
@@ -211,8 +211,8 @@ Leif sells pumpkin starts at a discounted price during the month of October.
     <img src="/acnhfaq/assets/NPCPortrait/gul.png">
     <div class="details">
     <ul>
-        <li>Requirements: Museum built.</li>
-        <li>Visiting Hours: All Day</li>  
+        <li><b>Requirements:</b> Museum built.</li>
+        <li><b>Visiting Hours:</b> All Day</li>  
         <li>Can be found sleeping on the island's beaches, and upon waking Gulliver up, he will ask you to find 5 communicator parts which are buried in the sand.</li>
         <li>If the player completes his favor, he will mail the player a special furniture item the following day.</li>
     </ul>
@@ -226,8 +226,8 @@ Leif sells pumpkin starts at a discounted price during the month of October.
     <img src="/acnhfaq/assets/NPCPortrait/gulB.png">
     <div class="details">
     <ul>
-        <li>Requirements: Bought a wetsuit.</li>
-        <li>Visiting Hours: All Day</li>  
+        <li><b>Requirements:</b> Bought a wetsuit.</li>
+        <li><b>Visiting Hours:</b> All Day</li>  
         <li>Can be found sleeping on the island's beaches, nd upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.</li>
         <li>If the player completes his favor, he will mail the player a special pirate furniture item the following day.</li>
     </ul>
@@ -242,8 +242,8 @@ Leif sells pumpkin starts at a discounted price during the month of October.
     <img src="/acnhfaq/assets/NPCPortrait/gst.png">
     <div class="details">
     <ul>
-        <li>Requirements: None.</li>
-        <li>Visiting Hours: 8 PM - 5 AM*</li>  
+        <li><b>Requirements:</b> None.</li>
+        <li><b>Visiting Hours:</b> 8 PM - 5 AM*</li>  
         <li>Upon speaking to Wisp, he will become scared and "fall apart". This will prompt him to ask you to find his <b>5 spirit pieces.</b></li>
     </ul>
     </div>
