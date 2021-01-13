@@ -34,7 +34,7 @@ Your ACNH game is now up to date!
 4. He will ask if you want to delete a resident's registration, click `Yes` and choose the designated player to be deleted. 
 
 {: .note-title}
-> <span class="icon-Chat></span> NOTE
+> <span class="icon-Chat"></span> NOTE
 >
 > The island representative account cannot be deleted without the entire island going with it.
 
