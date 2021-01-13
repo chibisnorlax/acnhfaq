@@ -10,6 +10,8 @@ Events are special days where (in most cases) a special NPC will arrive on the i
 Time travelling to these events will not be possible, unless of course the actual event day has passed. In this case, you are free to time travel back to a past event to redo them. It is however worth noting that most past events are **only active in 2020** as of the writing of this guide.
 
 {: .note}
+> <span class="icon-Chat"></span> NOTE
+>
 > There are several requirements for most of the events listed here:
 > - You must have an upgraded Resident Services.
 > - You must not have a banned Nintendo Switch (as they cannot receive BCAT unlocks).
