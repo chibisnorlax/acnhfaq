@@ -161,6 +161,7 @@ Currently, the Pocket Camp promotional items include the following:
 |<span><img src="https://alexislours.github.io/img/FtrIcon/SmartphoneCaseComp.png"></span><br>Pocket Camp phone case|2,000 <span class="icon-Bells"></span>|
 
 For a compressed guide, have a look at cestislife's guide: <https://cestislife.github.io/img/pocketcamp.png>
+Alternatively, Nintendo's full instructions can be found here: <https://ac-pocketcamp.com/en-US/horizons>
 
 ## How do I unlock all the DAL items? What are the milestones?
 Dodo Airlines will reward you with merchandise when you have collected enough "DAL Points" and reached the point thresholds. There are two ways to earn these points, namely:
