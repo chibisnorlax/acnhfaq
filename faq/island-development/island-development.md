@@ -188,6 +188,6 @@ The DAL rewards and point thresholds are listed in the table below:
 | <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_0_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_1_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_2_0.png" id="inv-icon"><img src="https://alexislours.github.io/img/FtrIcon/FtrDalFigure_Remake_3_0.png" id="inv-icon"></span><br>DAL model plane  |300|
 
 {: .note}
-You are only able to get these rewards **once** from DAL. Any additional you may require would need to be traded from other players, as all of the things are are not reorderable from Nook Shopping.
+You are only able to get these rewards **once** from DAL. Any additional you may require would need to be traded from other players, as all of the things are  not reorderable from Nook Shopping.
 
 For a compressed guide, have a look at Yue's guide: <https://yuexr.github.io/img/dal.png>
