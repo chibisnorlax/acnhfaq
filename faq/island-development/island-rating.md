@@ -19,13 +19,13 @@ The island's rating is based on two separate categories of points. One is based 
 
 Isabelle will let you know which category you are lacking in, depending on her response to you when you ask her about island evaluation. The total points required for each category for each star rating is tabled below:
 
-| Star Rating | Nature Points | Development Points |
-|:-----------:|:-------------:|:------------------:|
-|     1⭐      |       -       |         -          |
-|     2⭐      |      80+      |        200+        |
-|     3⭐      |     160+      |        270+        |
-|     4⭐      |     400+      |        350+        |
-|     5⭐      |     665+      |        450+        |
+| Star Rating | Development Points | Nature Points |
+|:-----------:|:------------------:|:-------------:|
+|     1⭐      |         -          |       -       |
+|     2⭐      |        80+         |     200+      |
+|     3⭐      |        160+        |     270+      |
+|     4⭐      |        400+        |     350+      |
+|     5⭐      |        665+        |     450+      |
 
 ### Nature Points
 Nature points takes into account of the quantity of trees, bamboo, flowers, and DIY furniture on your island. The amount of points awarded by each of the different items listed before can be found in the following table:
