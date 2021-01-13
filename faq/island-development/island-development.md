@@ -160,7 +160,7 @@ Currently, the Pocket Camp promotional items include the following:
 |<span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexTopYshirtsHOkmotors0.png" id="inv-icon"></span><br>OK Motors jacket|1,500 <span class="icon-Bells"></span>|
 |<span><img src="https://alexislours.github.io/img/FtrIcon/SmartphoneCaseComp.png" id="inv-icon"></span><br>Pocket Camp phone case|2,000 <span class="icon-Bells"></span>|
 
-For a compressed guide, have a look at cestislife's guide: <https://cestislife.github.io/img/pocketcamp.png>
+For a compressed guide, have a look at cestislife's guide: <https://cestislife.github.io/img/pocketcamp.png>     
 Alternatively, Nintendo's full instructions can be found here: <https://ac-pocketcamp.com/en-US/horizons>
 
 ## How do I unlock all the DAL items? What are the milestones?
