@@ -34,7 +34,7 @@ Refer to Yue's guide here for a compressed version of the information on this pa
     <ul>
         <li><b>Requirements:</b> Nook's Cranny built.</li>
         <li><b>Visiting Hours:</b> 5 AM - 12 PM on Sundays</li>
-        <li>Visits every Sunday to sell turnips (see <a href="/acnhfaq/island-life/turnips">Turnips/Stalk Market</a>.</li>
+        <li>Visits every Sunday to sell turnips (see <a href="/acnhfaq/island-life/turnips">Turnips/Stalk Market</a>).</li>
     </ul>
     </div>
 </div>
@@ -129,7 +129,7 @@ Saharah rugs can be reordered through the catalogue, but her flooring and wallpa
     </div>
 </div>
 
-- Can make you fish models, which require 3 of the same fish, and is mailed to you the following day.</li>
+- Can make you fish models, which require 3 of the same fish, and is mailed to you the following day.
 - C.J. is the host of the <a href="/acnhfaq/events#fishing-tourney">Fishing Tournament</a>.
 
 {: .note}
