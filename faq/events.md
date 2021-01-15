@@ -20,7 +20,7 @@ There are several requirements for most of the events listed here:
 
 ## When is X event/season?
 {: .no_toc }
-Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seaonsal changes, events, and Nook Shopping seasonal items. Spreadsheet courtesy of `capstone#3473`.
+Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seasonal changes, events, and Nook Shopping seasonal items. Spreadsheet courtesy of `capstone#3473`.
 
 * * *
 ## Table of contents
@@ -130,7 +130,7 @@ If you talk to Tom Nook after completing one Nature Day activity, he will send t
 </div>
 Talk to Tom Nook to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover to get the Rover’s briefcase item. You can also get up to nine Bell Vouchers (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
 
-Watch the video tutorial below on how to complete the maze and obtain all possible prizes.
+Watch the video tutorial below on how to complete the maze and obtain all possible prizes. Video courtesy of `Nours#7244`.
 
 <video width="100%" controls="controls">
   <source src="https://chibisnorlax.github.io/acnhfaq/assets/mayday.mp4#t=0.001" type="video/mp4">

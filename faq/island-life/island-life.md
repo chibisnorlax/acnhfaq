@@ -21,7 +21,7 @@ Starting day 2 of the game, speak with [Orville](/acnhfaq/npc/#orville-and-wilbu
 An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
 
 ## How can I get 8 hits from a rock?
-Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock 8 times without being knocked away. See below for an example.
+Dig two holes diagonally in one of the corners around the rock. Stand in the corners and hit the rock with a shovel. You should be able to hit the rock 8 times without being knocked away. See below for an example. Video courtesy of `mybae#1905`.
 
 <video width="100%" controls="controls">
   <source src="https://chibisnorlax.github.io/acnhfaq/assets/rockdrops.mp4#t=0.001" type="video/mp4">
