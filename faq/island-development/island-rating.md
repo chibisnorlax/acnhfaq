@@ -72,8 +72,8 @@ DIY furniture do also contribute to Development Points based on the criteria abo
 
 **This category has the following point/rating caps:**
 > * Having fewer than **100 weeds** will not incur a penalty, but having more than that will reduce development points by 1 point per 30 weeds after that, capping at 30 points penalised. 
-> * Having **6 or fewer villagers** will cap star rating at 1⭐.
-> * Having **7 villagers** will cap star rating at 2⭐.
+> * Having only **6 or fewer villagers** will cap star rating at 1⭐.
+> * Having only **7 villagers** will cap star rating at 2⭐.
 > * Having **15 or more dropped items** on the ground will cap star rating at 4⭐.
 > * Placing more than **45 items in a 8x8 area** will cap star rating at 4⭐.
 > * Placing more than **6 of the same exact items in a 8x8 area** will incur a point penalty. 
