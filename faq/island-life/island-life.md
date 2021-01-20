@@ -9,7 +9,7 @@ permalink: island-life/
 
 # Island Life
 ## What should I do during the first week of the game?
-Follow this guide, <https://tinyurl.com/acnhtutorial/>.  
+Follow this guide, <https://tinyurl.com/acnhbeginners/>.  
 
 ## How can I become friends/best friends with other people? What can they do on my island?
 Visit <https://tinyurl.com/acnhfriends>.
