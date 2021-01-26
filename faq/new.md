@@ -1,10 +1,10 @@
-<!---
 ---
 title: What's New?
 nav_order: 11
 permalink: new/
+nav_exclude: true
 ---
---->
+
 
 # 1.7.0
 (insert update header image from official website)
