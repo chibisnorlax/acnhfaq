@@ -28,7 +28,13 @@ The update reward are a pair of maracas.
 ![](https://topics-cdn.nintendo.co.jp/image/2021/01/18053654163662/800/19409_20.jpg)
 
 ## What are the new Nook Seasonal Shopping item dates?
-More information will be released once the update drops!
+There will be seasonal items for the following events:
+- Football(?) Season (Jan 15 - Feb 15)
+- Groundhog day (Jan 25 - Feb 2)
+- Setsubun (Feb 1 - Feb 3)
+- Valentines (Feb 1 - Feb 14)
+- Chinese New Year (Feb 10 - Feb 17)
+- Korean New Year (Feb 10 - Feb 17)
 
 * * *
 
@@ -39,7 +45,15 @@ More information will be released once the update drops!
 Festivale has returned as an event on the **15th of February 2021**, the event is time-locked and would require version `1.7.0a`. Decorate with furniture bought from Nook's Cranny and wear extravagant costumes from Able Sisters. These new items will be available from February 1st onwards.
 
 ### Who is Pavé and how do I meet him?
-Pavé is the host of this event, and will be at the plaza. 
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/pck.png">
+    <div class="details">
+    <ul>
+        <li>First encounter during Festivale. </li>
+        <li>Pavé is the host of this event, and will be at the plaza.</li>
+    </ul>
+    </div>
+</div> 
 
 ### What rewards do I get from this event?
 More information will be released once the update drops!
