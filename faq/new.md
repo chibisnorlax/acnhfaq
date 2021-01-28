@@ -52,7 +52,7 @@ There will be seasonal items for the following events:
     - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
 - Groundhog day (Jan 25 - Feb 2)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
-- Setsubun (Feb 1 - Feb 3)
+- Setsubun (Available till Feb 3)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
 - Valentines (Feb 1 - Feb 14)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
