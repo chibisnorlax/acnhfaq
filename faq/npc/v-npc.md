@@ -53,7 +53,7 @@ Refer to Yue's guide here for a compressed version of the information on this pa
 </div>
 
 - Once the player has learned all of her obtainable recipes, she will give the player star fragments.
-- Celeste can only visit on nights where you have shooting stars (see <a href="/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character">NPC Schedule</a>).
+- Celeste can only visit on nights where you have shooting stars (see <a href="/acnhfaq/npc/visiting/#how-often-does-a-visiting-npc-visit">NPC Schedule</a>).
 
 {: .note}
 Celeste's appearance will be blocked by K.K. Slider, e.g. when the only meteor shower night of the week falls on a Saturday.
