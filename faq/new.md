@@ -20,21 +20,27 @@ The official Japanese press site with some extra information and screenshots [ca
 The official English changelog, taken from the [Nintendo website](https://en-americas-support.nintendo.com/app/answers/detail/a_id/49112/~/how-to-update-animal-crossing%3A-new-horizons#v170).
 
 <details>
-    <summary>Click here to see changelog</summary>     
+    <summary>Click here to see changelog</summary>  
 
-**Ver. 1.7.0 (Released January 27, 2021)**
+<b>Ver. 1.7.0 (Released January 27, 2021)</b><br>
 The software has been updated if you see “Ver. 1.7.0” in the upper-right corner of the title screen.
 
-**General updates**
+<b>General updates</b>
 
-- A seasonal event, Festivale, has been added.
-- The following content has also been added:
-    - Additional limited-time seasonal items from Nook Shopping.
+<ul>
+    <li>A seasonal event, Festivale, has been added.</li>
+    <li>The following content has also been added:</li>
+        <ul>
+            <li>Additional limited-time seasonal items from Nook Shopping.</li>
+        </ul>
+</ul>
 
-**Fixed issues**
+<b>Fixed issues</b>
 
-- Fixed an issue preventing players from receiving the mermaid fence recipe from Pascal.
-- Other adjustments and corrections were made to improve the game play experience.     
+<ul>
+    <li>Fixed an issue preventing players from receiving the mermaid fence recipe from Pascal.</li>
+    <li>Other adjustments and corrections were made to improve the game play experience. </li>
+</ul>    
 
 </details>
 
