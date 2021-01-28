@@ -25,7 +25,7 @@ The official Japanese press site with some extra information and screenshots [ca
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFlag_Remake_0_0.png" id="inv-icon"></span> Festivale flag
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStage_Remake_0_0.png" id="inv-icon"></span> Festivale stage
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalParasol_Remake_0_0.png" id="inv-icon"></span> Festivale parasol
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float **Time-locked**
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float `Time-locked`
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalDecoration_Remake_0_0.png" id="inv-icon"></span> Festivale garland
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStall_Remake_0_0.png" id="inv-icon"></span> Festivale stall
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png" id="inv-icon"></span> Festivale drum
