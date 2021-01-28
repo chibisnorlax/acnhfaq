@@ -20,20 +20,53 @@ This pages serves as a one stop page for all FAQs regarding new mechanics, items
 The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/703cc041-e5ff-4399-b70b-33fe7e4f49d9).
 
 ## What are the new items introduced?
-More information will be released once the update drops!
+### New Furniture
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalBalloon_Remake_0_0.png" id="inv-icon"></span> Festivale balloon lamp
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFlag_Remake_0_0.png" id="inv-icon"></span> Festivale flag
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStage_Remake_0_0.png" id="inv-icon"></span> Festivale stage
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalParasol_Remake_0_0.png" id="inv-icon"></span> Festivale parasol
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalDecoration_Remake_0_0.png" id="inv-icon"></span> Festivale garland
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStall_Remake_0_0.png" id="inv-icon"></span> Festivale stall
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png" id="inv-icon"></span> Festivale drum
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalConfetti_Remake_0_0.png" id="inv-icon"></span> Festivale confetti machine
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalLantern_Remake_0_0.png" id="inv-icon"></span> Festivale lamp
+
+### New Recipes
+There are two new DIY recipes introduced in this update:
+- <span><img src="https://acnhapi.com/latest/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
+
+### New Clothing Items
+- <span><img src="https://acnhapi.com/latest/FtrIcon/CapOrnamentTSamba3.png" id="inv-icon"></span> Festivale accessory 
+- <span><img src="https://acnhapi.com/latest/FtrIcon/CapMaskOgre1.png" id="inv-icon"></span> Horned-ogre mask
+- <span><img src="https://acnhapi.com/latest/FtrIcon/CapMaskOkame0.png" id="inv-icon"></span> Okame mask
+- <span><img src="https://acnhapi.com/latest/FtrIcon/TopsTexOnepieceOverallLOgre1.png" id="inv-icon"></span> Ogre costume
+- <span><img src="https://acnhapi.com/latest/FtrIcon/TopsTexOnepieceBoxNSamba1.png" id="inv-icon"></span> Festivale tank dress
+- <span><img src="https://acnhapi.com/latest/FtrIcon/TopsTexOnepieceSalopetteLCarnival3.png" id="inv-icon"></span> Festivale costume
+
+## What are the new Nook Seasonal Shopping item and their dates?
+There will be seasonal items for the following events:
+- Big Game Season (Jan 15 - Feb 15)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/RugOtherFootballM00.png" id="inv-icon"></span> Football rug
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
+- Groundhog day (Jan 25 - Feb 2)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
+- Setsubun (Feb 1 - Feb 3)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
+- Valentines (Feb 1 - Feb 14)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (4 variants)
+- Chinese New Year (Feb 10 - Feb 17)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
+- Korean New Year (Feb 10 - Feb 17)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
 
 ## What is the update reward for 1.7.0?
-The update reward are a **pair of maracas.**
+The update reward are a **pair of <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMaracasCarnival.png" id="inv-icon"></span> maracas.**
 ![](https://topics-cdn.nintendo.co.jp/image/2021/01/18053654163662/800/19409_20.jpg)
 
-## What are the new Nook Seasonal Shopping item dates?
-There will be seasonal items for the following events:
-- Football(?) Season (Jan 15 - Feb 15)
-- Groundhog day (Jan 25 - Feb 2)
-- Setsubun (Feb 1 - Feb 3)
-- Valentines (Feb 1 - Feb 14)
-- Chinese New Year (Feb 10 - Feb 17)
-- Korean New Year (Feb 10 - Feb 17)
+
 
 * * *
 
@@ -59,7 +92,7 @@ More information will be released once the update drops!
 
 ### What are the new reactions?
 ![](https://topics-cdn.nintendo.co.jp/image/2021/01/12103610731822/800/19409_09.jpg)
-There are 4 new reactions, **Feelin’ It**, **Let’s Go**, **Viva** and **Confetti**. The Viva Festival Reaction Set can be purchased with in-game Bells from the shelf at Nook’s Cranny from February 1<sup>st</sup> to February 15<sup>th</sup>.
+There are 4 new reactions, **Feelin’ It**, **Let’s Go**, **Viva** and **Confetti**. The <span><img src="https://acnhapi.com/latest/FtrIcon/HowtoBookReactionCarnival.png" id="inv-icon"></span> Viva Festivale Reaction Set can be purchased with **19,800 <span class="icon-Bells"></span>** from the shelf at Nook’s Cranny from February 1<sup>st</sup> to February 15<sup>th</sup>.
 
 * * *
 
