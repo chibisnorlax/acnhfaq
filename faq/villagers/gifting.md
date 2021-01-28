@@ -246,7 +246,7 @@ If you are asked to deliver a present, but you open said present before deliveri
 - Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
 - Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum). 
 - Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit <https://bit.ly/3gWAJDe>.
-- If you wish to remove a custom design, please read [here](/acnhfaq/npc#isabelle).
+- If you wish to remove a custom design, please read [here](/acnhfaq/npc/permanent#isabelle).
 - Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
 
 ## My villager placed a furniture item (or a mannequin of a clothing) I gifted them in their house, how do I remove it?
