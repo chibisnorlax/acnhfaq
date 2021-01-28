@@ -54,7 +54,7 @@ There will be seasonal items for the following events:
     - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
 - Groundhog day (Jan 25 - Feb 2)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
-- Setsubun (Available till Feb 3)
+- Setsubun (Jan 25 - Feb 3)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
 
 {: .note}
