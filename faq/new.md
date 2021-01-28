@@ -35,7 +35,7 @@ The official Japanese press site with some extra information and screenshots [ca
 ### New Recipes
 There are two new DIY recipes introduced in this update:
 - <span><img src="https://acnhapi.com/latest/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather `Time locked`
 
 ### New Clothing Items
 - <span><img src="https://acnhapi.com/latest/FtrIcon/CapOrnamentTSamba3.png" id="inv-icon"></span> Festivale accessory 
@@ -45,25 +45,27 @@ There are two new DIY recipes introduced in this update:
 - <span><img src="https://acnhapi.com/latest/FtrIcon/TopsTexOnepieceBoxNSamba1.png" id="inv-icon"></span> Festivale tank dress
 - <span><img src="https://acnhapi.com/latest/FtrIcon/TopsTexOnepieceSalopetteLCarnival3.png" id="inv-icon"></span> Festivale costume
 
-## What are the new Nook Seasonal Shopping item and their dates?
+### What are the new Nook Seasonal Shopping items and their dates?
 There will be seasonal items for the following events:
 - Big Game Season (Jan 15 - Feb 15)
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/RugOtherFootballM00.png" id="inv-icon"></span> Football rug
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
+- <span><img src="https://acnhapi.com/latest/FtrIcon/RugOtherFootballM00.png" id="inv-icon"></span> Football rug
+- <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
 - Groundhog day (Jan 25 - Feb 2)
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
 - Setsubun (Available till Feb 3)
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
+- <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
 
-Note that the items below are **time locked**.
+{: .note}
+The items below are **time locked**.
+
 - Valentines (Feb 1 - Feb 14)
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (4 variants)
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (4 variants)
 - Chinese New Year (Feb 10 - Feb 17)
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
+- <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
 - Korean New Year (Feb 10 - Feb 17)
-> - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
+- <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
 
 ## What is the update reward for 1.7.0?
 The update reward are a **pair of <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMaracasCarnival.png" id="inv-icon"></span> maracas.**
@@ -95,7 +97,7 @@ Festivale has returned as an event on the **15th of February 2021**, the event i
 </div> 
 
 ### What rewards do I get from this event?
-The untimate event reward is the <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float.
+The DIY for the <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow Feather and the ultimate event reward is the <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float.
 
 ### What are the new reactions?
 ![](https://topics-cdn.nintendo.co.jp/image/2021/01/12103610731822/800/19409_09.jpg)
