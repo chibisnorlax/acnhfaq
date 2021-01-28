@@ -15,9 +15,27 @@ The 1.7.0 update, or the "Late January Update" was an update released on the **2
 
 This pages serves as a one stop page for all FAQs regarding new mechanics, items, events, and everything else introduced in this release. It will be updated regularly as new information comes up. To update your game manually, [follow the instructions as outlined here](/acnhfaq/misc/#how-do-i-manually-update-my-acnh-game).
 
-
-<!-- The official Nintendo English changelog can be found here. -->
 The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/703cc041-e5ff-4399-b70b-33fe7e4f49d9).
+
+The official English changelog, taken from the [Nintendo website](https://en-americas-support.nintendo.com/app/answers/detail/a_id/49112/~/how-to-update-animal-crossing%3A-new-horizons#v170).
+<details>
+    <summary>Click here to see changelog</summary>
+
+**Ver. 1.7.0 (Released January 27, 2021)**
+The software has been updated if you see “Ver. 1.7.0” in the upper-right corner of the title screen.
+
+**General updates**
+
+- A seasonal event, Festivale, has been added.
+- The following content has also been added:
+    - Additional limited-time seasonal items from Nook Shopping.
+
+**Fixed issues**
+
+- Fixed an issue preventing players from receiving the mermaid fence recipe from Pascal.
+- Other adjustments and corrections were made to improve the game play experience.
+
+</details>
 
 ## What are the new items introduced?
 A full list of all the items including variants can be found here:   
@@ -65,7 +83,7 @@ The items below are **time locked**.
 
 - Valentines (Feb 1 - Feb 14)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
-    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (4 variants)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (6 variants)
 - Chinese New Year (Feb 10 - Feb 17)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
@@ -108,4 +126,11 @@ There are 4 new reactions, **Feelin’ It**, **Let’s Go**, **Viva** and **Conf
 * * *
 
 ## Mechanic Changes
-This list documents any mechanic changes from version `1.6.0` to `1.7.0`. More information will be released once the update drops.
+This list documents any mechanic changes from version `1.6.0` to `1.7.0`. This list will be updated as new information comes in.
+- Regarding villager gifting:
+    - All hand gifted clothing (aside from wetsuits) are now unsafe. (They will store them)
+    - Clothing can now be placed on top of surfaces in villagers' houses. 
+    - Shoes are now able to be placed in villagers' houses.
+- It is now possible for villagers to have the move out bubble before having the first K.K. concert.
+- Snowballs now have less strict spawn conditions. 
+- Celeste can now show up on a Sunday.

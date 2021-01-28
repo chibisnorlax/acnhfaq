@@ -14,9 +14,6 @@ The villager has to be moving out and 'in boxes', if you talk to them they will 
 ## How do I make a villager move out?
 Please refer to Yue’s move-out guide here: <https://yuexr.github.io/acnh/moveout.html>.
 
-{: .note}
-As of `1.6.0`, for villagers to have move-out bubbles, [K.K. Slider](/acnhfaq/npc/visiting#kk-slider) must have already performed for the first time.
-
 ## Does talking to a villager until they get the purple squiggly/reporting the villager to Isabelle make them more likely to ask to move out?
 No. Anyone claiming that these methods increase the likelihood of villagers asking to move out have been misinformed.
 
