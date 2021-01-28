@@ -37,6 +37,10 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 <details>
 <summary>Click here to open</summary>
 
+### 1.4.0
+- Added information regarding the 1.7.0 update
+- Minor fixes throughout
+
 ### 1.3.8
 - Improved NPC pages with protrait images.
 - Minor fixes throughout 
