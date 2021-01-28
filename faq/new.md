@@ -56,17 +56,23 @@ There will be seasonal items for the following events:
     - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
 - Valentines (Feb 1 - Feb 14)
 {: .d-inline-block }
-Time Locked {: .label .label-red }
+
+Time Locked
+{: .label .label-red }
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (4 variants)
 - Chinese New Year (Feb 10 - Feb 17)
 {: .d-inline-block }
-Time Locked {: .label .label-red }
+
+Time Locked
+{: .label .label-red }
     - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
 - Korean New Year (Feb 10 - Feb 17)
 {: .d-inline-block }
-Time Locked {: .label .label-red }
+
+Time Locked
+{: .label .label-red }
     - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
 
 ## What is the update reward for 1.7.0?
@@ -79,7 +85,9 @@ The update reward are a **pair of <span><img src="https://acnhapi.com/latest/Ftr
 
 ## Festivale
 {: .d-inline-block }
-Time Locked {: .label .label-red }
+
+Time Locked
+{: .label .label-red }
 
 > *Feel the heat with the colorful Festivale event filled with dancing and flying feathers! On Feb. 15, Dancer Pavé will arrive to your island’s plaza** to usher in some confetti and carnival spirit. On the day of the event you can capture colorful feathers floating on your island with your net and trade them to Pavé to receive a passionate dance number in return. Rainbow feathers seem to be an especially rare sight, so be sure to catch them and trade them with Pavé. Invite friends over to your island or visit theirs to partake in the festivities together.*
 
