@@ -20,8 +20,8 @@ This pages serves as a one stop page for all FAQs regarding new mechanics, items
 The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/703cc041-e5ff-4399-b70b-33fe7e4f49d9).
 
 ## What are the new items introduced?
-A full list of all the items including variants can be found here:
-https://catalogue.ac/?s=dmFkPTEuNy4w&o=category
+A full list of all the items including variants can be found here:   
+<https://catalogue.ac/?s=dmFkPTEuNy4w&o=category>
 
 ### New Furniture
 All of the furniture below can be bought from Nook's Cranny (except the float), from February 1<sup>st</sup> to February 15<sup>th</sup>.
