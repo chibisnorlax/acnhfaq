@@ -21,6 +21,7 @@ The official Japanese press site with some extra information and screenshots [ca
 
 ## What are the new items introduced?
 ### New Furniture
+All of the furniture below can be bought from Nook's Cranny (except the float), from February 1<sup>st</sup> to February 15<sup>th</sup>.
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalBalloon_Remake_0_0.png" id="inv-icon"></span> Festivale balloon lamp
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFlag_Remake_0_0.png" id="inv-icon"></span> Festivale flag
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStage_Remake_0_0.png" id="inv-icon"></span> Festivale stage
@@ -38,6 +39,7 @@ There are two new DIY recipes introduced in this update:
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather `Time locked`
 
 ### New Clothing Items
+The Festivale clothing can be bought from Able Sisters from February 1 onwards, and the horned-ogre mask, okame mask and ogre costume are available from January 25 – February 3 in Able's as well.
 - <span><img src="https://acnhapi.com/latest/FtrIcon/CapOrnamentTSamba3.png" id="inv-icon"></span> Festivale accessory 
 - <span><img src="https://acnhapi.com/latest/FtrIcon/CapMaskOgre1.png" id="inv-icon"></span> Horned-ogre mask
 - <span><img src="https://acnhapi.com/latest/FtrIcon/CapMaskOkame0.png" id="inv-icon"></span> Okame mask
@@ -48,33 +50,30 @@ There are two new DIY recipes introduced in this update:
 ### What are the new Nook Seasonal Shopping items and their dates?
 There will be seasonal items for the following events:
 - Big Game Season (Jan 15 - Feb 15)
-- <span><img src="https://acnhapi.com/latest/FtrIcon/RugOtherFootballM00.png" id="inv-icon"></span> Football rug
-- <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/RugOtherFootballM00.png" id="inv-icon"></span> Football rug
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
 - Groundhog day (Jan 25 - Feb 2)
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
 - Setsubun (Available till Feb 3)
-- <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
 
 {: .note}
 The items below are **time locked**.
 
 - Valentines (Feb 1 - Feb 14)
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (4 variants)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (4 variants)
 - Chinese New Year (Feb 10 - Feb 17)
-- <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
 - Korean New Year (Feb 10 - Feb 17)
-- <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
+    - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
 
 ## What is the update reward for 1.7.0?
 The update reward are a **pair of <span><img src="https://acnhapi.com/latest/FtrIcon/ToolMaracasCarnival.png" id="inv-icon"></span> maracas.**
 ![](https://topics-cdn.nintendo.co.jp/image/2021/01/18053654163662/800/19409_20.jpg)
 
-
-
 * * *
-
 ## Festivale
 {: .d-inline-block }
 
