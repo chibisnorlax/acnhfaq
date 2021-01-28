@@ -18,8 +18,9 @@ This pages serves as a one stop page for all FAQs regarding new mechanics, items
 The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/703cc041-e5ff-4399-b70b-33fe7e4f49d9).
 
 The official English changelog, taken from the [Nintendo website](https://en-americas-support.nintendo.com/app/answers/detail/a_id/49112/~/how-to-update-animal-crossing%3A-new-horizons#v170).
+
 <details>
-    <summary>Click here to see changelog</summary>
+    <summary>Click here to see changelog</summary>     
 
 **Ver. 1.7.0 (Released January 27, 2021)**
 The software has been updated if you see “Ver. 1.7.0” in the upper-right corner of the title screen.
@@ -33,7 +34,7 @@ The software has been updated if you see “Ver. 1.7.0” in the upper-right cor
 **Fixed issues**
 
 - Fixed an issue preventing players from receiving the mermaid fence recipe from Pascal.
-- Other adjustments and corrections were made to improve the game play experience.
+- Other adjustments and corrections were made to improve the game play experience.     
 
 </details>
 
