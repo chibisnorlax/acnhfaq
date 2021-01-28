@@ -18,6 +18,17 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 {:toc}
 * * *
 
+## <span><img src="https://alexislours.github.io/img/NpcIcon/pck.png" id="heading-icon"></span>Pavé
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/pck.png">
+    <div class="details">
+    <ul>
+        <li>First encounter on Festivale.</li>
+        <li>Explains and hosts Festivale, and gives you the Rainbow Feather DIY, along with the Festivale Float.</li>
+    </ul>
+    </div>
+</div>
+
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/pyn.png" id="heading-icon"></span>Zipper T. Bunny
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/pyn.png">
