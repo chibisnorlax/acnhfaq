@@ -25,7 +25,7 @@ The official Japanese press site with some extra information and screenshots [ca
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFlag_Remake_0_0.png" id="inv-icon"></span> Festivale flag
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStage_Remake_0_0.png" id="inv-icon"></span> Festivale stage
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalParasol_Remake_0_0.png" id="inv-icon"></span> Festivale parasol
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float **Time-locked**
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalDecoration_Remake_0_0.png" id="inv-icon"></span> Festivale garland
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStall_Remake_0_0.png" id="inv-icon"></span> Festivale stall
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png" id="inv-icon"></span> Festivale drum
@@ -95,7 +95,7 @@ Festivale has returned as an event on the **15th of February 2021**, the event i
 </div> 
 
 ### What rewards do I get from this event?
-More information will be released once the update drops!
+The untimate event reward is the <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float.
 
 ### What are the new reactions?
 ![](https://topics-cdn.nintendo.co.jp/image/2021/01/12103610731822/800/19409_09.jpg)
