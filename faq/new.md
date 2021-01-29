@@ -67,7 +67,7 @@ There are two new DIY recipes introduced in this update:
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather `Time locked`
 
 ### New Clothing Items
-The Festivale clothing can be bought from Able Sisters from February 1 onwards, and the horned-ogre mask, okame mask and ogre costume are available from January 25 – February 3 in Able's as well.
+The Festivale clothing can be bought from Able Sisters from February 1 - February 15, and the horned-ogre mask, okame mask and ogre costume are available from February 1 – February 3 in Able's as well.
 - <span><img src="https://acnhapi.com/latest/FtrIcon/CapOrnamentTSamba3.png" id="inv-icon"></span> Festivale accessory 
 - <span><img src="https://acnhapi.com/latest/FtrIcon/CapMaskOgre1.png" id="inv-icon"></span> Horned-ogre mask
 - <span><img src="https://acnhapi.com/latest/FtrIcon/CapMaskOkame0.png" id="inv-icon"></span> Okame mask
