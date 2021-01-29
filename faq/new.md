@@ -138,6 +138,8 @@ This list documents any mechanic changes from version `1.6.0` to `1.7.0`. This l
     - All hand gifted clothing (aside from wetsuits) are now unsafe. (They will store them)
     - Clothing can now be placed on top of surfaces in villagers' houses. 
     - Shoes are now able to be placed in villagers' houses.
+    - Some items in villager houses are now rotated inward instead of facing the wall.
+    - Wreath glitch appears to be fixed.
 - It is now possible for villagers to have the move out bubble before having the first K.K. concert.
 - Snowballs now have less strict spawn conditions. 
 - Celeste can now show up on a Sunday.

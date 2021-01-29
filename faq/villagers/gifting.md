@@ -251,3 +251,6 @@ If you are asked to deliver a present, but you open said present before deliveri
 
 ## My villager placed a furniture item (or a mannequin of a clothing) I gifted them in their house, how do I remove it?
 You cannot remove the furniture/mannequin, but you can replace it using [this guide](https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing). Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
+
+{: .note}
+As of `1.7.0`, clothing can now be placed on surfaces, and hence overflowing furniture storage wont remove clothing on surfaces. Caps and Accessories can't be overflowed with other clothes to be removed since they won't be removed if there are 4 or less of either of them. The only way to remove them completely is to **wait for the villager to gift you them on approach**.
