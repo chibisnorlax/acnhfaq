@@ -11,7 +11,7 @@ nav_exclude: true
       <button class="ac-trigger">May Day (Labour Day)</button>
     </h2>
     <div class="ac-panel">
-      <p class="ac-text">
+      <p class="ac-text" markdown="block">
       <div class="code-example">
   <dl>
     <dt>Date</dt>
@@ -40,7 +40,7 @@ Watch the video tutorial below on how to complete the maze and obtain all possib
       <button class="ac-trigger">International Museum Day</button>
     </h2>
     <div class="ac-panel">
-      <p class="ac-text">
+      <p class="ac-text" markdown="block">
       <div class="code-example">
   <dl>
     <dt>Date</dt>
