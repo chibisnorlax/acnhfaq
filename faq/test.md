@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Test page
+permalink: test/
 nav_exclude: true
 ---
 
@@ -56,7 +57,7 @@ The museum will host a stamp rally everyday during this period. The fossil, bug,
     </p>
     </div>
   </div>
-  
+
 <script>
   new Accordion('.accordion-container');
 </script>
