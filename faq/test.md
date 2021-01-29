@@ -5,14 +5,15 @@ permalink: test/
 nav_exclude: true
 ---
 
-<div class="accordion-container" markdown="block">
+<div class="accordion-container">
   <div class="ac">
     <h2 class="ac-header">
       <button class="ac-trigger">May Day (Labour Day)</button>
     </h2>
     <div class="ac-panel">
       <p class="ac-text" markdown="block">
-      <div class="code-example">
+
+<div class="code-example">
   <dl>
     <dt>Date</dt>
     <dd>1<sup>st</sup>
@@ -41,7 +42,8 @@ Watch the video tutorial below on how to complete the maze and obtain all possib
     </h2>
     <div class="ac-panel">
       <p class="ac-text" markdown="block">
-      <div class="code-example">
+
+<div class="code-example">
   <dl>
     <dt>Date</dt>
     <dd>18<sup>th</sup>
