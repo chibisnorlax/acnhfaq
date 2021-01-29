@@ -5,7 +5,7 @@ permalink: test/
 nav_exclude: true
 ---
 
-<div class="accordion-container">
+<div class="accordion-container" markdown="block">
   <div class="ac">
     <h2 class="ac-header">
       <button class="ac-trigger">May Day (Labour Day)</button>
