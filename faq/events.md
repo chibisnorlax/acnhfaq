@@ -87,6 +87,8 @@ Some other notes:
 * The **Festivale costumes** will start to appear in Able Sisters from February 1st to February 15th as part of the random selection.
 * The **Viva Festivale Reaction Set** is available in Nook's Cranny cabinet from February 1st to February 15th and includes the **Feelin’ It**, **Let’s Go**, **Viva** and **Confetti** reactions.
 
+For a simplified infographic, visit <https://cestislife.github.io/img/festivale.png>
+
 ## Bunny Day (Easter)
 <div class="code-example">
   <dl>
