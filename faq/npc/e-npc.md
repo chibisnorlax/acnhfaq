@@ -23,7 +23,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
     <img src="/acnhfaq/assets/NPCPortrait/pck.png">
     <div class="details">
     <ul>
-        <li>First encounter on <a href="/acnh/events/#festivale-mardi-gras">Festivale</a>.</li>
+        <li>First encounter on <a href="/acnhfaq/events/#festivale-mardi-gras">Festivale</a>.</li>
         <li>Explains and hosts Festivale, and gives you the Rainbow Feather DIY, along with the Festivale Float.</li>
     </ul>
     </div>

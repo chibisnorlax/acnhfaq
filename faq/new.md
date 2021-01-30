@@ -113,7 +113,7 @@ Festivale has returned as an event on the **15th of February 2021**, the event i
     <img src="/acnhfaq/assets/NPCPortrait/pck.png">
     <div class="details">
     <ul>
-        <li>First encounter during <a href="/acnh/events/#festivale-mardi-gras">Festivale</a>. </li>
+        <li>First encounter during <a href="/acnhfaq/events/#festivale-mardi-gras">Festivale</a>. </li>
         <li>Pavé is the host of this event, and will be at the plaza.</li>
     </ul>
     </div>
