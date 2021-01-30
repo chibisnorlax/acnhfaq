@@ -84,17 +84,13 @@ There will be seasonal items for the following events:
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
 - Setsubun (Jan 25 - Feb 3)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
-
-{: .note}
-The items below are **time locked**.
-
-- Valentines (Feb 1 - Feb 14)
+- Valentines (Feb 1 - Feb 14) <span class="label label-red">Time-locked</span>
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (6 variants)
-- Chinese New Year (Feb 10 - Feb 17)
+- Chinese New Year (Feb 10 - Feb 17) <span class="label label-red">Time-locked</span>
     - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
     - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
-- Korean New Year (Feb 10 - Feb 17)
+- Korean New Year (Feb 10 - Feb 17) <span class="label label-red">Time-locked</span>
     - <span><img src="https://acnhapi.com/latest/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
 
 ## What is the update reward for 1.7.0?
@@ -117,7 +113,7 @@ Festivale has returned as an event on the **15th of February 2021**, the event i
     <img src="/acnhfaq/assets/NPCPortrait/pck.png">
     <div class="details">
     <ul>
-        <li>First encounter during Festivale. </li>
+        <li>First encounter during [Festivale](/acnh/events/#festivale-mardi-gras). </li>
         <li>Pavé is the host of this event, and will be at the plaza.</li>
     </ul>
     </div>

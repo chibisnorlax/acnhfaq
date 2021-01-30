@@ -54,7 +54,6 @@ Each fish you catch adds 1 point to your total and each fish after the first thr
 For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
 
 * * *
-
 ## Festivale (Mardi Gras)
 {: .d-inline-block}
 
