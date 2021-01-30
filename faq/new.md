@@ -54,17 +54,17 @@ All of the furniture below can be bought from Nook's Cranny (except the float), 
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFlag_Remake_0_0.png" id="inv-icon"></span> Festivale flag
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStage_Remake_0_0.png" id="inv-icon"></span> Festivale stage
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalParasol_Remake_0_0.png" id="inv-icon"></span> Festivale parasol
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float `Time-locked`
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalDecoration_Remake_0_0.png" id="inv-icon"></span> Festivale garland
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalStall_Remake_0_0.png" id="inv-icon"></span> Festivale stall
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png" id="inv-icon"></span> Festivale drum
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalConfetti_Remake_0_0.png" id="inv-icon"></span> Festivale confetti machine
 - <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalLantern_Remake_0_0.png" id="inv-icon"></span> Festivale lamp
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float <span class="label label-red">Time-locked</span>
 
 ### New Recipes
 There are two new DIY recipes introduced in this update:
 - <span><img src="https://acnhapi.com/latest/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence
-- <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather `Time locked`
+- <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather <span class="label label-red">Time-locked</span>
 
 ### New Clothing Items
 The Festivale clothing can be bought from Able Sisters from February 1 - February 15, and the horned-ogre mask, okame mask and ogre costume are available from February 1 – February 3 in Able's as well.

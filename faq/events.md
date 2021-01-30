@@ -10,7 +10,7 @@ Events are special days where (in most cases) a special NPC will arrive on the i
 Time travelling to these events will not be possible, unless of course the actual event day has passed. In this case, you are free to time travel back to a past event to redo them.
 
 {: .note}
-Most past events are **only active in 2020** as of version `1.6.0c`.
+Most past events are **only active in 2020** as of version `1.7.0`. The only 2021 event active for now is Festivale.
 
 There are several requirements for most of the events listed here:
 - You must have an upgraded Resident Services.
@@ -54,6 +54,34 @@ Each fish you catch adds 1 point to your total and each fish after the first thr
 For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
 
 * * *
+
+## Festivale (Mardi Gras)
+{: .d-inline-block}
+
+Time-locked
+{: .label .label-red}
+
+<div class="code-example">
+  <dl>
+    <dt>Date</dt>
+    <dd>15<sup>th</sup>
+      February</dd>
+    <dt>Time</dt>
+    <dd>All Day</dd>
+    <dt>Rewards</dt>
+    <dd>Festivale float, Rainbow Feather DIY, Feathers</dd>
+  </dl>
+</div>
+Talk to Pavé <span><img src="https://alexislours.github.io/img/NpcIcon/pck.png" id="inv-icon"></span> to obtain the <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow Feather DIY. Feathers will be floating around your island, and you would then have to catch them with your net. He will then ask you to give him 3 normal feathers (red, blue, green, purple) or 1 rainbow feather in exchange for a dance performance from him, ad well as a random Festivale series furniture. After receiving 9 furniture items, he will then ask you to give him 3 rainbow feathers in exchange for the <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float. This process can be repeated multiple times for multiple rewards throughout the day.
+
+Some other notes:
+* **Festivale series furniture** are available in Nook's Cranny from February 1st to February 15th. The colour is based on your airport colour so:
+  * Blue Airport - Red Festivale
+  * Orange Airport - Purple Festivale
+  * Yellow Airport - Blue Festivale
+  * Green Airport - Green Festivale
+* The **Festivale costumes** will start to appear in Able Sisters from February 1st to February 15th as part of the random selection.
+* The **Viva Festivale Reaction Set** is available in Nook's Cranny cabinet from February 1st to February 15th and includes the **Feelin’ It**, **Let’s Go**, **Viva** and **Confetti** reactions.
 
 ## Bunny Day (Easter)
 <div class="code-example">
