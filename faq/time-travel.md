@@ -104,7 +104,7 @@ There is actually a variable turned up by data mining called `isTimeSly` that de
 No, you can only access it if the game was patched to have the update or Nintendo unlocked the seasonal item. 
 
 ## What are BCAT or NTP unlocks?
-BCAT and NTP unlocks are flags that gets flipped when the actual date of the intended release of an event or period has arrived in real time. There is no way to manually unlock these flags other than hacking the Switch. The difference between these two unlocks are:
+BCAT and NTP unlocks are flags that gets flipped when the actual date of the intended release of an event or period has arrived in real time. Collectively, both of these are referred to as "time-locks". There is no way to manually unlock these flags other than hacking the Switch. The difference between these two unlocks are:
 <dl>
   <dt>BCAT</dt>
   <dd>These will append an alphabet to the game's version at the title screen, e.g.
