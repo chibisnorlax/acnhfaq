@@ -71,12 +71,12 @@ Time-locked
     <dd>Festivale float, Rainbow Feather DIY, Feathers</dd>
   </dl>
 </div>
-During Festivale, feathers will be floating around your island, and you would then have to catch them with your net to grab them. The rainbow feather is rare but talk to Pavé <span><img src="https://alexislours.github.io/img/NpcIcon/pck.png" id="inv-icon"></span> to obtain the <span><img src="https://acnhapi.com/latest/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow Feather DIY if you have trouble getting them.  He will then ask you to give him 3 normal feathers of the same colour (red, blue, green, purple) or 1 rainbow feather in exchange for a dance performance from him, as well as a **random Festivale series furniture.** You can also exchange feathers with your villagers for a different colour. 
+During Festivale, feathers will be floating around your island, and you would then have to catch them with your net to grab them. The rainbow feather is rare but talk to Pavé <span><img src="https://alexislours.github.io/img/NpcIcon/pck.png" id="inv-icon"></span> to obtain the <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow Feather DIY if you have trouble getting them.  He will then ask you to give him 3 normal feathers of the same colour (red, blue, green, purple) or 1 rainbow feather in exchange for a dance performance from him, as well as a **random Festivale series furniture.** You can also exchange feathers with your villagers for a different colour. 
 
 {: .note}
 The variant of the furniture given depends on the colour of the feathers you give him.
 
-After receiving 9 furniture items, he will then ask you to give him 3 rainbow feathers in exchange for the <span><img src="https://acnhapi.com/latest/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float. This process can be repeated multiple times for multiple event rewards throughout the day.
+After receiving 9 furniture items, he will then ask you to give him 3 rainbow feathers in exchange for the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float. This process can be repeated multiple times for multiple event rewards throughout the day.
 
 Some other notes:
 * **Festivale series furniture** are available in Nook's Cranny from February 1st to February 15th. The colour is based on your airport colour so:
