@@ -38,6 +38,12 @@ The "safe gifts" section of Yue's gifting guide is currently **out of date**. Pl
                 <li>Dress-up</li>
                 <li>Wearable headwear</li>
                 <li>Accessories</li>
+                <li>Unwearable headwear</li>
+                <li>Bottoms</li>
+                <li>Socks</li>
+                <li>Shoes<sup>2</sup>
+                <li>Bags</li>
+              </ul>
               </ul>
             </li>
             <li>Certain tools
@@ -65,16 +71,6 @@ The "safe gifts" section of Yue's gifting guide is currently **out of date**. Pl
         <td>These items will only be displayed if gifted via mail or on the villager's birthday. Gifting by hand is safe.</td>
         <td>
           <ul>
-            <li>Certain clothing items
-              <ul>
-                <li>Unwearable headwear</li>
-                <li>Bottoms</li>
-                <li>Socks</li>
-                <li>Shoes<sup>2</sup>
-                </li>
-                <li>bags</li>
-              </ul>
-            </li>
             <li>Certain tools
               <ul>
                 <li>Shovels</li>
