@@ -78,10 +78,10 @@ All of the furniture below can be bought from Nook's Cranny (except the float), 
 ### New Recipes
 There are two new DIY recipes introduced in this update.     
 
-Obtain from Pascal after giving him a scallop:
+Obtain from Pascal after giving him a scallop:<br>
 <span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence<br>
 
-Obtain from Pavé the first time you speak with him:
+Obtain from Pavé the first time you speak with him:<br>
 <span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
 
 ### New Clothing Items
