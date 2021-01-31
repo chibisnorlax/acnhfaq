@@ -107,7 +107,7 @@ There will be seasonal items for the following events:
 <span class="label label-green">✓</span> Setsubun (Jan 25 - Feb 3)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit     
 
-<span class="label label-red">✕</span> Valentines (Feb 1 - Feb 14)
+<span class="label label-green">✓</span> Valentine's (Feb 1 - Feb 14)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (6 variants)     
 
