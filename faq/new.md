@@ -79,10 +79,10 @@ All of the furniture below can be bought from Nook's Cranny (except the float), 
 There are two new DIY recipes introduced in this update.     
 
 Obtain from Pascal after giving him a scallop:
-> <span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence<br>
+<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence<br>
 
 Obtain from Pavé the first time you speak with him:
-> <span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
+<span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
 
 ### New Clothing Items
 The Festivale clothing can be bought from Able Sisters from February 1 - February 15, and the horned-ogre mask, okame mask and ogre costume are available from February 1 – February 3 in Able's as well.     
