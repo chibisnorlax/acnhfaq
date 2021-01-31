@@ -52,6 +52,15 @@ Certain items here are time locked and will be shown as below:
 > - <span class="label label-green">✔ Unlocked</span>
 > - <span class="label label-red">🛇 Locked</span>
 
+### New Materials
+The feathers float around your island during Festivale.     
+
+<span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRed.png" id="inv-icon"></span> Red feather<br>
+<span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherBlue.png" id="inv-icon"></span> Blue feather<br>
+<span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherGreen.png" id="inv-icon"></span> Green feather<br>
+<span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherPurple.png" id="inv-icon"></span> Purple feather<br>
+<span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
+
 ### New Furniture
 All of the furniture below can be bought from Nook's Cranny (except the float), from February 1<sup>st</sup> to February 15<sup>th</sup>.     
 
@@ -67,10 +76,13 @@ All of the furniture below can be bought from Nook's Cranny (except the float), 
 <span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float
 
 ### New Recipes
-There are two new DIY recipes introduced in this update:     
+There are two new DIY recipes introduced in this update.     
 
-<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence<br>
-<span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
+Obtain from Pascal after giving him a scallop:
+> - <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence<br>
+
+Obtain from Pavé the first time you speak with him:
+> - <span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
 
 ### New Clothing Items
 The Festivale clothing can be bought from Able Sisters from February 1 - February 15, and the horned-ogre mask, okame mask and ogre costume are available from February 1 – February 3 in Able's as well.     
