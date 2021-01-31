@@ -9,10 +9,12 @@ ver. 1.4.0
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-This FAQ is current through version `1.6.0c` of the game.
+This FAQ is current through version <span class="label label-purple">1.7.0</span> of the game.
 
-{: .note}
-The FAQ is in the process of updating to `1.7.0` with any new changes and additions. In the meantime, all information and new FAQs regarding the update is consolidated on the ["What's New"](/acnhfaq/new/) page.
+<a href="https://chibisnorlax.github.io/acnhfaq/new/" class="btn btn-purple fs-8" target="_blank">What's New in 1.7.0?</a>
+<a href="https://chibisnorlax.github.io/acnhbeginners/" class="btn btn-green fs-8" target="_blank">Beginner's Guide</a><br>
+<a href="https://github.com/chibisnorlax/acnhfaq/pulls" class="btn fs-8" target="_blank">Suggest Changes</a>
+
 
 ## Terminology
 
