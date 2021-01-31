@@ -41,9 +41,8 @@ The "safe gifts" section of Yue's gifting guide is currently **out of date**. Pl
                 <li>Unwearable headwear</li>
                 <li>Bottoms</li>
                 <li>Socks</li>
-                <li>Shoes<sup>2</sup>
+                <li>Shoes<sup>2</sup></li>
                 <li>Bags</li>
-              </ul>
               </ul>
             </li>
             <li>Certain tools
