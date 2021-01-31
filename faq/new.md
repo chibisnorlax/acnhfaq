@@ -54,49 +54,49 @@ Certain items here are time locked and will be shown as below:
 
 ### New Furniture
 All of the furniture below can be bought from Nook's Cranny (except the float), from February 1<sup>st</sup> to February 15<sup>th</sup>.
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalBalloon_Remake_0_0.png" id="inv-icon"></span> Festivale balloon lamp
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFlag_Remake_0_0.png" id="inv-icon"></span> Festivale flag
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalStage_Remake_0_0.png" id="inv-icon"></span> Festivale stage
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalParasol_Remake_0_0.png" id="inv-icon"></span> Festivale parasol
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalDecoration_Remake_0_0.png" id="inv-icon"></span> Festivale garland
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalStall_Remake_0_0.png" id="inv-icon"></span> Festivale stall
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png" id="inv-icon"></span> Festivale drum
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalConfetti_Remake_0_0.png" id="inv-icon"></span> Festivale confetti machine
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalLantern_Remake_0_0.png" id="inv-icon"></span> Festivale lamp
-- <span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalBalloon_Remake_0_0.png" id="inv-icon"></span> Festivale balloon lamp<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFlag_Remake_0_0.png" id="inv-icon"></span> Festivale flag<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalStage_Remake_0_0.png" id="inv-icon"></span> Festivale stage<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalParasol_Remake_0_0.png" id="inv-icon"></span> Festivale parasol<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalDecoration_Remake_0_0.png" id="inv-icon"></span> Festivale garland<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalStall_Remake_0_0.png" id="inv-icon"></span> Festivale stall<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png" id="inv-icon"></span> Festivale drum<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalConfetti_Remake_0_0.png" id="inv-icon"></span> Festivale confetti machine<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalLantern_Remake_0_0.png" id="inv-icon"></span> Festivale lamp<br>
+<span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float
 
 ### New Recipes
 There are two new DIY recipes introduced in this update:
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence
-- <span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence<br>
+<span class="label label-red">🛇</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
 
 ### New Clothing Items
 The Festivale clothing can be bought from Able Sisters from February 1 - February 15, and the horned-ogre mask, okame mask and ogre costume are available from February 1 – February 3 in Able's as well.
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapOrnamentTSamba3.png" id="inv-icon"></span> Festivale accessory 
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapMaskOgre1.png" id="inv-icon"></span> Horned-ogre mask
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapMaskOkame0.png" id="inv-icon"></span> Okame mask
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceOverallLOgre1.png" id="inv-icon"></span> Ogre costume
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceBoxNSamba1.png" id="inv-icon"></span> Festivale tank dress
-- <span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceSalopetteLCarnival3.png" id="inv-icon"></span> Festivale costume
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapOrnamentTSamba3.png" id="inv-icon"></span> Festivale accessory <br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapMaskOgre1.png" id="inv-icon"></span> Horned-ogre mask<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapMaskOkame0.png" id="inv-icon"></span> Okame mask<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceOverallLOgre1.png" id="inv-icon"></span> Ogre costume<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceBoxNSamba1.png" id="inv-icon"></span> Festivale tank dress<br>
+<span class="label label-green">✔</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceSalopetteLCarnival3.png" id="inv-icon"></span> Festivale costume
 
 ### What are the new Nook Seasonal Shopping items and their dates?
 There will be seasonal items for the following events:
 
-- <span class="label label-green">✔</span> Big Game Season (Jan 15 - Feb 15)
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/RugOtherFootballM00.png" id="inv-icon"></span> Football rug
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
-- <span class="label label-green">✔</span> Groundhog day (Jan 25 - Feb 2)
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
-- <span class="label label-green">✔</span> Setsubun (Jan 25 - Feb 3)
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
-- <span class="label label-red">🛇</span> Valentines (Feb 1 - Feb 14)
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (6 variants)
-- <span class="label label-red">🛇</span> Chinese New Year (Feb 10 - Feb 17) 
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
-- <span class="label label-red">🛇</span> Korean New Year (Feb 10 - Feb 17)
-    - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
+<span class="label label-green">✔</span> Big Game Season (Jan 15 - Feb 15)
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/RugOtherFootballM00.png" id="inv-icon"></span> Football rug
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)
+<span class="label label-green">✔</span> Groundhog day (Jan 25 - Feb 2)
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model
+<span class="label label-green">✔</span> Setsubun (Jan 25 - Feb 3)
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit
+<span class="label label-red">🛇</span> Valentines (Feb 1 - Feb 14)
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (6 variants)
+<span class="label label-red">🛇</span> Chinese New Year (Feb 10 - Feb 17) 
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration
+<span class="label label-red">🛇</span> Korean New Year (Feb 10 - Feb 17)
+> - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
 
 ## What is the update reward for 1.7.0?
 The update reward are a **pair of <span><img src="https://alexislours.github.io/img/FtrIcon/ToolMaracasCarnival.png" id="inv-icon"></span> maracas.**
