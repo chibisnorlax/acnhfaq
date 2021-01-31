@@ -50,16 +50,16 @@ A full list of all the items including variants can be found here:
 
 Certain items here are time locked and will be shown as below:
 > - <span class="label label-green">✓ Unlocked</span>
-> - <span class="label label-red">✖ Locked</span>
+> - <span class="label label-red">✕ Locked</span>
 
 ### New Materials
 The feathers float around your island during Festivale.     
 
-<span class="label label-red">✖</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRed.png" id="inv-icon"></span> Red feather<br>
-<span class="label label-red">✖</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherBlue.png" id="inv-icon"></span> Blue feather<br>
-<span class="label label-red">✖</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherGreen.png" id="inv-icon"></span> Green feather<br>
-<span class="label label-red">✖</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherPurple.png" id="inv-icon"></span> Purple feather<br>
-<span class="label label-red">✖</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
+<span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRed.png" id="inv-icon"></span> Red feather<br>
+<span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherBlue.png" id="inv-icon"></span> Blue feather<br>
+<span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherGreen.png" id="inv-icon"></span> Green feather<br>
+<span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherPurple.png" id="inv-icon"></span> Purple feather<br>
+<span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
 
 ### New Furniture
 All of the furniture below can be bought from Nook's Cranny (except the float), from February 1<sup>st</sup> to February 15<sup>th</sup>.     
@@ -73,7 +73,7 @@ All of the furniture below can be bought from Nook's Cranny (except the float), 
 <span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png" id="inv-icon"></span> Festivale drum<br>
 <span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalConfetti_Remake_0_0.png" id="inv-icon"></span> Festivale confetti machine<br>
 <span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalLantern_Remake_0_0.png" id="inv-icon"></span> Festivale lamp<br>
-<span class="label label-red">✖</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float
+<span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float
 
 ### New Recipes
 There are two new DIY recipes introduced in this update.     
@@ -82,7 +82,7 @@ Obtain from Pascal after giving him a scallop:
 > <span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence<br>
 
 Obtain from Pavé the first time you speak with him:
-> <span class="label label-red">✖</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
+> <span class="label label-red">✕</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
 
 ### New Clothing Items
 The Festivale clothing can be bought from Able Sisters from February 1 - February 15, and the horned-ogre mask, okame mask and ogre costume are available from February 1 – February 3 in Able's as well.     
@@ -107,15 +107,15 @@ There will be seasonal items for the following events:
 <span class="label label-green">✓</span> Setsubun (Jan 25 - Feb 3)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit     
 
-<span class="label label-red">✖</span> Valentines (Feb 1 - Feb 14)
+<span class="label label-red">✕</span> Valentines (Feb 1 - Feb 14)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (6 variants)     
 
-<span class="label label-red">✖</span> Chinese New Year (Feb 10 - Feb 17) 
+<span class="label label-red">✕</span> Chinese New Year (Feb 10 - Feb 17) 
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration     
 
-<span class="label label-red">✖</span> Korean New Year (Feb 10 - Feb 17)
+<span class="label label-red">✕</span> Korean New Year (Feb 10 - Feb 17)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
 
 ## What is the update reward for 1.7.0?
