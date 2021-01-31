@@ -11,9 +11,8 @@ Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serv
 
 This FAQ is current through version <span class="label label-purple">1.7.0</span> of the game.
 
-<a href="https://chibisnorlax.github.io/acnhfaq/new/" class="btn btn-purple fs-8" target="_blank">What's New in 1.7.0?</a>
-<a href="https://chibisnorlax.github.io/acnhbeginners/" class="btn btn-green fs-8" target="_blank">Beginner's Guide</a><br>
-<a href="https://github.com/chibisnorlax/acnhfaq/pulls" class="btn fs-8" target="_blank">Suggest Changes</a>
+<a href="https://chibisnorlax.github.io/acnhfaq/new/" class="btn btn-purple fs-5" target="_blank">What's New in 1.7.0?</a><a href="https://chibisnorlax.github.io/acnhbeginners/" class="btn btn-green fs-5" target="_blank">Beginner's Guide</a><br>
+<a href="https://github.com/chibisnorlax/acnhfaq/pulls" class="btn fs-3" target="_blank">Suggest Changes</a>
 
 
 ## Terminology
