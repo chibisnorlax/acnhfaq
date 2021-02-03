@@ -19,16 +19,10 @@ You now need to change your date in your Switch settings:
 4. Return to the game and the new date & time will take effect!
 
 ## What are the *general* effects of time traveling (*backward* or *forward*)?
-**Negative Effects:**
-- Open plots may fill.
-- Campers will leave.
 
-**Positive Effects:**
-- All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.
-- Redd's art will be delivered if you purchased one.
-- Fossils will respawn.
-- NPC visitor shops and quests will refresh<sup>3</sup>.
-- The daily recipe bottle will respawn.  
+|Negative Effects|Positive Effects|
+|-|-|
+|• Open plots may fill.<br>• Campers will leave.|• All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.<br>• Redd's art will be delivered if you purchased one.<br>• Fossils will respawn.<br>• NPC visitor shops and quests will refresh<sup>3</sup>.<br>• The daily recipe bottle will respawn.|
 
 <sup>1</sup>: *Able Sisters' mannequin will only change if you go outside of the week.*   
 <sup>2</sup>: *Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.*  
@@ -37,36 +31,16 @@ You now need to change your date in your Switch settings:
 ## What are the *specific* effects of time traveling forwards?
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
 
-**Negative Effects:**
-- Weeds and flowers will grow/spread.
-- Cockroaches may appear in your house (1 month or more).
-- You may get the bedhead animation (1 month or more).
-- Villagers may ask/comment on where you have been.
-- Turnips ***will*** spoil ***if*** you time travel past 5 AM the following Sunday.
-
-**Positive Effects:**
-- Building construction/upgrades/moves will be completed.
-- Weeds and flowers will grow/spread.
-- Rocks and trees will refresh.
-- Mail is delivered.
-- Turnip price trend will not change. 
+|Negative Effects|Positive Effects|
+|-|-|
+|• Weeds and flowers will grow/spread.<br>• Cockroaches may appear in your house (1 month or more).<br>• You may get the bedhead animation (1 month or more).<br>• Villagers may ask/comment on where you have been.<br>• Turnips ***will*** spoil ***if*** you time travel past 5 AM the following Sunday.|• Building construction/upgrades/moves will be completed.<br>• Weeds and flowers will grow/spread.<br>• Rocks and trees will refresh.<br>• Mail is delivered.<br>• Turnip price trend will not change.|
 
 ## What are the *specific* effects of time traveling backwards?
 If you time travel backward more than a day, it will be like going back to "fake" yesterday.
 
-**Negative Effects:**
-- Turnips will spoil.
-- Turnip prices will change and your trend will be reset.
-- Watered effect will be removed from flowers and they will not grow/breed.
-- ABD chain will reset.
-
-**Neutral Effects:**
-- It will not count as a "new day" in terms of progression.
-- Villagers will not advance moving in/out.
-- Building construction/upgrades/moves will not be completed.
-- Shop stock will be the same as it was the first time you visited that day unless you leave the current week.
-- Rocks and trees will not refresh.
-- Mail will not be delivered. 
+|Negative Effects|Neutral Effects|
+|-|-|
+|• Turnips will spoil.<br>• Turnip prices will change and your trend will be reset.<br>• Watered effect will be removed from flowers and they will not grow/breed.<br>• ABD chain will reset.|• It will not count as a "new day" in terms of progression.<br>• Villagers will not advance moving in/out.<br>• Building construction/upgrades/moves will not be completed.<br>• Shop stock will be the same as it was the first time you visited that day unless you leave the current week.<br>• Rocks and trees will not refresh.<br>• Mail will not be delivered.|
 
 ## What happens to my other games when I time travel for AC:NH?
 Time traveling for AC:NH will not affect other time-based games unless you launch them whilst the system time is changed.
