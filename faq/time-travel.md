@@ -47,9 +47,9 @@ You now need to change your date in your Switch settings:
   </tr>
 </table>
 
-- <sup>1</sup> Able Sisters' mannequin will only change if you go outside of the week.
-- <sup>2</sup> Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.
-- <sup>3</sup> Saharah's inventory does not change if you stay within the same week when time traveling forward or back. You have to go into another week for it to change.
+1. Able Sisters' mannequin will only change if you go outside of the week.
+2. Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.
+3. Saharah's inventory does not change if you stay within the same week when time traveling forward or back. You have to go into another week for it to change.
 {: .fs-3}
 
 ## What are the *specific* effects of time traveling forwards?
