@@ -16,10 +16,10 @@ Yes, it increases your [friendship level](/acnhfaq/villagers/friendship#what-is-
 The "safe gifts" section of Yue's gifting guide is currently **out of date**. Please refer to the table below for an up-to-date list of safe gifts.
 
 <div>
-  <table id="gifting">
+  <table id="gifting" width="100%">
     <colgroup>
-      <col style="width: 100px">
-      <col style="width: 150px">
+      <col width="20%">
+      <col width="20%">
       <col/>
     </colgroup>
     <tbody>
@@ -213,11 +213,11 @@ The "safe gifts" section of Yue's gifting guide is currently **out of date**. Pl
 
 *Credit to `Soleil#6271` on Discord for writing and maintaining this list!*
 
-#### Sub-Notes:  
-<sup>1</sup>: *Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture.*  
-<sup>2</sup>: *Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.*  
-<sup>3</sup>: *Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.*  
-<sup>4</sup>: *Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.*
+1. Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture. 
+2. Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.  
+3. Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.
+4. Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.
+{: .fs-3}
 
 ## If I complete X quest for my villager, will they keep that item in their inventory?
 It depends on the type of quest and friendship levels! These are the storing rules for quests:
