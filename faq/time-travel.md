@@ -20,9 +20,32 @@ You now need to change your date in your Switch settings:
 
 ## What are the *general* effects of time traveling (*backward* or *forward*)?
 
-|Negative Effects|Positive Effects|
-|-|-|
-|• Open plots may fill.<br>• Campers will leave.|• All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.<br>• Redd's art will be delivered if you purchased one.<br>• Fossils will respawn.<br>• NPC visitor shops and quests will refresh<sup>3</sup>.<br>• The daily recipe bottle will respawn.|
+<table id="tt" width="100%">
+  <colgroup>
+    <col span="2" width="50%">
+  </colgroup>
+  <tr>
+    <th>Negative Effects</th>
+    <th>Positive Effects</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Open plots may fill.</li>
+        <li>Campers will leave.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.</li>
+        <li>Redd's art will be delivered if you purchased one.</li>
+        <li>Fossils will respawn.</li>
+        <li>NPC visitor shops and quests will refresh</li>
+        <li>The daily recipe bottle will respawn.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <sup>1</sup>: *Able Sisters' mannequin will only change if you go outside of the week.*   
 <sup>2</sup>: *Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.*  
