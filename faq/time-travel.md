@@ -40,30 +40,87 @@ You now need to change your date in your Switch settings:
         <li>All stock (Able Sisters<sup>1</sup>, Nook's Cranny<sup>2</sup>, Nook Shopping) will refresh.</li>
         <li>Redd's art will be delivered if you purchased one.</li>
         <li>Fossils will respawn.</li>
-        <li>NPC visitor shops and quests will refresh</li>
+        <li>NPC visitor shops and quests will refresh.</li>
         <li>The daily recipe bottle will respawn.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<sup>1</sup>: *Able Sisters' mannequin will only change if you go outside of the week.*   
-<sup>2</sup>: *Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.*  
-<sup>3</sup>: *Saharah's inventory does not change if you stay within the same week when time traveling forward or back. You have to go into another week for it to change.*  
+<dl>
+  <dt><sup>1</sup></dt>
+    <dd><i>Able Sisters' mannequin will only change if you go outside of the week.</i></dd>
+  <dt><sup>2</sup></dt>
+    <dd><i>Some items from Nook's Cranny can only be purchased once a week. i.e. if you bought it once, it wouldn't be restocked when time traveling to that day again in the same week.</i></dd>
+  <dt><sup>3</sup></dt>
+    <dd><i>Saharah's inventory does not change if you stay within the same week when time traveling forward or back. You have to go into another week for it to change.</i></dd>
+</dl>
 
 ## What are the *specific* effects of time traveling forwards?
 It is important to remember that time traveling forwards is no different than closing your game and then logging in at the new, manually input time. With that said, here are the effects of going forwards.
 
-|Negative Effects|Positive Effects|
-|-|-|
-|• Weeds and flowers will grow/spread.<br>• Cockroaches may appear in your house (1 month or more).<br>• You may get the bedhead animation (1 month or more).<br>• Villagers may ask/comment on where you have been.<br>• Turnips ***will*** spoil ***if*** you time travel past 5 AM the following Sunday.|• Building construction/upgrades/moves will be completed.<br>• Weeds and flowers will grow/spread.<br>• Rocks and trees will refresh.<br>• Mail is delivered.<br>• Turnip price trend will not change.|
+<table id="tt" width="100%">
+  <colgroup>
+    <col span="2" width="50%">
+  </colgroup>
+  <tr>
+    <th>Negative Effects</th>
+    <th>Positive Effects</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Weeds and flowers will grow/spread.</li>
+        <li>Cockroaches may appear in your house (1 month or more).</li>
+        <li>You may get the bedhead animation (1 month or more).</li>
+        <li>Villagers may ask/comment on where you have been.</li>
+        <li>Turnips <b>will spoil</b> if you time travel past 5 AM the following Sunday.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Building construction/upgrades/moves will be completed.</li>
+        <li>Weeds and flowers will grow/spread.</li>
+        <li>Rocks and trees will refresh.</li>
+        <li>Mail is delivered.</li>
+        <li>Turnip price trend will not change.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## What are the *specific* effects of time traveling backwards?
 If you time travel backward more than a day, it will be like going back to "fake" yesterday.
 
-|Negative Effects|Neutral Effects|
-|-|-|
-|• Turnips will spoil.<br>• Turnip prices will change and your trend will be reset.<br>• Watered effect will be removed from flowers and they will not grow/breed.<br>• ABD chain will reset.|• It will not count as a "new day" in terms of progression.<br>• Villagers will not advance moving in/out.<br>• Building construction/upgrades/moves will not be completed.<br>• Shop stock will be the same as it was the first time you visited that day unless you leave the current week.<br>• Rocks and trees will not refresh.<br>• Mail will not be delivered.|
+<table id="tt" width="100%">
+  <colgroup>
+    <col span="2" width="50%">
+  </colgroup>
+  <tr>
+    <th>Negative Effects</th>
+    <th>Neutral Effects</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Turnips will spoil.</li>
+        <li>Turnip prices will change and your trend will be reset.</li>
+        <li>Watered effect will be removed from flowers and they will not grow/breed.</li>
+        <li>ABD chain will reset.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>It will not count as a "new day" in terms of progression.</li>
+        <li>Villagers will not advance moving in/out.</li>
+        <li>Building construction/upgrades/moves will not be completed.</li>
+        <li>Shop stock will be the same as it was the first time you visited that day unless you leave the current week.</li>
+        <li>Rocks and trees will not refresh.</li>
+        <li>Mail will not be delivered.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## What happens to my other games when I time travel for AC:NH?
 Time traveling for AC:NH will not affect other time-based games unless you launch them whilst the system time is changed.
