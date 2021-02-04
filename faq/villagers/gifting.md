@@ -15,6 +15,11 @@ Yes, it increases your [friendship level](/acnhfaq/villagers/friendship#what-is-
 {: .caution}
 The "safe gifts" section of Yue's gifting guide is currently **out of date**. Please refer to the table below for an up-to-date list of safe gifts.
 
+<style>
+tr:nth-child(even) {
+  background-color: #707070;
+}
+</style>
 <div>
   <table id="gifting" width="100%">
     <colgroup>
