@@ -101,8 +101,7 @@ tr:nth-child(even) {
         <td>These items are never stored or displayed, regardless of gifting method.</td>
         <td>
           <ul>
-            <li>Fish & insect models
-            </li>
+            <li>Fish & insect models</li>
             <li>Certain clothing items
               <ul>
                 <li>Wet suits</li>
@@ -118,9 +117,7 @@ tr:nth-child(even) {
             <li>Identified fossils</li>
             <li>Wallpaper</li>
             <li>Flooring</li>
-            <li>All materials that don't have the
-              <code>Place Item</code>
-              feature
+            <li>All materials that don't have the <code>Place Item</code> feature
               <ul>
                 <li>Clumps of weeds</li>
                 <li>Tree branches</li>
@@ -180,14 +177,10 @@ tr:nth-child(even) {
         <td>
           <ul>
             <li>Wrapping papers</li>
-            <li>Vaulting poles<sup>4</sup>
-            </li>
-            <li>Ladders<sup>4</sup>
-            </li>
-            <li>Villager photos<sup>4</sup>
-            </li>
-            <li>Posters<sup>4</sup>
-            </li>
+            <li>Vaulting poles<sup>4</sup></li>
+            <li>Ladders<sup>4</sup></li>
+            <li>Villager photos<sup>4</sup></li>
+            <li>Posters<sup>4</sup></li>
             <li>Flower plants</li>
             <li>Bushes</li>
             <li>Star &amp; zodiac fragments</li>
