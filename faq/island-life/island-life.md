@@ -15,7 +15,18 @@ Follow this guide, <https://tinyurl.com/acnhbeginners/>.
 Visit <https://tinyurl.com/acnhfriends>.
 
 ## How do I visit other people/invite visitors over?
-Starting day 2 of the game, speak with [Orville](/acnhfaq/npc/#orville-and-wilbur) in the airport and choose `I wanna fly!` to visit someone, or `I want visitors.` to open your gates for people to visit you. In order to use the `Online Play` options, you will need to have an active Nintendo Switch Online subscription. NSO is a paid subscription that you can purchase through the E-Shop that allows you to use the online features of various games, including AC:NH. If you have a friend that is physically close to you (i.e., in the same room or building), you can also choose the `Local Play` option! This option does not require the internet or an NSO subscription, but still allows you to visit other islands. 
+Starting day 2 of the game, speak with [Orville](/acnhfaq/npc/#orville-and-wilbur) in the airport and choose `I wanna fly!` to visit someone, or `I want visitors.` to open your gates for people to visit you. In order to use the `Online Play` options, you will need to have an active **Nintendo Switch Online subscription**. 
+
+NSO is a paid subscription that you can purchase through the E-Shop that allows you to use the online features of various games, including AC:NH. If you have a friend that is physically close to you (i.e., in the same room or building), you can also choose the `Local Play` option! This option does not require the internet or an NSO subscription, but still allows you to visit other islands.
+
+## If someone asks me to "leave through the airport", what does that mean and how do I do it?
+When someone asks you to leave via the airport, they are asking you to depart by speaking with Orville in the airport and telling him you want to go home, rather than leaving through other means (shutting your game off, pressing the minus button).
+
+## Why wouldn't someone want me to leave by pressing the minus button?
+When you try to leave with the minus button, if any other player is not ready (they are still in a dialog, menu, etc), a countdown will start. If the blocking players don't quit their menus before it hits zero, everyone will be reset at the airport, wandering NPCs will respawn, and villagers crafting will likely interrupt their crafting session. Leaving through the airport will prevent this from happening, as Orville makes sure it is safe for the player to leave.
+
+## What does the minus button do for the host/visitor?
+In multiplayer, the minus button allows the **host** to view visitors' passports, end the online session, or close their gates. For visitors, it allows them to view others' passports and gives the option to return home. See above for why leaving using the minus button isn't always a good idea, though.
 
 ## What defines a week and a day in-game?
 An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
