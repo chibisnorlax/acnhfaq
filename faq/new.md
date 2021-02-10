@@ -111,11 +111,11 @@ There will be seasonal items for the following events:
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (6 variants)     
 
-<span class="label label-red">✕</span> Chinese New Year (Feb 10 - Feb 17) 
+<span class="label label-green">✓</span> Chinese New Year (Feb 10 - Feb 17) 
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration     
 
-<span class="label label-red">✕</span> Korean New Year (Feb 10 - Feb 17)
+<span class="label label-green">✓</span> Korean New Year (Feb 10 - Feb 17)
 > - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
 
 ## What is the update reward for 1.7.0?
