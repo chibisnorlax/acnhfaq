@@ -13,6 +13,15 @@ One [day](/acnhfaq/island-life#what-defines-a-week-and-a-day-in-game) after you 
 ## Can I move where buildings are on my island?
 Yes! Every building and house can be moved except the airport and Resident Services.
 
+## What is the build limit for buildings/structures?
+
+| Building/Structure | Build Limit |
+|:------------------:|:-----------:|
+|    Player Homes    |      8      |
+|   Villager Homes   |     10      |
+|      Bridges       |      8      |
+|      Inclines      |      8      |
+
 ## How do I unlock terraforming?
 Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](/acnhfaq/unlocks) section.
 
