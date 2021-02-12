@@ -228,7 +228,7 @@ Leif sells pumpkin starts at a discounted price during the month of October.
     <ul>
         <li><b>Requirements:</b> Bought a wetsuit.</li>
         <li><b>Visiting Hours:</b> All Day</li>  
-        <li>Can be found sleeping on the island's beaches, nd upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.</li>
+        <li>Can be found sleeping on the island's beaches, and upon waking Gullivarrr up, he will ask you to find his single communicator by diving for it in the ocean.</li>
         <li>If the player completes his favor, he will mail the player a special pirate furniture item the following day.</li>
     </ul>
     </div>
