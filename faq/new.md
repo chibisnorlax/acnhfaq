@@ -124,10 +124,6 @@ The update reward are a **pair of <span><img src="https://alexislours.github.io/
 
 * * *
 ## Festivale
-{: .d-inline-block }
-
-Time Locked
-{: .label .label-red }
 
 > *Feel the heat with the colorful Festivale event filled with dancing and flying feathers! On Feb. 15, Dancer Pavé will arrive to your island’s plaza** to usher in some confetti and carnival spirit. On the day of the event you can capture colorful feathers floating on your island with your net and trade them to Pavé to receive a passionate dance number in return. Rainbow feathers seem to be an especially rare sight, so be sure to catch them and trade them with Pavé. Invite friends over to your island or visit theirs to partake in the festivities together.*
 

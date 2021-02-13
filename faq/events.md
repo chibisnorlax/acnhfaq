@@ -55,10 +55,6 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
 
 * * *
 ## Festivale (Mardi Gras)
-{: .d-inline-block}
-
-Time-locked
-{: .label .label-red}
 
 <div class="code-example">
   <dl>
@@ -71,7 +67,8 @@ Time-locked
     <dd>Festivale float, Rainbow Feather DIY, Feathers</dd>
   </dl>
 </div>
-During Festivale, feathers will be floating around your island, and you would then have to catch them with your net to grab them. The rainbow feather is rare but talk to Pavé <span><img src="https://alexislours.github.io/img/NpcIcon/pck.png" id="inv-icon"></span> to obtain the <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow Feather DIY if you have trouble getting them.  He will then ask you to give him 3 normal feathers of the same colour (red, blue, green, purple) or 1 rainbow feather in exchange for a dance performance from him, as well as a **random Festivale series furniture.** You can also exchange feathers with your villagers for a different colour. 
+
+Festivale requires version `1.7.0a`. During Festivale, feathers will be floating around your island, and you would then have to catch them with your net to grab them. The rainbow feather is rare but talk to Pavé <span><img src="https://alexislours.github.io/img/NpcIcon/pck.png" id="inv-icon"></span> to obtain the <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow Feather DIY if you have trouble getting them.  He will then ask you to give him 3 normal feathers of the same colour (red, blue, green, purple) or 1 rainbow feather in exchange for a dance performance from him, as well as a **random Festivale series furniture.** You can also exchange feathers with your villagers for a different colour. 
 
 {: .note}
 The variant of the furniture given depends on the colour of the feathers you give him.
