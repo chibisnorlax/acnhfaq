@@ -5,152 +5,76 @@ permalink: new/
 ---
 
 
-# 1.7.0
+# 1.8.0
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ck57sOYq7YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SDyY_N0eloQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The 1.7.0 update, or the "Late January Update" was an update released on the **28th of January 2021, 10am JST**.    
+The 1.8.0 update, or the "Mario Update" is an update planned for release on the **25th of February 2021, 10am JST**.    
 
 This pages serves as a one stop page for all FAQs regarding new mechanics, items, events, and everything else introduced in this release. It will be updated regularly as new information comes up. To update your game manually, [follow the instructions as outlined here](/acnhfaq/misc/#how-do-i-manually-update-my-acnh-game).
 
-The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/703cc041-e5ff-4399-b70b-33fe7e4f49d9).
+The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/bbbdba53-3902-4090-93fa-49af995fe127).
 
-The official English changelog, taken from the [Nintendo website](https://en-americas-support.nintendo.com/app/answers/detail/a_id/49112/~/how-to-update-animal-crossing%3A-new-horizons#v170).
+<!--- The official English changelog, taken from the [Nintendo website](https://en-americas-support.nintendo.com/app/answers/detail/a_id/49112/~/how-to-update-animal-crossing%3A-new-horizons#v170). --->
 
 <details>
     <summary>Click here to see changelog</summary>  
 
-<b>Ver. 1.7.0 (Released January 27, 2021)</b><br>
-The software has been updated if you see “Ver. 1.7.0” in the upper-right corner of the title screen.
-
-<b>General updates</b>
-
-<ul>
-    <li>A seasonal event, Festivale, has been added.</li>
-    <li>The following content has also been added:</li>
-        <ul>
-            <li>Additional limited-time seasonal items from Nook Shopping.</li>
-        </ul>
-</ul>
-
-<b>Fixed issues</b>
-
-<ul>
-    <li>Fixed an issue preventing players from receiving the mermaid fence recipe from Pascal.</li>
-    <li>Other adjustments and corrections were made to improve the game play experience. </li>
-</ul>    
+Changelog will be posted once the update drops. 
 
 </details>
 
 ## What are the new items introduced?
-A full list of all the items including variants can be found here:   
-<https://catalogue.ac/?s=dmFkPTEuNy4w&o=category>
+More information on this will be posted once the update drops.
+<!--- A full list of all the items including variants can be found here:   
+<https://catalogue.ac/?s=dmFkPTEuNy4w&o=category> --->
 
 Certain items here are time locked and will be shown as below:
 > - <span class="label label-green">✓ Unlocked</span>
 > - <span class="label label-red">✕ Locked</span>
 
-### New Materials
-The feathers float around your island during Festivale.     
-
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRed.png" id="inv-icon"></span> Red feather<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherBlue.png" id="inv-icon"></span> Blue feather<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherGreen.png" id="inv-icon"></span> Green feather<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherPurple.png" id="inv-icon"></span> Purple feather<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
-
-### New Furniture
-All of the furniture below can be bought from Nook's Cranny (except the float), from February 1<sup>st</sup> to February 15<sup>th</sup>.     
-
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalBalloon_Remake_0_0.png" id="inv-icon"></span> Festivale balloon lamp<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFlag_Remake_0_0.png" id="inv-icon"></span> Festivale flag<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalStage_Remake_0_0.png" id="inv-icon"></span> Festivale stage<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalParasol_Remake_0_0.png" id="inv-icon"></span> Festivale parasol<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalDecoration_Remake_0_0.png" id="inv-icon"></span> Festivale garland<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalStall_Remake_0_0.png" id="inv-icon"></span> Festivale stall<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalSurdo_Remake_0_0.png" id="inv-icon"></span> Festivale drum<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalConfetti_Remake_0_0.png" id="inv-icon"></span> Festivale confetti machine<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalLantern_Remake_0_0.png" id="inv-icon"></span> Festivale lamp<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float
-
-### New Recipes
-There are two new DIY recipes introduced in this update.     
-
-Obtain from Pascal after giving him a scallop:<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/ItemFenceMermaid.png" id="inv-icon"></span> Mermaid Fence<br>
-
-Obtain from Pavé the first time you speak with him:<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow feather
-
-### New Clothing Items
-The Festivale clothing can be bought from Able Sisters from February 1 - February 15, and the horned-ogre mask, okame mask and ogre costume are available from February 1 – February 3 in Able's as well.     
-
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapOrnamentTSamba3.png" id="inv-icon"></span> Festivale accessory <br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapMaskOgre1.png" id="inv-icon"></span> Horned-ogre mask<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/CapMaskOkame0.png" id="inv-icon"></span> Okame mask<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceOverallLOgre1.png" id="inv-icon"></span> Ogre costume<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceBoxNSamba1.png" id="inv-icon"></span> Festivale tank dress<br>
-<span class="label label-green">✓</span> <span><img src="https://alexislours.github.io/img/FtrIcon/TopsTexOnepieceSalopetteLCarnival3.png" id="inv-icon"></span> Festivale costume
-
 ### What are the new Nook Seasonal Shopping items and their dates?
 There will be seasonal items for the following events:
 
-<span class="label label-green">✓</span> Big Game Season (Jan 15 - Feb 15)
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/RugOtherFootballM00.png" id="inv-icon"></span> Football rug
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/ToolMegaphone0.png" id="inv-icon"></span> Cheer megaphone (4 variants)     
+![](https://topics-cdn.nintendo.co.jp/image/2021/02/10070809181116/800/20692_15.jpg)
+<span class="label label-red">✕</span> Doll Festival (Feb 25 - Mar 3)
+> - 「ひなにんぎょう」 (Hina doll)
+> - 「ぼんぼり」 (Bonbori)    
 
-<span class="label label-green">✓</span> Groundhog day (Jan 25 - Feb 2)
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrConstructFigure.png" id="inv-icon"></span> Resetti model     
+![](https://topics-cdn.nintendo.co.jp/image/2021/02/04112335667305/800/20692_14.jpg)
+<span class="label label-red">✕</span> Pi Day (Mar 1 - Mar 14)
+> - 「πパイ」 Pi day pie   
 
-<span class="label label-green">✓</span> Setsubun (Jan 25 - Feb 3)
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/ToolSoy0.png" id="inv-icon"></span> Bean-tossing kit     
+![](https://topics-cdn.nintendo.co.jp/image/2021/02/08081822578455/800/20692_12.jpg)
+<span class="label label-red">✕</span> St. Patrick's Day (Feb 10 - Feb 17)
+> - 「シャムロックソーダ」(Shamrock mug)
+> - 「シャムロックのドアプレート」(Shamrock doorplate)
+> - 「シャムロックのラグ」(Shamrock rug)
 
-<span class="label label-green">✓</span> Valentine's (Feb 1 - Feb 14)
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrChocolateHeart_Remake_0_0.png" id="inv-icon"></span> Chocolate heart (4 variants)
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrRosebouquetHeart_Remake_0_0.png" id="inv-icon"></span> Heart-shaped bouquet (6 variants)     
-
-<span class="label label-green">✓</span> Chinese New Year (Feb 10 - Feb 17) 
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaCh.png" id="inv-icon"></span> Lucky red envelope
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/FtrDoorOrnamentShunsetsu.png" id="inv-icon"></span> Lunar New Year decoration     
-
-<span class="label label-green">✓</span> Korean New Year (Feb 10 - Feb 17)
-> - <span><img src="https://alexislours.github.io/img/FtrIcon/OtoshidamaKr.png" id="inv-icon"></span> Bokjumeoni lucky pouch
+St. Patrick's Day outfits will also be on sale in Able Sisters during this period.
 
 ## What is the update reward for 1.7.0?
-The update reward are a **pair of <span><img src="https://alexislours.github.io/img/FtrIcon/ToolMaracasCarnival.png" id="inv-icon"></span> maracas.**
-![](https://topics-cdn.nintendo.co.jp/image/2021/01/18053654163662/800/19409_20.jpg)
+The update reward is the **Mario wall**
+![](https://topics-cdn.nintendo.co.jp/image/2021/02/04112538063894/800/20692_13.jpg)
 
-* * *
-## Festivale
+## Mario Items
+Mario related items will be available from March 1st onwards, and requires game version `1.8.0 a`. These items can be bought from Nook's Shopping's "Promotions" tab.
 
-> *Feel the heat with the colorful Festivale event filled with dancing and flying feathers! On Feb. 15, Dancer Pavé will arrive to your island’s plaza** to usher in some confetti and carnival spirit. On the day of the event you can capture colorful feathers floating on your island with your net and trade them to Pavé to receive a passionate dance number in return. Rainbow feathers seem to be an especially rare sight, so be sure to catch them and trade them with Pavé. Invite friends over to your island or visit theirs to partake in the festivities together.*
+![](https://topics-cdn.nintendo.co.jp/image/2021/02/03111034880938/800/20692_09.jpg)
 
-Festivale has returned as an event on the **15th of February 2021**, the event is time-locked and would require version `1.7.0a`. Decorate with furniture bought from Nook's Cranny and wear extravagant costumes from Able Sisters. These new items will be available from February 1st onwards.
-
-### Who is Pavé and how do I meet him?
-<div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/pck.png">
-    <div class="details">
-    <ul>
-        <li>First encounter during <a href="/acnhfaq/events/#festivale-mardi-gras">Festivale</a>. </li>
-        <li>Pavé is the host of this event, and will be at the plaza.</li>
-    </ul>
-    </div>
-</div> 
-
-### What rewards do I get from this event?
-The DIY for the <span><img src="https://alexislours.github.io/img/FtrIcon/FeatherRainbow.png" id="inv-icon"></span> Rainbow Feather and the ultimate event reward is the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrCarnivalFloat.png" id="inv-icon"></span> Festivale float.
-
-### What are the new reactions?
-![](https://topics-cdn.nintendo.co.jp/image/2021/01/12103610731822/800/19409_09.jpg)
-There are 4 new reactions, **Feelin’ It**, **Let’s Go**, **Viva** and **Confetti**. The <span><img src="https://alexislours.github.io/img/FtrIcon/HowtoBookReactionCarnival.png" id="inv-icon"></span> Viva Festivale Reaction Set can be purchased with **19,800 <span class="icon-Bells"></span>** from the shelf at Nook’s Cranny from February 1<sup>st</sup> to February 15<sup>th</sup>.
-
-* * *
+### Pipes
+From the Nintendo press article, these are some information on the new "Pipe" item introduced.
+1. You need to have 2 or more pipes placed for them to function.
+2. If you place down more than 2 pipes, the destination will be randomised between all pipes.
+3. Pipes can also be placed in players' homes. Warping there is also possible.
+4. Pipes require space around them for teleportation to work.
 
 ## Mechanic Changes
-This list documents any mechanic changes from version `1.6.0` to `1.7.0`. This list will be updated as new information comes in.
+This list documents any mechanic changes from version `1.7.0` to `1.8.0`. This list will be updated as new information comes in.
+
+<!--- This list documents any mechanic changes from version `1.6.0` to `1.7.0`. This list will be updated as new information comes in.
 - Regarding villager gifting:
     - All hand gifted clothing (aside from wetsuits) are now unsafe. (They will store them)
     - Clothing can now be placed on top of surfaces in villagers' houses. 
@@ -159,4 +83,4 @@ This list documents any mechanic changes from version `1.6.0` to `1.7.0`. This l
     - Wreath glitch appears to be fixed.
 - It is now possible for villagers to have the move out bubble before having the first K.K. concert.
 - Snowballs now have less strict spawn conditions. 
-- Celeste can now show up on a Sunday.
+- Celeste can now show up on a Sunday. --->
