@@ -55,8 +55,8 @@ There will be seasonal items for the following events:
 
 St. Patrick's Day outfits will also be on sale in Able Sisters during this period.
 
-## What is the update reward for 1.7.0?
-The update reward is the **Mario wall**
+## What is the update reward for 1.8.0?
+The update reward is this **Mario-themed wallpaper**.
 ![](https://topics-cdn.nintendo.co.jp/image/2021/02/04112538063894/800/20692_13.jpg)
 
 ## Mario Items
@@ -66,10 +66,10 @@ Mario related items will be available from March 1st onwards, and requires game 
 
 ### Pipes
 From the Nintendo press article, these are some information on the new "Pipe" item introduced.
-1. You need to have 2 or more pipes placed for them to function.
-2. If you place down more than 2 pipes, the destination will be randomised between all pipes.
-3. Pipes can also be placed in players' homes. Warping there is also possible.
-4. Pipes require space around them for teleportation to work.
+> 1. You need to have 2 or more pipes placed for them to function.
+> 2. If you place down more than 2 pipes, the destination will be randomised between all pipes.
+> 3. Pipes can also be placed in players' homes. Warping there is also possible.
+> 4. Pipes require space around them for teleportation to work.
 
 ## Mechanic Changes
 This list documents any mechanic changes from version `1.7.0` to `1.8.0`. This list will be updated as new information comes in.
