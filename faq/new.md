@@ -11,8 +11,6 @@ permalink: new/
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SDyY_N0eloQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<iframe width="300" height="154" src="https://w2.countingdownto.com/3465945" frameborder="0"></iframe>
-
 The 1.8.0 update, or the "Mario Update" is an update planned for release on the **25th of February 2021, 10am JST**. 
 
 This pages serves as a one stop page for all FAQs regarding new mechanics, items, events, and everything else introduced in this release. It will be updated regularly as new information comes up. To update your game manually, [follow the instructions as outlined here](/acnhfaq/misc/#how-do-i-manually-update-my-acnh-game).
