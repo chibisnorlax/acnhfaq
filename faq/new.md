@@ -48,7 +48,7 @@ There will be seasonal items for the following events:
 > - 「πパイ」 Pi day pie   
 
 ![](https://topics-cdn.nintendo.co.jp/image/2021/02/08081822578455/800/20692_12.jpg)
-<span class="label label-red">✕</span> St. Patrick's Day (Feb 10 - Feb 17)
+<span class="label label-red">✕</span> St. Patrick's Day (Mar 10 - Mar 17)
 > - 「シャムロックソーダ」(Shamrock mug)
 > - 「シャムロックのドアプレート」(Shamrock doorplate)
 > - 「シャムロックのラグ」(Shamrock rug)
