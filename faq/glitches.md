@@ -26,7 +26,7 @@ Any previously known glitches, if not contained in this list, **have been patche
 | DC Dupe Exploit         | Allows the user to duplicate items. Note: **This dupe can corrupt your save file. Attempt at your own risk.**                                                     | N/A                                                                                                          |
 | Invisible Weeds         | Weeds, when placed between 12:00 AM and 5:00 AM on the last day of a season, are invisible until after 5:00 AM                                                    | N/A                                                                                                          |
 | 4th Level Present       | The game allows falling presents to land on the inaccessible 4th level, which is unable to be removed via the cleanup feature.                                    | Use an OOB glitch to get onto the 4th level and grab it, or close without saving the game for it to despawn. |
-| Can't talk to villagers | Occasionally, when attempting to talk to villagers, the game will zoom in as if the conversation was normal, then zoom back out without the dialogue starting.    | Close and restart the game.                                                                                  |                                                                             |
+| Can't talk to villagers | Occasionally, when attempting to talk to villagers, the game will zoom in as if the conversation was normal, then zoom back out without the dialogue starting.    | Close and restart the game.                                                                                  |
 
 {: .note}
 The following glitch has not been confirmed to be fixed.
