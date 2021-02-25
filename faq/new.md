@@ -27,9 +27,10 @@ Changelog will be posted once the update drops.
 </details>
 
 ## What are the new items introduced?
-25 new 1.8.0 items were added (3 Rugs, 9 Housewares, 1 Floor, 1 Wallpaper, 2 Tools, 8 Misc, and 1 Wall-mounted).
-<!--- A full list of all the items including variants can be found here:   
-<https://catalogue.ac/?s=dmFkPTEuNy4w&o=category> --->
+25 new 1.8.0 items were added (3 Rugs, 9 Housewares, 1 Floor, 1 Wallpaper, 2 Tools, 8 Misc, and 1 Wall-mounted). 
+
+A full list of all the items including variants can be found here:
+<https://catalogue.ac/?s=dmFkPTEuOC4w&o=category>
 
 Certain items here are time locked and will be shown as below:
 > - <span class="label label-green">✓ Unlocked</span>
