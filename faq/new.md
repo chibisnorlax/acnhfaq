@@ -91,7 +91,7 @@ This list documents any mechanic changes from version `1.7.0` to `1.8.0`. This l
 # 1.9.0
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://youtu.be/jpJo9Zleqrk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtu.be/embed/jpJo9Zleqrk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 The 1.9.0 update, or the "Sanrio Update" is an update released on the **18th of March 2021, 10am JST**. The reissue of the Sanrio Amiibo Cards will be released on the **26th of March 2021**.  
