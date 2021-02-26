@@ -72,20 +72,6 @@ From the Nintendo press article, these are some information on the new "Pipe" it
 > 3. Pipes can also be placed in players' homes. Warping there is also possible.
 > 4. Pipes require space around them for teleportation to work.
 
-## Mechanic Changes
-This list documents any mechanic changes from version `1.7.0` to `1.8.0`. This list will be updated as new information comes in.
-
-<!--- This list documents any mechanic changes from version `1.6.0` to `1.7.0`. This list will be updated as new information comes in.
-- Regarding villager gifting:
-    - All hand gifted clothing (aside from wetsuits) are now unsafe. (They will store them)
-    - Clothing can now be placed on top of surfaces in villagers' houses. 
-    - Shoes are now able to be placed in villagers' houses.
-    - Some items in villager houses are now rotated inward instead of facing the wall.
-    - Wreath glitch appears to be fixed.
-- It is now possible for villagers to have the move out bubble before having the first K.K. concert.
-- Snowballs now have less strict spawn conditions. 
-- Celeste can now show up on a Sunday. --->
-
 *** 
 
 # 1.9.0
@@ -108,5 +94,18 @@ They will be released in various stores dependent on your region. Please visit y
 
 ![](https://i.redd.it/qjioxfk1pom21.jpg)
 
-## Mechanic Changes
-This list documents any mechanic changes from version `1.8.0` to `1.9.0`. This list will be updated when the update is released.
+* * *
+
+# Mechanic Changes
+This list documents any mechanic changes from version `1.6.0` -> `1.7.0`.
+- Regarding villager gifting:
+    - All hand gifted clothing (aside from wetsuits) are now unsafe. (They will store them)
+    - Clothing can now be placed on top of surfaces in villagers' houses. 
+    - Shoes are now able to be placed in villagers' houses.
+    - Some items in villager houses are now rotated inward instead of facing the wall.
+    - Wreath glitch appears to be fixed.
+- It is now possible for villagers to have the move out bubble before having the first K.K. concert.
+- Snowballs now have less strict spawn conditions. 
+- Celeste can now show up on a Sunday.
+
+No mechanic changes have been reported for `1.7.0` -> `1.8.0` yet.

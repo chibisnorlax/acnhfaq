@@ -14,7 +14,7 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 ## What are the current known glitches?
 
 {: .note}
-Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. <span class="label label-purple">1.7.0</span>.
+Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. <span class="label label-purple">1.8.0</span>.
 
 | Glitch Name             | Information                                                                                                                                                       | Fix                                                                                                          |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|

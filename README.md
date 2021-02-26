@@ -37,9 +37,12 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 <details>
 <summary>Click here to open</summary>
 
+### 1.4.2
+- Initial prep for 1.9.0.
+- Fleshed out 1.8.0 info.
+
 ### 1.4.1
 - Initial prep for 1.8.0.
-- Initial prep for 1.9.0.
 
 ### 1.4.0
 - Added information regarding the 1.7.0 update
