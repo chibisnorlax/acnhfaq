@@ -38,7 +38,7 @@ The timeframe of which each seasonal material can be obtained in is tabled below
 
 |Seasonal Material|Time Period|
 |:-:|-|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/DIYBambooSpring.png" id="inv-icon"><br>Young spring bamboo | NH: Feb 25 - May 21<br>SH: Aug 25 - Nov 30|
+|<span><img src="https://alexislours.github.io/img/MenuIcon/DIYBambooSpring.png" id="inv-icon"><br>Young spring bamboo | NH: Feb 25 - May 31<br>SH: Aug 25 - Nov 30|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/Sakurapetal.png" id="inv-icon"><br>Cherry-blossom petals | NH: Apr 1 - Apr 10<br>SH: Oct 1 - Oct 10|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/ShellSummer.png" id="inv-icon"><br>Summer shells | NH: Jun 1 - Aug 31<br>SH: Dec 1 - Feb 29|
 |<span><img src="https://alexislours.github.io/img/MenuIcon/DIYAcorn.png" id="inv-icon"><span><img src="https://alexislours.github.io/img/MenuIcon/DIYPinecone.png" id="inv-icon"><br>Acorns and pine cones | NH: Sep 1 - Dec 10<br>SH: Mar 1 - Jun 10|
