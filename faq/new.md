@@ -45,7 +45,7 @@ There will be seasonal items for the following events:
 > - <span><img src="https://acnhapi.com/1.8.0/FtrIcon/FtrBonbori.png" id="inv-icon"></span> Blossom Lantern 
 
 ![](https://topics-cdn.nintendo.co.jp/image/2021/02/04112335667305/800/20692_14.jpg)
-<span class="label label-red">✕</span> Pi Day (Mar 1 - Mar 14)
+<span class="label label-green">✓</span> Pi Day (Mar 1 - Mar 14)
 > - <span><img src="https://acnhapi.com/1.8.0/FtrIcon/FtrPiePi.png" id="inv-icon"></span> Pi day pie   
 
 ![](https://topics-cdn.nintendo.co.jp/image/2021/02/08081822578455/800/20692_12.jpg)
