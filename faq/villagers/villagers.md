@@ -30,6 +30,11 @@ There are 8 villager personalities.
 
 Special NPCs do not have personalities, and each villager can only be of one personality. Personality dictates the DIYs a villager crafts, the [reactions they teach](/acnhfaq/island-life#what-are-reactions), and the dialogue they can use.
 
+## What are villager subtypes?
+Each personality has two subtypes, A and B. Each personality type will define how a villager will speak to you. They also have differing interests and hobbies. 
+
+Please refer to [this document on personality subtypes](https://docs.google.com/document/d/1b2rrEIeNZKnQrvoyD4JtkKSNJs2VAHobCBGKSnO2A_o/edit) for more information.
+
 ## How many villagers can I have?
 You can have **10** animal villagers and up to **8** human villagers. You can only have one animal villager with same name on the same island.
  
