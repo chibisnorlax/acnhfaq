@@ -49,7 +49,7 @@ There will be seasonal items for the following events:
 > - <span><img src="https://acnhapi.com/1.8.0/FtrIcon/FtrPiePi.png" id="inv-icon"></span> Pi day pie   
 
 ![](https://topics-cdn.nintendo.co.jp/image/2021/02/08081822578455/800/20692_12.jpg)
-<span class="label label-red">✕</span> St. Patrick's Day (Mar 10 - Mar 17)
+<span class="label label-green">✓</span> St. Patrick's Day (Mar 10 - Mar 17)
 > - <span><img src="https://acnhapi.com/1.8.0/FtrIcon/FtrDoorOrnamentShamrock.png" id="inv-icon"></span> Shamrock doorplate
 > - <span><img src="https://acnhapi.com/1.8.0/FtrIcon/RugOtherShamrockM00.png" id="inv-icon"></span> Shamrock rug
 > - <span><img src="https://acnhapi.com/1.8.0/FtrIcon/ToolJuiceShamrock.png" id="inv-icon"></span> Shamrock soda
