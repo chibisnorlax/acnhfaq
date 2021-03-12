@@ -11,6 +11,8 @@ Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serv
 
 This FAQ is current through version <span class="label label-purple">1.8.0</span> of the game.
 
+Feel free to join the ACNH Info server here, where you can keep up to date with the latest game news and information: https://discord.gg/nCWN8F4DuS
+
 <a href="https://chibisnorlax.github.io/acnhfaq/new/" class="btn btn-purple fs-5 mr-2" target="_blank">What's New in 1.8.0?</a><a href="https://chibisnorlax.github.io/acnhbeginners/" class="btn btn-green fs-5" target="_blank">Beginner's Guide</a><br>
 <a href="https://github.com/chibisnorlax/acnhfaq/pulls" class="btn fs-3" target="_blank">Suggest Changes</a>
 
