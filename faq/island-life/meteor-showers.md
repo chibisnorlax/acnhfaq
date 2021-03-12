@@ -18,7 +18,11 @@ If she has anything else to announce for the day, like a villager moving in or o
 Both heavy and light meteor showers are locked to the date on which they occur, and will always occur on that date even if you time travel. 
 
 ## How do I wish on a star, and what does it do?
-To wish on a star: when you see or hear it moving across the sky, stand still, look up with <span class="icon-R-S"></span>, and press the <span class="icon-A"></span> button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day.
+To wish on a star: when you see or hear it moving across the sky, stand still, look up with <span class="icon-R-S"></span>, and press the <span class="icon-A"></span> button. Make sure you are not holding any tools or other items in your hands. You’ll know that it worked if you hear a tone and see the star glow a little brighter. For each star you wish on, you will find a star fragment on your beach the following day. Watch the following video for a demonstration, courtesy of `Nours#7244`.
+
+<video width="100%" controls="controls">
+  <source src="https://chibisnorlax.github.io/acnhfaq/assets/wishingstar.mp4#t=0.001" type="video/mp4">
+</video>
 
 Star fragments are a crafting material that can be used in <span><img src="https://alexislours.github.io/img/MenuIcon/PaperRecipe.png" id="inv-icon"></span> DIY recipes.
 

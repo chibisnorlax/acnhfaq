@@ -94,6 +94,7 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 |Item|Unlock Criteria|
 |---|-|
 |**Nook Miles Redemption**| • Pay off 5,000 <span class="icon-NM"></span> house debt.<br> • Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection.|
+|**Customizations**|Tom Nook should make an announcement about his customization workshop after you finished the 3 plots quest. Customization allows you to change the look of some items.|
 |**Nook Miles+**| Upgrade your tent into a house by selecting the `About my home…` option when talking to Tom Nook.|
 |**Dodo Airport**| Day 2 of playing the game once you sync into real time.|
 |**Bedhead Hair**| Do not log in for a month — time travel is a great way to do this.|
