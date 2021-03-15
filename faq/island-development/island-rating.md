@@ -34,6 +34,8 @@ Nature points takes into account of the quantity of trees, bamboo, flowers, and 
 |:--------------------------:|:--------------:|
 | Fully grown trees & bamboo |       1        |
 |    Fully grown flowers     |       1        |
+|   Stage 2, 3, 4 Pumpkins   |       1        |
+|      Pumpkin sprouts       |      0.5       |
 |     Flower stems/buds      |      0.7       |
 |        Flower seeds        |      0.5       |
 |           Bushes           |      0.5       |

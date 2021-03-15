@@ -212,9 +212,8 @@ tr:nth-child(even) {
 *Credit to `Soleil#6271` on Discord for writing and maintaining this list!*
 
 1. Wall-mounted furniture is not safe even though it's not visibly displayed, because enough of it will overload a villager's inventory to the point where they will start removing wall-mounted furniture and surface furniture. 
-2. Birthday-gifted/mailed shoes don't get physically placed but go directly to their wardrobe.  
-3. Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.
-4. Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.
+2. Birthday-gifted/mailed rugs don't get physically placed but are stored in their inventory.
+3. Although you can't hand-gift vaulting pole, ladder, villager photos, or posters, mailing these will actually cause them to get added to their inventory.
 {: .fs-3}
 
 ## If I complete X quest for my villager, will they keep that item in their inventory?
