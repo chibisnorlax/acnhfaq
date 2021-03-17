@@ -18,7 +18,7 @@ This pages serves as a one stop page for all FAQs regarding new mechanics, items
 The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/9a207313-c1fc-4a08-a39f-89bafbfa530e).
 
 ## What is the update reward for 1.9.0?
-The update reward is this **1st Anniversary Cake**.
+The update reward is the **1st Anniversary Cake**.
 ![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_UpdateGift.jpg)
 
 ## What new items are introduced?
@@ -35,23 +35,26 @@ There will be seasonal items for the following events:
 <span class="label label-red">✕</span> April Fool's Day (March 26 - April 1)
 > - Whoopee Cushion
 
-![](https://assets.nintendo.com/image/upload/v1615853305/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_01.jpg)
-<span class="label label-red">✕</span> April Fool's Day (March 26 - April 1)
-> - Whoopee Cushion
-
 ![](https://pbs.twimg.com/media/Ewmkzt3W8Agknzp?format=jpg&name=4096x4096)
 <span class="label label-red">✕</span> Bunny Day (March 28 - April 4)
 > - New item names TBA
 
+![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_02.jpg)
+<span class="label label-red">✕</span> Prom Season (April 1 - April 30)
+> - Prom Wall
+> - Prom Night Flooring
+> - Prom Sash
+
 ## Where do I purchase the Sanrio Amiibos?
 They will be released in various stores dependent on your region. Please visit your local Nintendo website to see where they are being released for your region.
 
+![](https://i.redd.it/qjioxfk1pom21.jpg)
+
 ## What else is new?
-![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_02.jpg)
+![](https://pbs.twimg.com/media/EwnUmnrXMAEnPIS?format=jpg&name=large)
 
 The Custom Design app is getting an upgrade! Players can purchase the Custom Design Pro Editor+ from the Nook Stop for 2,000 Nook Miles. The upgrade will add 50 additional slots to both the Normal Custom Design mode and Pro Custom Design mode, for a total of 100 new custom design slots. There will also be new items to customize: umbrellas, Uchiwa Fans, handheld flags, and face-cutout standees.
 
-![](https://i.redd.it/qjioxfk1pom21.jpg)
 
 * * *
 
