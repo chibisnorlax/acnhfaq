@@ -16,7 +16,7 @@ The AC community commonly refers to animal island residents as 'villagers'. Belo
 |Dreamies|Dreamies are a player's set of, or singular, personal favourite villagers. They are highly sought after by the player.|
 
 ## How many villagers are there in Animal Crossing: New Horizons?
-Currently there are 391 villagers in AC:NH. See [the Nookipedia's entry here](https://nookipedia.com/wiki/Villagers/New_Horizons) for a list of them.
+Currently there are 397 villagers in AC:NH. See [the Nookipedia's entry here](https://nookipedia.com/wiki/Villagers/New_Horizons) for a list of them.
 
 ## What are the villager personalities?
 There are 8 villager personalities.
