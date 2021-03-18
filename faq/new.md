@@ -22,7 +22,7 @@ The update reward is the **1st Anniversary Cake**.
 ![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_UpdateGift.jpg)
 
 ## What new items are introduced?
-As it stands, the following 6 villagers will be added: Rilla, Marty, Étoile, Chai, Chelsea, and Toby. Additionally, furniture and clothing items relating to the character they represent will also be added. The number and names of these items are currently unknown.
+The following 6 villagers will be added: Rilla, Marty, Étoile, Chai, Chelsea, and Toby. Additionally, furniture and clothing items relating to the character they represent will also be added. They are obtainable by scanning the Sanrio Amiibos in Photopia. For a complete list of these items, see here: link TBA
 
 Certain items here are time locked and will be shown as below:
 > - <span class="label label-green">✓ Unlocked</span>
@@ -37,7 +37,11 @@ There will be seasonal items for the following events:
 
 ![](https://pbs.twimg.com/media/Ewmkzt3W8Agknzp?format=jpg&name=4096x4096)
 <span class="label label-red">✕</span> Bunny Day (March 28 - April 4)
-> - New item names TBA
+> - Bunny Day topiary
+> - Bunny Day garden flag
+> - Bunny Day tree
+> - Bunny Day planter box
+> - Bunny Day candy
 
 ![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_02.jpg)
 <span class="label label-red">✕</span> Prom Season (April 1 - April 30)
@@ -49,6 +53,9 @@ There will be seasonal items for the following events:
 They will be released in various stores dependent on your region. Please visit your local Nintendo website to see where they are being released for your region.
 
 ![](https://i.redd.it/qjioxfk1pom21.jpg)
+
+## Are the Sanrio villagers adoptable? Can I find them on mystery islands, or in my campsite?
+The Sanrio villagers are not adoptable between player islands. They cannot be encountered on mystery islands, or appear in the campsite. They are the first Amiibo-exclusive villagers in Animal Crossing: New Horizons.
 
 ## What else is new?
 ![](https://pbs.twimg.com/media/EwnUmnrXMAEnPIS?format=jpg&name=large)
