@@ -43,6 +43,14 @@ There will be seasonal items for the following events:
 > - Bunny Day planter box
 > - Bunny Day candy
 
+![](https://pbs.twimg.com/media/EwtqwzmWEAAbvtb?format=jpg&name=large)
+<span class="label label-red">✕</span> Singmogil (April 1 - April 10)
+> - Forsythia
+
+![](https://pbs.twimg.com/media/EwtVHwlWYAQ3SqQ?format=jpg&name=large)
+<span class="label label-red">✕</span> Nature Day (April 15 - April 22)
+> - Cool Globe
+
 ![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_02.jpg)
 <span class="label label-red">✕</span> Prom Season (April 1 - April 30)
 > - Prom Wall
@@ -77,4 +85,9 @@ The Custom Design app is getting an upgrade! Players can purchase the Custom Des
 - Snowballs now have less strict spawn conditions. 
 - Celeste can now show up on a Sunday. -->
 
-No mechanic changes have been reported for `1.7.0` -> `1.8.0` yet.
+<!-- No mechanic changes have been reported for `1.7.0` -> `1.8.0` yet. -->
+
+This list documents any mechanic changes from version `1.8.0` -> `1.9.0`.
+- Regarding villager gifting:
+    - The "fruit stack" trick to get villager photos via mail no longer works. However, if the individual item in a stack is worth 750+ bells, the villager can still send their photo via mail.
+    - Villager photos can now be placed on surfaces in villager homes. 
