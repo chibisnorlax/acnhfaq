@@ -9,9 +9,6 @@ Events are special days where (in most cases) a special NPC will arrive on the i
 
 Time travelling to these events will not be possible, unless of course the actual event day has passed. In this case, you are free to time travel back to a past event to redo them.
 
-{: .note}
-Most past events are **only active in 2020** as of version `1.7.0`. The only 2021 event active for now is Festivale.
-
 There are several requirements for most of the events listed here:
 - You must have an upgraded Resident Services.
 - You must not have a banned Nintendo Switch (as they cannot receive BCAT unlocks).
@@ -60,7 +57,7 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
   <dl>
     <dt>Date</dt>
     <dd>15<sup>th</sup>
-      February</dd>
+      February, 2021</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -90,9 +87,9 @@ For a simplified infographic, visit <https://cestislife.github.io/img/festivale.
 <div class="code-example">
   <dl>
     <dt>Date</dt>
-    <dd>1<sup>st</sup>
-      April - 12<sup>th</sup>
-      April</dd>
+    <dd>28<sup>th</sup>
+      March - 4<sup>th</sup>
+      April, 2021</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -120,7 +117,7 @@ On the last day of Bunny Day, Zipper will come to your island and give you the B
     <dt>Date</dt>
     <dd>23<sup>rd</sup>
       April - 4<sup>th</sup>
-      May</dd>
+      May, 2020</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -152,7 +149,7 @@ If you talk to Tom Nook <span><img src="https://alexislours.github.io/img/NpcIco
     <dt>Date</dt>
     <dd>1<sup>st</sup>
       May - 7<sup>th</sup>
-      May</dd>
+      May, 2020</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -173,7 +170,7 @@ Watch the video tutorial below on how to complete the maze and obtain all possib
     <dt>Date</dt>
     <dd>18<sup>th</sup>
       May - 31<sup>st</sup>
-      May</dd>
+      May, 2020</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -188,7 +185,7 @@ The museum will host a stamp rally everyday during this period. The fossil, bug,
     <dt>Date</dt>
     <dd>1<sup>st</sup>
       June - 30<sup>th</sup>
-      June</dd>
+      June, 2020</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -205,7 +202,7 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
 <div class="code-example">
 <dl>
 <dt>Date</dt>
-<dd>Every Sunday of August</dd>
+<dd>Every Sunday of August, 2020</dd>
 <dt>Time</dt>
 <dd>7:00 PM - 12:00 AM</dd>
 <dt>Rewards</dt>
@@ -223,7 +220,7 @@ For more detailed info on raffle rewards, visit <https://yuexr.github.io/img/han
   <dl>
     <dt>Date</dt>
     <dd>31<sup>st</sup>
-      October</dd>
+      October, 2020</dd>
     <dt>Time</dt>
     <dd>5:00 PM - 12:00 AM</dd>
     <dt>Rewards</dt>
@@ -241,7 +238,7 @@ For more detailed info, visit <https://cestislife.github.io/halloween>.
   <dl>
     <dt>Date</dt>
     <dd>26<sup>th</sup>
-      November</dd>
+      November, 2020</dd>
     <dt>Time</dt>
     <dd>9:00 AM - 12:00 AM</dd>
     <dt>Rewards</dt>
@@ -257,7 +254,7 @@ For more detailed info, visit <https://cestislife.github.io/turkeyday>.
   <dl>
     <dt>Date</dt>
     <dd>24<sup>th</sup>
-      December</dd>
+      December, 2020</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
