@@ -32,7 +32,7 @@ Certain items here are time locked and will be shown as below:
 There will be seasonal items for the following events:
 
 ![](https://assets.nintendo.com/image/upload/v1615853305/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_01.jpg)
-<span class="label label-red">✕</span> April Fool's Day (March 26 - April 1)
+<span class="label label-green">✓</span> April Fool's Day (March 26 - April 1)
 > - Whoopee Cushion
 
 ![](https://pbs.twimg.com/media/Ewmkzt3W8Agknzp?format=jpg&name=4096x4096)
