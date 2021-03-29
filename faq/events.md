@@ -103,7 +103,7 @@ Different eggs are required to make the DIYs. There are six different types of e
 | Type      | How to Obtain                                                               |
 |-----------|-----------------------------------------------------------------------------|
 | <span><img src="https://alexislours.github.io/img/FtrIcon/EggLeaf.png" id="inv-icon"></span> Leaf Egg    | Shake trees with eggs on them.                                              |
-| <span><img src="https://alexislours.github.io/img/FtrIcon/EggSky.png" id="inv-icon"></span> Sky Egg      | Shoot down Bunny Day balloons (has colorful pattern instead of solid color) |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/EggSky.png" id="inv-icon"></span> Sky Egg      | Shoot down Bunny Day balloons (has colorful pattern instead of solid color).|
 | <span><img src="https://alexislours.github.io/img/FtrIcon/EggFish.png" id="inv-icon"></span> Water Egg   | Randomly caught while fishing in rivers, ponds, and the sea.                |
 | <span><img src="https://alexislours.github.io/img/FtrIcon/EggRock.png" id="inv-icon"></span> Stone Egg   | Randomly dropped when hitting rocks with a shovel or an axe.                |
 | <span><img src="https://alexislours.github.io/img/FtrIcon/EggForest.png" id="inv-icon"></span> Wood Egg  | Randomly dropped when hitting trees with an axe.                            |
