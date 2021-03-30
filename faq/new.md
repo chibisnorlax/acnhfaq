@@ -36,7 +36,7 @@ There will be seasonal items for the following events:
 > - Whoopee Cushion
 
 ![](https://pbs.twimg.com/media/Ewmkzt3W8Agknzp?format=jpg&name=4096x4096)
-<span class="label label-red">✕</span> Bunny Day (March 28 - April 4)
+<span class="label label-green">✓</span> Bunny Day (March 28 - April 4)
 > - Bunny Day topiary
 > - Bunny Day garden flag
 > - Bunny Day tree
