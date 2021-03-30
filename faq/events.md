@@ -96,20 +96,29 @@ For a simplified infographic, visit <https://cestislife.github.io/img/festivale.
     <dd>Bunny Day Items and DIYs, Bunny Day Eggs</dd>
   </dl>
 </div>
-If it is the first time you’re doing this event, Zipper <span><img src="https://alexislours.github.io/img/NpcIcon/pyn.png" id="inv-icon"></span> will come to your island and give you a Bunny Day bed recipe. During the event, villagers will come up to you to teach you the Bunny Day crown and bag recipe. Egg-theme clothing such as, the stone egg hat and outfit, is self taught after you collect a certain amount of that kind of egg. When you learned all of them, you'll learn the egg party dress and hat. You can get the other recipes from Bunny Day message bottles and balloons. 
+If it is the first time you’re doing this event, Zipper <span><img src="https://alexislours.github.io/img/NpcIcon/pyn.png" id="inv-icon"></span> will come to your island and give you a <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/FtrEggBedW.png" id="inv-icon"></span> **Bunny Day bed** DIY.
+During the event, villagers will come up to you to teach you the <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/CapOrnamentCEgg0.png" id="inv-icon"></span> **Bunny Day crown** and <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/BagBackpackEgg0.png" id="inv-icon"></span> **bag** DIYs.
+Egg-themed clothing, such as the <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/CapHatEggrock0.png" id="inv-icon"></span> **Stone-egg shell**,  <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/TopsTexOnepieceRibNEggrock0.png" id="inv-icon"></span> **outfit** and  <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ShoesLowcutEggrock0.png" id="inv-icon"></span> **shoes**, is self taught after you collect a certain amount of that kind of egg. When you learned all of them, you'll learn the <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/TopsTexOnepieceBalloonLEgg0.png" id="inv-icon"></span> **Egg party dress** and <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/CapHatEggparty0.png" id="inv-icon"></span> **hat**.
+You can get the other DIYs from Bunny Day message bottles and balloons. 
  
 Different eggs are required to make the DIYs. There are six different types of eggs. They are the following:
 
 | Type      | How to Obtain                                                               |
 |-----------|-----------------------------------------------------------------------------|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/EggLeaf.png" id="inv-icon"></span> Leaf Egg    | Shake trees with eggs on them.                                              |
-| <span><img src="https://alexislours.github.io/img/FtrIcon/EggSky.png" id="inv-icon"></span> Sky Egg      | Shoot down Bunny Day balloons (has colorful pattern instead of solid color).|
-| <span><img src="https://alexislours.github.io/img/FtrIcon/EggFish.png" id="inv-icon"></span> Water Egg   | Randomly caught while fishing in rivers, ponds, and the sea.                |
-| <span><img src="https://alexislours.github.io/img/FtrIcon/EggRock.png" id="inv-icon"></span> Stone Egg   | Randomly dropped when hitting rocks with a shovel or an axe.                |
-| <span><img src="https://alexislours.github.io/img/FtrIcon/EggForest.png" id="inv-icon"></span> Wood Egg  | Randomly dropped when hitting trees with an axe.                            |
-| <span><img src="https://alexislours.github.io/img/FtrIcon/EggGround.png" id="inv-icon"></span> Earth Egg | Dug up from the ground, marked with a star, like fossils.                   |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/EggLeaf.png" id="inv-icon"></span> Leaf egg    | Shake trees with eggs on them.                                              |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/EggSky.png" id="inv-icon"></span> Sky egg      | Shoot down Bunny Day balloons (they have a colorful pattern instead of solid color).|
+| <span><img src="https://alexislours.github.io/img/FtrIcon/EggFish.png" id="inv-icon"></span> Water egg   | Randomly caught while fishing in rivers, ponds, and the sea, they appear as medium-sized shadows.                |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/EggRock.png" id="inv-icon"></span> Stone egg   | Randomly dropped when hitting rocks with a shovel or an axe.                |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/EggForest.png" id="inv-icon"></span> Wood egg  | Randomly dropped when hitting trees with an axe, palm trees are more likely to drop them.                            |
+| <span><img src="https://alexislours.github.io/img/FtrIcon/EggGround.png" id="inv-icon"></span> Earth egg | Dug up from the ground, they are marked with a star, like fossils.                   |
 
-On the last day of Bunny Day, Zipper will come to your island and give you the Bunny Day Arch recipe. If you crafted all of the Bunny Day recipes, talk to Zipper again to get the Wobbling Zipper Toy DIY. After you craft the toy, you can talk to Zipper to receive the Bunny Day Wand recipe. Zipper will also trade you one egg of any kind in exchange for three of the same one. If you have one of each type of egg, you can give them to Zipper to get a Bunny Day Basket. You can get as many baskets as you want.
+*Note: appart from Sky eggs, all the others can be found on mystery islands*
+
+On the last day of Bunny Day, Zipper will come to your island and give you the <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/FtrEggArch.png" id="inv-icon"></span> **Bunny Day arch** DIY.
+If you crafted all of the Bunny Day DIYs, talk to Zipper again to get the <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/FtrDollPyn.png" id="inv-icon"></span> **Wobbling Zipper toy** DIY.
+After you craft the toy, you can talk to Zipper to receive the <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolStickEgg.png" id="inv-icon"></span> **Bunny Day wand** DIY.
+Zipper will also trade you one egg of any kind in exchange for three of the same one.
+If you have one of each type of egg, you can give them to Zipper to get a <span><img src="https://alexislours.github.io/img/FtrIcon/FtrEggBasket.png" id="inv-icon"></span> **Bunny Day basket**. You can get as many baskets as you want.
 
 ## Nature Day (Earth Day)
 <div class="code-example">
