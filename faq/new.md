@@ -44,18 +44,18 @@ There will be seasonal items for the following events:
 > - Bunny Day candy
 
 ![](https://pbs.twimg.com/media/EwtqwzmWEAAbvtb?format=jpg&name=large)
-<span class="label label-red">✕</span> Singmogil (April 1 - April 10)
+<span class="label label-green">✓</span> Singmogil (April 1 - April 10)
 > - Forsythia
+
+![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_02.jpg)
+<span class="label label-green">✓</span> Prom Season (April 1 - April 30)
+> - Prom Wall
+> - Prom Night Flooring
+> - Prom Sash
 
 ![](https://pbs.twimg.com/media/EwtVHwlWYAQ3SqQ?format=jpg&name=large)
 <span class="label label-red">✕</span> Nature Day (April 15 - April 22)
 > - Cool Globe
-
-![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_02.jpg)
-<span class="label label-red">✕</span> Prom Season (April 1 - April 30)
-> - Prom Wall
-> - Prom Night Flooring
-> - Prom Sash
 
 ## Where do I purchase the Sanrio Amiibos?
 They will be released in various stores dependent on your region. Please visit your local Nintendo website to see where they are being released for your region.
