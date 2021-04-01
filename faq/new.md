@@ -50,7 +50,7 @@ There will be seasonal items for the following events:
 ![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_02.jpg)
 <span class="label label-green">✓</span> Prom Season (April 1 - April 30)
 > - Prom Wall
-> - Prom Night Flooring
+> - Prom Flooring
 > - Prom Sash
 
 ![](https://pbs.twimg.com/media/EwtVHwlWYAQ3SqQ?format=jpg&name=large)
