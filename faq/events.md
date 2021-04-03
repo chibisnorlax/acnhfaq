@@ -133,6 +133,10 @@ If you have one of each type of egg, you can give them to Zipper to get a <span>
     <dd>Hedge DIY</dd>
   </dl>
 </div>
+
+{: .note}
+As of `1.9.0` Nature Day of 2020 has been disabled, and is no longer available to be time travelled to.
+
 Nature Day starts on April 23rd and lasts until May 4th. During this time period, a Nature Day activity will replace one of your daily Nook Miles+ challenges.
 
 The Nature Day Nook Miles+ Achievements are:
