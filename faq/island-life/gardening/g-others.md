@@ -39,7 +39,7 @@ There are 6 types of trees in total, for more details, see: <https://bigfootmg.g
 Trees have 5 growth stages. A tree will grow 1 stage per day as long as there are fewer than 12 trees at stage 2 or higher (or stage 1 or higher fruit trees) within a 9x9 tile area centered on the tree that is growing. If you are having trouble with stunted trees, move them to a more open area and replant them when they are fully grown. For more details, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/#Tree%20Growth>
 
 ### What items drop from trees?
-Hitting trees with an axe will drop the three types of wood. Shaking a tree will drop wasp nests, furniture, coins, sticks, and sometimes bugs. For more info on tree drops, see: https://bigfootmg.github.io/ACNH-Plant-Guide/#Tree%20Drops
+Hitting trees with an axe will drop the three types of wood. Shaking a tree will drop wasp nests, furniture, coins, sticks, and sometimes bugs. For more info on tree drops, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/#Tree%20Drops>
 
 ### How do I grow money trees?
 Everyday there will be a spot on your island that is glowing. If you dig that spot, you will get a bag of 1000 bells. If you bury bells in the hole while it is glowing, it will create a money tree sapling. The amount of money you can harvest from the money tree when it is fully grown depends on how many bells you bury, and rng. It is recommended to only plant 10k bell bags to make money trees for the highest profits over time. For more details, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Money%20Trees>
