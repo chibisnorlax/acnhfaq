@@ -4,26 +4,20 @@ nav_order: 11
 permalink: new/
 ---
 
+# 1.10.0
 
-# 1.9.0
+![](https://assets.nintendo.com/image/upload/f_auto,h_1080,q_auto,w_1920/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/800x450_Switch_News_ACSpring2021?v=2021042719)
 
-<div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jpJo9Zleqrk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-The 1.9.0 update, or the "Sanrio Update" is an update released on the **18th of March 2021, 10am JST**. The reissue of the Sanrio Amiibo Cards will be released on the **26th of March 2021**.  
+The 1.10.0 update was released on the **28th of March 2021, 10am JST**. It primarily updated reoccurring events from 2020 for 2021, but also introduced some new seasonal Nook Shopping items.
 
 This pages serves as a one stop page for all FAQs regarding new mechanics, items, events, and everything else introduced in this release. It will be updated regularly as new information comes up. To update your game manually, [follow the instructions as outlined here](/acnhfaq/misc/#how-do-i-manually-update-my-acnh-game).
 
-The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/9a207313-c1fc-4a08-a39f-89bafbfa530e).
+The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/4aca50db-b0bd-4552-827e-9eadda7ce4e9).
 
-## What is the update reward for 1.9.0?
-The update reward is the **1st Anniversary Cake**.
-![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_UpdateGift.jpg)
+## What is the update reward for 1.10.0?
+Unfortunately, there was no update reward for 1.10.
 
 ## What new items are introduced?
-The following 6 villagers will be added: Rilla, Marty, Étoile, Chai, Chelsea, and Toby. Additionally, furniture and clothing items relating to the character they represent will also be added. They are obtainable by scanning the Sanrio Amiibos in Photopia. For a complete list of these items, see here: link TBA
-
 Certain items here are time locked and will be shown as below:
 > - <span class="label label-green">✓ Unlocked</span>
 > - <span class="label label-red">✕ Locked</span>
@@ -31,49 +25,71 @@ Certain items here are time locked and will be shown as below:
 ### What are the new Nook Seasonal Shopping items and their dates?
 There will be seasonal items for the following events:
 
-![](https://assets.nintendo.com/image/upload/v1615853305/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_01.jpg)
-<span class="label label-green">✓</span> April Fool's Day (March 26 - April 1)
-> - Whoopee Cushion
+![](https://dodocodes.com/images/articles/e6a418faeb667a766619f0f171d6bd7a)
+<span class="label label-green">✓</span> Children's Day (April 28 - May 5)
+> - Carp Banner
+> - Newsprint helmet
 
-![](https://pbs.twimg.com/media/Ewmkzt3W8Agknzp?format=jpg&name=4096x4096)
-<span class="label label-green">✓</span> Bunny Day (March 28 - April 4)
-> - Bunny Day topiary
-> - Bunny Day garden flag
-> - Bunny Day tree
-> - Bunny Day planter box
-> - Bunny Day candy
+<span class="label label-red">✕</span> Mother's Day (May 1 - May 31)
+> - Thank-you Mom mug
+> - Carnation
 
-![](https://pbs.twimg.com/media/EwtqwzmWEAAbvtb?format=jpg&name=large)
-<span class="label label-green">✓</span> Singmogil (April 1 - April 10)
-> - Forsythia
+![](https://dodocodes.com/images/articles/469cc5d2d2bedad6e3e8a52d8f486ea1)
+<span class="label label-red">✕</span> Cheese Rolling (May 22 - May 31)
+> - Double Gloucester Cheese
 
-![](https://assets.nintendo.com/image/upload/v1615853306/ncom/en_US/articles/2021/free-update-for-animal-crossing-new-horizons-delivers-new-content/800x450_ACNH_MarchUpdate_NewItems_02.jpg)
-<span class="label label-green">✓</span> Prom Season (April 1 - April 30)
-> - Prom Wall
-> - Prom Flooring
-> - Prom Sash
+![](https://assets.nintendo.com/image/upload/v1619204025/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---wedding2.jpg)
+<span class="label label-red">✕</span> Wedding Season (June 1 - June 30)
+> - Nupital Bell
+> - Ring Pillow
+> - Nupital Door Plate
+> - Flower-petal Basket
 
-![](https://pbs.twimg.com/media/EwtVHwlWYAQ3SqQ?format=jpg&name=large)
-<span class="label label-red">✕</span> Nature Day (April 15 - April 22)
-> - Cool Globe
+Available at Able Sisters:
+> - Shiromuku
+> - Hakama with crest
+> - Tsunokakushi
 
-## Where do I purchase the Sanrio Amiibos?
-They will be released in various stores dependent on your region. Please visit your local Nintendo website to see where they are being released for your region.
+<span class="label label-red">✕</span> Father's Day (June 1 - June 30)
+> - Thank-you Dad mug
+> - Thank-you Dad apron
 
-![](https://i.redd.it/qjioxfk1pom21.jpg)
+<span class="label label-red">✕</span> Tangobushi (June 5 - June 14)
+> - Festival Zongzi
+> - Surichwi Tteok
 
-## Are the Sanrio villagers adoptable? Can I find them on mystery islands, or in my campsite?
-The Sanrio villagers are not adoptable between player islands. They cannot be encountered on mystery islands, or appear in the campsite. They are the first Amiibo-exclusive villagers in Animal Crossing: New Horizons.
+<span class="label label-red">✕</span> Marine Day (July 8 - July 22)
+> - Ship-wheel door decoration
 
-## What else is new?
-![](https://pbs.twimg.com/media/EwnUmnrXMAEnPIS?format=jpg&name=large)
+<span class="label label-red">✕</span> Le 14 Juillet/Bastille Day (July 10 - July 20)
+> - Phrygian cap
 
-The Custom Design app is getting an upgrade! Players can purchase the Custom Design Pro Editor+ from the Nook Stop for 2,000 Nook Miles. The upgrade will add 50 additional slots to both the Normal Custom Design mode and Pro Custom Design mode, for a total of 100 new custom design slots. There will also be new items to customize: umbrellas, Uchiwa Fans, handheld flags, and face-cutout standees.
+### What are the updated events?
 
+![](https://assets.nintendo.com/image/upload/v1619202558/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/May_Day_2021.jpg)
+<span class="label label-green">✓</span> May Day (April 29 - May 7)
+
+> - Rover's Photo*
+
+\**Note:* Rover's Photo is given to the player under the prerequisite that they have **already obtained** the briefcase from the 2020 event. If the player has not obtained the briefcase, they will be rewarded with it in lieu of Rover's Photo.
+
+![](https://assets.nintendo.com/image/upload/v1619204026/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---museum.jpg)
+<span class="label label-green">✓</span> International Museum Day (May 18 - May 31)
+
+> - [All pre-existing items from 2020](https://catalogue.ac/?s=ZXZ0PWludGVybmF0aW9uYWxfbXVzZXVtX2RheQ==)
+> - Art Plaque
+
+![](https://assets.nintendo.com/image/upload/v1619204025/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---wedding1.jpg)
+<span class="label label-red">✕</span> Wedding Season (June 1 - June 30)
+
+> - [All pre-existing items from 2020](https://catalogue.ac/?s=ZXZ0PXdlZGRpbmdfc2Vhc29u)
 
 * * *
 
 # Mechanic Changes
+This list documents any mechanic changes from version `1.9.0` -> `1.10.0`.
+> - No mechanic changes have been reported yet for `1.9.0` -> `1.10.0`.
+
 <!-- This list documents any mechanic changes from version `1.6.0` -> `1.7.0`.
 - Regarding villager gifting:
     - All hand gifted clothing (aside from wetsuits) are now unsafe. (They will store them)
@@ -86,8 +102,8 @@ The Custom Design app is getting an upgrade! Players can purchase the Custom Des
 - Celeste can now show up on a Sunday. -->
 
 <!-- No mechanic changes have been reported for `1.7.0` -> `1.8.0` yet. -->
-
+<!-- 
 This list documents any mechanic changes from version `1.8.0` -> `1.9.0`.
 - Regarding villager gifting:
     - The "fruit stack" trick to get villager photos via mail no longer works. However, if the individual item in a stack is worth 750+ bells, the villager can still send their photo via mail.
-    - Villager photos can now be placed on surfaces in villager homes. 
+    - Villager photos can now be placed on surfaces in villager homes.  -->
