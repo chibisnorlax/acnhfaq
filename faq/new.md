@@ -8,7 +8,7 @@ permalink: new/
 
 ![](https://assets.nintendo.com/image/upload/f_auto,h_1080,q_auto,w_1920/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/800x450_Switch_News_ACSpring2021?v=2021042719)
 
-The 1.10.0 update was released on the **28th of March 2021, 10am JST**. It primarily updated reoccurring events from 2020 for 2021, but also introduced some new seasonal Nook Shopping items.
+The 1.10.0 update was released on the **28th of April 2021, 10am JST**. It primarily updated reoccurring events from 2020 for 2021, but also introduced some new seasonal Nook Shopping items.
 
 This pages serves as a one stop page for all FAQs regarding new mechanics, items, events, and everything else introduced in this release. It will be updated regularly as new information comes up. To update your game manually, [follow the instructions as outlined here](/acnhfaq/misc/#how-do-i-manually-update-my-acnh-game).
 
