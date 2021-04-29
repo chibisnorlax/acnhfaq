@@ -26,7 +26,9 @@ When someone asks you to leave via the airport, they are asking you to depart by
 When you try to leave with the minus button, if any other player is not ready (they are still in a dialog, menu, etc), a countdown will start. If the blocking players don't quit their menus before it hits zero, everyone will be reset at the airport, wandering NPCs will respawn, and villagers crafting will likely interrupt their crafting session. Leaving through the airport will prevent this from happening, as Orville makes sure it is safe for the player to leave.
 
 ## What does the minus button do for the host/visitor?
-In multiplayer, the minus button allows the **host** to view visitors' passports, end the online session, or close their gates. For visitors, it allows them to view others' passports and gives the option to return home. See above for why leaving using the minus button isn't always a good idea, though.
+In multiplayer, the minus button allows the **host** to view visitors' passports, end the online session (return all visitors home), or close their gates.
+
+For visitors, it allows them to view others' passports and gives the option to return home. See above for why leaving using the minus button isn't always a good idea, though.
 
 ## What defines a week and a day in-game?
 An in-game week begins on Monday at 5:00 AM, and is when your weekly NPC visitor schedule and Nook’s Cranny items are determined. An in-game day begins at 5:00 AM and ends at 4:59 AM the following day.
