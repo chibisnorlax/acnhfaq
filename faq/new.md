@@ -34,7 +34,6 @@ There will be seasonal items for the following events:
 > - Newsprint helmet
 
 <span class="label label-red">✕</span> Mother's Day (May 1 - May 31)
-> - Thank-you Mom mug
 > - Carnation
 
 ![](https://dodocodes.com/images/articles/469cc5d2d2bedad6e3e8a52d8f486ea1)
@@ -48,13 +47,12 @@ There will be seasonal items for the following events:
 > - Nupital Door Plate
 > - Flower-petal Basket
 
-Available at Able Sisters:
+Available at Able Sisters (accessible via time travel):
 > - Shiromuku
 > - Hakama with crest
 > - Tsunokakushi
 
 <span class="label label-red">✕</span> Father's Day (June 1 - June 30)
-> - Thank-you Dad mug
 > - Thank-you Dad apron
 
 <span class="label label-red">✕</span> Tangobushi (June 5 - June 14)
@@ -91,7 +89,7 @@ Available at Able Sisters:
 
 # Mechanic Changes
 This list documents any mechanic changes from version `1.9.0` -> `1.10.0`.
-> - No mechanic changes have been reported yet for `1.9.0` -> `1.10.0`.
+> - Users can now click the minus button to exit dreams.
 
 <!-- This list documents any mechanic changes from version `1.6.0` -> `1.7.0`.
 - Regarding villager gifting:
