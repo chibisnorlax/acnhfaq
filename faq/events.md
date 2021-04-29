@@ -120,6 +120,8 @@ After you craft the toy, you can talk to Zipper to receive the <span><img src="h
 Zipper will also trade you one egg of any kind in exchange for three of the same one.
 If you have one of each type of egg, you can give them to Zipper to get a <span><img src="https://alexislours.github.io/img/FtrIcon/FtrEggBasket.png" id="inv-icon"></span> **Bunny Day basket**. You can get as many baskets as you want.
 
+For more a simplified infographic, please visit <https://cestislife.github.io/img/bunnyday.png>.
+
 ## Nature Day (Earth Day)
 <div class="code-example">
   <dl>
