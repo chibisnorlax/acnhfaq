@@ -160,9 +160,9 @@ If you talk to Tom Nook <span><img src="https://alexislours.github.io/img/NpcIco
 <div class="code-example">
   <dl>
     <dt>Date</dt>
-    <dd>1<sup>st</sup>
-      May - 7<sup>th</sup>
-      May, 2020</dd>
+    <dd>29<sup>th</sup>
+      April - 7<sup>th</sup>
+      May, 2021</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -183,14 +183,14 @@ Watch the video tutorial below on how to complete the maze and obtain all possib
     <dt>Date</dt>
     <dd>18<sup>th</sup>
       May - 31<sup>st</sup>
-      May, 2020</dd>
+      May, 2021</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
-    <dd>Bug Plaque, Fish Plaque, Fossil Plaque</dd>
+    <dd>Bug Plaque, Fish Plaque, Fossil Plaque, Art Plaque</dd>
   </dl>
 </div>
-The museum will host a stamp rally everyday during this period. The fossil, bug, and fish wings each will have three stamp stations in them. After you collect the three stamps from an exhibit, talk to Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> to receive a <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumInsectWall.png" id="inv-icon"></span> **Bug**, <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumFishWall.png" id="inv-icon"></span> **Fish** or <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumFossilWall.png" id="inv-icon"></span> **Fossil Plaque**, depending on the exhibit you completed. The locations of stamp stations will change day to day, but you will get the same reward every time you complete the card.
+The museum will host a stamp rally everyday during this period. The fossil, bug, and fish wings each will have three stamp stations in them. After you collect the three stamps from an exhibit, talk to Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> to receive a <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumInsectWall.png" id="inv-icon"></span> **Bug**, <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumFishWall.png" id="inv-icon"></span> **Fish**, <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumFossilWall.png" id="inv-icon"></span> **Fossil Plaque** or **Art Plaque**, depending on the exhibit you completed. The locations of stamp stations will change day to day, but you will get the same reward every time you complete the card.
 
 ## Wedding Season
 <div class="code-example">
@@ -198,7 +198,7 @@ The museum will host a stamp rally everyday during this period. The fossil, bug,
     <dt>Date</dt>
     <dd>1<sup>st</sup>
       June - 30<sup>th</sup>
-      June, 2020</dd>
+      June, 2021</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
