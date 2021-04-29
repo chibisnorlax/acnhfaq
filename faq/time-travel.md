@@ -125,11 +125,22 @@ Time traveling for AC:NH will not affect other time-based games unless you launc
 No, and likewise, you don't have to wait to time travel after inviting someone else's villager to live on your island either.
 
 ## Can I time travel to play events that have passed?
-Yes and no. Currently, May Day, Bunny Day, and Nature Day are **inaccessible** via time travel for 2020. May Day and Bunny Day are available to be played in 2021 and accessible via tt, but Nature Day 2021 was removed in lieu of a seasonal Nook Shopping item.
+Here is a table displaying what events are active and what year(s) they are accessible in.
 
-All other past in-game events have **not been locked** and are still accessible with time travel.
+| Event                    | 2020 | 2021 |
+|--------------------------|------|------|
+| Festivale                | ✕    | ✓    |
+| Bunny Day                | ✕    | ✓    |
+| Nature Day               | ✕    | ✕    |
+| International Museum Day | ✕    | ✓    |
+| Wedding Season           | ✕    | ✓    |
+| Fireworks Festival       | ✓    | ✕    |
+| Halloween                | ✓    | ✕    |
+| Turkey Day               | ✓    | ✕    |
+| Toy Day                  | ✓    | ✕    |
+| Countdown (New Years)    | ✓    | ✓    |
 
-May Day and Bunny Day are locked to 2021. All other unlocked events (with the exception of Seasonal DIY events, New Year's, Fishing Tournaments, and Bug-Offs) are locked to 2020 and will not work in future/past years. The May Day Tour is once per user, but you can still access the event on secondary accounts. 
+As of `1.10.0`, the Nature Day event with daily Nook Miles tasks was removed completely in lieu of a seasonal Nook Shopping item.
 
 Player birthdays can only be experienced once every in-game year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
 
