@@ -26,5 +26,8 @@ Once you unlock the campsite (see [here](/acnhfaq/unlocks#building-unlocks) on h
 
 After you speak to them in the campsite, the villager will ask you to craft an item for them, occasionally teaching you a new DIY in the process. Repeat this process 3 times (invite camper, craft requested item) will allow you to ask them to move in on their third visit! The 3 days need not be consecutive. You can also juggle up to 8 in-progress amiibo scan-ins at a time; that is, if you scan in a 9th amiibo villager without completing the previous quests, the game will begin to delete its memory of the earlier camper visits.
 
+## Are there villagers that can only be obtained via Amiibo?
+Yes. The six Sanrio villagers (Marty, Rilla, Chelsea, Toby, Etoile, and Chai) can **only** be obtained by scanning their Amiibo into your campsite. They cannot be adopted legitimately, and upon their move-out they do not go into the move-out queue. 
+
 ## How do I unlock posters ingame with Amiibo?
 You would have to go to Harvey's Island and scan the card in Photopia. Once scanned, you will have access to the poster of NPC or villager of the Amiibo.
