@@ -125,11 +125,15 @@ Time traveling for AC:NH will not affect other time-based games unless you launc
 No, and likewise, you don't have to wait to time travel after inviting someone else's villager to live on your island either.
 
 ## Can I time travel to play events that have passed?
-Yes! Currently, all past in-game events have **not been locked** and are still accessible with time travel. Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible in-game. 
+Yes and no. Currently, May Day, Bunny Day, and Nature Day are **inaccessible** via time travel for 2020. May Day and Bunny Day are available to be played in 2021 and accessible via tt, but Nature Day 2021 was removed in lieu of a seasonal Nook Shopping item.
 
-All events (with the exception of Seasonal DIY events, New Year's, Fishing Tournaments, and Bug-Offs) are currently locked to 2020 and will not work in future/past years. The May Day Tour is once per user, but you can still access the event on secondary accounts. 
+All other past in-game events have **not been locked** and are still accessible with time travel.
+
+May Day and Bunny Day are locked to 2021. All other unlocked events (with the exception of Seasonal DIY events, New Year's, Fishing Tournaments, and Bug-Offs) are locked to 2020 and will not work in future/past years. The May Day Tour is once per user, but you can still access the event on secondary accounts. 
 
 Player birthdays can only be experienced once every in-game year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
+
+Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible in-game. 
 
 ## I time traveled to Festive season, but why are none of the cedar trees decorated?
 Make sure you have time traveled *forward* into the season (rather than backwards) and you have at least 1 cedar tree. For more information on how cedar trees are decorated, refer to the [infographic here](https://bigfootmg.github.io/ACNH-Plant-Guide/ex8.png).
