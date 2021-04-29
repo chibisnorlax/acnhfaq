@@ -168,10 +168,18 @@ If you talk to Tom Nook <span><img src="https://alexislours.github.io/img/NpcIco
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
-    <dd>Rover's Briefcase, Rover's Photo, Bell Vouchers</dd>
+    <dd>Rover's Briefcase or Rover's Photo, Bell Vouchers</dd>
   </dl>
 </div>
-Talk to Tom Nook <span><img src="https://alexislours.github.io/img/NpcIcon/rco.png" id="inv-icon"></span> to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville<span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconDal^w.png" id="inv-icon"></span>, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur <span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="inv-icon"></span> will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover <span><img src="https://alexislours.github.io/img/NpcIcon/xct.png" id="inv-icon"></span> to get the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrTrunkXct.png" id="inv-icon"></span> **Rover’s briefcase** item. You can also get up to nine <span><img src="https://alexislours.github.io/img/FtrIcon/BellExchangeTicket.png" id="inv-icon"></span> **Bell Vouchers** (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase (or Photo) and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
+Talk to Tom Nook <span><img src="https://alexislours.github.io/img/NpcIcon/rco.png" id="inv-icon"></span> to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville<span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconDal^w.png" id="inv-icon"></span>, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur <span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="inv-icon"></span> will bring you to an island with a hedge maze.
+
+When you complete the maze, you can talk to Rover <span><img src="https://alexislours.github.io/img/NpcIcon/xct.png" id="inv-icon"></span> and you'll get a reward mailed the next day: either <span><img src="https://alexislours.github.io/img/FtrIcon/FtrTrunkXct.png" id="inv-icon"></span> **Rover’s briefcase** if that was your first time meeting Rover, or <span><img src="https://alexislours.github.io/img/FtrIcon/BromideNpcSpXct_Remake_0_0.png" id="inv-icon"></span> **Rover's photo** if you already completed the (now unavailble) 2020 May Day maze.
+
+You can also get up to nine <span><img src="https://alexislours.github.io/img/FtrIcon/BellExchangeTicket.png" id="inv-icon"></span> **Bell Vouchers** (worth 3,000 bells each), if you solve the maze completely, like Rover's reward, they will also be mailed to you the next day.
+
+**Notes:**
+- You can only do the tour once per character.
+- If you ever get stuck in the maze, you can call Rescue services on your Nook Phone, this will reset the whole May Day maze which will allow you to restart from the beginning.
 
 Watch the video tutorial below on how to complete the maze and obtain all possible prizes. Video courtesy of `Nours#7244`.
 
