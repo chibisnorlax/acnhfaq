@@ -166,15 +166,15 @@ If you talk to Tom Nook <span><img src="https://alexislours.github.io/img/NpcIco
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
-    <dd>Rover's Briefcase, Bell Vouchers</dd>
+    <dd>Rover's Briefcase, Rover's Photo, Bell Vouchers</dd>
   </dl>
 </div>
-Talk to Tom Nook <span><img src="https://alexislours.github.io/img/NpcIcon/rco.png" id="inv-icon"></span> to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville<span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconDal^w.png" id="inv-icon"></span>, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur <span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="inv-icon"></span> will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover <span><img src="https://alexislours.github.io/img/NpcIcon/xct.png" id="inv-icon"></span> to get the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrTrunkXct.png" id="inv-icon"></span> **Rover’s briefcase** item. You can also get up to nine <span><img src="https://alexislours.github.io/img/FtrIcon/BellExchangeTicket.png" id="inv-icon"></span> **Bell Vouchers** (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
+Talk to Tom Nook <span><img src="https://alexislours.github.io/img/NpcIcon/rco.png" id="inv-icon"></span> to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville<span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconDal^w.png" id="inv-icon"></span>, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur <span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="inv-icon"></span> will bring you to an island with a hedge maze. When you complete the maze, you can talk to Rover <span><img src="https://alexislours.github.io/img/NpcIcon/xct.png" id="inv-icon"></span> to get the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrTrunkXct.png" id="inv-icon"></span> **Rover’s briefcase** item. You can also get up to nine <span><img src="https://alexislours.github.io/img/FtrIcon/BellExchangeTicket.png" id="inv-icon"></span> **Bell Vouchers** (worth 3,000 bells each), if you solve the maze completely. Rover’s briefcase (or Photo) and the Bell Vouchers will be mailed to you after you leave the island. Note, you can only do the tour once per character.
 
 Watch the video tutorial below on how to complete the maze and obtain all possible prizes. Video courtesy of `Nours#7244`.
 
 <video width="100%" controls="controls">
-  <source src="https://chibisnorlax.github.io/acnhfaq/assets/mayday.mp4#t=0.001" type="video/mp4">
+  <source src="https://chibisnorlax.github.io/acnhfaq/assets/mayday2.mp4#t=0.001" type="video/mp4">
 </video>
 
 ## International Museum Day

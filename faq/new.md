@@ -18,6 +18,9 @@ The official Japanese press site with some extra information and screenshots [ca
 Unfortunately, there was no update reward for 1.10.
 
 ## What new items are introduced?
+Follow the link below to see all new items added in 1.10.0:     
+<https://catalogue.ac/?s=dmFkPTEuMTAuMA==&o=category>
+
 Certain items here are time locked and will be shown as below:
 > - <span class="label label-green">✓ Unlocked</span>
 > - <span class="label label-red">✕ Locked</span>
