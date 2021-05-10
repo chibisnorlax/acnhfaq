@@ -69,10 +69,12 @@ The timeframe of which each seasonal material can be obtained in is tabled below
 - You can get one zodiac DIY recipe from Celeste per zodiac period. See [here](https://animalcrossing.fandom.com/wiki/Zodiac_star_fragment#Uses) for a list of them and their dates.  She also gives you space-themed (celestial) DIY recipes and wand recipes.  
 - Pascal can give you mermaid themed DIY recipes when you give him a scallop. See [here](https://yuexr.github.io/img/mermaidset.png) for a list of them.  
 - [Wedding](/acnhfaq/events#wedding-season) DIYs are given by Cyrus and Harv on the 7th day of the event.
-- The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](/acnhfaq/events#nature-day-earth-day).  
+- The hedge fencing DIY recipe is given by Leif after you've been the first to buy from him on three different days, or by Tom Nook after you completed a [Nature day activity](/acnhfaq/events#nature-day-earth-day)*.  
 - [Turkey Day](/acnhfaq/events#turkey-day) DIYs can be obtained by completing the event, or they are available for purchase in Nook's Cranny starting November 27<sup>th</sup>.
 - You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
+
+\**Note*: Nature Day activities were **removed** from the game as of version `1.10.0.` This method of obtaining the hedge fence is now only viable if you are version `1.9.0` or below.
 
 ### How long do villagers craft for? How many can craft per day?
 Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. Villagers won't craft on event days (e.g. bug-off, fishing tourney, etc.).
