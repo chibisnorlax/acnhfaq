@@ -17,14 +17,20 @@ Please refer to Yue’s move-out guide here: <https://yuexr.github.io/acnh/moveo
 ## How is the chance of X villager asking to move out calculated?
 While we don't know the specifics, we do know that there is an **ask chance multiplier** that is calculated using this formula:
 
+```
 floor((300 - a) / 10) - r = ask chance multiplier
 
 a = average friendship points they have with all island residents
-r = amount of residents with >200 friendship
 
+r = amount of residents with >200 friendship
+```
 Let's use an example to illustrate the outcome of this formula. Let's say that Stitches has 58 friendship points with Player A, and 201 friendship points with Player B. That means that in our equation, a = (58 + 201)/2 = 129.5, and b = 1, because there is only one player with >200 friendship points with Stitches. Plugging a and r into our above equation gives:
-floor((300 - **129.5**)/10) - **1**
-floor(17.05) - 1 = **16**
+
+```
+floor((300 - 129.5)/10) - 1
+
+floor(17.05) - 1 = 16
+```
 
 That means that Stitches has 16 times the base chance of asking to move out. You'll notice that as you plug in higher numbers for a and r (meaning higher friendship-point values), the multiplier goes down. This means that villagers with **higher friendship** are less likely to ask to move out, and villagers with **low friendship** are more likely to ask.  
 
