@@ -118,6 +118,10 @@ blockquote.note {
   height: 100%;
 }
 
+.btn-yellow {
+  @include btn-color($grey-dk-300, $yellow-100);
+}
+
 @font-face {
   font-family: 'icomoon';
   src:  url('https://chibisnorlax.github.io//acnhfaq/assets/fonts/icomoon.eot?deolje');
