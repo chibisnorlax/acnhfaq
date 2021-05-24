@@ -33,11 +33,11 @@ There will be seasonal items for the following events:
 > - Carp Banner
 > - Newsprint helmet
 
-<span class="label label-red">✕</span> Mother's Day (May 1 - May 31)
+<span class="label label-green">✓</span> Mother's Day (May 1 - May 31)
 > - Carnation
 
 ![](https://dodocodes.com/images/articles/469cc5d2d2bedad6e3e8a52d8f486ea1)
-<span class="label label-red">✕</span> Cheese Rolling (May 22 - May 31)
+<span class="label label-green">✓</span> Cheese Rolling (May 22 - May 31)
 > - Double Gloucester Cheese
 
 ![](https://assets.nintendo.com/image/upload/v1619204025/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---wedding2.jpg)
