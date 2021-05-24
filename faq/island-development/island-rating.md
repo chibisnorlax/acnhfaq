@@ -88,4 +88,4 @@ While the Island Rating system is heavily researched, there may be some other fa
 
 > "*There may still be unknown factors that affect the Island Evaluation. It is more likely that there are undiscovered points penalties because our tests are currently coming up a few points too high than they should.*"
 
-Do take your calculations with a pinch of salt with this in mind, and again - the best advise we can give is to listen to Isabelle.
+Do take your calculations with a grain of salt and keep this in mind; and again - the best advice we can give is to listen to Isabelle.
