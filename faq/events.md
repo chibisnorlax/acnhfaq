@@ -202,6 +202,8 @@ Watch the video tutorial below on how to complete the maze and obtain all possib
 </div>
 The museum will host a stamp rally everyday during this period. The fossil, bug, and fish wings each will have three stamp stations in them. After you collect the three stamps from an exhibit, talk to Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> to receive a <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumInsectWall.png" id="inv-icon"></span> **Bug**, <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumFishWall.png" id="inv-icon"></span> **Fish**, <span><img src="https://alexislours.github.io/img/FtrIcon/FtrMuseumFossilWall.png" id="inv-icon"></span> **Fossil Plaque** or **Art Plaque**, depending on the exhibit you completed. The locations of stamp stations will change day to day, but you will get the same reward every time you complete the card.
 
+This event can be completed on other islands, you will need to speak with Blathers there in order to get the rewards, otherwise the stamp rally will reset.
+
 ## Wedding Season
 <div class="code-example">
   <dl>
