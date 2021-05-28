@@ -65,8 +65,8 @@ Please visit <https://tinyurl.com/villagerintext> for a complete list of village
 
 <!-- TODO: Ninji's website is out of date, either use Ahri's (which is out of date but less so), or find another resource -->
 ## What are the different mystery islands and what can I find on them?
-Please visit <https://wuffs.org/acnh/mysterytour.html> for a complete list of them.  
-Additionally, there is a 30% chance of finding fossil, as well as a 30% chance of finding a DIY message bottle per island. You can always find one wasp's nest and a piece of furniture from shaking a non-fruit tree. If you have an empty, unsold plot, you can also find a random villager. See [here](https://docs.google.com/document/d/16yHQzdYx4VznhnKSGZdtaKi_Yo8NpDwCYK8dmpR481s/edit) to learn about how the game determines the villager. See [here](https://acnhapi.com/nmt-calculator/) for figuring out your chances of finding a specific villager.  
+Please visit <https://cestislife.github.io/mysteryisland> for a complete list of them.  
+Additionally, there is a 30% chance of finding a fossil, as well as a 30% chance of finding a DIY message bottle per island. You can always find one wasp's nest and one piece of furniture from shaking a non-fruit tree. If you have an empty, unsold plot, you can also find a random villager. See [here](https://docs.google.com/document/d/16yHQzdYx4VznhnKSGZdtaKi_Yo8NpDwCYK8dmpR481s/edit) to learn about how the game determines the villager. See [here](https://acnhapi.com/nmt-calculator/) for a calculator that figures out your chances of finding a specific villager on a mystery island.  
 
 ## Which Mom's items can I get each month?
 
