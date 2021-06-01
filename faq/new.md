@@ -41,7 +41,7 @@ There will be seasonal items for the following events:
 > - Double Gloucester Cheese
 
 ![](https://assets.nintendo.com/image/upload/v1619204025/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---wedding2.jpg)
-<span class="label label-red">✕</span> Wedding Season (June 1 - June 30)
+<span class="label label-green">✓</span> Wedding Season (June 1 - June 30)
 > - Nupital Bell
 > - Ring Pillow
 > - Nupital Door Plate
@@ -52,7 +52,7 @@ Available at Able Sisters (accessible via time travel):
 > - Hakama with crest
 > - Tsunokakushi
 
-<span class="label label-red">✕</span> Father's Day (June 1 - June 30)
+<span class="label label-green">✓</span> Father's Day (June 1 - June 30)
 > - Thank-you Dad apron
 
 <span class="label label-red">✕</span> Tangobushi (June 5 - June 14)
@@ -81,7 +81,7 @@ Available at Able Sisters (accessible via time travel):
 > - Art Plaque
 
 ![](https://assets.nintendo.com/image/upload/v1619204025/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---wedding1.jpg)
-<span class="label label-red">✕</span> Wedding Season (June 1 - June 30)
+<span class="label label-green">✓</span> Wedding Season (June 1 - June 30)
 
 > - [All pre-existing items from 2020](https://catalogue.ac/?s=ZXZ0PXdlZGRpbmdfc2Vhc29u)
 
