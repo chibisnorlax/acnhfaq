@@ -219,9 +219,9 @@ This event can be completed on other islands, you will need to speak with Blathe
 </div>
 If you visit Harvey’s island during this period, Reese <span><img src="https://alexislours.github.io/img/NpcIcon/alw.png" id="inv-icon"></span> and Cyrus <span><img src="https://alexislours.github.io/img/NpcIcon/alp.png" id="inv-icon"></span> will be there to ask for your help with their wedding anniversary photos. There is one photoshoot opportunity per day. Photo shoots will unlock more wedding items. The <span><img src="https://alexislours.github.io/img/MenuIcon/Love.png" id="inv-icon"></span> **Heart crystals** you receive from Reese can be used to redeem the wedding items you’ve unlocked from Cyrus. You'll get the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrWeddingDish.png" id="inv-icon"></span> **Reese & Cyrus photo plate** after the 6th visit. You also unlock special wedding DIYs on the 7th photoshoot from Cyrus and Harv. 
 
-You can earn up to 11 heart crystals the first 7 photoshoots and up to 15 each shoot after. You can always time travel back to complete the shoot or farm heart crystals. 
+As of the `1.10.0` update, you can earn up to 14 heart crystals the first 7 photoshoots and up to 18 each shoot after. You can always time travel back to complete the shoot or farm heart crystals. 
 
-For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>.
+For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>. (\**Note:* Yue's guide has not been updated for the 2021 version of the event, please see above for the new heart crystal daily maximums.)
 
 ## Fireworks Festival
 <div class="code-example">
