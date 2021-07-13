@@ -55,14 +55,14 @@ Available at Able Sisters (accessible via time travel):
 <span class="label label-green">✓</span> Father's Day (June 1 - June 30)
 > - Thank-you Dad apron
 
-<span class="label label-red">✕</span> Tangobushi (June 5 - June 14)
+<span class="label label-green">✓</span> Tangobushi (June 5 - June 14)
 > - Festival Zongzi
 > - Surichwi Tteok
 
-<span class="label label-red">✕</span> Marine Day (July 8 - July 22)
+<span class="label label-green">✓</span> Marine Day (July 8 - July 22)
 > - Ship-wheel door decoration
 
-<span class="label label-red">✕</span> Le 14 Juillet/Bastille Day (July 10 - July 20)
+<span class="label label-green">✓</span> Le 14 Juillet/Bastille Day (July 10 - July 20)
 > - Phrygian cap
 
 ### What are the updated events?
