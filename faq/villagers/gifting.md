@@ -232,8 +232,6 @@ Unfortunately, the fruit stack trick **no longer works** as of version `1.9.0`, 
 - Rare mushrooms
 - Gold nuggets
 - Pearls
-- Large snowflakes
-- Large star fragments
 
 And some additional, "unsafe" (can be displayed in villager homes) options:
 - Blue roses (plucked)
