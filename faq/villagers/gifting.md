@@ -232,6 +232,12 @@ Unfortunately, the fruit stack trick **no longer works** as of version `1.9.0`, 
 - Rare mushrooms
 - Gold nuggets
 - Pearls
+- Large snowflakes
+- Large star fragments
+
+And some additional, "unsafe" (can be displayed in villager homes) options:
+- Blue roses (plucked)
+- Gold roses (plucked)
 
 ## If I complete X quest for my villager, will they keep that item in their inventory?
 It depends on the type of quest and friendship levels! These are the storing rules for quests:
