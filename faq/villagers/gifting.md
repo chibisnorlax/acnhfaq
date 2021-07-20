@@ -217,7 +217,7 @@ tr:nth-child(even) {
 {: .fs-3}
 
 ## How do I get a villager's framed photo?
-Villager framed photos are sought-after items due to being difficult to obtain. In order to receive a villager's framed photo, you must first be **best friends** with them. That means you have a level 5-6 friendship with the villager, which can be achieved multiple ways. We recommend reading [this page of the FAQ](/villagers/friendship/) as well as [Yue's Friendship Guide](https://yuexr.github.io/acnh/friendship.html) to get a good idea on how to do this most efficiently.
+Villager framed photos are sought-after items due to being difficult to obtain. In order to receive a villager's framed photo, you must first be **best friends** with them. That means you have a level 5-6 friendship with the villager, which can be achieved multiple ways. We recommend reading [this page of the FAQ](/acnhfaq/villagers/friendship/) as well as [Yue's Friendship Guide](https://yuexr.github.io/acnh/friendship.html) to get a good idea on how to do this most efficiently.
 
 After you've achieved a high enough friendship level, there is a chance of the villager giving you their framed photo in return for a gift. The gift **must** have a sell-back value (that is, the price the item sells to Nook's Cranny for) of **750 bells**. The chance of receiving their framed photo at this point is `6 - 10.2%`, so you may need to gift multiple times before obtaining their framed photo.
 
