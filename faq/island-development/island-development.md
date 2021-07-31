@@ -10,8 +10,15 @@ has_toc: false
 ## How long does it take for X to be built?
 One [day](/acnhfaq/island-life#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
 
-## Can I move where buildings are on my island?
-Yes! Every building and house can be moved except the airport and Resident Services.
+## How do I move where buildings are on my island?
+Once Resident Services has been upgraded, you can ask Tom Nook to move a building by selecting "Let's talk infrastructure." > "I want layout changes.", this will cost you 50,000 bells. To move your own house, you'll have to ask "About my home..." > "I want to relocate." and the fee will be 30,000 bells.
+
+
+Tom Nook will give you a building move kit that you can them place outside where you want the building to be. The new and old position of a building can't overlap, in that case you'd have to do it in 2 different moves (and twice the price) over two days. If you change your mind before placing the move kit, you can cancel the move by talking to Tom Nook again and choosing the "Let's talk infrastructure." > "I want layout changes." > "Let's not move it." (or "About my home..." > "I don't want to move." if it was for your own house), he'll then take the kit back and refund you your bells
+
+*Note:* The airport, Resident Services/plaza and empty housing plots can not be moved in any way.
+
+*Note 2:* You must have spoken at least once to a villager to introduce yourself to them to be able to move their house. You cannot move the house of a villager if they're in boxes.
 
 ## What is the build limit for buildings/structures?
 
