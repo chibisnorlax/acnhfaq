@@ -134,8 +134,8 @@ Here is a table displaying what events are active and what year(s) they are acce
 | Nature Day               | <span class="label label-red">✕</span>    | <span class="label label-red">✕</span>    |
 | International Museum Day | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
 | Wedding Season           | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
-| Fireworks Festival       | <span class="label label-green">✓</span>    | <span class="label label-red">✕</span>    |
-| Halloween                | <span class="label label-green">✓</span>    | <span class="label label-red">✕</span>    |
+| Fireworks Festival       | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
+| Halloween                | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
 | Turkey Day               | <span class="label label-green">✓</span>    | <span class="label label-red">✕</span>    |
 | Toy Day                  | <span class="label label-green">✓</span>    | <span class="label label-red">✕</span>    |
 | Countdown (New Years)    | <span class="label label-green">✓</span>    | <span class="label label-green">✓</span>    |
