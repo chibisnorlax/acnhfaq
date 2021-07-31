@@ -227,7 +227,7 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_wedding.html>. (\
 <div class="code-example">
 <dl>
 <dt>Date</dt>
-<dd>Every Sunday of August, 2020</dd>
+<dd>Every Sunday of August, 2021</dd>
 <dt>Time</dt>
 <dd>7:00 PM - 12:00 AM</dd>
 <dt>Rewards</dt>
@@ -245,7 +245,7 @@ For more detailed info on raffle rewards, visit <https://yuexr.github.io/img/han
   <dl>
     <dt>Date</dt>
     <dd>31<sup>st</sup>
-      October, 2020</dd>
+      October, 2021</dd>
     <dt>Time</dt>
     <dd>5:00 PM - 12:00 AM</dd>
     <dt>Rewards</dt>
