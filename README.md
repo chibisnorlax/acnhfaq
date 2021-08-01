@@ -2,7 +2,7 @@
 ## Introduction
 This project serves to answer many of the frequently asked questions about Animal Crossing: New Horizons. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-The page is current through version 1.6.0 of the game. If you would like to contribute or suggest changes, please submit a PR or contact littlesnorlax#1717 on Discord.
+The page is current through version `1.11.0` of the game. If you would like to contribute or suggest changes, please submit a PR or contact littlesnorlax#1717 on Discord.
 
 ## Style Guide
 For all users submitting changes to the document, please refer to this style guide. 
@@ -37,6 +37,10 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 <details>
 <summary>Click here to open</summary>
 
+### 1.5.0
+- 1.10.0 and 1.11.0 info.
+- Minor fixes throughout to reflect changes from previous versions.
+  
 ### 1.4.3
 - 1.9.0 info.
 
