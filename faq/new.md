@@ -4,22 +4,22 @@ nav_order: 11
 permalink: new/
 ---
 
-# 1.10.0
+# 1.11.0
 
-![](https://assets.nintendo.com/image/upload/f_auto,h_1080,q_auto,w_1920/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/800x450_Switch_News_ACSpring2021?v=2021042719)
+![](https://assets.nintendo.com/image/upload/f_auto,h_1080,q_auto,w_1920/ncom/en_US/articles/2021/free-update-adds-fireworks-to-august-in-animal-crossing-new-horizons/1920x1080_ACSummerUpdate_2?v=2021073117)
 
-The 1.10.0 update was released on the **28th of April 2021, 10am JST**. It primarily updated reoccurring events from 2020 for 2021, but also introduced some new seasonal Nook Shopping items.
+The 1.11.0 update was released on the **29th of July 2021, 10am JST**. It primarily updated reoccurring events such as the Fireworks Festival from 2020 for 2021, but also introduced some new seasonal Nook Shopping items.
 
 This pages serves as a one stop page for all FAQs regarding new mechanics, items, events, and everything else introduced in this release. It will be updated regularly as new information comes up. To update your game manually, [follow the instructions as outlined here](/acnhfaq/misc/#how-do-i-manually-update-my-acnh-game).
 
-The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/4aca50db-b0bd-4552-827e-9eadda7ce4e9).
+The official Japanese press site with some extra information and screenshots [can be found here](https://topics.nintendo.co.jp/article/9d2dad1c-bad3-473b-b593-7d1d06dfb9c9).
 
-## What is the update reward for 1.10.0?
-Unfortunately, there was no update reward for 1.10.
+## What is the update reward for 1.11.0?
+Unfortunately, there was no update reward for 1.11.
 
 ## What new items are introduced?
-Follow the link below to see all new items added in 1.10.0:     
-<https://catalogue.ac/?s=dmFkPTEuMTAuMA==&o=category>
+Follow the link below to see all new items added in 1.11.0:     
+<https://catalogue.ac/?s=dmFkPTEuMTEuMA==>
 
 Certain items here are time locked and will be shown as below:
 > - <span class="label label-green">✓ Unlocked</span>
@@ -28,68 +28,48 @@ Certain items here are time locked and will be shown as below:
 ### What are the new Nook Seasonal Shopping items and their dates?
 There will be seasonal items for the following events:
 
-![](https://dodocodes.com/images/articles/e6a418faeb667a766619f0f171d6bd7a)
-<span class="label label-green">✓</span> Children's Day (April 28 - May 5)
-> - Carp Banner
-> - Newsprint helmet
+![](https://topics-cdn.nintendo.co.jp/image/2021/07/12104706844983/800/29606_06.jpg)
+<span class="label label-red">✕</span> Obon (August 10 - August 16)
+> - Cucumber Horse
+> - Eggplant Cow
 
-<span class="label label-green">✓</span> Mother's Day (May 1 - May 31)
-> - Carnation
+![](https://topics-cdn.nintendo.co.jp/image/2021/07/12104710463426/800/29606_07.jpg)
+<span class="label label-red">✕</span> Moon-Viewing Day and Chuseok (September 12 - September 21)
+> - Moon Cakes (Moon-Viewing Day)
+> - Dango (Moon-Viewing Day)
+> - Songpyeon (Chuseok)
 
-![](https://dodocodes.com/images/articles/469cc5d2d2bedad6e3e8a52d8f486ea1)
-<span class="label label-green">✓</span> Cheese Rolling (May 22 - May 31)
-> - Double Gloucester Cheese
+<span class="label label-red">✕</span> Day of the Dead (October 25 - November 3)
+> - Marigold Decoration
 
-![](https://assets.nintendo.com/image/upload/v1619204025/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---wedding2.jpg)
-<span class="label label-green">✓</span> Wedding Season (June 1 - June 30)
-> - Nupital Bell
-> - Ring Pillow
-> - Nupital Door Plate
-> - Flower-petal Basket
+<span class="label label-red">✕</span> Lantern Festival (November 1 - November 11)
+> - Handheld Lantern
 
-Available at Able Sisters (accessible via time travel):
-> - Shiromuku
-> - Hakama with crest
-> - Tsunokakushi
-
-<span class="label label-green">✓</span> Father's Day (June 1 - June 30)
-> - Thank-you Dad apron
-
-<span class="label label-green">✓</span> Tangobushi (June 5 - June 14)
-> - Festival Zongzi
-> - Surichwi Tteok
-
-<span class="label label-green">✓</span> Marine Day (July 8 - July 22)
-> - Ship-wheel door decoration
-
-<span class="label label-green">✓</span> Le 14 Juillet/Bastille Day (July 10 - July 20)
-> - Phrygian cap
+<span class="label label-red">✕</span> Shichi-Go-San (November 11 - November 20)
+> - Chitose Ame
 
 ### What are the updated events?
 
-![](https://assets.nintendo.com/image/upload/v1619202558/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/May_Day_2021.jpg)
-<span class="label label-green">✓</span> May Day (April 29 - May 7)
+![](https://topics-cdn.nintendo.co.jp/image/2021/07/12104702096385/800/29606_05.jpg)
+<span class="label label-green">✓</span> Fireworks Festival (Every Sunday in August, 2021)
+> - Boba
+> - Frozen Treat
+> - Cotton Candy
 
-> - Rover's Photo*
+<span class="label label-green">✓</span> Halloween* (October 1 - October 31)
 
-\**Note:* Rover's Photo is given to the player under the prerequisite that they have **already obtained** the briefcase from the 2020 event. If the player has not obtained the briefcase, they will be rewarded with it in lieu of Rover's Photo.
+> - [All pre-existing items from 2020](https://catalogue.ac/?s=ZXZ0PWhhbGxvd2Vlbg==)
+> - Spooky Trick Lamp + DIY
+> - Spooky Treats Basket + DIY
+> - Spooky Tree + DIY
 
-![](https://assets.nintendo.com/image/upload/v1619204026/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---museum.jpg)
-<span class="label label-green">✓</span> International Museum Day (May 18 - May 31)
-
-> - [All pre-existing items from 2020](https://catalogue.ac/?s=ZXZ0PWludGVybmF0aW9uYWxfbXVzZXVtX2RheQ==)
-> - Art Plaque
-
-![](https://assets.nintendo.com/image/upload/v1619204025/ncom/en_US/articles/2021/may-day-international-museum-day-and-wedding-season-come-to-animal-crossing-new-horizons/ACNH-april-26---wedding1.jpg)
-<span class="label label-green">✓</span> Wedding Season (June 1 - June 30)
-
-> - [All pre-existing items from 2020](https://catalogue.ac/?s=ZXZ0PXdlZGRpbmdfc2Vhc29u)
+\**Note:* Halloween day itself is **locked** and unable to be time traveled to to play. The items themselves are accessible via time travel during October 2021.
 
 * * *
 
 # Mechanic Changes
-This list documents any mechanic changes from version `1.9.0` -> `1.10.0`.
-> - Users can now click the minus button to exit dreams.
+This list documents any mechanic changes from version `1.10.0` -> `1.11.0`.
+> - No mechanic changes reported.
 
 <!-- This list documents any mechanic changes from version `1.6.0` -> `1.7.0`.
 - Regarding villager gifting:
@@ -108,3 +88,6 @@ This list documents any mechanic changes from version `1.8.0` -> `1.9.0`.
 - Regarding villager gifting:
     - The "fruit stack" trick to get villager photos via mail no longer works. However, if the individual item in a stack is worth 750+ bells, the villager can still send their photo via mail.
     - Villager photos can now be placed on surfaces in villager homes.  -->
+    
+<!-- This list documents any mechanic changes from version `1.9.0` -> `1.10.0`.
+> - Users can now click the minus button to exit dreams.-->
