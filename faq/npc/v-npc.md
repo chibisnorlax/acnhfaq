@@ -165,7 +165,7 @@ Visting players are unable to commission from Flick and are also unable to sell 
     </div>
 </div>
 
-- The youngest sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
+- The middle sister of Mabel and Sable, does not work in The Able Sisters shop, instead visits your island in the Resident Services plaza.
 - Label quest rewards are calculated as below:
 
 
