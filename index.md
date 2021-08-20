@@ -5,11 +5,11 @@ permalink: /
 ---
 
 # ![Frequently Asked Questions](/assets/logo.png)
-ver. 1.5.0
+ver. 1.5.1
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-This FAQ is current through version <span class="label label-purple">1.11.0</span> of the game.
+This FAQ is current through version <span class="label label-purple">1.11.1</span> of the game.
 
 Feel free to join us on the ACNH Info Discord server, where you can keep up to date with the latest game news and information: 
 <a href="https://discord.gg/DAmpHqRBzq" class="btn btn-yellow fs-5 mr-2" target="_blank">Join us on Discord!</a>
