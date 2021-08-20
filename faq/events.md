@@ -253,7 +253,8 @@ For more detailed info on raffle rewards, visit <https://yuexr.github.io/img/han
   </dl>
 </div>
 
-{: .note} As of now, the actual Halloween event with Jack on October 31st is date-locked and can't be accessed, even by time-travelling. The other Halloween-specific stuff for the month of October are available in 2021 only.
+{: .note}
+As of now, the actual Halloween event with Jack on October 31st is date-locked and can't be accessed, even by time-travelling. The other Halloween-specific stuff for the month of October are available in 2021 only.
 
 The "Czar of Halloween", Jack <span><img src="https://alexislours.github.io/img/NpcIcon/pkn.png" id="inv-icon"></span>, will pay a visit to your island. Jack will give you his outfit in exchange for <span><img src="https://alexislours.github.io/img/MenuIcon/Candy.png" id="inv-icon"></span> candies. If you give him <span><img src="https://alexislours.github.io/img/MenuIcon/Lollipop.png" id="inv-icon"></span> lollipops, he’ll give you the <span><img src="https://alexislours.github.io/img/FtrIcon/FtrHwnCarriage_Remake_0_0.png" id="inv-icon"></span> Spooky Carriage and <span><img src="https://alexislours.github.io/img/FtrIcon/ToolStickHalloween.png" id="inv-icon"></span> Spooky Wand recipe. You can also give candies to villagers that are outside to get furniture and recipes from the Spooky set and lollipops. Villagers will teach you the <span><img src="https://alexislours.github.io/img/ManpuIcon/AddPrank.png" id="inv-icon"></span> `Scare` reaction after you give them a piece of candy and likewise, Jack will teach you the <span><img src="https://alexislours.github.io/img/ManpuIcon/AddScaring.png" id="inv-icon"></span> `Haunt` reaction. 
 
