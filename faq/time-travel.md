@@ -103,12 +103,13 @@ If you time travel backward more than a day, it will be like going back to "fake
         <li>Turnip prices will change and your trend will be reset.</li>
         <li>Watered effect will be removed from flowers and they will not grow/breed.</li>
         <li>ABD chain will reset.</li>
+        <li>Villagers will advance moving out.</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>It will not count as a "new day" in terms of progression.</li>
-        <li>Villagers will not advance moving in/out.</li>
+        <li>Villagers will not advance moving in.</li>
         <li>Building construction/upgrades/moves will not be completed.</li>
         <li>Shop stock will be the same as it was the first time you visited that day unless you leave the current week.</li>
         <li>Rocks and trees will not refresh.</li>
