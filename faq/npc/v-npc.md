@@ -199,6 +199,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
         <li><b>Requirements:</b> None.</li>
         <li><b>Visiting Hours:</b> 5 AM - 10 PM</li>  
         <li>Shop vendor in the Resident Services plaza that sells shrubs starts, flower seeds, and pumpkin starts.</li>
+        <li>Buys weeds for double the price of Nook's Cranny (20 bells per weed).</li>
     </ul>
     </div>
 </div>
