@@ -45,7 +45,7 @@ No, you are only able to lower friendship **points**, but not the levels. Friend
 If you haven't already been tasked with finding it as part of a quest, you'll have to figure who is the original owner. You could try to give it to a random villager, who will point you to the owner if it's not them... But! If you give back the lost item directly to the right villager on the first try, you'll gain more frienship points towards them!  
 If you select "Investigate" on the item from your inventory, the description you'll get will give you a hint about the owner of the lost item:  
 - If the description is only "Someone lost this...", then the item belongs to a villager below friendship level 3, usually a villager who recently moved in
-- If you get one of the descritions in the table below, this'll give you the personality of the owner.  
+- If you get one of the descriptions in the table below, this'll give you the personality of the owner.  
 
 | | Book | Notebook | Bag 1 | Bag 2 |
 |:---:|:---:|:---:|:---:|:---:|
