@@ -63,7 +63,7 @@ Development points are calculated from the buildings, structures, and furniture 
 |      Placed item       |       1        |
 |         Fences         |      0.2       |
 |    2k Price Bonus*     |       1        |
-|   20k Price Bonues*    |       1        |
+|   20k Price Bonus*    |       1        |
 |     Outdoor Bonus*     |      0.5       |
 |     Size 3 Bonus*      |       3        |
 
