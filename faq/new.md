@@ -29,20 +29,20 @@ Certain items here are time locked and will be shown as below:
 There will be seasonal items for the following events:
 
 ![](https://topics-cdn.nintendo.co.jp/image/2021/07/12104706844983/800/29606_06.jpg)
-<span class="label label-red">✕</span> Obon (August 10 - August 16)
+<span class="label label-green">✓</span> Obon (August 10 - August 16)
 > - Cucumber Horse
 > - Eggplant Cow
 
 ![](https://topics-cdn.nintendo.co.jp/image/2021/07/12104710463426/800/29606_07.jpg)
-<span class="label label-red">✕</span> Moon-Viewing Day and Chuseok (September 12 - September 21)
+<span class="label label-green">✓</span> Moon-Viewing Day and Chuseok (September 12 - September 21)
 > - Moon Cakes (Moon-Viewing Day)
 > - Dango (Moon-Viewing Day)
 > - Songpyeon (Chuseok)
 
-<span class="label label-red">✕</span> Day of the Dead (October 25 - November 3)
+<span class="label label-green">✓</span> Day of the Dead (October 25 - November 3)
 > - Marigold Decoration
 
-<span class="label label-red">✕</span> Lantern Festival (November 1 - November 11)
+<span class="label label-green">✓</span> Lantern Festival (November 1 - November 11)
 > - Handheld Lantern
 
 <span class="label label-red">✕</span> Shichi-Go-San (November 11 - November 20)
