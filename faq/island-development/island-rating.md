@@ -56,9 +56,10 @@ Development points are calculated from the buildings, structures, and furniture 
 |:----------------------:|:--------------:|
 |     Able Sister's      |       15       |
 | Upgraded Nook's Cranny |       15       |
-|  Bridges and inclines  |       15       |
+|      Each bridge       |       15       |
+|      Each incline      |       15       |
 |      9 Villagers       |       15       |
-|     10 Villagers*      |       30       |
+|      10 Villagers      |       30       |
 |  Fewer than 100 Weeds  |       30       |
 |      Placed item       |       1        |
 |         Fences         |      0.2       |
