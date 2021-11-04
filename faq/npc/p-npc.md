@@ -140,3 +140,25 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
     </ul>
     </div>
 </div>
+
+## <span><img src="https://acnhcdn.com/2.0/NpcIcon/kpp.png" id="heading-icon"></span>Kapp'n
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/kpp.png">
+    <div class="details">
+    <ul>
+        <li>First encounter on the docks.</li>
+        <li>Takes player to mysterious Kapp'n islands with rare resources.</li>
+    </ul>
+    </div>
+</div>
+
+## <span><img src="https://acnhcdn.com/2.0/NpcIcon/pge.png" id="heading-icon"></span>Brewster
+<div class="content">
+    <img src="/acnhfaq/assets/NPCPortrait/pge.png">
+    <div class="details">
+    <ul>
+        <li>First encounter on a Kapp'n island after accepting Blathers' request to find him.</li>
+        <li>Brews coffee for the player once settled down in The Roost in the Museum.</li>
+    </ul>
+    </div>
+</div>
