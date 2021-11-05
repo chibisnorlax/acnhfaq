@@ -11,6 +11,10 @@ Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serv
 
 This FAQ is current through version <span class="label label-purple">1.11.1</span> of the game.
 
+{: .warning }
+The 2.0.0 update has recently dropped, and while we are working at full speed to get this guide updated with the most accurate and thorough information possible, it may take some time to be fully updated. Please check back frequently, and please join us on our Discord server (invite below) if you have any questions. Thank you for your patience! - With love, the FAQ team.
+
+
 Feel free to join us on the ACNH Info Discord server, where you can keep up to date with the latest game news and information: 
 <a href="https://discord.gg/DAmpHqRBzq" class="btn btn-yellow fs-5 mr-2" target="_blank">Join us on Discord!</a>
 
