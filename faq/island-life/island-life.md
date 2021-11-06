@@ -15,7 +15,7 @@ Follow this guide, <https://tinyurl.com/acnhbeginners/>.
 Visit <https://tinyurl.com/acnhfriends>.
 
 ## How do I visit other people/invite visitors over?
-Starting day 2 of the game, speak with [Orville](/acnhfaq/npc/#orville-and-wilbur) in the airport and choose `I wanna fly!` to visit someone, or `I want visitors.` to open your gates for people to visit you. In order to use the `Online Play` options, you will need to have an active **Nintendo Switch Online subscription**. 
+Starting day 2 of the game, speak with [Orville](/acnhfaq/npc/permanent/#orville-and-wilbur) in the airport and choose `I wanna fly!` to visit someone, or `I want visitors.` to open your gates for people to visit you. In order to use the `Online Play` options, you will need to have an active **Nintendo Switch Online subscription**. 
 
 NSO is a paid subscription that you can purchase through the E-Shop that allows you to use the online features of various games, including AC:NH. If you have a friend that is physically close to you (i.e., in the same room or building), you can also choose the `Local Play` option! This option does not require the internet or an NSO subscription, but still allows you to visit other islands.
 
