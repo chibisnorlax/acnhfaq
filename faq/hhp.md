@@ -6,7 +6,7 @@ permalink: hhp/
 # Happy Home Paradise
 ## Feature unlocks
 
-Note: if you save & quit in the middle of a project, you'll be sent back to it as soon as you get back to Paradise Planning
+Note: If you save & quit in the middle of a project, you'll be sent back to it as soon as you get back to Paradise Planning.
  
 You unlock different features of HHP through the number of house and facility projects you complete. Below are the notable milestones for each and their rewards.
 
@@ -23,10 +23,10 @@ You unlock different features of HHP through the number of house and facility pr
 | House #11 | After you complete this, you're promoted to *Breakout Designer*. Salary is now 12,000 Poki. |
 | House #12 | You learn different polishing effects. |
 | House #13 | You unlock the Showroom in the Happy Home Network app. |
-|       House #15         |  After completion of the house, you're allowed to use DIY items you previously crafted.<br/>If you've done this and spoke to Niko the next day, he teaches you the pillar DIY |
+|       House #15         |  After completion of the house, you're allowed to use DIY items you previously crafted.<br/>If you've done this and spoke to Niko the next day, he teaches you the pillar DIY. |
 | House  #16 | After completing this, you can now have vacationers share the same home.<br/>The next home you decorate is one you had before, and you are tasked to find a roommate and redecorate. |
 | House #17 | After completing this, you learn Soundscapes. These are "nature" themes. |
-| House #18 | After completing this, you get access to 2 storey housing. |
+| House #18 | After completing this, you get access to 2 story housing. |
 | House #19 | You are promoted to *Famous Designer*. New salary is 15,000 Poki.<br/>You can now invite VIPs (non-villager characters).
 | House #20 | After completing this, Lottie mentions a music festival event to be held on the island.
 | House #25 | After this one, you learn more Soundscapes. More "city" themes. |
