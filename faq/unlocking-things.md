@@ -102,3 +102,46 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 | **Project K**                 | To unlock this quest line, upgrade Resident Services to a building and have 6 villagers moved in and settled.                                                                                                     |
 | **Pocket Organization Guide** | Pay off your Nook Miles loan, then purchase it at the Nook Stop for 5,000 miles.                                                                                                                                  |
 | **Ultimate Pocket Stuffer**   | Complete the 3 plots quest, upgrade Resident Services into a building, then purchase it at the Nook Stop for 8,000 miles.                                                                                         |
+
+## 2.0 Unlocks
+
+### Nook Miles Redemption Unlocks
+
+| **Item**                  | **Unlock Criteria**                                                                                                                                                                                                            |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pro Construction License**  | • Must be playing as the Island<br>• Have 8 inclines and/or 8 bridges                                                                                                                                                             |
+| **New Reactions Notebook**    | • Upgraded Resident Services<br>• Redeemed 'Hip Reaction Collection'                                                                                                                                                              |
+| **Top 4 Fab Hairstyles**      | • Upgraded Resident Services<br>• Bought 'Top 8 Pop Hairstyles'<br>• Bought 'Top 8 Cool Hairstyles'<br>• Bought 'Top 6 Stylish Hairstyles'                                                                                              |
+| **Pro Decorating License**    | • Has seen explanation for normal interior decoration.*<br>\*This can also be received from a phone call from Lottie (HHP), and if you have already bought the license before the call, the cost will be refunded by mail instead. |
+| **Be a Chef! DIY Recipes+**   | • Upgraded Resident Services<br>• K.K. Slider has visited<br>• Completed DIY Customization Workshop                                                                                                                                  |
+| **Custom Fencing in a Flash** | • Completed DIY Customization Workshop<br>• Crafted at least two types of fences                                                                                                                                                  |
+
+### Brewster & The Roost Unlocks
+To unlock [Brewster](/acnhfaq/npc/permanent/#brewster), you must meet the following pre-requirements:
+- K.K. Slider must have already performed on your island.
+- At least one item must have been donated for each main wing in the museum: fish and sea creatures, insects, fossils and any piece of art.
+
+After completing these pre-requirements, complete the following steps while playing as the **island representative** (the person who created and named the island):
+- Talk to Blathers, he'll say he plans to open a café and needs you to find Brewster, the coffee specialist.
+- Go talk to Kapp'n on your pier to take a trip to one of his islands. If you have already gone on a Kapp'n tour today, you can do this the following day as well.
+- Brewster should be there on the island, talk to him about Blathers' project.
+- Go back to your island and tell Blathers you found Brewster.
+- The Museum will close the next day for renovations and should reopen the day after with the Roost available. 
+
+**Bonus:** Speak with Blathers once more after the café dialogue, and he will sell you some posters **if** you have any completed sections of the museum. You can then purchase these from him at any time going forward once the section is complete.
+
+Getting coffee from Brewster often will sometimes result in him giving you gifts, or changing his greeting with you. 
+
+| **Days the Player has Purchased Coffee** | **Resulting Gift**                         |
+|:--------------------------------------:|----------------------------------------|
+| 5                                    | Roost Sablé Cookie DIY (sent to phone) |
+| 10                                   | Coffee Beans                           |
+| 15                                   | Cup with Saucer                        |
+| 20                                   | Coffee Plant                           |
+| 30                                   | Siphon                                 |
+| 40                                   | Pro Coffee Grinder                     |
+| 50                                   | Brewstoid                              |
+
+Additionally, Brewster’s greeting will change when the number of days you've purchased coffee reaches: 1, 3, 5, 7, 9, 11, 13, and 15.
+
+A kind thank you to `asteriation#6884` on Discord for datamining this information. Please see [here](https://acnh.isomorphicbox.com/updates/2.0.0/#update) for the full source of the information for this section.
