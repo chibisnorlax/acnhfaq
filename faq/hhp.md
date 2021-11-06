@@ -41,3 +41,5 @@ You unlock different features of HHP through the number of house and facility pr
 | Facility #5<br/>Apparel Shop | Available after House #30<br/>The apparel shop allows you to set up mannequins which you can buy apparel from.<br/>There are several "styles" to choose from when setting up the shop.<br/>|
 
 After the Apparel Shop, you unlock the DJ KK Festival - This is where you unlock the DLC exclusive reactions. These include Grooving Hop, Groove Right, Groove Left, Soak It In, Side-to-Side, Island Stomp, Airplane, Twisty Dance, Shimmy, Turnip Patch, Arm-Swing Dance.
+
+The ability to customise your villager's interior and exterior on your own island is unlocked after you return from the DJ KK Festival (See Facility #5). Go to the Resident Services building and Tom Nook will prompt you with instructions on how to do so.
