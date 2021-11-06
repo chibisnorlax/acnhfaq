@@ -13,7 +13,7 @@ You unlock different features of HHP through the number of house and facility pr
 | House Project |  Feature   |
 |:-------:|-----------|
 |       House #1         |  Serves as an introduction to the basics HHP and home decoration.<br/>The client is scripted to be Eloise.<br/>Only the inside of the house is available<br/>Base salary is 6,000 pokis. |
-|       House #2         |  You start from outside the house and are introduced to outdoor decoration with HHP-specific features.<br/>After havinghave finished, you're introduced to photo-shooting the house interior. <br/>Lottie gives you the HHP app and explains it to you. |
+|       House #2         |  You start from outside the house and are introduced to outdoor decoration with HHP-specific features.<br/>After finishing, you're introduced to photo-shooting the house interior. <br/>Lottie gives you the HHP app and explains it to you. |
 |       House #4         |  You learn polishing. |
 |       House #5         |  Niko teaches you a random DIY. |
 |       House #6         |  Promotion to *Promising Designer*. This includes new work clothes and an increased salary of 9,000 pokis per project. |
@@ -24,16 +24,16 @@ You unlock different features of HHP through the number of house and facility pr
 | House #12 | You learn different polishing effects. |
 |       House #15         |  After completion of the house, you're allowed to use DIY items you previously crafted.<br/>If you've done this and spoke to Niko the next day, he teaches you the pillar DIY |
 | House  #16 | After completing this, you can now have vacationers share the same home.<br/>The next home you decorate is one you had before, and you are tasked to find a roommate and redecorate. |
-| House #17 |  After completing this, you learn Soundscapes. These are "nature" themes. |
+| House #17 | After completing this, you learn Soundscapes. These are "nature" themes. |
 | House #18 | After completing this, you get access to 2 storey housing. |
 | House #19 | You are promoted to *Famous Designer*. New salary is 15,000 Poki.<br/>You can now invite VIPs (non-villager characters).
 | House #20 | After completing this, Lottie mentions a music festival event to be held on the island.
-| House #25 | After this one, you learn more moundscapes. More "city" themes. |
+| House #25 | After this one, you learn more Soundscapes. More "city" themes. |
 | House #27 | After this one, you can now use any item from Nook Shopping to decorate.|
 
 
 | Facility Project |  Feature   |
 |:-------:|-----------|
-|       Facility #1<br/>School         |  You learn how to resize rooms. You have to chose one member of the archipelago as the teacher.<br/> Reward is 25,000 pokis.<br/>Leif will be there the next day, he'll teach you to use hybrid flowers. Also all fruits and produce you've grown yourself. Also a message bottle on a new day  |
-|       Facilities #2 & #3<br/>Café & Restaurant         |  At this point you are given choice between two new facilities: a restaurant or a café.<br/>You can build the other one after by talking to Lottie.<br/>You learn the new lighting system with this new facility.<br/>Reward is 25,000 Poki for each one|
-| Facility #4<br/>Hospital | Becomes available after house #24.<br/>The hospital initially has reception and exam room, but you can expand it.<br/>Talking to the receptionist gives you the option to get a patient ward. This costs 120,000 Poki.|
+|       Facility #1<br/>School         |  Available after House #6<br/>You learn how to resize rooms. You have to chose one member of the archipelago as the teacher.<br/> Reward is 25,000 pokis.<br/>Leif will be there the next day, he'll teach you to use hybrid flowers. Also all fruits and produce you've grown yourself. Also a message bottle on a new day  |
+|       Facilities #2 & #3<br/>Café & Restaurant         |Available after House #12<br/>  At this point you are given choice between two new facilities: a restaurant or a café.<br/>You can build the other one after by talking to Lottie.<br/>You learn the new lighting system with this new facility.<br/>Reward is 25,000 Poki for each one|
+| Facility #4<br/>Hospital | Available after House #24<br/>The hospital initially has reception and an exam room, but you can expand it.<br/>Talking to the receptionist gives you the option to get a patient ward. This costs 120,000 Poki.|
