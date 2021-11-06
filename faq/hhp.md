@@ -43,3 +43,6 @@ You unlock different features of HHP through the number of house and facility pr
 After the Apparel Shop, you unlock the DJ KK Festival - This is where you unlock the DLC exclusive reactions. These include Grooving Hop, Groove Right, Groove Left, Soak It In, Side-to-Side, Island Stomp, Airplane, Twisty Dance, Shimmy, Turnip Patch, Arm-Swing Dance.
 
 The ability to customise your villager's interior and exterior on your own island is unlocked after you return from the DJ KK Festival (See Facility #5). Go to the Resident Services building and Tom Nook will prompt you with instructions on how to do so.
+
+## Requests
+Each character has their own theme they request, which includes a few of mandatory furniture items to use. If you want to know them, you can check this spreadsheet, compiled by `Stoney#9215`: https://docs.google.com/spreadsheets/d/1S_xKGDXNDLUXNuChmiZE0u-gce5BgA323r-47XxCjXk/edit?usp=sharing
