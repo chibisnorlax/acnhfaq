@@ -114,6 +114,7 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
         <li>Speaking with him will prompt him to invite you to his own island, which allows you to take photos of your villagers and decorated sets.</li>
         <li>Speak to Orville in the airport to fly to Harv's island.</li>
         <li>Harv's island is the location for the <a href="/acnhfaq/events#wedding-season">Wedding event</a></li>
+        <li>Once the player has spoken to Harv, has completed Project K, and has completed Harv's Photopia tutorial, they gain access to the shop plaza where visiting NPCs have permanent set-ups. The inventory of their shops rotates weekly, on Mondays.</li>
     </ul>
     </div>
 </div>
