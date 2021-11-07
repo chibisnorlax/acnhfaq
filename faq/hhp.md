@@ -31,6 +31,7 @@ You unlock different features of HHP through the number of house and facility pr
 | House #20 | After completing this, Lottie mentions a music festival event to be held on the island.
 | House #25 | After this one, you learn more Soundscapes. More "city" themes. |
 | House #27 | After this one, you can now use any item from Nook Shopping to decorate.|
+| Houes #33 | After this house is done, you will unlock more Soundscapes.|
 
 
 | Facility Project |  Feature   |
