@@ -4,6 +4,13 @@ nav_order: 12
 permalink: hhp/
 ---
 # Happy Home Paradise
+To unlock the option to go to work to Paradise Planning, you need the following:
+* The Resident Services has been upgraded;
+* Your house must have been upgraded to not be a tent anymore;
+* You must have completed Tom Nook's customisation workshop.
+
+If all of these pre-requsiites are fulfilled, the next time you launch the game, Tom Nook should introduce you to Lottie who will hire you to work for her
+
 ## Feature unlocks
 
 Note: If you save & quit in the middle of a project, you'll be sent back to it as soon as you get back to Paradise Planning.
