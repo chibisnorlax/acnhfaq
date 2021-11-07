@@ -11,7 +11,7 @@ has_toc: false
 One [day](/acnhfaq/island-life#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
 
 ## How do I move where buildings are on my island?
-Once Resident Services has been upgraded, you can ask Tom Nook to move a building by selecting "Let's talk infrastructure." > "I want layout changes.", this will cost you 50,000 bells. To move your own house, you'll have to ask "About my home..." > "I want to relocate." and the fee will be 30,000 bells.
+Once Resident Services has been upgraded, you can ask Tom Nook to move a building by selecting "Let's talk infrastructure." > "I want layout changes.", this will cost you 10,000 bells. To move your own house, you'll have to ask "About my home..." > "I want to relocate." and the fee will be 8,000 bells.
 
 
 Tom Nook will give you a building move kit that you can them place outside where you want the building to be. The new and old position of a building can't overlap, in that case you'd have to do it in 2 different moves (and twice the price) over two days. If you change your mind before placing the move kit, you can cancel the move by talking to Tom Nook again and choosing the "Let's talk infrastructure." > "I want layout changes." > "Let's not move it." (or "About my home..." > "I don't want to move." if it was for your own house), he'll then take the kit back and refund you your bells
