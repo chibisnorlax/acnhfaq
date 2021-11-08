@@ -238,7 +238,7 @@ Leif sells pumpkin starts at a discounted price during the month of October.
 - See [Yue's guide here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
 - See [here for a list](https://yuexr.github.io/img/pirate.png) of his rewards.
 
-## <span><img src="https://acnhcdn.com/latest/NpcIcon/gst.png" id="heading-icon"></span>Wisp
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/gstA.png" id="heading-icon"></span>Wisp
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/gst.png">
     <div class="details">
