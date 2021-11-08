@@ -227,15 +227,15 @@ Please see [Yue's Gifting Guide](https://yuexr.github.io/acnh/gift.html) for mor
 If you are familiar with grinding for villager framed photos, you may know of a popular trick called the "fruit stack" trick, wherein you can obtain a villager's photo by gifting them a fruit from a stack of fruits with a full inventory. Because the villager cannot give you back an item, they must mail it to you, which has the chance of being their framed photo. Additionally, there is a *higher* chance of receiving their photo by doing this method, so it was very popular with those trying to get photos quickly.
 
 Unfortunately, the fruit stack trick **no longer works** as of version `1.9.0`, as the game now always checks if the sell price of the item is 750 <span class="icon-Bells"></span> or more. You can still do the stack trick as mailed gifts still have a higher chance of yielding their framed photo, but you must now choose an item that is stackable **and** has an individual sell price of 750 <span class="icon-Bells"></span> or more. Here is a list of items that meet this criteria and are safe to gift (meaning they do not get placed in the villager's home, so they can maintain an "ungifted" state):
-- <span><img src="https://alexislours.github.io/img/MenuIcon/Shell2.png" id="inv-icon"></span> Giant clams
-- <span><img src="https://alexislours.github.io/img/MenuIcon/Mush0.png" id="inv-icon"></span> Elegant mushrooms
-- <span><img src="https://alexislours.github.io/img/MenuIcon/Mush4.png" id="inv-icon"></span> Rare mushrooms
-- <span><img src="https://alexislours.github.io/img/MenuIcon/Gold_Ore.png" id="inv-icon"></span> Gold nuggets
-- <span><img src="https://alexislours.github.io/img/MenuIcon/Pearl.png" id="inv-icon"></span> Pearls
+- <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Shell2.png" id="inv-icon"></span> Giant clams
+- <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Mush0.png" id="inv-icon"></span> Elegant mushrooms
+- <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Mush4.png" id="inv-icon"></span> Rare mushrooms
+- <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Gold_Ore.png" id="inv-icon"></span> Gold nuggets
+- <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Pearl.png" id="inv-icon"></span> Pearls
 
 And some additional, "unsafe" (can be displayed in villager homes) options:
-- <span><img src="https://alexislours.github.io/img/MenuIcon/Rose7.png" id="inv-icon"></span> Blue roses (plucked)
-- <span><img src="https://alexislours.github.io/img/MenuIcon/GoldenRose.png" id="inv-icon"></span> Gold roses (plucked)
+- <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Rose7.png" id="inv-icon"></span> Blue roses (plucked)
+- <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/GoldenRose.png" id="inv-icon"></span> Gold roses (plucked)
 
 ## If I complete X quest for my villager, will they keep that item in their inventory?
 It depends on the type of quest and friendship levels! These are the storing rules for quests:

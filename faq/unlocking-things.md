@@ -7,8 +7,8 @@ permalink: unlocks/
 # Unlocking Things
 ## Nook Phone Unlocks
 
-|          Item          | Unlock Criteria                                                                                                                                                                                                                                                                                                                                                                            |
-|:----------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Item|Unlock Criteria|
+|:-:|-|
 |        <span><img src="https://alexislours.github.io/img/layout/DeviceIconRecipe^x.png" id="inv-icon"></span><br>**DIY**         | Complete Tom Nook’s DIY workshop.                                                                                                                                                                                                                                                                                                                                                          |
 |    <span><img src="https://alexislours.github.io/img/layout/DeviceIconBook2^x.png" id="inv-icon"></span><br>**Critterpedia**    | Donate a critter to Tom Nook.                                                                                                                                                                                                                                                                                                                                                              |
 | <span><img src="https://alexislours.github.io/img/layout/DeviceIconMyDesign^x.png" id="inv-icon"></span><br>**Pro Custom Designs** | While the Custom Designs app is available from the start, the Pro Designs can be unlocked through purchasing it at the Nook Stop. Alternatively, you can access Pro Designs from the kiosk of a dream island; the same happens when you unlock the kiosk the first time. While you can wear downloaded designs, however, you cannot edit or create them until you buy it at the Nook Stop. |
@@ -61,15 +61,15 @@ permalink: unlocks/
 
 |DIY|Unlock Criteria|
 |:-:|-|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolFishingrodWood.png" id="inv-icon"></span><br>**Flimsy Fishing Rod**| Talk to Tom Nook about the DIY workshop and participate in it.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolNet.png" id="inv-icon"></span><br>**Flimsy Net**| Finish DIY workshop.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolAxeStone.png" id="inv-icon"></span><br>**Flimsy Axe**| Donate 2 creatures to Tom Nook (“I found a creature!”).|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolWateringWood.png" id="inv-icon"></span><br>**Flimsy Watering Can**| Donate 2 more creatures to Tom Nook for a total of 4.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolShovelWood.png" id="inv-icon"></span><br>**Flimsy Shovel**| Talk to Blathers for the first time.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/LongWoodenStick.png" id="inv-icon"></span><br>**Vaulting Pole**| Talk to Blathers for the first time.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolLadder.png" id="inv-icon"></span><br>**Ladder**| Start the quest to furnish 3 houses — it should start after Nook’s Cranny is built.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolSlingshot.png" id="inv-icon"></span><br>**Slingshot**| Purchase from the cabinet at Nook's Cranny.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolAxeStoneNormal.png" id="inv-icon"><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolAxe.png" id="inv-icon"><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolAngling.png" id="inv-icon"><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolNetNormal.png" id="inv-icon"><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolScoop.png" id="inv-icon"><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolWatering.png" id="inv-icon"></span><br>**Upgraded Tools**| To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must redeem the <span><img src="https://alexislours.github.io/img/MenuIcon/BookRecipe.png" id="inv-icon"></span> **Pretty Good Tools Recipes** DIY pack from the Nook Stop after paying off your initial 5,000 <span class="icon-NM"></span> loan.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolFishingrodWood.png" id="inv-icon"></span><br>**Flimsy Fishing Rod**| Talk to Tom Nook about the DIY workshop and participate in it.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolNet.png" id="inv-icon"></span><br>**Flimsy Net**| Finish DIY workshop.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolAxeStone.png" id="inv-icon"></span><br>**Flimsy Axe**| Donate 2 creatures to Tom Nook (“I found a creature!”).|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolWateringWood.png" id="inv-icon"></span><br>**Flimsy Watering Can**| Donate 2 more creatures to Tom Nook for a total of 4.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolShovelWood.png" id="inv-icon"></span><br>**Flimsy Shovel**| Talk to Blathers for the first time.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/LongWoodenStick.png" id="inv-icon"></span><br>**Vaulting Pole**| Talk to Blathers for the first time.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolLadder.png" id="inv-icon"></span><br>**Ladder**| Start the quest to furnish 3 houses — it should start after Nook’s Cranny is built.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolSlingshot.png" id="inv-icon"></span><br>**Slingshot**| Purchase from the cabinet at Nook's Cranny.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolAxeStoneNormal.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolAxe.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolAngling.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolNetNormal.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolScoop.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolWatering.png" id="inv-icon"></span><br>**Upgraded Tools**| To unlock upgrades for the Fishing Rod, Net, Axe, Watering Can, & Shovel, you must redeem the <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/BookRecipe.png" id="inv-icon"></span> **Pretty Good Tools Recipes** DIY pack from the Nook Stop after paying off your initial 5,000 <span class="icon-NM"></span> loan.|
 
 {: .note}
 > - The Slingshot, Vaulting Pole, and Ladder cannot be upgraded - the pole and ladder cannot break, but the slingshot still can, so you will need to craft more.
@@ -80,20 +80,20 @@ permalink: unlocks/
 
 |Golden DIY|Unlock Criteria|
 |:-:|-|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolAxeGold.png" id="inv-icon"></span><br>**Golden Axe**| Break 100 axes. Your character will be struck by inspiration and learn the DIY by themselves.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolScoopGold.png" id="inv-icon"></span><br>**Golden Shovel**| Help Gulliver 30 times (Gullivarrr does not count towards this). Gulliver will mail you the DIY the next day instead of the usual reward.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolNetGold.png" id="inv-icon"></span><br>**Golden Net**| Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolFishingrodGold.png" id="inv-icon"></span><br>**Golden Rod**| Complete the fish portion of the Critterpedia. The DIY will be mailed the next day by the museum.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolWateringGold.png" id="inv-icon"></span><br>**Golden Watering Can**| Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.|
-| <span><img src="https://alexislours.github.io/img/DIYRecipeIcon/ToolSlingshotGold.png" id="inv-icon"></span><br>**Golden Slingshot**| Shoot 300 balloons. The DIY will be carried in a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolAxeGold.png" id="inv-icon"></span><br>**Golden Axe**| Break 100 axes. Your character will be struck by inspiration and learn the DIY by themselves.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolScoopGold.png" id="inv-icon"></span><br>**Golden Shovel**| Help Gulliver 30 times (Gullivarrr does not count towards this). Gulliver will mail you the DIY the next day instead of the usual reward.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolNetGold.png" id="inv-icon"></span><br>**Golden Net**| Complete the bug portion of the Critterpedia. The DIY will be mailed the next day by the museum.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolFishingrodGold.png" id="inv-icon"></span><br>**Golden Rod**| Complete the fish portion of the Critterpedia. The DIY will be mailed the next day by the museum.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolWateringGold.png" id="inv-icon"></span><br>**Golden Watering Can**| Receive a 5-star rating from Isabelle’s evaluations. She will directly add the DIY to your NookPhone.|
+| <span><img src="https://cdn.acnhapi.com/latest/DIYRecipeIcon/ToolSlingshotGold.png" id="inv-icon"></span><br>**Golden Slingshot**| Shoot 300 balloons. The DIY will be carried in a golden balloon. This golden ballon will appear every 20 balloons until you learn the DIY, making it the only farmable golden tool recipe.|
 
 {: .note}
 Golden tools can still break, but have a considerably higher durability. Visit <https://cestislife.github.io/img/tools.png> for tool durability.
 
 ## Misc Unlocks
 
-| Item                          | Unlock Criteria                                                                                                                                                                                                   |
-|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Item|Unlock Criteria|
+|:-:|-|
 | **Nook Miles Redemption**     | • Pay off 5,000  house debt.  • Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection. |
 | **Customizations**            | Tom Nook should make an announcement about his customization workshop after you finished the 3 plots quest. Customization allows you to change the look of some items.                                            |
 | **Nook Miles+**               | Upgrade your tent into a house by selecting the `About my home…` option when talking to Tom Nook.                                                                                                                 |
@@ -107,14 +107,14 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 
 ### Nook Miles Redemption Unlocks
 
-| **Item**                  | **Unlock Criteria**                                                                                                                                                                                                            |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Pro Construction License**  | • Must be playing as the Island Representative<br>• Have 8 inclines and/or 8 bridges                                                                                                                                                             |
-| **New Reactions Notebook**    | • Upgraded Resident Services<br>• Redeemed 'Hip Reaction Collection'                                                                                                                                                              |
-| **Top 4 Fab Hairstyles**      | • Upgraded Resident Services<br>• Bought 'Top 8 Pop Hairstyles'<br>• Bought 'Top 8 Cool Hairstyles'<br>• Bought 'Top 6 Stylish Hairstyles'                                                                                              |
-| **Pro Decorating License**    | • Has seen explanation for normal interior decoration.*<br>\*This can also be received from a phone call from Lottie (HHP), and if you have already bought the license before the call, the cost will be refunded by mail instead. |
-| **Be a Chef! DIY Recipes+**   | • Upgraded Resident Services<br>• K.K. Slider has visited<br>• Completed DIY Customization Workshop                                                                                                                                  |
-| **Custom Fencing in a Flash** | • Completed DIY Customization Workshop<br>• Crafted at least two types of fences                                                                                                                                                  |
+|Item|Unlock Criteria|
+|:-:|-|
+| <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Construction License**  | • Must be playing as the Island Representative<br>• Have 8 inclines and/or 8 bridges                                                                                                                                                             |
+| <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**New Reactions Notebook**    | • Upgraded Resident Services<br>• Redeemed 'Hip Reaction Collection'                                                                                                                                                              |
+| <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/HowtoBookHair.png" id="inv-icon"></span><br>**Top 4 Fab Hairstyles**      | • Upgraded Resident Services<br>• Bought 'Top 8 Pop Hairstyles'<br>• Bought 'Top 8 Cool Hairstyles'<br>• Bought 'Top 6 Stylish Hairstyles'                                                                                              |
+| <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Decorating License**    | • Has seen explanation for normal interior decoration.*<br>\*This can also be received from a phone call from Lottie (HHP), and if you have already bought the license before the call, the cost will be refunded by mail instead. |
+| <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/DIYRecipePlus.png" id="inv-icon"></span><br>**Be a Chef! DIY Recipes+**   | • Upgraded Resident Services<br>• K.K. Slider has visited<br>• Completed DIY Customization Workshop                                                                                                                                  |
+| <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Custom Fencing in a Flash** | • Completed DIY Customization Workshop<br>• Crafted at least two types of fences                                                                                                                                                  |
 
 ### Brewster & The Roost Unlocks
 To unlock [Brewster](/acnhfaq/npc/permanent/#brewster), you must meet the following pre-requirements:

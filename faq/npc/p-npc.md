@@ -164,8 +164,8 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
     </div>
 </div>
 
-## Harriet
-<div class="content"
+## <span><img src="https://acnhcdn.com/2.0/NpcIcon/pooB.png" id="heading-icon"></span>Harriet
+<div class="content">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>
@@ -175,30 +175,31 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
 </div>
         
 
-## Tortimer
-<div class="content"
+## <span><img src="https://acnhcdn.com/2.0/NpcIcon/ttlA.png" id="heading-icon"></span>Tortimer
+<div class="content">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>
+            <li>Allows you to access your home storage.</li>
         </ul>
     </div>
 </div>
 
-## Reese and Cyrus
-<div class="content"
+## <span><img src="https://acnhcdn.com/2.0/NpcIcon/alp.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/2.0/NpcIcon/alw.png" id="heading-icon"></span>Reese and Cyrus
+<div class="content">
     <div class="details">
         <ul>
-            <li>First encounter on Harv's island.</li>
+            <li>Reese & Cyrus returns to Harv's island. They are now in charge of customising furniture.</li>
         </ul>
     </div>
 </div>
 
-## Katrina
-<div class="content"
+## <span><img src="https://acnhcdn.com/2.0/NpcIcon/bpt.png" id="heading-icon"></span>Katrina
+<div class="content">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>
-            <li>Gives the player a daily fortune for 1,000 bells.</li>
+            <li>Gives the player a daily fortune and friendship divining, both for 1,000 <span class="icon-Bells"></span> each.</li>
         </ul>
     </div>
 </div>

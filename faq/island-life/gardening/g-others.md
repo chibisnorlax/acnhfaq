@@ -28,12 +28,12 @@ There are 6 types of trees in total, for more details, see: <https://bigfootmg.g
 
 |Tree Type|Description|
 |:-:|-|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltOak.png" id="inv-icon"></span><br>Hardwood|• Naturally found on Islands<br>• Buy saplings from Nook’s Cranny|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltConifer.png" id="inv-icon"></span><br>Cedar|• Naturally found on island cliffs.<br>• Buy saplings from Nook’s Cranny|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltApple.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltPeach.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltPear.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltCherry.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltOrange.png" id="inv-icon"></span><br>Fruit|• Naturally found on islands.<br>• Plant fruit to grow|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltPalm.png" id="inv-icon"></span><br>Coconut|• Found on mystery islands.<br>• Plant coconut to grow.|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltBamboo.png" id="inv-icon"></span><br>Bamboo|• Found on Bamboo Island.<br>• Plant bamboo to grow.|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltMoney.png" id="inv-icon"></span><br>Money Tree|• Bury bells in glowing spots to grow.|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltOak.png" id="inv-icon"></span><br>Hardwood|• Naturally found on Islands<br>• Buy saplings from Nook’s Cranny|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltConifer.png" id="inv-icon"></span><br>Cedar|• Naturally found on island cliffs.<br>• Buy saplings from Nook’s Cranny|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltApple.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltPeach.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltPear.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltCherry.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltOrange.png" id="inv-icon"></span><br>Fruit|• Naturally found on islands.<br>• Plant fruit to grow|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltPalm.png" id="inv-icon"></span><br>Coconut|• Found on mystery islands.<br>• Plant coconut to grow.|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltBamboo.png" id="inv-icon"></span><br>Bamboo|• Found on Bamboo Island.<br>• Plant bamboo to grow.|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltMoney.png" id="inv-icon"></span><br>Money Tree|• Bury bells in glowing spots to grow.|
 
 ### Why aren’t my trees growing?
 Trees have 5 growth stages. A tree will grow 1 stage per day as long as there are fewer than 12 trees at stage 2 or higher (or stage 1 or higher fruit trees) within a 9x9 tile area centered on the tree that is growing. If you are having trouble with stunted trees, move them to a more open area and replant them when they are fully grown. For more details, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/#Tree%20Growth>
@@ -73,12 +73,12 @@ Shrubs can be bought from Leif, who will sell one type that is in-season and one
 
 |Shrub|Period|
 |:-:|-|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltBushCamelliaPink.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltBushCamelliaRed.png" id="inv-icon"></span><br>Camellia|NH: Jan 1 - Mar 31<br>SH: Jun 16 - Sep 30|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltAzaleaPink.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltAzaleaWhite.png" id="inv-icon"></span><br>Azalea|NH: Apr 11 - May 31<br>SH: Oct 11 - Nov 30|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltHydrangeaBlue.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltHydrangeaPink.png" id="inv-icon"></span><br>Hydrangea|NH: Jun 1 - Jul 20<br>SH: Dec 1 - Jan 20|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltHibiscusRed.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltHibiscusYellow.png" id="inv-icon"></span><br>Hibiscus|NH: Jul 21 - Sept 20<br>SH: Jan 21 - Mar 20|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltBushOsmathusYellow.png" id="inv-icon"><img src="https://alexislours.github.io/img/MenuIcon/PltBushOsmathusOrange.png" id="inv-icon"></span><br>Tea Olive|NH: Sept 21 - Oct 31<br>SH: Mar 21 - Apr 30|
-|<span><img src="https://alexislours.github.io/img/MenuIcon/PltHolly.png" id="inv-icon"></span><br>Holly|NH: Nov 1 - Dec 31<br>SH: May 1 - Jun 15|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltBushCamelliaPink.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltBushCamelliaRed.png" id="inv-icon"></span><br>Camellia|NH: Jan 1 - Mar 31<br>SH: Jun 16 - Sep 30|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltAzaleaPink.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltAzaleaWhite.png" id="inv-icon"></span><br>Azalea|NH: Apr 11 - May 31<br>SH: Oct 11 - Nov 30|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltHydrangeaBlue.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltHydrangeaPink.png" id="inv-icon"></span><br>Hydrangea|NH: Jun 1 - Jul 20<br>SH: Dec 1 - Jan 20|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltHibiscusRed.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltHibiscusYellow.png" id="inv-icon"></span><br>Hibiscus|NH: Jul 21 - Sept 20<br>SH: Jan 21 - Mar 20|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltBushOsmathusYellow.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltBushOsmathusOrange.png" id="inv-icon"></span><br>Tea Olive|NH: Sept 21 - Oct 31<br>SH: Mar 21 - Apr 30|
+|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltHolly.png" id="inv-icon"></span><br>Holly|NH: Nov 1 - Dec 31<br>SH: May 1 - Jun 15|
 
 For more info on shrubs, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/#Shrubs>
 
