@@ -11,6 +11,19 @@ To unlock the DLC, you must
 - Upgrade Resident Services to a building.
 
 Tom Nook will then phone in to introduce you to Lottie to start the begininng sequences of the DLC.
+
+## Common FAQs
+### Is there a limit to how many houses you can design?
+The limit is quite literally how many villagers there are in the game currently. You are able to create vacation homes for all 413 villagers and all the special NPCs, e.g. Isabelle, Pascal, Flick, etc. 
+### How do I kick clients out of HHP?
+You cannot, this is by design. It is intended that you build vacation homes for all available villagers ingame. 
+### What happens to my villager if I invite them with souvenir chocolate?
+You will invite a "copy" of the villager to Paradise Planning. Your original villager will be intact.
+### Can I change the roommate of client?
+Yes, speak to the client you wish to ask to leave. They will then ask for you to build a vacation home for them if they do not already have one. 
+### Can I remodel or change the name of any of the facilities I've built?
+Yes, speak to Lottie about facilities and she will guide you through the process. You are prompted to either retain the name or change it once you're done remodelling.
+
 ## Feature unlocks
 
 Note: If you save & quit in the middle of a project, you'll be sent back to it as soon as you get back to Paradise Planning.
