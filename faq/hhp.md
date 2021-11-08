@@ -19,11 +19,11 @@ You unlock different features of HHP through the number of house and facility pr
 
 | House Project |  Feature   |
 |:-------:|-----------|
-|       House #1         |  Serves as an introduction to the basics HHP and home decoration.<br/>There are 12 intitial scripted clients.<sup>1</sup> These depend on who you have on your island prior.<br/>Only the inside of the house is available for decoration. <br/>Base salary is 6,000 pokis. |
+|       House #1         |  Serves as an introduction to the basics HHP and home decoration.<br/>There are 12 intitial scripted clients.<sup>1</sup> These depend on who you have on your island prior.<br/>Only the inside of the house is available for decoration. <br/>Base salary is 6,000 Poki. |
 |       House #2         |  You start from outside the house and are introduced to outdoor decoration with HHP-specific features.<br/>After finishing, you're introduced to photo-shooting the house interior. <br/>Lottie gives you the HHP app and explains it to you. |
 |       House #4         |  You learn polishing. |
 |       House #5         |  Niko teaches you a random DIY. |
-|       House #6         |  Promotion to *Promising Designer*. This includes new work clothes and an increased salary of 9,000 pokis per project. |
+|       House #6         |  Promotion to *Promising Designer*. This includes new work clothes and an increased salary of 9,000 Poki per project. |
 |       House #7         |  Amiibo scanner is unlocked before starting the project. |
 |       House #8         |  You learn how to use partition walls.<br/> You're taught the partition wall DIY after completion of the house. |
 |       House #10        |  A little celebration is thrown for this milestone. You'll receive mail from Wardell the next day containing the Large Paradise Planning rug. |
@@ -57,3 +57,4 @@ The ability to customise your villager's interior and exterior on your own islan
 ## Requests
 Each character has their own theme they request, which includes a few mandatory furniture items to use. If you want to know what they are, you can check this spreadsheet, compiled by `Stoney#9215`: <https://docs.google.com/spreadsheets/d/1S_xKGDXNDLUXNuChmiZE0u-gce5BgA323r-47XxCjXk/edit?usp=sharing>
 
+Likewise, if you would like to know what furniture they unlock in your HHP Catalogue after you take on their request, check the spreadsheet linked here, also by `Stoney#9215`: <https://docs.google.com/spreadsheets/d/1siOPl4A4DBlF4xBKdTDsSA59UgQi_KnEDshVXntPevY/edit?usp=sharing>
