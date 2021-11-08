@@ -163,3 +163,42 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
     </ul>
     </div>
 </div>
+
+## Harriet
+<div class="content"
+    <div class="details">
+        <ul>
+            <li>First encounter on Harv's island.</li>
+            <li>Gives and teaches the player 7 new hairstyles, given per shop opened in Harv's plaza.</li>
+        </ul>
+    </div>
+</div>
+        
+
+## Tortimer
+<div class="content"
+    <div class="details">
+        <ul>
+            <li>First encounter on Harv's island.</li>
+        </ul>
+    </div>
+</div>
+
+## Reese and Cyrus
+<div class="content"
+    <div class="details">
+        <ul>
+            <li>First encounter on Harv's island.</li>
+        </ul>
+    </div>
+</div>
+
+## Katrina
+<div class="content"
+    <div class="details">
+        <ul>
+            <li>First encounter on Harv's island.</li>
+            <li>Gives the player a daily fortune for 1,000 bells.</li>
+        </ul>
+    </div>
+</div>
