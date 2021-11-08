@@ -12,7 +12,7 @@ You unlock different features of HHP through the number of house and facility pr
 
 | House Project |  Feature   |
 |:-------:|-----------|
-|       House #1         |  Serves as an introduction to the basics HHP and home decoration.<br/>The client is scripted to be Eloise.<br/>Only the inside of the house is available<br/>Base salary is 6,000 pokis. |
+|       House #1         |  Serves as an introduction to the basics HHP and home decoration.<br/>There are 12 intitial scripted clients.<sup>1</sup> These depend on who you have on your island prior.<br/>Only the inside of the house is available for decoration. <br/>Base salary is 6,000 pokis. |
 |       House #2         |  You start from outside the house and are introduced to outdoor decoration with HHP-specific features.<br/>After finishing, you're introduced to photo-shooting the house interior. <br/>Lottie gives you the HHP app and explains it to you. |
 |       House #4         |  You learn polishing. |
 |       House #5         |  Niko teaches you a random DIY. |
@@ -21,17 +21,19 @@ You unlock different features of HHP through the number of house and facility pr
 |       House #8         |  You learn how to use partition walls.<br/> You're taught the partition wall DIY after completion of the house. |
 |       House #10        |  A little celebration is thrown for this milestone. You'll receive mail from Wardell the next day containing the Large Paradise Planning rug. |
 | House #11 | After you complete this, you're promoted to *Breakout Designer*. Salary is now 12,000 Poki. |
-| House #12 | You learn different polishing effects. |
+| House #12 | You learn different polishing effects, and the ability to apply custom designs on effects. |
 | House #13 | You unlock the Showroom in the Happy Home Network app. |
-|       House #15         |  After completion of the house, you're allowed to use DIY items you previously crafted.<br/>Niki will teach you the wooden pillar, low wooden island counter and tall wooden island counter DIYs |
+|       House #15         |  After completion of the house, you're allowed to use DIY items you previously crafted.<br/>Niko will teach you the wooden pillar, low wooden island counter and tall wooden island counter DIYs |
 | House  #16 | After completing this, you can now have vacationers share the same home.<br/>The next home you decorate is one you had before, and you are tasked to find a roommate and redecorate. |
 | House #17 | After completing this, you learn Soundscapes. These are "nature" themes. |
-| House #18 | After completing this, you get access to 2 story housing. |
+| House #18 | After completing this, you get access to 2 storey housing. |
 | House #19 | You are promoted to *Famous Designer*. New salary is 15,000 Poki.<br/>You can now invite VIPs (non-villager characters).
 | House #20 | After completing this, Lottie mentions a music festival event to be held on the island.
 | House #25 | After this one, you learn more Soundscapes. More "city" themes. |
 | House #27 | After this one, you can now use any item from Nook Shopping to decorate.|
 | Houes #33 | After this house is done, you will unlock more Soundscapes.|
+
+1. The 12 clients are, in order of priority, Eloise, Olivia, Julia, Willow, Friga, Blanche, Cleo, Vivian, Purrl, Bree, Blaire, and finally Tasha.
 
 
 | Facility Project |  Feature   |
