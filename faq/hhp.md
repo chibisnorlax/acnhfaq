@@ -46,14 +46,16 @@ You unlock different features of HHP through the number of house and facility pr
 | Facility Project |  Feature   |
 |:-------:|-----------|
 |       Facility #1<br/>School         |  Available after House #6<br/>You learn how to resize rooms. You have to chose one member of the archipelago as the teacher.<br/> Reward is 25,000 pokis.<br/>|
-|       Facilities #2 & #3<br/>Café         |Available after House #12<br/>  At this point you are given choice between two new facilities: a restaurant or a café.<br/>You can build the other one after by talking to Lottie.<br/>You learn the new lighting system with this new facility.<br/>|
-|Facility #3</br>Restaurant|Available after House #12<br/>Same as above.<br/>You unlock the ability to construct a second floor after you have 3 roommate pairs.|
+|       Facilities #2<br/>Café         |Available after House #12<br/>  At this point you are given choice between two new facilities: a restaurant or a café.<br/>You can build the other one after by talking to Lottie.<br/>You learn the new lighting system with this new facility.<br/>|
+|Facility #3<br/>Restaurant|Available after House #12<br/>Same as above.<br/>You unlock the ability to construct a second floor after you have 3 roommate pairs.|
 | Facility #4<br/>Hospital | Available after House #24<br/>The hospital initially has reception and an exam room, but you can expand it.<br/>Talking to the receptionist gives you the option to get a patient ward. This costs 120,000 Poki.|
 | Facility #5<br/>Apparel Shop | Available after House #30<br/>The apparel shop allows you to set up mannequins which you can buy apparel from.<br/>There are several "styles" to choose from when setting up the shop.<br/>|
 
 After the Apparel Shop, you unlock the DJ KK Festival - This is where you unlock the DLC exclusive reactions. These include Grooving Hop, Groove Right, Groove Left, Soak It In, Side-to-Side, Island Stomp, Airplane, Twisty Dance, Shimmy, Turnip Patch, Arm-Swing Dance.
 
 The ability to customise your villager's interior and exterior on your own island is unlocked after you return from the DJ KK Festival (See Facility #5). Go to the Resident Services building and Tom Nook will prompt you with instructions on how to do so.
+
+Wardell offers his service to order anything from your HHP Catalogue after you spend 150,000 Poki at his furniture store. 
 
 ### Time-gated unlocks
 Certain features are locked to a "next day". There seems to be a limit of one of these unlocks a day. The table below provides a summary of these.
