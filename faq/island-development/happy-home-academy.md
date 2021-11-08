@@ -69,32 +69,32 @@ Rank Requirements by House Level:
 
 | Spring                | Summer             | Autumn       | Winter           |
 |-----------------------|--------------------|--------------|------------------|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrBambooShelf_Remake_0_0.png" id="inv-icon"></span> Bamboo shelf | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrShipanchor_Remake_0_0.png" id="inv-icon"></span> Anchor statue      | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrInsectKohrogi.png" id="inv-icon"></span> Cricket       | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrTreeXmasL_Remake_0_0.png" id="inv-icon"></span> Big festive tree  |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrBonsaiSakura.png" id="inv-icon"></span> Cherry-blossom bonsai   | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrEventobjInsectBox.png" id="inv-icon"></span> Artisanal bug cage  | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrMushroomParasol_Remake_0_0.png" id="inv-icon"></span> Mush parasol   | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrIceTree_Remake_0_0.png" id="inv-icon"></span> Frozen tree       |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrDollPyn.png" id="inv-icon"></span> Wobbling Zipper toy          | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrInsectHerakuresuohkabuto.png" id="inv-icon"></span> Horned hercules    | \- | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrFishItou.png" id="inv-icon"></span> Stringfish       |
-| \- | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrFishNaporeonfish.png" id="inv-icon"></span> Napoleonfish              | \- | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrInsectTaranchura.png" id="inv-icon"></span> Tarantula        |
-| \- | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrPalmtreelamp_Remake_0_0.png" id="inv-icon"></span> Palm-tree lamp     | \- | \- |
-| \- | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrInsectSasori.png" id="inv-icon"></span> Scorpion                      | \- | \- |
-| \- | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrDoorOrnamentWreathShell.png" id="inv-icon"></span> Shell wreath       | \- | \- |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBambooShelf_Remake_0_0.png" id="inv-icon"></span> Bamboo shelf | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrShipanchor_Remake_0_0.png" id="inv-icon"></span> Anchor statue      | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrInsectKohrogi.png" id="inv-icon"></span> Cricket       | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrTreeXmasL_Remake_0_0.png" id="inv-icon"></span> Big festive tree  |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBonsaiSakura.png" id="inv-icon"></span> Cherry-blossom bonsai   | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrEventobjInsectBox.png" id="inv-icon"></span> Artisanal bug cage  | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrMushroomParasol_Remake_0_0.png" id="inv-icon"></span> Mush parasol   | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrIceTree_Remake_0_0.png" id="inv-icon"></span> Frozen tree       |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDollPyn.png" id="inv-icon"></span> Wobbling Zipper toy          | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrInsectHerakuresuohkabuto.png" id="inv-icon"></span> Horned hercules    | \- | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFishItou.png" id="inv-icon"></span> Stringfish       |
+| \- | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFishNaporeonfish.png" id="inv-icon"></span> Napoleonfish              | \- | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrInsectTaranchura.png" id="inv-icon"></span> Tarantula        |
+| \- | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPalmtreelamp_Remake_0_0.png" id="inv-icon"></span> Palm-tree lamp     | \- | \- |
+| \- | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrInsectSasori.png" id="inv-icon"></span> Scorpion                      | \- | \- |
+| \- | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentWreathShell.png" id="inv-icon"></span> Shell wreath       | \- | \- |
 
 | Lucky item                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrTrophyFishGold.png" id="inv-icon"></span> Gold fish trophy               |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrTrophyInsectGold.png" id="inv-icon"></span> Gold bug trophy              |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrHerorobot_Remake_0_0.png" id="inv-icon"></span> Robot hero               |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrRing_Remake_0_0.png" id="inv-icon"></span> Ring                          |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrFishNishikigoi.png" id="inv-icon"></span> Koi                            |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrFishDemekin.png" id="inv-icon"></span> Pop-eyed goldfish                 |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrJapanSword_Remake_0_0.png" id="inv-icon"></span> Katana                  |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/TopsTexTopTshirtsHKanji0.png" id="inv-icon"></span> Kanji tee               |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrGoldCandlestand.png" id="inv-icon"></span> Golden candlestick            |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrDoorOrnamentWreathRoseGold.png" id="inv-icon"></span> Gold rose wreath   |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrStarMoonChairL_Remake_0_0.png" id="inv-icon"></span> Crescent-moon chair |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrTrophyHhaGold.png" id="inv-icon"></span> Gold HHA trophy                 |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrManekinekoGold.png" id="inv-icon"></span> Lucky gold cat                 |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrSwitch_Remake_0_0.png" id="inv-icon"></span> ACNH Nintendo Switch        |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/BromideNpcSpRei_Remake_0_0.png" id="inv-icon"></span> Jingle's photo        |
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/BromideNpcNmlCat00_Remake_0_0.png" id="inv-icon"></span> Resident photo     |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrTrophyFishGold.png" id="inv-icon"></span> Gold fish trophy               |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrTrophyInsectGold.png" id="inv-icon"></span> Gold bug trophy              |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrHerorobot_Remake_0_0.png" id="inv-icon"></span> Robot hero               |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrRing_Remake_0_0.png" id="inv-icon"></span> Ring                          |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFishNishikigoi.png" id="inv-icon"></span> Koi                            |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFishDemekin.png" id="inv-icon"></span> Pop-eyed goldfish                 |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrJapanSword_Remake_0_0.png" id="inv-icon"></span> Katana                  |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/TopsTexTopTshirtsHKanji0.png" id="inv-icon"></span> Kanji tee               |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrGoldCandlestand.png" id="inv-icon"></span> Golden candlestick            |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDoorOrnamentWreathRoseGold.png" id="inv-icon"></span> Gold rose wreath   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrStarMoonChairL_Remake_0_0.png" id="inv-icon"></span> Crescent-moon chair |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrTrophyHhaGold.png" id="inv-icon"></span> Gold HHA trophy                 |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrManekinekoGold.png" id="inv-icon"></span> Lucky gold cat                 |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrSwitch_Remake_0_0.png" id="inv-icon"></span> ACNH Nintendo Switch        |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/BromideNpcSpRei_Remake_0_0.png" id="inv-icon"></span> Jingle's photo        |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/BromideNpcNmlCat00_Remake_0_0.png" id="inv-icon"></span> Resident photo     |
 
 - **Penalties**: Points deducted for rooms in poor condition (cockroaches, trash, furniture facing wall, etc)
 
@@ -114,10 +114,10 @@ Points are calculated per room, unless stated otherwise. There's no luck mechani
 
 | Points  | Reward                                                                                                             |
 |---------|--------------------------------------------------------------------------------------------------------------------|
-| 10,000  | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrPenantHha.png" id="inv-icon"></span> HHA Pennant             |
-| 20,000  | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrShieldHhaBronze.png" id="inv-icon"></span> Bronze HHA plaque |
-| 30,000  | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrShieldHhaSilver.png" id="inv-icon"></span> Silver HHA plaque |
-| 50,000  | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrShieldHhaGold.png" id="inv-icon"></span> Gold HHA plaque     |
-| 70,000  | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrTrophyHhaBronze.png" id="inv-icon"></span> Bronze HHA trophy |
-| 100,000 | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrTrophyHhaSilver.png" id="inv-icon"></span> Silver HHA trophy |
-| 150,000 | <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrTrophyHhaGold.png" id="inv-icon"></span> Gold HHA trophy     |
+| 10,000  | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPenantHha.png" id="inv-icon"></span> HHA Pennant             |
+| 20,000  | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrShieldHhaBronze.png" id="inv-icon"></span> Bronze HHA plaque |
+| 30,000  | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrShieldHhaSilver.png" id="inv-icon"></span> Silver HHA plaque |
+| 50,000  | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrShieldHhaGold.png" id="inv-icon"></span> Gold HHA plaque     |
+| 70,000  | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrTrophyHhaBronze.png" id="inv-icon"></span> Bronze HHA trophy |
+| 100,000 | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrTrophyHhaSilver.png" id="inv-icon"></span> Silver HHA trophy |
+| 150,000 | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrTrophyHhaGold.png" id="inv-icon"></span> Gold HHA trophy     |

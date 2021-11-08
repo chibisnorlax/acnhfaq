@@ -18,7 +18,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 {:toc}
 * * *
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/pck.png" id="heading-icon"></span>Pavé
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/pck.png" id="heading-icon"></span>Pavé
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/pck.png">
     <div class="details">
@@ -29,7 +29,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
     </div>
 </div>
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/pyn.png" id="heading-icon"></span>Zipper T. Bunny
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/pyn.png" id="heading-icon"></span>Zipper T. Bunny
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/pyn.png">
     <div class="details">
@@ -40,7 +40,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
     </div>
 </div>
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/alw.png" id="heading-icon"></span><span><img src="https://cdn.acnhapi.com/latest/NpcIcon/alp.png" id="heading-icon"></span>Reese and Cyrus
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/alw.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/alp.png" id="heading-icon"></span>Reese and Cyrus
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/alw.png">
     <img src="/acnhfaq/assets/NPCPortrait/alp.png">
@@ -52,7 +52,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
     </div>
 </div>
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/xct.png" id="heading-icon"></span>Rover
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/xct.png" id="heading-icon"></span>Rover
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/xct.png">
     <div class="details">
@@ -63,7 +63,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
     </div>
 </div>
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/pkn.png" id="heading-icon"></span>Jack
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/pkn.png" id="heading-icon"></span>Jack
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/pkn.png">
     <div class="details">
@@ -74,7 +74,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
     </div>
 </div>
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/tuk.png" id="heading-icon"></span>Franklin
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/tuk.png" id="heading-icon"></span>Franklin
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/tuk.png">
     <div class="details">
@@ -85,7 +85,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
     </div>
 </div>
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/rei.png" id="heading-icon"></span>Jingle
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/rei.png" id="heading-icon"></span>Jingle
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/rei.png">
     <div class="details">

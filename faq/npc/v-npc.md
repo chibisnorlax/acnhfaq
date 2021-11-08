@@ -17,7 +17,7 @@ Visiting NPCs are on a set **bi-weekly** schedule, and each rotating NPC can onl
 Refer to Yue's guide here for a compressed version of the information on this page: <https://yuexr.github.io/img/npcskd.png>
 
 {: .note}
-<span><img src="https://cdn.acnhapi.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> Mabel is considered a visiting NPC before she sets up her shop, the Able Sisters. She can visit on any day, but prioritises weekends. 
+<span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> Mabel is considered a visiting NPC before she sets up her shop, the Able Sisters. She can visit on any day, but prioritises weekends. 
 
 * * *
 ## Table of Contents
@@ -27,7 +27,7 @@ Refer to Yue's guide here for a compressed version of the information on this pa
 {:toc}
 * * *
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/boc.png" id="heading-icon"></span>Daisy Mae
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/boc.png" id="heading-icon"></span>Daisy Mae
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/boc.png">
     <div class="details">
@@ -39,7 +39,7 @@ Refer to Yue's guide here for a compressed version of the information on this pa
     </div>
 </div>
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/ows.png" id="heading-icon"></span>Celeste
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/ows.png" id="heading-icon"></span>Celeste
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/ows.png">
     <div class="details">
@@ -58,7 +58,7 @@ Refer to Yue's guide here for a compressed version of the information on this pa
 {: .note}
 Celeste's appearance will be blocked by K.K. Slider, e.g. when the only meteor shower night of the week falls on a Saturday.
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/tkkA.png" id="heading-icon"></span>K.K. Slider
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/tkkA.png" id="heading-icon"></span>K.K. Slider
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/tKK.png">
     <div class="details">
@@ -77,7 +77,7 @@ Celeste's appearance will be blocked by K.K. Slider, e.g. when the only meteor s
 {: .note}
 K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off, etc) on the Saturday, and will be pushed to Monday if there is also an event (Fireworks Festival in August) on Sunday.
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/cml.png" id="heading-icon"></span>Saharah
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/cml.png" id="heading-icon"></span>Saharah
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/cml.png">
     <div class="details">
@@ -99,7 +99,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
 {: .note}
 Saharah rugs can be reordered through the catalogue, but her flooring and wallpaper cannot.
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/fox.png" id="heading-icon"></span>Redd
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/fox.png" id="heading-icon"></span>Redd
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/fox.png">
     <div class="details">
@@ -117,7 +117,7 @@ Saharah rugs can be reordered through the catalogue, but her flooring and wallpa
 - For more info on Redd's art see [here](https://yuexr.github.io/img/redd1.png) and [here](https://yuexr.github.io/img/redd2.png).
 - The [Fake Art Identifier tool here](https://nookplaza.net/tools?tab=fake_art) can be used to find the differences between fake and real art.
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/bey.png" id="heading-icon"></span>C.J.
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/bey.png" id="heading-icon"></span>C.J.
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/bey.png">
     <div class="details">
@@ -135,7 +135,7 @@ Saharah rugs can be reordered through the catalogue, but her flooring and wallpa
 {: .note}
 Visting players are unable to commission from C.J. and are also unable to sell to him as a visiting NPC. They can only sell to him during the Fishing Tourney.
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/chy.png" id="heading-icon"></span>Flick
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/chy.png" id="heading-icon"></span>Flick
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/chy.png">
     <div class="details">
@@ -153,7 +153,7 @@ Visting players are unable to commission from C.J. and are also unable to sell t
 {: .note}
 Visting players are unable to commission from Flick and are also unable to sell to him as a visiting NPC. They can only sell to him during the Bug-Off.
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/hgc.png" id="heading-icon"></span>Label
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/hgc.png" id="heading-icon"></span>Label
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/hgc.png">
     <div class="details">
@@ -179,7 +179,7 @@ Visting players are unable to commission from Flick and are also unable to sell 
 {: .note}
 Friendship levels with Label only impact her and Sable's dialogs (referencing Label).
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/skk.png" id="heading-icon"></span>Kicks
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/skk.png" id="heading-icon"></span>Kicks
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/skk.png">
     <div class="details">
@@ -191,7 +191,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
     </div>
 </div>
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/slo.png" id="heading-icon"></span>Leif
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/slo.png" id="heading-icon"></span>Leif
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/slo.png">
     <div class="details">
@@ -207,7 +207,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
 {: .note}
 Leif sells pumpkin starts at a discounted price during the month of October.
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/gul.png" id="heading-icon"></span>Gulliver
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/gul.png" id="heading-icon"></span>Gulliver
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/gul.png">
     <div class="details">
@@ -222,7 +222,7 @@ Leif sells pumpkin starts at a discounted price during the month of October.
 
 - A list of Gulliver's rewards [can be found here](https://catalogue.ac/?s=c3JjPWd1bGxpdmVy)
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/gulB.png" id="heading-icon"></span>Gullivarrr
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/gulB.png" id="heading-icon"></span>Gullivarrr
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/gulB.png">
     <div class="details">
@@ -238,7 +238,7 @@ Leif sells pumpkin starts at a discounted price during the month of October.
 - See [Yue's guide here](https://yuexr.github.io/img/gullivarrr.png) on how to help him.
 - See [here for a list](https://yuexr.github.io/img/pirate.png) of his rewards.
 
-## <span><img src="https://cdn.acnhapi.com/latest/NpcIcon/gst.png" id="heading-icon"></span>Wisp
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/gst.png" id="heading-icon"></span>Wisp
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/gst.png">
     <div class="details">

@@ -45,14 +45,14 @@ The timeframe of which each seasonal material can be obtained in is tabled below
 
 |Seasonal Material|Time Period|
 |:-:|-|
-|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/DIYBambooSpring.png" id="inv-icon"><br>Young spring bamboo | NH: Feb 25 - May 31<br>SH: Aug 25 - Nov 30|
-|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Sakurapetal.png" id="inv-icon"><br>Cherry-blossom petals | NH: Apr 1 - Apr 10<br>SH: Oct 1 - Oct 10|
-|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/ShellSummer.png" id="inv-icon"><br>Summer shells | NH: Jun 1 - Aug 31<br>SH: Dec 1 - Feb 29|
-|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/DIYAcorn.png" id="inv-icon"><span><img src="https://cdn.acnhapi.com/latest/MenuIcon/DIYPinecone.png" id="inv-icon"><br>Acorns and pine cones | NH: Sep 1 - Dec 10<br>SH: Mar 1 - Jun 10|
-|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Mush0.png" id="inv-icon"><span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Mush1.png" id="inv-icon"><span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Mush2.png" id="inv-icon"><span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Mush3.png" id="inv-icon"><span><img src="https://cdn.acnhapi.com/latest/MenuIcon/Mush4.png" id="inv-icon"><br>Mushrooms | NH: Nov 1 - Nov 30<br>SH: May 1 - May 31|
-|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/AutumnLeaf.png" id="inv-icon"><br>Maple Leaves | NH: Nov 16 - Nov 25<br>SH: May 16 - May 25|
-|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/SnowCrystal.png" id="inv-icon"><span><img src="https://cdn.acnhapi.com/latest/MenuIcon/SnowCrystalLarge.png" id="inv-icon"><br>Snowflakes | NH: Dec 11 - Feb 25<br>SH: June 11 - Aug 24|
-|<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/ChristmasOrnamentA.png" id="inv-icon"><span><img src="https://cdn.acnhapi.com/latest/MenuIcon/ChristmasOrnamentB.png" id="inv-icon"><span><img src="https://cdn.acnhapi.com/latest/MenuIcon/ChristmasOrnamentC.png" id="inv-icon"><br>Ornaments | Dec 15 - Jan 6|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/DIYBambooSpring.png" id="inv-icon"><br>Young spring bamboo | NH: Feb 25 - May 31<br>SH: Aug 25 - Nov 30|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/Sakurapetal.png" id="inv-icon"><br>Cherry-blossom petals | NH: Apr 1 - Apr 10<br>SH: Oct 1 - Oct 10|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/ShellSummer.png" id="inv-icon"><br>Summer shells | NH: Jun 1 - Aug 31<br>SH: Dec 1 - Feb 29|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/DIYAcorn.png" id="inv-icon"><span><img src="https://acnhcdn.com/latest/MenuIcon/DIYPinecone.png" id="inv-icon"><br>Acorns and pine cones | NH: Sep 1 - Dec 10<br>SH: Mar 1 - Jun 10|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/Mush0.png" id="inv-icon"><span><img src="https://acnhcdn.com/latest/MenuIcon/Mush1.png" id="inv-icon"><span><img src="https://acnhcdn.com/latest/MenuIcon/Mush2.png" id="inv-icon"><span><img src="https://acnhcdn.com/latest/MenuIcon/Mush3.png" id="inv-icon"><span><img src="https://acnhcdn.com/latest/MenuIcon/Mush4.png" id="inv-icon"><br>Mushrooms | NH: Nov 1 - Nov 30<br>SH: May 1 - May 31|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/AutumnLeaf.png" id="inv-icon"><br>Maple Leaves | NH: Nov 16 - Nov 25<br>SH: May 16 - May 25|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/SnowCrystal.png" id="inv-icon"><span><img src="https://acnhcdn.com/latest/MenuIcon/SnowCrystalLarge.png" id="inv-icon"><br>Snowflakes | NH: Dec 11 - Feb 25<br>SH: June 11 - Aug 24|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/ChristmasOrnamentA.png" id="inv-icon"><span><img src="https://acnhcdn.com/latest/MenuIcon/ChristmasOrnamentB.png" id="inv-icon"><span><img src="https://acnhcdn.com/latest/MenuIcon/ChristmasOrnamentC.png" id="inv-icon"><br>Ornaments | Dec 15 - Jan 6|
 
 - See [here](https://bigfootmg.github.io/ACNH-Plant-Guide/07.png) for more explanation on young spring bamboo, cherry blossom, acorns, pine cones, maple leaves, and mushrooms.  
 - Summer shells are found on the beach and more spawn **every five minutes**.
@@ -166,17 +166,17 @@ Currently, the Pocket Camp promotional items include the following:
 
 |Item|Bell Cost|
 |:-:|:-:|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassSlot.png" id="inv-icon"></span><br>Brake Tapper|2,700 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassSignCamp.png" id="inv-icon"></span><br>Campsite sign|2,500 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassFortuneshop.png" id="inv-icon"></span><br>Fortune-cookie cart|2,600 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassPole.png" id="inv-icon"></span><br>Market Place decoration|3,200 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassSignOK.png" id="inv-icon"></span><br>OK Motors sign|3,000 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarB_Remake_0_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarB_Remake_1_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarB_Remake_2_0.png" id="inv-icon"><br><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarB_Remake_3_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarB_Remake_4_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarB_Remake_5_0.png" id="inv-icon"></span><br>Pocket modern camper|1,500 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarA_Remake_0_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarA_Remake_1_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarA_Remake_2_0.png" id="inv-icon"><br><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarA_Remake_3_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarA_Remake_4_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrCompassCarA_Remake_5_0.png" id="inv-icon"></span><br>Pocket vintage camper|1,500 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/CapHatOkmotors0.png" id="inv-icon"></span><br>OK Motors cap|770 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/TopsTexTopTshirtsHOkmotors0.png" id="inv-icon"></span><br>Camper tee|840 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/TopsTexTopYshirtsHOkmotors0.png" id="inv-icon"></span><br>OK Motors jacket|1,500 <span class="icon-Bells"></span>|
-|<span><img src="https://cdn.acnhapi.com/latest/FtrIcon/SmartphoneCaseComp.png" id="inv-icon"></span><br>Pocket Camp phone case|2,000 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassSlot.png" id="inv-icon"></span><br>Brake Tapper|2,700 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassSignCamp.png" id="inv-icon"></span><br>Campsite sign|2,500 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassFortuneshop.png" id="inv-icon"></span><br>Fortune-cookie cart|2,600 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassPole.png" id="inv-icon"></span><br>Market Place decoration|3,200 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassSignOK.png" id="inv-icon"></span><br>OK Motors sign|3,000 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarB_Remake_0_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarB_Remake_1_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarB_Remake_2_0.png" id="inv-icon"><br><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarB_Remake_3_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarB_Remake_4_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarB_Remake_5_0.png" id="inv-icon"></span><br>Pocket modern camper|1,500 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarA_Remake_0_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarA_Remake_1_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarA_Remake_2_0.png" id="inv-icon"><br><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarA_Remake_3_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarA_Remake_4_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrCompassCarA_Remake_5_0.png" id="inv-icon"></span><br>Pocket vintage camper|1,500 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/CapHatOkmotors0.png" id="inv-icon"></span><br>OK Motors cap|770 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/TopsTexTopTshirtsHOkmotors0.png" id="inv-icon"></span><br>Camper tee|840 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/TopsTexTopYshirtsHOkmotors0.png" id="inv-icon"></span><br>OK Motors jacket|1,500 <span class="icon-Bells"></span>|
+|<span><img src="https://acnhcdn.com/latest/FtrIcon/SmartphoneCaseComp.png" id="inv-icon"></span><br>Pocket Camp phone case|2,000 <span class="icon-Bells"></span>|
 
 For a compressed guide, have a look at cestislife's guide: <https://cestislife.github.io/img/pocketcamp.png>     
 Alternatively, Nintendo's full instructions can be found here: <https://ac-pocketcamp.com/en-US/horizons>
@@ -193,17 +193,17 @@ The DAL rewards and point thresholds are listed in the table below:
 
 | Item             | Points Required |
 |:----------------:|:---------------:|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/TopsTexTopTshirtsHDal0.png" id="inv-icon"></span><br>DAL tee|5|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/AccessoryGlassDalmask0.png" id="inv-icon"></span><br>DAL eyemask|15|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/AccessoryGlassSlippers0.png" id="inv-icon"></span><br>DAL slippers|30|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrDalMug.png" id="inv-icon"></span><br>DAL mug|50|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/AccessoryGlassDalglass0.png" id="inv-icon"></span><br>DAL sunglasses|75|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/TopsTexTopCoatHDal0.png" id="inv-icon"></span><br>DAL apron|100|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/CapHatDal0.png" id="inv-icon"></span><br>DAL cap|130|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/UmbrellaDoc0.png" id="inv-icon"></span><br>DAL umbrella|160|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/BagBackpackDal0.png" id="inv-icon"></span><br>DAL backpack|200|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/TopsTexTopOuterLDal0.png" id="inv-icon"></span><br>DAL pilot jacket|250|
-| <span><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrDalFigure_Remake_0_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrDalFigure_Remake_1_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrDalFigure_Remake_2_0.png" id="inv-icon"><img src="https://cdn.acnhapi.com/latest/FtrIcon/FtrDalFigure_Remake_3_0.png" id="inv-icon"></span><br>DAL model plane  |300|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/TopsTexTopTshirtsHDal0.png" id="inv-icon"></span><br>DAL tee|5|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDalmask0.png" id="inv-icon"></span><br>DAL eyemask|15|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSlippers0.png" id="inv-icon"></span><br>DAL slippers|30|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDalMug.png" id="inv-icon"></span><br>DAL mug|50|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/AccessoryGlassDalglass0.png" id="inv-icon"></span><br>DAL sunglasses|75|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/TopsTexTopCoatHDal0.png" id="inv-icon"></span><br>DAL apron|100|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/CapHatDal0.png" id="inv-icon"></span><br>DAL cap|130|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/UmbrellaDoc0.png" id="inv-icon"></span><br>DAL umbrella|160|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/BagBackpackDal0.png" id="inv-icon"></span><br>DAL backpack|200|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/TopsTexTopOuterLDal0.png" id="inv-icon"></span><br>DAL pilot jacket|250|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDalFigure_Remake_0_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrDalFigure_Remake_1_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrDalFigure_Remake_2_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrDalFigure_Remake_3_0.png" id="inv-icon"></span><br>DAL model plane  |300|
 
 {: .note}
 You are only able to get these rewards **once** from DAL. Any additional you may require would need to be traded from other players, as all of the things are  not reorderable from Nook Shopping.

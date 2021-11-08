@@ -24,10 +24,10 @@ Flowers have 4 stages of growth: seed, stem, bud and bloom. Refer to the graphic
 Flowers are available to buy from seed bags at Nook’s Cranny and from Leif. Certain flowers are only available during certain months, for a full explanation on the availability of flowers, check out the [flower availability calendar](https://aiterusawato.github.io/satogu/acnh/flowers/calendar.html).
 
 ## How do I get gold roses?
-<span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltGoldenRose.png" id="inv-icon"></span> Gold roses can only come from a black rose (or a pair of black roses) that have been watered at least once with the golden watering can. You can get the golden watering can by achieving a 5 star island rating, and then talking to Isabelle.  Gold roses cannot reproduce or clone, but they can be a breeding partner for another rose.
+<span><img src="https://acnhcdn.com/latest/MenuIcon/PltGoldenRose.png" id="inv-icon"></span> Gold roses can only come from a black rose (or a pair of black roses) that have been watered at least once with the golden watering can. You can get the golden watering can by achieving a 5 star island rating, and then talking to Isabelle.  Gold roses cannot reproduce or clone, but they can be a breeding partner for another rose.
 
 ## How do I get the lily of the valley?
-The <span><img src="https://cdn.acnhapi.com/latest/MenuIcon/PltSuzuran.png" id="inv-icon"></span> lily of the valley (LoTV) is a special flower that can spawn on your island if it has a 5 star rating. Lily of the valley flowers cannot breed or clone, and are mostly just decorative. They can spawn on certain south-facing cliff edges. 
+The <span><img src="https://acnhcdn.com/latest/MenuIcon/PltSuzuran.png" id="inv-icon"></span> lily of the valley (LoTV) is a special flower that can spawn on your island if it has a 5 star rating. Lily of the valley flowers cannot breed or clone, and are mostly just decorative. They can spawn on certain south-facing cliff edges. 
 
 For more information about the lily of the valley, see these: <https://acnh.isomorphicbox.com/rates/#lily-of-the-valley>
 See here for a condensed infographic on LoTVs: <https://cestislife.github.io/img/LotV.png>
