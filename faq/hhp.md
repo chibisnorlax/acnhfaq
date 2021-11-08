@@ -45,14 +45,29 @@ You unlock different features of HHP through the number of house and facility pr
 
 | Facility Project |  Feature   |
 |:-------:|-----------|
-|       Facility #1<br/>School         |  Available after House #6<br/>You learn how to resize rooms. You have to chose one member of the archipelago as the teacher.<br/> Reward is 25,000 pokis.<br/>Leif will be there the next day, he'll teach you to use hybrid flowers. Also all fruits and produce you've grown yourself. Also a message bottle on a new day  |
-|       Facilities #2 & #3<br/>Café & Restaurant         |Available after House #12<br/>  At this point you are given choice between two new facilities: a restaurant or a café.<br/>You can build the other one after by talking to Lottie.<br/>You learn the new lighting system with this new facility.<br/>Reward is 25,000 Poki for each one|
+|       Facility #1<br/>School         |  Available after House #6<br/>You learn how to resize rooms. You have to chose one member of the archipelago as the teacher.<br/> Reward is 25,000 pokis.<br/>|
+|       Facilities #2 & #3<br/>Café         |Available after House #12<br/>  At this point you are given choice between two new facilities: a restaurant or a café.<br/>You can build the other one after by talking to Lottie.<br/>You learn the new lighting system with this new facility.<br/>|
+|Facility #3</br>Restaurant|Available after House #12<br/>Same as above.<br/>You unlock the ability to construct a second floor after you have 3 roommate pairs.|
 | Facility #4<br/>Hospital | Available after House #24<br/>The hospital initially has reception and an exam room, but you can expand it.<br/>Talking to the receptionist gives you the option to get a patient ward. This costs 120,000 Poki.|
 | Facility #5<br/>Apparel Shop | Available after House #30<br/>The apparel shop allows you to set up mannequins which you can buy apparel from.<br/>There are several "styles" to choose from when setting up the shop.<br/>|
 
 After the Apparel Shop, you unlock the DJ KK Festival - This is where you unlock the DLC exclusive reactions. These include Grooving Hop, Groove Right, Groove Left, Soak It In, Side-to-Side, Island Stomp, Airplane, Twisty Dance, Shimmy, Turnip Patch, Arm-Swing Dance.
 
 The ability to customise your villager's interior and exterior on your own island is unlocked after you return from the DJ KK Festival (See Facility #5). Go to the Resident Services building and Tom Nook will prompt you with instructions on how to do so.
+
+### Time-gated unlocks
+Certain features are locked to a "next day". There seems to be a limit of one of these unlocks a day. The table below provides a summary of these.
+
+{: .note}
+The exact conditions of each unlock are not currently known, these are assumed to be unlocked after you have completed the main DLC storyline unless otherwise stated.
+
+|Feature|Description|
+|Leif's Visit|After you have built the School, Leif will visit on a new day. He teaches you how to use hybrid flowers, fruit trees, and crops when decorating.|
+|New Pillar and Counter DIYs|After House #19, on the start of a new day Wardell will ask you to help Niko collect DIY materials. After donating the required DIY materials in Niko's box, he will send the DIYs of the particular set of pillar and counter DIYs to you the next day.|
+|Nat's Visit|Requires the School. On a new day, Nat may visit and teach you the ability to release live insects to roam a client's yard on their vacation home. Note that you must bring your own insects for this feature. The ones in the HHP catalogue cannot be used this way.
+|AB&PD|The AB&PD, or the Automated Bell and Poki Dispenser will be installed in the Paradise Planning Office. This machine allows you to deposit Poki and perform exchanges between Poki and Bells. The rate changes everyday, and the is a limit of 30k bells exchanged, and 15k Poki exchanged.|
+|Room Sketch App|At the start of a new day, Lottie may introduce you to the Room Sketch App. This app allows you to pre-design homes for clients. This will also unlock the Room Sketch wallpaper and flooring.|
+
 
 ## Requests
 Each character has their own theme they request, which includes a few mandatory furniture items to use. If you want to know what they are, you can check this spreadsheet, compiled by `Stoney#9215`: <https://docs.google.com/spreadsheets/d/1S_xKGDXNDLUXNuChmiZE0u-gce5BgA323r-47XxCjXk/edit?usp=sharing>
