@@ -116,6 +116,11 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 | <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYRecipePlus.png" id="inv-icon"></span><br>**Be a Chef! DIY Recipes+**   | • Upgraded Resident Services<br>• K.K. Slider has visited<br>• Completed DIY Customization Workshop                                                                                                                                  |
 | <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Custom Fencing in a Flash** | • Completed DIY Customization Workshop<br>• Crafted at least two types of fences                                                                                                                                                  |
 
+|Item|Unlock Criteria|
+|:-:|-|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrStorage_Remake_0_0.png" id="inv-icon"><img src="https://acnhcdn.com/latest/FtrIcon/FtrStorageWood_Remake_0_0.png" id="inv-icon"></span><br>**Outdoor Storage Sheds**  |Have a total of 2,400 house storage|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrATM_Remake_0_0.png" id="inv-icon"></span><br>**ABD**    |Condition unknown, however should be unlocked if you paid off all house loans and upgraded your house fully.|
+
 ### Brewster & The Roost Unlocks
 To unlock [Brewster](/acnhfaq/npc/permanent/#brewster), you must meet the following pre-requirements:
 - K.K. Slider must have already performed on your island.

@@ -13,6 +13,10 @@ To unlock the DLC, you must
 Tom Nook will then phone in to introduce you to Lottie to start the begininng sequences of the DLC.
 
 ## Common FAQs
+### Do I need to buy the DLC for the other profiles on a single Switch?
+No, only one person needs to own the DLC for it to be available for every profile on the same Switch.
+### Will the HHP island be shared with other profiles on the same Switch?
+No, each profile will get their own instance of HHP. Progression is not shared between profiles. 
 ### Is there a limit to how many houses you can design?
 The limit is quite literally how many villagers there are in the game currently. You are able to create vacation homes for all 413 villagers and all the special NPCs, e.g. Isabelle, Pascal, Flick, etc. 
 ### How do I kick clients out of HHP?
