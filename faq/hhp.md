@@ -4,6 +4,13 @@ nav_order: 12
 permalink: hhp/
 ---
 # Happy Home Paradise
+
+To unlock the DLC, you must
+- Upgrade your tent to a house.
+- Completed the customization workshop with Tom Nook.
+- Upgrade Resident Services to a building.
+
+Tom Nook will then phone in to introduce you to Lottie to start the begininng sequences of the DLC.
 ## Feature unlocks
 
 Note: If you save & quit in the middle of a project, you'll be sent back to it as soon as you get back to Paradise Planning.
@@ -27,14 +34,14 @@ You unlock different features of HHP through the number of house and facility pr
 | House  #16 | After completing this, you can now have vacationers share the same home.<br/>The next home you decorate is one you had before, and you are tasked to find a roommate and redecorate. |
 | House #17 | After completing this, you learn Soundscapes. These are "nature" themes. |
 | House #18 | After completing this, you get access to 2 storey housing. |
-| House #19 | You are promoted to *Famous Designer*. New salary is 15,000 Poki.<br/>You can now invite VIPs (non-villager characters).
+| House #19 | You are promoted to *Famous Designer*. New salary is 15,000 Poki.<br/>You can now invite VIPs (non-villager characters).<br/>You are given new options for work clothes.
 | House #20 | After completing this, Lottie mentions a music festival event to be held on the island.
 | House #25 | After this one, you learn more Soundscapes. More "city" themes. |
 | House #27 | After this one, you can now use any item from Nook Shopping to decorate.|
 | Houes #33 | After this house is done, you will unlock more Soundscapes.|
 
 1. The 12 clients are, in order of priority, Eloise, Olivia, Julia, Willow, Friga, Blanche, Cleo, Vivian, Purrl, Bree, Blaire, and finally Tasha.
-
+{: .fs-3}
 
 | Facility Project |  Feature   |
 |:-------:|-----------|
