@@ -84,8 +84,8 @@ The exact conditions of each unlock are not currently known, these are assumed t
 |Leif's Visit|After you have built the School, Leif will visit on a new day. He teaches you how to use hybrid flowers, fruit trees, and crops when decorating.|
 |New Pillar and Counter DIYs|After House #19, on the start of a new day Wardell will ask you to help Niko collect DIY materials. After donating the required DIY materials in Niko's box, he will send the DIYs of the particular set of pillar and counter DIYs to you the next day.|
 |Nat's Visit|Requires the School. On a new day, Nat may visit and teach you the ability to release live insects to roam a client's yard on their vacation home. Note that you must bring your own insects for this feature. The ones in the HHP catalogue cannot be used this way.
-|AB&PD|The AB&PD, or the Automated Bell and Poki Dispenser will be installed in the Paradise Planning Office. This machine allows you to deposit Poki and perform exchanges between Poki and Bells. The rate changes everyday, and the is a limit of 30k bells exchanged, and 15k Poki exchanged.|
-|Room Sketch App|At the start of a new day, Lottie may introduce you to the Room Sketch App. This app allows you to pre-design homes for clients. This will also unlock the Room Sketch wallpaper and flooring.|
+|AB&PD|Available after House #23, and have visited Paradise Planning for 2 days. The AB&PD, or the Automated Bell and Poki Dispenser will be installed in the Paradise Planning Office. This machine allows you to deposit Poki and perform exchanges between Poki and Bells. The rate changes everyday, and the is a limit of 30k bells exchanged, and 15k Poki exchanged.|
+|Room Sketch App|Available after visiting Paradise Planning for 11 days, and have unlocked all Soundscapes. Lottie will introduce you to the Room Sketch App. This app allows you to pre-design homes for clients. This will also unlock the Room Sketch wallpaper and flooring.|
 
 
 ## Requests
