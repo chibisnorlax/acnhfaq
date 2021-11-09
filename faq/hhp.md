@@ -10,7 +10,7 @@ To unlock the DLC, you must
 - Completed the customization workshop with Tom Nook.
 - Upgrade Resident Services to a building.
 
-Tom Nook will then phone in to introduce you to Lottie to start the begininng sequences of the DLC.
+Tom Nook will then phone in to introduce you to Lottie to start the beginning sequences of the DLC.
 
 ## Common FAQs
 ### Do I need to buy the DLC for the other profiles on a single Switch?
