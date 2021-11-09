@@ -10,7 +10,7 @@ permalink: villagers/amiibo/
 Amiibos <span class="icon-Amiibo"></span> are Nintendo-produced collectibles that come in the form of cards or figurines and allow players to unlock special features when scanned into games. You can buy them from some online retailers or secondhand. In Animal Crossing: New Horizons, Amiibos allow you to invite villagers onto your island or unlock posters, an in-game item. There are 456 Animal Crossing Amiibo cards, including non-villager NPCs, villagers, and special villagers (such as the Sanrio x Animal Crossing villagers). 
 
 ## Who has an Amiibo?
-All villagers have Amiibo cards **except** the following: Raymond, Dom, Sherb, Cyd, Reneigh, Audie, Judy, and Megan. (These 8 were introduced into the franchise in New Horizons, and thus do not have Amiibo cards or figures.) The NPCs Wilbur, Orville, Harvey, Lloid, Flick, C.J., Daisy Mae, Gullivarrr, and Wisp also have no Amiibos. 
+All villagers have Amiibo cards. The NPCs Lloid and Gullivarrr also have no Amiibos. 
 
 {: .note}
 Amiibo villagers are in no way different from NMT island villagers. They are the exact same.
