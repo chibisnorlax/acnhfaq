@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Music
-nav_order: 3
+nav_order: 4
 parent: Island Development
 permalink: island-dev/music/
 ---
