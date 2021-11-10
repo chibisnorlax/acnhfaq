@@ -96,7 +96,7 @@ For example, if you have no peppy villager, you cannot learn the aggravation, cu
 For the Halloween reactions, they are earned by playing the [Halloween](/acnhfaq/events#halloween) event. The Hip Reactions Collection can be bought via Nook Miles Redemption for 2,700 <span class="icon-NM"></span>. The New Reaction Notebook can be bought via Nook Miles Redemption for 3,300 <span class="icon-NM"></span> and requires Hip Reactions to be bought beforehand. 
 
 
-For the Festivale reactions, the <span><img src="https://acnhapi.com/latest/FtrIcon/HowtoBookReactionCarnival.png" id="inv-icon"></span> Viva Festivale Reaction Set can be purchased with **19,800 <span class="icon-Bells"></span>** from the shelf at Nook’s Cranny from February 1<sup>st</sup> to February 15<sup>th</sup>.
+For the Festivale reactions, the <span><img src="https://acnhcdn.com/latest/FtrIcon/HowtoBookReactionCarnival.png" id="inv-icon"></span> Viva Festivale Reaction Set can be purchased with **19,800 <span class="icon-Bells"></span>** from the shelf at Nook’s Cranny from February 1<sup>st</sup> to February 15<sup>th</sup>.
 
 The DJ KK Festival reactions are exclusive to Happy Home Paradise. They are earned after you experience your first DJ KK Festival.
 
