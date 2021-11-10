@@ -27,8 +27,10 @@ You will invite a "copy" of the villager to Paradise Planning. Your original vil
 Yes, speak to the client you wish to ask to leave. They will then ask for you to build a vacation home for them if they do not already have one. 
 ### Can I remodel or change the name of any of the facilities I've built?
 Yes, speak to Lottie about facilities and she will guide you through the process. You are prompted to either retain the name or change it once you're done remodelling.
+### How do I change the staff working at the facilities?
+Press <span class="icon-arw-Left"></span> when you are at the facility you wish to change the staff of. This is also where you can change their outfits. 
 
-## Feature unlocks
+## House Project Unlocks
 
 Note: If you save & quit in the middle of a project, you'll be sent back to it as soon as you get back to Paradise Planning.
  
@@ -47,7 +49,7 @@ You unlock different features of HHP through the number of house and facility pr
 | House #11 | After you complete this, you're promoted to *Breakout Designer*. Salary is now 12,000 Poki. |
 | House #12 | You learn different polishing effects, and the ability to apply custom designs on effects. |
 | House #13 | You unlock the Showroom in the Happy Home Network app. |
-|       House #15         |  After completion of the house, you're allowed to use DIY items you previously crafted.<br/>Niko will teach you the wooden pillar, low wooden island counter and tall wooden island counter DIYs |
+|       House #15         |  After completion of the house, you're allowed to use DIY items you previously crafted.<br/>The next day, Niko will teach you the wooden pillar, low wooden island counter and tall wooden island counter DIYs. |
 | House  #16 | After completing this, you can now have vacationers share the same home.<br/>The next home you decorate is one you had before, and you are tasked to find a roommate and redecorate. |
 | House #17 | After completing this, you learn Soundscapes. These are "nature" themes. |
 | House #18 | After completing this, you get access to 2 storey housing. |
@@ -57,8 +59,10 @@ You unlock different features of HHP through the number of house and facility pr
 | House #27 | After this one, you can now use any item from Nook Shopping to decorate.|
 | Houes #33 | After this house is done, you will unlock more Soundscapes.|
 
-1. The 12 clients are, in order of priority, Eloise, Olivia, Julia, Willow, Friga, Blanche, Cleo, Vivian, Purrl, Bree, Blaire, and finally Tasha.
+1. The 12 clients are, in order of priority, Eloise, Olivia, Julia, Willow, Friga, Blanche, Cleo, Vivian, Purrl, Bree, Blaire, and finally Tasha, i.e. if you have Eloise on your main island, Olivia will be your first HHP client, and so on.
 {: .fs-3}
+
+## Facility Project Unlocks
 
 | Facility Project |  Feature   |
 |:-------:|-----------|
@@ -89,6 +93,6 @@ The exact conditions of each unlock are not currently known, these are assumed t
 
 
 ## Requests
-Each character has their own theme they request, which includes a few mandatory furniture items to use. If you want to know what they are, you can check this spreadsheet, compiled by `Stoney#9215`: <https://docs.google.com/spreadsheets/d/1S_xKGDXNDLUXNuChmiZE0u-gce5BgA323r-47XxCjXk/edit?usp=sharing>
+Each character has their own theme they request, which includes a few mandatory furniture items to use. Each character also has specific furniture they unlock to be used in the HHP catalogue. `Stoney#9215` has compiled these into two spreadsheets, accessible below:
 
-Likewise, if you would like to know what furniture they unlock in your HHP Catalogue after you take on their request, check the spreadsheet linked here, also by `Stoney#9215`: <https://docs.google.com/spreadsheets/d/1siOPl4A4DBlF4xBKdTDsSA59UgQi_KnEDshVXntPevY/edit?usp=sharing>
+<a href="https://docs.google.com/spreadsheets/d/1S_xKGDXNDLUXNuChmiZE0u-gce5BgA323r-47XxCjXk/edit?usp=sharing" class="btn btn-yellow fs-5 mr-2" target="_blank">All Villager HHP Requests</a><a href="https://docs.google.com/spreadsheets/d/1siOPl4A4DBlF4xBKdTDsSA59UgQi_KnEDshVXntPevY/edit?usp=sharing" class="btn btn-yellow fs-5 mr-2" target="_blank">All Villager HHP Unlocks</a>
