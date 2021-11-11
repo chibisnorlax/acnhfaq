@@ -66,7 +66,7 @@ At some point early in the game you will get a random fruit mailed from Mom. Thi
 * * *
 
 ## Shrubs/Bushes
-### How do I get Shrubs?
+### How do I get shrubs?
 Shrubs can be bought from Leif, who will sell one type that is in-season and one random type that is out-of-season. Only in-season shrubs will bloom.
 
 ### What shrubs are in season?
@@ -79,6 +79,7 @@ Shrubs can be bought from Leif, who will sell one type that is in-season and one
 |<span><img src="https://acnhcdn.com/latest/MenuIcon/PltHibiscusRed.png" id="inv-icon"><img src="https://acnhcdn.com/latest/MenuIcon/PltHibiscusYellow.png" id="inv-icon"></span><br>Hibiscus|NH: Jul 21 - Sept 20<br>SH: Jan 21 - Mar 20|
 |<span><img src="https://acnhcdn.com/latest/MenuIcon/PltBushOsmathusYellow.png" id="inv-icon"><img src="https://acnhcdn.com/latest/MenuIcon/PltBushOsmathusOrange.png" id="inv-icon"></span><br>Tea Olive|NH: Sept 21 - Oct 31<br>SH: Mar 21 - Apr 30|
 |<span><img src="https://acnhcdn.com/latest/MenuIcon/PltHolly.png" id="inv-icon"></span><br>Holly|NH: Nov 1 - Dec 31<br>SH: May 1 - Jun 15|
+|<span><img src="https://acnhcdn.com/latest/MenuIcon/PltBushPlumeriaPink.png" id="inv-icon"><img src="https://acnhcdn.com/latest/MenuIcon/PltBushPlumeriaWhite.png" id="inv-icon"></span><br>Plumeria|NH: Jun 1 - Sept 20<br>SH: Dec 1 - Mar 20|
 
 For more info on shrubs, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/#Shrubs>
 
@@ -109,8 +110,22 @@ For more information on pumpkins, see: <https://bigfootmg.github.io/ACNH-Plant-G
 
 * * *
 
+## Crops
+### What are the different types of crops?
+There are 5 types of crops, carrots, tomatoes, potatoes, sugar cane, and wheat.
+
+### How do I find crops to plant?
+They can be bought from Leif when he visits your island, and from his co-op on Harv's island. There are also some Kapp'n islands where you can find crops growing.
+
+### How do I grow them?
+Crops are nearly identical to pummpkins, except that they do not have color variations. They do not require watering to grow, but watering them each day of their growth will increase their yield, to a maximum of 3 of a crop per harvest.
+
+For more information on crops, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Crops>
+
+* * *
+
 ## Mushrooms
-### Where do Mushrooms spawn?
+### Where do mushrooms spawn?
 Mushrooms will spawn next to trees that have valid tiles. Only 5 can spawn per day, and up to a maximum of 30 naturally spawned mushrooms can be on your island. Mushrooms cannot be planted but they can be dropped. Dropped mushrooms do not count towards the 30 mushroom maximum.
  
 ### What types of mushrooms are there?
@@ -118,6 +133,27 @@ There are 5 types of mushrooms that have different spawn rates based on your isl
 
 For more details about mushrooms, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Mushies>
 
+* * *
+
+## Glowing Moss
+### What is glowing moss?
+Glowing moss is a new plant added in `Ver. 2.0.0` It is used in some DIY recipes.
+
+### Is glowing moss like weeds?
+Moss is visually similar to weeds, but this is only in appearance. There are 7 appearance variants of moss that mimic the growth stages of weeds. However, moss itself does not grow on its own, or spread. When you plant a glowing moss, it randomly takes one of the 7 appearances.
+
+### Where can i find glowing moss?
+It can be found on certain Kapp'n islands, as well as the main Paradise Planning island.
+
+For more information on glowing moss, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Moss>
+
+* * *
+
+## Vines
+### What are vines?
+Vines are another plant added in `Ver. 2.0.0`. They grow on cliffs and allow you to climb up and down like ladders, and are used in some DIY recipes. They can be found on certain Kapp'n islands as well as the main Paradise Planning island. There are no growth stages for vines.
+
+For more details on vines, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Moss>
 
 
 
