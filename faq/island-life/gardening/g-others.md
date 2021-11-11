@@ -125,7 +125,7 @@ For more information on crops, see: <https://bigfootmg.github.io/ACNH-Plant-Guid
 * * *
 
 ## Mushrooms
-### Where do ushrooms spawn?
+### Where do mushrooms spawn?
 Mushrooms will spawn next to trees that have valid tiles. Only 5 can spawn per day, and up to a maximum of 30 naturally spawned mushrooms can be on your island. Mushrooms cannot be planted but they can be dropped. Dropped mushrooms do not count towards the 30 mushroom maximum.
  
 ### What types of mushrooms are there?
