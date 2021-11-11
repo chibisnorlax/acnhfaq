@@ -34,12 +34,12 @@ After unlocking the ability to donate to Niko's box on the second floor of the P
 
 |Materials|Unlocked Set|
 |:-:|:-:|
-|10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span>Wood</br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYBranch.png" id="inv-icon"></span>Branches|Simple set|
-|15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone</br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreClay.png" id="inv-icon"></span>Clay</br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span>Softwood|Concrete set|
-|10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone</br>15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreClay.png" id="inv-icon"></span>Clay</br>|Brick set|
-|15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget</br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></span>Hardwood|Steel set|
-|30x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone</br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget|Marble set|
-|1x <span><img src="https://acnhcdn.com/latest/MenuIcon/Gold_Ore.png" id="inv-icon"></span>Gold nugget</br>30x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget|Gold set|
+|10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span>Wood </br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYBranch.png" id="inv-icon"></span>Branches|Simple set|
+|15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone </br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreClay.png" id="inv-icon"></span>Clay </br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span>Softwood|Concrete set|
+|10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone </br>15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreClay.png" id="inv-icon"></span>Clay|Brick set|
+|15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget </br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></span>Hardwood|Steel set|
+|30x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone </br>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget|Marble set|
+|1x <span><img src="https://acnhcdn.com/latest/MenuIcon/Gold_Ore.png" id="inv-icon"></span>Gold nugget </br>30x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget|Gold set|
 
 ### What are the promotions available and what are their criteria?
 There are 6 promotions when working as a designer for Paradise Planning. The criteria for each one is listed below, together with their perks. Note that "rank" referred below is a hidden number that is calculated based on number of requests done, filled plots, unique days visiting Paradise Planning, etc. For a full break down of this, please refer to [asteriation's datamine](https://acnh.isomorphicbox.com/updates/2.0.0/#hhp) of the 2.0.0 update.
@@ -47,14 +47,15 @@ There are 6 promotions when working as a designer for Paradise Planning. The cri
 |Promotion|Criteria|Perks|
 |:-:|-|-|
 |-|-|• 6,000 Poki salary|
-|Promising Designer|• Complete 6 Requests|• 9,000 Poki salary</br>• Unlocks Paradise Planning maxi and shirt as work clothes.|
-|Breakout Designer|• Complete 13 Requests|• 12,000 Poki salary</br>• Unlocks Paradise Planning jacket as work clothes.|
-|Famous Designer|• Complete 19 Requests|• 15,000 Poki salary</br>• Unlocks cozy Paradise Planning coat as work clothes.</br>• Clients have a 1% chance of approaching you for a project rqeust on the beach.|
-|Superstar Designer|• Have a rank of 84|• 20,000 Poki salary</br>• Unlocks Paradise Planning blazer as work clothes.|
-|Legendary Designer|• Have a rank of 119|• 30,000 Poki salary</br>• Unlocks Paradise Planning tee as work clothes.|
-|GOAT Designer|• Have a rank of 146|• 40,000 Poki salary</br>• Clients have a 10% chance of approaching you for a project request on the beach.|
+|Promising Designer|• Complete 6 Requests|• 9,000 Poki salary </br>• Unlocks Paradise Planning maxi and shirt as work clothes.|
+|Breakout Designer|• Complete 13 Requests|• 12,000 Poki salary </br>• Unlocks Paradise Planning jacket as work clothes.|
+|Famous Designer|• Complete 19 Requests|• 15,000 Poki salary </br>• Unlocks cozy Paradise Planning coat as work clothes.</br>• Clients have a 1% chance of approaching you for a project rqeust on the beach.|
+|Superstar Designer|• Have a rank of 84|• 20,000 Poki salary </br>• Unlocks Paradise Planning blazer as work clothes.|
+|Legendary Designer|• Have a rank of 119|• 30,000 Poki salary </br>• Unlocks Paradise Planning tee as work clothes.|
+|GOAT Designer|• Have a rank of 146|• 40,000 Poki salary </br>• Clients have a 10% chance of approaching you for a project request on the beach.|
 
 To calculate your current "rank", `asteriation#6884` has also built a calculator linked below:
+
 <a href="https://acnh.isomorphicbox.com/updates/2.0.0/hhp/" class="btn btn-yellow fs-5 mr-2" target="_blank">Paradise Planning Grade & Rank Calculator</a>
 ## House Project Unlocks
 
@@ -92,7 +93,7 @@ You unlock different features of HHP through the number of house and facility pr
 
 | Facility Project |  Feature   |
 |:-------:|-----------|
-|<span><img src="https://alexislours.github.io/img/layout/FacilityIconColor_School^_A.png" id="inv-icon"></span><br>Facility #1<br/>School         |  Available after House #6<br/>You learn how to resize rooms. You have to chose one member of the archipelago as the teacher.<br/> Reward is 25,000 Poki.<br/>|
+|<span><img src="https://alexislours.github.io/img/layout/FacilityIconColor_School^_A.png" id="inv-icon"></span><br>Facility #1<br/>School         |  Available after House #6<br/>You learn how to resize rooms. You have to chose one member of the archipelago as the teacher. <br/> Reward is 25,000 Poki.|
 |<span><img src="https://alexislours.github.io/img/layout/FacilityIconColor_Caffe^_A.png" id="inv-icon"></span><br>Facility #2<br/>Café         |Available after House #12<br/>  At this point you are given choice between two new facilities: a restaurant or a café.<br/>You can build the other one after by talking to Lottie.<br/>You learn the new lighting system with this new facility.<br/>|
 |<span><img src="https://alexislours.github.io/img/layout/FacilityIconColor_Restaurant^_A.png" id="inv-icon"></span><br>Facility #3<br/>Restaurant|Available after House #12<br/>Same as above.<br/>You unlock the ability to construct a second floor after you have 3 roommate pairs.|
 |<span><img src="https://alexislours.github.io/img/layout/FacilityIconColor_Hospital^_A.png" id="inv-icon"></span><br>Facility #4<br/>Hospital | Available after House #24<br/>The hospital initially has reception and an exam room, but you can expand it.<br/>Talking to the receptionist gives you the option to get a patient ward. This costs 120,000 Poki.|
