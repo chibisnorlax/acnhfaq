@@ -137,13 +137,13 @@ For more details about mushrooms, see: <https://bigfootmg.github.io/ACNH-Plant-G
 
 ## Glowing Moss
 ### What is glowing moss?
-Glowing moss is a new plant added in version 2.0. It is used in some DIY recipes.
+Glowing moss is a new plant added in `Ver. 2.0.0` It is used in some DIY recipes.
 
 ### Is glowing moss like weeds?
 Moss is visually similar to weeds, but this is only in appearance. There are 7 appearance variants of moss that mimic the growth stages of weeds. However, moss itself does not grow on its own, or spread. When you plant a glowing moss, it randomly takes one of the 7 appearances.
 
 ### Where can i find glowing moss?
-It can be found on certain Kapp'n islands, as well as the Happy Home Paradise DLC island.
+It can be found on certain Kapp'n islands, as well as the main Paradise Planning island.
 
 For more information on glowing moss, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Moss>
 
@@ -151,7 +151,7 @@ For more information on glowing moss, see: <https://bigfootmg.github.io/ACNH-Pla
 
 ## Vines
 ### What are vines?
-Vines are another plant added in version 2.0. They grow on cliffs and allow you to climb up and down like ladders, and are used in some DIY recipes. They can be found on certain Kapp'n islands as well as the Happy Home Paradise DLC island. There are no growth stages for vines.
+Vines are another plant added in `Ver. 2.0.0`. They grow on cliffs and allow you to climb up and down like ladders, and are used in some DIY recipes. They can be found on certain Kapp'n islands as well as the main Paradise Planning island. There are no growth stages for vines.
 
 For more details on vines, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Moss>
 
