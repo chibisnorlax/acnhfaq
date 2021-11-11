@@ -28,7 +28,7 @@ permalink: unlocks/
 
 ## Building Unlocks
 
-{. note}
+{. .note}
 As of `Ver. 2.0.0` the Museum Art Wing is automatically unlocked once you upgrade it from a tent. Those without the Art wing will still have to meet the requirements to upgrade.
 
 |Building|Unlock Criteria|
