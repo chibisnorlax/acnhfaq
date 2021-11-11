@@ -44,6 +44,8 @@ This guide also would not have been possible without the extraordinary work of t
 
 Custom icons and assets by Melon (<https://twitter.com/54_Melon>).
 
+Big thanks to https://acnhcdn.com/, and https://acnhapi.com for hosting images. 
+
 Please contact littlesnorlax#1717 on Discord or submit a [PR](https://github.com/chibisnorlax/acnhfaq/pulls) if you would like to request changes to the document, or request usage within other applications or websites! 
 
 
