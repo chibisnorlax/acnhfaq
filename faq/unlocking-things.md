@@ -28,6 +28,9 @@ permalink: unlocks/
 
 ## Building Unlocks
 
+{. note}
+As of `Ver. 2.0.0` the Museum Art Wing is automatically unlocked once you upgrade it from a tent. Those without the Art wing will still have to meet the requirements to upgrade.
+
 |Building|Unlock Criteria|
 |:-:|-|
 | <span><img src="https://alexislours.github.io/img/layout/BuildingIconMuseum00^z.png" id="inv-icon"></span><br>**Museum Tent**| Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.|
