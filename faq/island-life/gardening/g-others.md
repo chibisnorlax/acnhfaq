@@ -118,7 +118,7 @@ There are 5 types of crops, carrots, tomatoes, potatoes, sugar cane, and wheat.
 They can be bought from Leif when he visits your island, and from his co-op on Harv's island. There are also some Kapp'n islands where you can find crops growing.
 
 ### How do I grow them?
-Crops are nearly identical to pummpkins, except that they do not have color variations. They do not require watering to grow, but watering them each day of their growth will increase their yield, to a maximum of 3 of a crop per harvest.
+Crops are nearly identical to pumpkins, except that they do not have color variations. They do not require watering to grow, but watering them each day of their growth will increase their yield, to a maximum of 3 of a crop per harvest.
 
 For more information on crops, see: <https://bigfootmg.github.io/ACNH-Plant-Guide/Extras.html#Crops>
 
