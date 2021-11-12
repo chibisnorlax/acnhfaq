@@ -30,16 +30,7 @@ Yes, speak to Lottie about facilities and she will guide you through the process
 ### How do I change the staff working at the facilities?
 Press <span class="icon-arw-Left"></span> when you are at the facility you wish to change the staff of. This is also where you can change their outfits. 
 ### What are the materials needed for the other variants of the pillar, low island counter and tall island counter DIYs?
-After unlocking the ability to donate to Niko's box on the second floor of the Paradise Planning Office, donating materials in his box will allow him to give you a new set of interior construction DIYs. The following table lists the needed materials and the set of construction DIYs it unlocks.
-
-|Materials|Unlocked Set|
-|:-:|:-:|
-|10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span>Wood<br/>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYBranch.png" id="inv-icon"></span>Branches|Simple set|
-|15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone<br/>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreClay.png" id="inv-icon"></span>Clay <br/>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span>Softwood|Concrete set|
-|10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone<br/>15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreClay.png" id="inv-icon"></span>Clay|Brick set|
-|15x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget<br/>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></span>Hardwood|Steel set|
-|30x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span>Stone<br/>10x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget|Marble set|
-|1x <span><img src="https://acnhcdn.com/latest/MenuIcon/Gold_Ore.png" id="inv-icon"></span>Gold nugget<br/>30x <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span>Iron nugget|Gold set|
+After unlocking the ability to donate to Niko's box on the second floor of the Paradise Planning Office, donating materials in his box will allow him to give you a new set of interior construction DIYs. The materials required by Niko vary from player to player, so check the Materials Box to see what you need to donate.
 
 ### What are the promotions available and what are their criteria?
 There are 6 promotions when working as a designer for Paradise Planning. The criteria for each one is listed below, together with their perks. Note that "rank" referred below is a hidden number that is calculated based on number of requests done, filled plots, unique days visiting Paradise Planning, etc. For a full break down of this, please refer to [asteriation's datamine](https://acnh.isomorphicbox.com/updates/2.0.0/#hhp) of the 2.0.0 update.
