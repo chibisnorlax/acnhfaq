@@ -54,7 +54,7 @@ As of `Ver. 2.0.0` the Museum Art Wing is automatically unlocked once you upgrad
 |  **Right Room Addition**  |  758,000 <span class="icon-Bells"></span>  | • Right Room (6×6 grid)<br>• 40 additional storage slots (400 total) <br>• Door customization                                           |
 | **Second Floor Addition** | 1,248,000 <span class="icon-Bells"></span> | • Second Floor (10×6 grid)<br>• 400 additional storage slots (800 total) <br>• Home siding customization                                |
 |   **Basement Addition**   | 2,498,000 <span class="icon-Bells"></span> | • Basement (10×6 grid)<br>• 800 additional storage slots (1600 total) <br>• Free exterior renovations (once per day)                     |
-|    **Storage Upgrade**    |  500,000 <span class="icon-Bells"></span><br/>700,000 <span class="icon-Bells"><br/>900,000 <span class="icon-Bells"><br/>1,200,000 <span class="icon-Bells">  | • 800 additional storage slots (2400 total)</br>• 800 additional storage slots (3200 total)</br>• 800 additional storage slots (4000 total)</br>• 1000 additional storage slots (5000 total)                                                                                             |
+|    **Storage Upgrade**    |  500,000 <span class="icon-Bells"></span><br/>700,000 <span class="icon-Bells"><br/>900,000 <span class="icon-Bells"><br/>1,200,000 <span class="icon-Bells">  | • 800 additional storage slots (2400 total)<br/>• 800 additional storage slots (3200 total)<br/>• 800 additional storage slots (4000 total)<br/>• 1000 additional storage slots (5000 total)                                                                                             |
 
 {: .note}
 > - Paying off the previous fee unlocks each subsequent house upgrade.
