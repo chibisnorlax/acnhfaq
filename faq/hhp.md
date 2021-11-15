@@ -30,7 +30,7 @@ Yes, speak to Lottie about facilities and she will guide you through the process
 ### How do I change the staff working at the facilities?
 Press <span class="icon-arw-Left"></span> when you are at the facility you wish to change the staff of. This is also where you can change their outfits. 
 ### What are the materials needed for the other variants of the pillar, low island counter and tall island counter DIYs?
-After unlocking the ability to donate to Niko's box on the second floor of the Paradise Planning Office, donating materials in his box will allow him to give you a new set of interior construction DIYs. The materials required by Niko vary from player to player, so check the Materials Box to see what you need to donate.
+After unlocking the ability to donate to Niko's box on the second floor of the Paradise Planning Office, donating materials in his box will allow him to give you a new set of interior construction DIYs, these are given the following day when you first visit Paradise Planning. The materials required by Niko vary from player to player, so check the Materials Box to see what you need to donate.
 
 ### What are the promotions available and what are their criteria?
 There are 6 promotions when working as a designer for Paradise Planning. The criteria for each one is listed below, together with their perks. Note that "rank" referred below is a hidden number that is calculated based on number of requests done, filled plots, unique days visiting Paradise Planning, etc. For a full break down of this, please refer to [asteriation's datamine](https://acnh.isomorphicbox.com/updates/2.0.0/#hhp) of the 2.0.0 update.
@@ -38,12 +38,12 @@ There are 6 promotions when working as a designer for Paradise Planning. The cri
 |Promotion|Criteria|Perks|
 |:-:|-|-|
 |-|-|• 6,000 Poki salary|
-|Promising Designer|• Complete 6 Requests|• 9,000 Poki salary<br/>• Unlocks Paradise Planning maxi and shirt as work clothes.|
-|Breakout Designer|• Complete 13 Requests|• 12,000 Poki salary<br/>• Unlocks Paradise Planning jacket as work clothes.|
-|Famous Designer|• Complete 19 Requests|• 15,000 Poki salary<br/>• Unlocks cozy Paradise Planning coat as work clothes.<br/>• Clients have a 1% chance of approaching you for a project request on the beach.|
-|Superstar Designer|• Have a rank of 84|• 20,000 Poki salary<br/>• Unlocks Paradise Planning blazer as work clothes.|
-|Legendary Designer|• Have a rank of 119|• 30,000 Poki salary<br/>• Unlocks Paradise Planning tee as work clothes.|
-|GOAT Designer|• Have a rank of 146|• 40,000 Poki salary<br/>• Clients have a 10% chance of approaching you for a project request on the beach.|
+|Promising<br/>Designer|• Complete 6 Requests|• 9,000 Poki salary<br/>• Unlocks Paradise Planning maxi and shirt as work clothes.|
+|Breakout<br/>Designer|• Complete 13 Requests|• 12,000 Poki salary<br/>• Unlocks Paradise Planning jacket as work clothes.|
+|Famous<br/>Designer|• Complete 19 Requests|• 15,000 Poki salary<br/>• Unlocks cozy Paradise Planning coat as work clothes.<br/>• Clients have a 1% chance of approaching you for a project request on the beach.|
+|Superstar<br/>Designer|• Have a rank of 84|• 20,000 Poki salary<br/>• Unlocks Paradise Planning blazer as work clothes.|
+|Legendary<br/>Designer|• Have a rank of 119|• 30,000 Poki salary<br/>• Unlocks Paradise Planning tee as work clothes.|
+|GOAT<br/>Designer|• Have a rank of 146|• 40,000 Poki salary<br/>• Clients have a 10% chance of approaching you for a project request on the beach.|
 
 To calculate your current "rank", `asteriation#6884` has also built a calculator linked below:
 
@@ -93,17 +93,17 @@ You unlock different features of HHP through the number of house and facility pr
 ## Misc Unlocks
 
 {: .note}
-These unlocks are triggered on a new day. If there is a DJ KK Festival on the day, these unlocks will not trigger. 
+These unlocks are triggered on a new day, and only one unlock may occur per day. If there is a DJ KK Festival on the day, these unlocks will not trigger. 
 
 |**Feature**|**Description**|
-|**Leif's Visit**|• Requirements: School built. <br/>• Leif teaches you how to use hybrid flowers, fruit trees, and crops when decorating.|
-|**New Pillar and Counter DIYs**|• Requirements: 19 Decorated Homes. <br/>• Wardell will ask you to help Niko collect DIY materials. After donating the required DIY materials in Niko's box, he will send the DIYs of the particular set of pillar and counter DIYs to you the next day.|
-|**Nat's Visit**|• Requirements: School built. After DJ KK Festival.<br/>• Nat may visit and teach you the ability to release live insects to roam a client's yard on their vacation home. Note that you must bring your own insects for this feature. The ones in the HHP catalogue cannot be used this way.|
-|**AB&PD**|• Requirements: 23 Decorated Homes. Visited Paradise Planning on two different days.<br/>• The AB&PD, or the Automated Bell and Poki Dispenser will be installed in the Paradise Planning Office.<br/> • Allows you to deposit Poki and perform exchanges between Poki and Bells. The rate changes everyday, and the is a limit of 30k bells exchanged, and 15k Poki exchanged.|
-|**Room Sketch App**|• Requirements: Visited Paradise Planning on 11 different days. Learnt all Soundscapes.<br/>• Lottie will introduce you to the Room Sketch App. This app allows you to pre-design homes for clients.<br/>• This will also unlock the Room Sketch wallpaper and flooring.|
-|**Customising Villager Homes**|• Requirements: 30 Decorated Homes. 5 Facilities Built. After DJ KK Festival.<br/>• Tom Nook will congratulate you on the job well done on Paradise Planning once you enter the Resident Services building after experiencing the DJ KK Festival.<br/>• Each remodel costs 9,000 Bells and includes interior and exterior redesigning.<br/>• The redesign will take effect the next day.|
-|**Wardell's Ordering Service**|• Requiremens: Spending at least 150,000 Poki at Wardell's store.<br/>• Wardell offers the ability to order anything catalogued in the HHP Catalogue using Poki. All variants are unlocked to be ordered.|
-|**DJ KK Festival Reactions**|• Requirements: After DJ KK Festival<br/>These reactions are unlocked after you experience your first DJ KK Festival: Grooving Hop, Groove Right, Groove Left, Soak It In, Side-to-Side, Island Stomp, Airplane, Twisty Dance, Shimmy, Turnip Patch, Arm-Swing Dance.|
+|**Leif's Visit**|• **Requirements:** School built. <br/>• Leif teaches you how to use hybrid flowers, fruit trees, and crops when decorating.|
+|**New Pillar and Counter DIYs**|• **Requirements:** 19 Decorated Homes. <br/>Wardell will ask you to help Niko collect DIY materials. After donating the required DIY materials in Niko's box, he will send the DIYs of the particular set of pillar and counter DIYs to you the next day.|
+|**Nat's Visit**|• **Requirements:** School built. After DJ KK Festival.<br/>Nat may visit and teach you the ability to release live insects to roam a client's yard on their vacation home. Note that you must bring your own insects for this feature. The ones in the HHP catalogue cannot be used this way.|
+|**AB&PD**|• **Requirements:** 23 Decorated Homes. Visited Paradise Planning on two different days.<br/>The AB&PD, or the Automated Bell and Poki Dispenser will be installed in the Paradise Planning Office.<br/>Allows you to deposit Poki and perform exchanges between Poki and Bells. The rate changes everyday, and the is a limit of 30k bells exchanged, and 15k Poki exchanged.|
+|**Room Sketch App**|• **Requirements:** Visited Paradise Planning on 11 different days. Learnt all Soundscapes.<br/>Lottie will introduce you to the Room Sketch App. This app allows you to pre-design homes for clients.<br/>This will also unlock the Room Sketch wallpaper and flooring.|
+|**Customising Villager Homes**|• **Requirements:** 30 Decorated Homes. 5 Facilities Built. After DJ KK Festival.<br/>Tom Nook will congratulate you on the job well done on Paradise Planning once you enter the Resident Services building after experiencing the DJ KK Festival.<br/>Each remodel costs 9,000 Bells and includes interior and exterior redesigning.<br/>The redesign will take effect the next day.|
+|**Wardell's Ordering Service**|• **Requirements:** Spending at least 150,000 Poki at Wardell's store.<br/>Wardell offers the ability to order anything catalogued in the HHP Catalogue using Poki. All variants are unlocked to be ordered.|
+|**DJ KK Festival Reactions**|• **Requirements:** After DJ KK Festival<br/>These reactions are unlocked after you experience your first DJ KK Festival: Grooving Hop, Groove Right, Groove Left, Soak It In, Side-to-Side, Island Stomp, Airplane, Twisty Dance, Shimmy, Turnip Patch, Arm-Swing Dance.|
 
 
 ## Requests
