@@ -39,7 +39,7 @@ There are 6 promotions when working as a designer for Paradise Planning. The cri
 |:-:|-|-|
 |-|-|• 6,000 Poki salary|
 |Promising<br/>Designer|• Complete 6 Requests|• 9,000 Poki salary<br/>• Unlocks Paradise Planning maxi and shirt as work clothes.|
-|Breakout<br/>Designer|• Complete 13 Requests|• 12,000 Poki salary<br/>• Unlocks Paradise Planning jacket as work clothes.|
+|Breakout<br/>Designer|• Complete 11 Requests|• 12,000 Poki salary<br/>• Unlocks Paradise Planning jacket as work clothes.|
 |Famous<br/>Designer|• Complete 19 Requests|• 15,000 Poki salary<br/>• Unlocks cozy Paradise Planning coat as work clothes.<br/>• Clients have a 1% chance of approaching you for a project request on the beach.|
 |Superstar<br/>Designer|• Have a rank of 84|• 20,000 Poki salary<br/>• Unlocks Paradise Planning blazer as work clothes.|
 |Legendary<br/>Designer|• Have a rank of 119|• 30,000 Poki salary<br/>• Unlocks Paradise Planning tee as work clothes.|
