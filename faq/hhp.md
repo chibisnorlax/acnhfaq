@@ -93,7 +93,7 @@ You unlock different features of HHP through the number of house and facility pr
 
 1. The roommate pairs must be of non-VIP clients. 
 2. If 3 roommate pairs have been achieved before DJ KK Festival, a new pair must be made after this event to trigger the unlock.
-3. To actually build the patient ward, talk to Lottie after a new day have arrived.
+3. To actually build the patient ward, talk to Lottie after a new day has arrived.
 4. The available styles correspond to Able Sister's shop styles. These include cute, simple, elegant (showy), cool, and active (loose). The gorgeous style is not an option.
 {: .fs-3}
 

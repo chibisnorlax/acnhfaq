@@ -23,15 +23,15 @@ The Commune is a new expansion introduced in `Ver. 2.0.0` which allows the playe
 ### What are the co-ops available on The Commune?
 There are 7 co-ops available to unlock. Each co-op requires a donation of 100,000 <span class="icon-Bells"></span>, paid to the respective Lloid on the designated spot, and only one co-op may be funded per day. The table below details what each co-op is and its purpose, clockwise starting from the first co-op on the left.
 
-|**Co-op**|**Description**|
-|-|-|
-|<img src="https://acnhcdn.com/latest/NpcIcon/bpt.png" id="heading-icon"><br/>**Katrina's Fortunes**|Katrina lets you divine your daily luck, which can affect one of four categories, that is money, health, belongings and friendship. She can also find out your friendship level with any villager on your island. More details of this system can be [found on Asteriation's Ver 2.0.0 datamine page](https://acnh.isomorphicbox.com/updates/2.0.0/#fortune).|
-|<img src="https://acnhcdn.com/latest/NpcIcon/cml.png" id="heading-icon"><br/>**Saharah's Co-op**|Saharah will sell her usual wares of wallpaper, flooring and rugs.|
-|<img src="https://acnhcdn.com/latest/NpcIcon/ttlA.png" id="heading-icon"><br/>**Tortimer's Storage Solutions**|Tortimer allows you to access your personal storage, letting you instantaneously withdraw and deposit things at will.|
-|<img src="https://acnhcdn.com/latest/NpcIcon/alw.png" id="heading-icon"><img src="https://acnhcdn.com/latest/NpcIcon/alp.png" id="heading-icon"><br/>**Reese & Cyrus' Customisation Workshop**|Cyrus can customise any item that has a variant at the cost of Bells.|
-|<img src="https://acnhcdn.com/latest/NpcIcon/slo.png" id="heading-icon"><br/>**Leif's Co-op**|Leif will sell his usual wares as he did on the player's island, including produce starts, shrub starts and flower seeds. His other services such as weeding, and weed buying are also available|
-|<img src="https://acnhcdn.com/latest/NpcIcon/fox.png" id="heading-icon"><br/>**Redd's Co-op**|Redd will sell two pieces of art, including sculptures. He will also host his raffle here similar to the one he hosts during the August Firework Sundays|
-|<img src="https://acnhcdn.com/latest/NpcIcon/skk.png" id="heading-icon"><br/>**Kicks' Co-op**|Kicks will sell his usual wares as he did on the player's island.|
+|**Co-op**|**Description**|**Opening Times**|
+|-|-|:-:|
+|<img src="https://acnhcdn.com/latest/NpcIcon/bpt.png" id="heading-icon"><br/>**Katrina's Fortunes**|Katrina lets you divine your daily luck, which can affect one of four categories, that is money, health, belongings and friendship. She can also find out your friendship level with any villager on your island. More details of this system can be [found on Asteriation's Ver 2.0.0 datamine page](https://acnh.isomorphicbox.com/updates/2.0.0/#fortune).|5am - 1am|
+|<img src="https://acnhcdn.com/latest/NpcIcon/cml.png" id="heading-icon"><br/>**Saharah's Co-op**|Saharah will sell her usual wares of wallpaper, flooring and rugs.|5am-12am|
+|<img src="https://acnhcdn.com/latest/NpcIcon/ttlA.png" id="heading-icon"><br/>**Tortimer's Storage Solutions**|Tortimer allows you to access your personal storage, letting you instantaneously withdraw and deposit things at will.|5am - 11pm|
+|<img src="https://acnhcdn.com/latest/NpcIcon/alw.png" id="heading-icon"><img src="https://acnhcdn.com/latest/NpcIcon/alp.png" id="heading-icon"><br/>**Reese & Cyrus' Customisation Workshop**|Cyrus can customise any item that has a variant at the cost of Bells.|5am - 12am|
+|<img src="https://acnhcdn.com/latest/NpcIcon/slo.png" id="heading-icon"><br/>**Leif's Co-op**|Leif will sell his usual wares as he did on the player's island, including produce starts, shrub starts and flower seeds. His other services such as weeding, and weed buying are also available|5am - 11pm|
+|<img src="https://acnhcdn.com/latest/NpcIcon/fox.png" id="heading-icon"><br/>**Redd's Co-op**|Redd will sell two pieces of art, including sculptures. He will also host his raffle here similar to the one he hosts during the August Firework Sundays|5am - 1am|
+|<img src="https://acnhcdn.com/latest/NpcIcon/skk.png" id="heading-icon"><br/>**Kicks' Co-op**|Kicks will sell his usual wares as he did on the player's island.|5am - 12am|
 
 ### Will the NPCs with co-ops stop visiting my island?
 No, they will still visit your island as per the usual NPC schedule. If they do visit your island, their co-op will be closed for the day at the commune. 
@@ -46,4 +46,4 @@ The inventory of all co-ops refreshes weekly, on Monday. An exception to this is
 The ABD machine will be installed automatically once you set-up the first co-op.
 
 ### What does Harriet do?
-Harriet offers one new hairstyle per co-op unlocked. You can only obtain one new hairstyle per day.
+Harriet offers one new hairstyle per co-op unlocked. You can only obtain one new hairstyle per day. Her opening times are from 5am - 10pm. Note that she will stay open if you arrive within her opening times, unless you leave the map (i.e. going to Photopia).
