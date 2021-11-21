@@ -23,7 +23,7 @@ permalink: unlocks/
 |<span><img src="https://faq.acnhapi.com/img/layout/DeviceIconChatLog^w.png" id="inv-icon"></span><br>**Chat Log**|Unlocked by default. This app provides a log of recent chats.|
 |<span><img src="https://faq.acnhapi.com/img/layout/DeviceIconShare^x.png" id="inv-icon"></span><br>**Call Resident**|Unlocked by having a secondary resident on your island. This app allows party play.|
 |<span><img src="https://faq.acnhapi.com/img/layout/DeviceIconRescue^x.png" id="inv-icon"></span><br><b><span class="icon-Ex"></span> Rescue Service</b>|Unlocked by default. This app allows the player to teleport to pre-determined locations in exchange for miles if they are ever stuck.|
-|<span><img src="https://faq.acnhapi.com/img/layout/DeviceIconTips^w.png" id="inv-icon"></span><br>**Island Life 101**|Unlocked by redeeming 400 <span class="icon-NM"></span> Periodically provides tips and tricks on the loading screen.|
+|<span><img src="https://faq.acnhapi.com/img/layout/DeviceIconTips^w.png" id="inv-icon"></span><br>**Island Life 101**|Unlocked by redeeming 400 <span class="icon-NM"></span>. Periodically provides tips and tricks on the loading screen.|
 
 
 ## Villager Plot Unlocks
