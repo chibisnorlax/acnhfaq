@@ -38,6 +38,7 @@ VIP clients function differently from normal clients in that they will bring the
 4. Joan, Daisy Mae
 5. Timmy, Tommy
 6. Mable, Sable, Label
+
 ### What are the materials needed for the other variants of the pillar, low island counter and tall island counter DIYs?
 After unlocking the ability to donate to Niko's box on the second floor of the Paradise Planning Office, donating materials in his box will allow him to give you a new set of interior construction DIYs, these are given the following day when you first visit Paradise Planning. The materials required by Niko vary from player to player, so check the Materials Box to see what you need to donate.
 
