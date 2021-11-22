@@ -29,6 +29,15 @@ Yes, speak to the client you wish to ask to leave. They will then ask for you to
 Yes, speak to Lottie about facilities and she will guide you through the process. You are prompted to either retain the name or change it once you're done remodelling.
 ### How do I change the staff working at the facilities?
 Press <span class="icon-arw-Left"></span> when you are at the facility you wish to change the staff of. This is also where you can change their outfits. 
+### Can VIP clients have roommates?
+VIP clients function differently from normal clients in that they will bring their own ideal roommates to the homes you built. These NPC pairs (and/or groups) are listed below, and cannot be changed. If the NPC is not listed below, they cannot have roommates.
+
+1. Leila, Leilani, Kapp'n, Grams
+2. Cyrus, Reese
+3. Flick, CJ
+4. Joan, Daisy Mae
+5. Timmy, Tommy
+6. Mable, Sable, Label
 ### What are the materials needed for the other variants of the pillar, low island counter and tall island counter DIYs?
 After unlocking the ability to donate to Niko's box on the second floor of the Paradise Planning Office, donating materials in his box will allow him to give you a new set of interior construction DIYs, these are given the following day when you first visit Paradise Planning. The materials required by Niko vary from player to player, so check the Materials Box to see what you need to donate.
 
@@ -51,6 +60,7 @@ There are 6 promotions when working as a designer for Paradise Planning. The cri
 To calculate your current rank and approach rates, `asteriation#6884` has built a calculator linked below:
 
 <a href="https://acnh.isomorphicbox.com/updates/2.0.0/hhp/" class="btn btn-yellow fs-5 mr-2" target="_blank">Paradise Planning Grade & Rank Calculator</a>
+
 ## House Project Unlocks
 
 Note: If you save & quit in the middle of a project, you'll be sent back to it as soon as you get back to Paradise Planning.
