@@ -176,3 +176,34 @@ After doing group stretching for a specified amount of days, a reward will be gi
 2. Reorderable from Nook Shopping once unlocked.
 3. There is a separate count for progress towards reactions, and this must be done with days going forward, i.e. time travelling back to achieve the Nook Miles stamp for this achievement will not count towards unlocking the reactions.
 {: .fs-3}
+
+### The Roost Unlocks
+The Roost is tied to Brewster, and to unlock [Brewster](/acnhfaq/npc/permanent/#brewster) <span><img src="https://acnhcdn.com/latest/NpcIcon/pge.png" id="inv-icon"></span>, you must meet the following pre-requirements:
+- K.K. Slider must have already performed on your island.
+- At least one item must have been donated for each main wing in the museum: fish and sea creatures, insects, fossils and any piece of art.
+
+After completing these pre-requirements, complete the following steps while playing as the **island representative** (the person who created and named the island):
+- Talk to Blathers, he'll say he plans to open a café and needs you to find Brewster, the coffee specialist.
+- Go talk to Kapp'n on your pier to take a trip to one of his islands. If you have already gone on a Kapp'n tour today, you can do this the following day as well.
+- Brewster should be there on the island, talk to him about Blathers' project.
+- Go back to your island and tell Blathers you found Brewster.
+- The Museum will close the next day for renovations and should reopen the day after with the Roost available. 
+
+**Bonus:** Speak with Blathers once more after the café dialogue, and he will sell you some posters **if** you have any completed sections of the museum. You can then purchase these from him at any time going forward once the section is complete.
+
+Getting coffee from Brewster often will sometimes result in him giving you gifts, or changing his greeting with you. 
+
+| **Days the Player has Purchased Coffee** | **Resulting Gift**                                                                                                     |
+|:----------------------------------------:|------------------------------------------------------------------------------------------------------------------------|
+|                    5                     | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeSable.png" id="inv-icon"></span> Roost Sablé Cookie DIY  |
+|                    10                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeBeans_Remake_0_0.png" id="inv-icon"></span> Coffee Beans |
+|                    15                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeCupsaucer.png" id="inv-icon"></span> Cup with Saucer     |
+|                    20                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeTree.png" id="inv-icon"></span> Coffee Plant             |
+|                    30                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeSiphon.png" id="inv-icon"></span> Siphon                 |
+|                    40                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeCoffeemill.png" id="inv-icon"></span> Pro Coffee Grinder |
+|                    50                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrHaniwaSnare04.png" id="inv-icon"></span> Brewstoid           |
+
+Additionally, Brewster’s greeting will change when the number of days you've purchased coffee reaches: 1, 3, 5, 7, 9, 11, 13, and 15.
+
+A compact infographic by `cestislife#0473` can be found here:
+<https://cestislife.github.io/brewster>
