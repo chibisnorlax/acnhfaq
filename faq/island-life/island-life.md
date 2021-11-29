@@ -177,7 +177,7 @@ After doing group stretching for a specified amount of days, a reward will be gi
 3. There is a separate count for progress towards reactions, and this must be done with days going forward, i.e. time travelling back to achieve the Nook Miles stamp for this achievement will not count towards unlocking the reactions.
 {: .fs-3}
 
-### The Roost Unlocks
+## The Roost
 The Roost is tied to Brewster, and to unlock [Brewster](/acnhfaq/npc/permanent/#brewster) <span><img src="https://acnhcdn.com/latest/NpcIcon/pge.png" id="inv-icon"></span>, you must meet the following pre-requirements:
 - K.K. Slider must have already performed on your island.
 - At least one item must have been donated for each main wing in the museum: fish and sea creatures, insects, fossils and any piece of art.
