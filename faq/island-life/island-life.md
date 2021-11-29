@@ -148,3 +148,23 @@ If you are having trouble catching a sea creature because it is moving too quick
 If you catch a scallop and it's the first scallop of that day caught, an NPC named [Pascal](/acnhfaq/npc/permanent#pascal) will appear and ask for the scallop, if you tell him yes, then he will give you either a pearl, a mermaid furniture diy, or mermaid clothing that will go directly into your pockets if you have enough pocket space.
 
 For more information, please visit <https://yuexr.github.io/img/pascal2.png>
+
+## Group Stretching
+### Where do I do group stretching?
+A tape deck will be in front of the Resident Services. Interacting with this with allow you to group stretch. 
+
+### What are the rewards for group stretching?
+After doing group stretching for a specified amount of days, a reward will be given to you in the mail, or in the case of reactions, as soon as you complete the specified amount of stretches. Only one group stretching session counts per day. The table below lists the rewards and their required daily stretching amounts.
+
+| Days Required |                                                                    Reward                                                                    |
+|:-------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+|       3       | <span><img src="https://acnhcdn.com/latest/FtrIcon/TopsTexOnepieceOverallHAerobics0.png" id="inv-icon"></span> Nook Inc. leotard<sup>1</sup> |
+|      10       |       <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrYogamatExercise.png" id="inv-icon"></span> Nook Inc. yoga mat<sup>1</sup>        |
+|      20       |       <span><img src="https://acnhcdn.com/latest/FtrIcon/ToolDumbbellPlayer_Remake_0_0.png" id="inv-icon"></span> Dumbbell<sup>2</sup>       |
+|      30       |        <span><img src="https://acnhcdn.com/latest/FtrIcon/ToolProtein_Remake_0_0.png" id="inv-icon"></span> Protein shake<sup>2</sup>        |
+|      50       |                                                       Stretching reactions<sup>3</sup>                                                       |
+
+1. Reorderable as Nook Mile Redemption redeems from the Nook Stop once unlocked.
+2. Reorderable from Nook Shopping once unlocked.
+3. There is a separate count for progress towards reactions, and this must be done with days going forward, i.e. time travelling back to achieve the Nook Miles stamp for this achievement will not count towards unlocking the reactions.
+{: .fs-3}
