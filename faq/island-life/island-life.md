@@ -205,5 +205,18 @@ Getting coffee from Brewster often will sometimes result in him giving you gifts
 
 Additionally, Brewster’s greeting will change when the number of days you've purchased coffee reaches: 1, 3, 5, 7, 9, 11, 13, and 15.
 
-A compact infographic by `cestislife#0473` can be found here:
+A compact infographic by `cestislife#0473` can be found here:<br/>
 <https://cestislife.github.io/brewster>
+
+## Gyroids
+### What are gyroids?
+Gyroids are musical little clay dolls, known as "Haniwa" in Japanese, that will sing along to any song if you place a speaker playing a K.K. song nearby. If not, they will play their own tune randomly. 
+
+### How do I get gyroids?
+Gyroids can be gotten by burying and watering a gyroid fragment, typically found on [Kapp'n Islands](/acnhfaq/island-life/#what-are-kappn-islands-and-what-can-i-find-on-them). They will be fully grown the next day. A little puff of smoke on the digspot will appear to indicate that it has been watered. 
+
+### Can I get full gyroids from digspots?
+You can only get full gyroids the day after rain on your island, after you have gotten your first gyroid from the above method. Otherwise, you may also find full gyroids from Kapp'n Islands that are raining (Rare Haniwa islands). The only gyroid unobtainable from both the methods is the Brewstoid. 
+
+A compact infographic on gyroids can be found here, created by `Bigfoot MG#9157`:<br/>
+<https://bigfootmg.github.io/ACNH-Guides/#gyroid>
