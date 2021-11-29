@@ -157,6 +157,8 @@ If you catch a scallop and it's the first scallop of that day caught, an NPC nam
 
 For more information, please visit <https://yuexr.github.io/img/pascal2.png>
 
+* * *
+
 ## Group Stretching
 ### Where do I do group stretching?
 A tape deck will be in front of the Resident Services. Interacting with this with allow you to group stretch. 
@@ -177,6 +179,7 @@ After doing group stretching for a specified amount of days, a reward will be gi
 3. There is a separate count for progress towards reactions, and this must be done with days going forward, i.e. time travelling back to achieve the Nook Miles stamp for this achievement will not count towards unlocking the reactions.
 {: .fs-3}
 
+* * *
 ## The Roost
 The Roost is tied to Brewster, and to unlock [Brewster](/acnhfaq/npc/permanent/#brewster) <span><img src="https://acnhcdn.com/latest/NpcIcon/pge.png" id="inv-icon"></span>, you must meet the following pre-requirements:
 - K.K. Slider must have already performed on your island.
@@ -208,6 +211,7 @@ Additionally, Brewster’s greeting will change when the number of days you've p
 A compact infographic by `cestislife#0473` can be found here:<br/>
 <https://cestislife.github.io/brewster>
 
+* * *
 ## Gyroids
 ### What are gyroids?
 Gyroids are musical little clay dolls, known as "Haniwa" in Japanese, that will sing along to any song if you place a speaker playing a K.K. song nearby. If not, they will play their own tune randomly. 
