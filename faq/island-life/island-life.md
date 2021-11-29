@@ -123,7 +123,7 @@ All reactions and their sources:
 * * *
 ## Dreams
 ### How do I dream?
-Go to a bed indoors and walk towards the bed lie down. Select `I want to sleep`. This will allow you to enter the dream world and meet [Luna](/acnhfaq/npc/#luna)! From there, select `I want to dream` and then enter a dream address!  
+After upgrading your Resident Services from a tent to a building, you would have unlocked Dreaming. Go to a bed indoors and walk towards the bed lie down. Select `I want to sleep`. This will allow you to enter the dream world and meet [Luna](/acnhfaq/npc/#luna)! From there, select `I want to dream` and then enter a dream address!  
 
 ### How do I get my dream address?
 Go to a bed indoors and walk towards the bed lie down. Select `I want to sleep`. Talk to Luna and select `Share a dream` to receive your dream code.  
