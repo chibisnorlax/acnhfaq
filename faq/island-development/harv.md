@@ -65,9 +65,9 @@ The various fortunes have differing effects and is classed into four different c
 
 |**Category**|**Good Fortune**|**Bad Fortune**|
 |:-:|-|-|
-|**Money**|• Gold is more likely to drop from rocks.<br/>• More bells from natural sources (tree shakes, glowing spot, balloons).|• No glowing spot will spawn.<br/>Gold ore will never drop from rocks.<br/>• Balloons will only drop 1,000 <span class="icon-Bells"></span>.<br/>• You will not be sent to Gold Island (NMT Island).|
+|**Money**|• Gold is more likely to drop from rocks.<br/>• More bells from natural sources (tree shakes, glowing spot, balloons).|• No glowing spot will spawn.<br/>• Gold ore will never drop from rocks.<br/>• Balloons will only drop 1,000 <span class="icon-Bells"></span>.<br/>• You will not be sent to Gold Island (NMT Island).|
 |**Friendship**|• +1 friendship point to a random villager.<br/>• Villagers are more likely to approach you with gifts.|• -3 friendship points with a random villager.|
-|**Belongings**|• Tools do not consume durability.<br/>• Guaranteed rare Kapp'n Island.<br/>• Villagers are more likely to approach you with gifts.|• ~30% chance to consume one more point of durability each tool use.<br/>• Clay is spawned instead of gyroid fragments.<br/>You will not be sent to Gold Island (NMT Island).|
+|**Belongings**|• Tools do not consume durability.<br/>• Guaranteed rare Kapp'n Island.<br/>• Villagers are more likely to approach you with gifts.|• ~30% chance to consume one more point of durability each tool use.<br/>• Clay is spawned instead of gyroid fragments.<br/>• You will not be sent to Gold Island (NMT Island).|
 |**Health**|• Food power gained is doubled.|• Food power gained is halved.<br/>• Your character may trip.|
 
 For a more indepth look at the effects, visit `asteriation#6884`'s website below:<br/>
