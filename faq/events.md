@@ -15,6 +15,9 @@ There are several requirements for most of the events listed here:
 - You must connect your profile to a Nintendo Account.
 - You must be connected to the Internet.
 
+As of `Vers. 2.0.0` all events listed below have been unlocked.
+{: .note}
+
 ## When is X event/season?
 {: .no_toc }
 Click [here](https://docs.google.com/spreadsheets/d/1bVR5ZvGnLocomSvbypDyY-3gX-2iKaCEtmlDUc6_4sI/edit#gid=2041508573) for the dates of seasonal changes, events, and Nook Shopping seasonal items. Spreadsheet courtesy of `capstone#3473`.
@@ -171,7 +174,7 @@ If you talk to Tom Nook <span><img src="https://acnhcdn.com/latest/NpcIcon/rco.p
     <dd>Rover's Briefcase or Rover's Photo, Bell Vouchers</dd>
   </dl>
 </div>
-Talk to Tom Nook <span><img src="https://acnhcdn.com/latest/NpcIcon/rco.png" id="inv-icon"></span> to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville<span><img src="https://acnhcdn.com/latest/layout/SwkbdTextAreaIconDal^w.png" id="inv-icon"></span>, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur <span><img src="https://acnhcdn.com/latest/NpcIcon/doc.png" id="inv-icon"></span> will bring you to an island with a hedge maze.
+Talk to Tom Nook <span><img src="https://acnhcdn.com/latest/NpcIcon/rco.png" id="inv-icon"></span> to obtain your special clearance for the May Day Tour. To participate in the tour, go to the airport and talk to Orville<span><img src="https://acnhcdn.com/latest/NpcIcon/dod.png" id="inv-icon"></span>, select you want to fly and use the May Day ticket given to you by Tom Nook. Wilbur <span><img src="https://acnhcdn.com/latest/NpcIcon/doc.png" id="inv-icon"></span> will bring you to an island with a hedge maze.
 
 When you complete the maze, you can talk to Rover <span><img src="https://acnhcdn.com/latest/NpcIcon/xct.png" id="inv-icon"></span> and you'll get a reward mailed the next day: either <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrTrunkXct.png" id="inv-icon"></span> **Rover’s briefcase** if that was your first time meeting Rover, or <span><img src="https://acnhcdn.com/latest/FtrIcon/BromideNpcSpXct_Remake_0_0.png" id="inv-icon"></span> **Rover's photo** if you already completed the (now unavailble) 2020 May Day maze.
 

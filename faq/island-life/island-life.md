@@ -64,9 +64,17 @@ The spawn rates for **bugs** are a bit more complex to calculate, so we recommen
 Please visit <https://tinyurl.com/villagerintext> for a complete list of villager interiors and exteriors!
 
 <!-- TODO: Ninji's website is out of date, either use Ahri's (which is out of date but less so), or find another resource -->
-## What are the different mystery islands and what can I find on them?
+## What are the different mystery islands (NMT) and what can I find on them?
 Please visit <https://cestislife.github.io/mysteryisland> for a complete list of them.  
 Additionally, there is a 30% chance of finding a fossil, as well as a 30% chance of finding a DIY message bottle per island. You can always find one wasp's nest and one piece of furniture from shaking a non-fruit tree. If you have an empty, unsold plot, you can also find a random villager. See [here](https://docs.google.com/document/d/16yHQzdYx4VznhnKSGZdtaKi_Yo8NpDwCYK8dmpR481s/edit) to learn about how the game determines the villager. See [here](https://acnhapi.com/nmt-calculator/) for a calculator that figures out your chances of finding a specific villager on a mystery island.  
+
+## What are Kapp'n islands, and what can I find on them?
+Introduced in `Ver. 2.0.0`, Kapp'n Islands are a new type of mystery islands that players can explore. While similar to NMT islands, it costs 1,000 <span class="icon-NM"></span> to visit them, and is payable to [Kapp'n](/acnhfaq/npc/permanent/#kappn) <span><img src="https://acnhcdn.com/latest/NpcIcon/kpp.png" id="inv-icon"></span>, which will appear on your docks once you upgraded your Resident Services to a building. The exclusive resources to these islands are gyroids, seasonal materials (even if current time is out of season), star fragments and crops.
+
+Asteriation's [website](https://acnh.isomorphicbox.com/updates/2.0.0/#kappn) has a rundown of all the available Kapp'n islands and what is available to them. There is also a [Kapp'n Island calculator](https://acnh.isomorphicbox.com/updates/2.0.0/kappn/) to determine how likely you are to land on each of the island everytime you request for a boat tour.
+
+Character "age" is important in determining which islands are available to you. For example, your character must be created during or before Winter to be able to land on the Snowflake Kapp'n island. If you create your character after the season, you will need to wait for a year (or time travel) to be able to visit it.
+{: .note}
 
 ## Which Mom's items can I get each month?
 
