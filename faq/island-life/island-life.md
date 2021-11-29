@@ -196,12 +196,12 @@ Getting coffee from Brewster often will sometimes result in him giving you gifts
 | **Days the Player has Purchased Coffee** | **Resulting Gift**                                                                                                     |
 |:----------------------------------------:|------------------------------------------------------------------------------------------------------------------------|
 |                    5                     | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeSable.png" id="inv-icon"></span> Roost Sablé Cookie DIY  |
-|                    10                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeBeans_Remake_0_0.png" id="inv-icon"></span> Coffee Beans |
-|                    15                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeCupsaucer.png" id="inv-icon"></span> Cup with Saucer     |
-|                    20                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeTree.png" id="inv-icon"></span> Coffee Plant             |
-|                    30                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeSiphon.png" id="inv-icon"></span> Siphon                 |
-|                    40                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrCafeCoffeemill.png" id="inv-icon"></span> Pro Coffee Grinder |
-|                    50                    | <span><img src="https://acnhcdn.com/latest/CookingIcon/FtrHaniwaSnare04.png" id="inv-icon"></span> Brewstoid           |
+|                    10                    | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCafeBeans_Remake_0_0.png" id="inv-icon"></span> Coffee Beans |
+|                    15                    | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCafeCupsaucer.png" id="inv-icon"></span> Cup with Saucer     |
+|                    20                    | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCafeTree.png" id="inv-icon"></span> Coffee Plant             |
+|                    30                    | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCafeSiphon.png" id="inv-icon"></span> Siphon                 |
+|                    40                    | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCafeCoffeemill.png" id="inv-icon"></span> Pro Coffee Grinder |
+|                    50                    | <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare04.png" id="inv-icon"></span> Brewstoid           |
 
 Additionally, Brewster’s greeting will change when the number of days you've purchased coffee reaches: 1, 3, 5, 7, 9, 11, 13, and 15.
 
