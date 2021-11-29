@@ -20,27 +20,31 @@ You can change the island tune by talking to Isabelle <span><img src="https://ac
 
 ## Music Players
 ### What kind of music players are there?
-There are several types of music players, and they have their own speaker type which dictates their sound quality. The types are: cheap, phono, retro and hi-fi. The table below lists the available music players and their speaker types in the game as of `1.6.0`.
+There are several types of music players, and they have their own speaker type which dictates their sound quality. The types are: cheap, phono, retro and hi-fi. The table below lists the available music players and their speaker types in the game as of `2.0.3`.
 
-| Speaker                                                                                                                                        | Type  |   Category    |
-|------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:-------------:|
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDJbooth_Remake_0_0.png" id="inv-icon"></span> DJ's turntable                      | Hi-fi |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrComponentPro.png" id="inv-icon"></span> High-end stereo                           | Hi-fi |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrComponentHighclass.png" id="inv-icon"></span> Hi-fi stereo                        | Hi-fi |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBlockCompo_Remake_0_0.png" id="inv-icon"></span> Wooden-block stereo              | Hi-fi |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFlowerRecordplayer_Remake_0_0.png" id="inv-icon"></span> Lily record player       | Phono |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBambooMusic_Remake_0_0.png" id="inv-icon"></span> Bamboo speaker                  | Retro |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrJukebox.png" id="inv-icon"></span> Jukebox                                        | Retro |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrStereoRetro_Remake_0_0.png" id="inv-icon"></span> Retro stereo                    | Retro |   Houseware   |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrRadicaseW_Remake_0_0.png" id="inv-icon"></span> Cassette player                   | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFruitsMusic_Remake_0_0.png" id="inv-icon"></span> Cherry speakers                 | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCuteAudio_Remake_0_0.png" id="inv-icon"></span> Cute music player                 | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPortablerecordplayer_Remake_0_0.png" id="inv-icon"></span> Portable record player | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrShellMusic_Remake_0_0.png" id="inv-icon"></span> Shell speaker                    | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrRadicase_Remake_0_0.png" id="inv-icon"></span> Tape deck                          | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBoyAudio_Remake_0_0.png" id="inv-icon"></span> Throwback skull radio              | Cheap | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPhonograph.png" id="inv-icon"></span> Phonograph                                  | Phono | Miscellaneous |
-| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrReelrecorder_Remake_0_0.png" id="inv-icon"></span> Pro tape recorder              | Retro | Miscellaneous |
+| Speaker                                                                                                                                 |   Type    |   Category    |
+|-----------------------------------------------------------------------------------------------------------------------------------------|:---------:|:-------------:|
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDJbooth_Remake_0_0.png" id="inv-icon"></span> DJ's turntable                      |   Hi-fi   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrComponentPro.png" id="inv-icon"></span> High-end stereo                           |   Hi-fi   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrComponentHighclass.png" id="inv-icon"></span> Hi-fi stereo                        |   Hi-fi   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBlockCompo_Remake_0_0.png" id="inv-icon"></span> Wooden-block stereo              |   Hi-fi   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrKaraoke.png" id="inv-icon"></span> Karaoke system                                 |   Cheap   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFlowerRecordplayer_Remake_0_0.png" id="inv-icon"></span> Lily record player       |   Phono   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBambooMusic_Remake_0_0.png" id="inv-icon"></span> Bamboo speaker                  |   Retro   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrJukebox.png" id="inv-icon"></span> Jukebox                                        |   Retro   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrStereoRetro_Remake_0_0.png" id="inv-icon"></span> Retro stereo                    |   Retro   |   Houseware   |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrSimpleMusic_Remake_0_0.png" id="inv-icon"></span> Upright speaker                 |   Hi-fi   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrRadicaseW_Remake_0_0.png" id="inv-icon"></span> Cassette player                   |   Cheap   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrFruitsMusic_Remake_0_0.png" id="inv-icon"></span> Cherry speakers                 |   Cheap   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrCuteAudio_Remake_0_0.png" id="inv-icon"></span> Cute music player                 |   Cheap   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPortablerecordplayer_Remake_0_0.png" id="inv-icon"></span> Portable record player |   Cheap   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrShellMusic_Remake_0_0.png" id="inv-icon"></span> Shell speaker                    |   Cheap   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrRadicase_Remake_0_0.png" id="inv-icon"></span> Tape deck                          |   Cheap   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrBoyAudio_Remake_0_0.png" id="inv-icon"></span> Throwback skull radio              |   Cheap   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPhonograph.png" id="inv-icon"></span> Phonograph                                  |   Phono   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrReelrecorder_Remake_0_0.png" id="inv-icon"></span> Pro tape recorder              |   Retro   | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrMusicboxShell_Remake_0_0.png" id="inv-icon"></span> Shell music box               | Music Box | Miscellaneous |
+| <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrMusicboxWood_Remake_0_0.png" id="inv-icon"></span> Wooden music box               | Music Box | Miscellaneous |
 
 ### How do I put music in the music players?
 You would need a [K.K.](/acnhfaq/npc#kk-slider) <span><img src="https://acnhcdn.com/latest/NpcIcon/tkkA.png" id="inv-icon"></span> track to be able to put music in your music players. Talking to K.K. will allow you to request a song from him. Doing so will prompt a performance, and afterwards he will give you a copy of the song. Additionally, you can request specific songs from K.K., which is how you obtain "secret songs". The table below denotes the various moods you can choose and the songs that he can play by choosing that mood.
@@ -71,8 +75,14 @@ The table below lists all K.K. songs and their corresponding moods:
 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Ototoi.png" id="inv-icon"></span> Two Days Ago     | <span><img src="https://acnhcdn.com/latest/Audio/mjk_RocknRoll.png" id="inv-icon"></span> Rockin' K.K.       | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Alpine.png" id="inv-icon"></span> Mountain Song   | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Sensei.png" id="inv-icon"></span> Mr. K.K.         |
 | -                | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Eleki.png" id="inv-icon"></span> Surfin' K.K.       | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Napolitan.png" id="inv-icon"></span> Neapolitan      | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_BokuNoBasho.png" id="inv-icon"></span> My Place         |
 | -                | -                  | <span><img src="https://acnhcdn.com/latest/Audio/mjk_HaruNoKomorebi.png" id="inv-icon"></span> Spring Blossoms | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_KangaeChu.png" id="inv-icon"></span> Pondering        |
-| -                | -                  | -               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Gospel.png" id="inv-icon"></span> Soulful K.K.     |
-| -                | -                  | -               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Horo.png" id="inv-icon"></span> Wandering        |
+| -                | -                  | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Polka.png" id="inv-icon"></span> K.K. Polka               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Gospel.png" id="inv-icon"></span> Soulful K.K.     |
+| -                | -                  | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Choro.png" id="inv-icon"></span> K.K. Chorinho               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Horo.png" id="inv-icon"></span> Wandering        |
+| -                | -                  | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Bashment.png" id="inv-icon"></span> K.K. Bashment               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Fugue.png" id="inv-icon"></span> K.K. Fugue       |
+| -                | -                  | <span><img src="https://acnhcdn.com/latest/Audio/mjk_HipHop.png" id="inv-icon"></span> K.K. Hop               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Slackkey.png" id="inv-icon"></span> K.K. Slack-Key       |
+| -                | -                  | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Break.png" id="inv-icon"></span> K.K. Break               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Chillwave.png" id="inv-icon"></span> Chillwave       |
+| -                | -                  | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Android.png" id="inv-icon"></span> K.K. Robot Synth              | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Dub.png" id="inv-icon"></span> K.K. Dub       |
+| -                | -                  | -               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Lovers.png" id="inv-icon"></span> K.K. Lovers       |
+| -                | -                  | -               | -                 | <span><img src="https://acnhcdn.com/latest/Audio/mjk_Khoomii.png" id="inv-icon"></span> K.K. Khoomei       |
 
 There are also an additional **5 songs** not included in the above list, denoted below and how to obtain:
 
