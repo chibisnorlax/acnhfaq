@@ -37,6 +37,9 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 <details>
 <summary>Click here to open</summary>
 
+### 1.6.0
+- Major update to 2.0.0 content.
+
 ### 1.5.1
 - Updated information for Halloween and Glitches.
 - Minor information fixes.

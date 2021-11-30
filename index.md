@@ -5,18 +5,18 @@ permalink: /
 ---
 
 # ![Frequently Asked Questions](/assets/logo.png)
-ver. 1.5.1
+ver. 1.6.0
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-This FAQ is current through version <span class="label label-purple">1.11.1</span> of the game.
+This FAQ is current through version <span class="label label-purple">2.0.3</span> of the game.
 
 {: .caution }
-The 2.0.0 update has recently dropped, and while we are working at full speed to get this guide updated with the most accurate and thorough information possible, it may take some time to be fully updated. Please check back frequently, and please join us on our Discord server (invite below) if you have any questions. Thank you for your patience! - With love, the FAQ team.
+The FAQ is mostly updated with 2.0.0 content, please do send in a pull request or message us on Discord for feedback! - With love, the FAQ team.
 
 
-Feel free to join us on the ACNH Info Discord server, where you can keep up to date with the latest game news and information: 
-<a href="https://discord.gg/DAmpHqRBzq" class="btn btn-yellow fs-5 mr-2" target="_blank">Join us on Discord!</a>
+Feel free to join us on the ACNH Info Discord server, where you can keep up to date with the latest game news and information:<br/> 
+<a href="https://discord.gg/DAmpHqRBzq" class="btn btn-yellow fs-5 mr-2" target="_blank"><img src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" id="inv-icon">Join us on Discord!</a>
 
 <a href="https://chibisnorlax.github.io/acnhfaq/new/" class="btn btn-purple fs-5 mr-2" target="_blank">What's New in 1.11.0?</a><a href="https://chibisnorlax.github.io/acnhbeginners/" class="btn btn-green fs-5" target="_blank">Beginner's Guide</a><br>
 <a href="https://github.com/chibisnorlax/acnhfaq/pulls" class="btn fs-3" target="_blank">Suggest Changes</a>
