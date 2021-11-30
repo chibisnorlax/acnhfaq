@@ -16,8 +16,7 @@ The FAQ is mostly updated with 2.0.0 content, please do send in a pull request o
 
 
 Feel free to join us on the ACNH Info Discord server, where you can keep up to date with the latest game news and information:<br/> 
-<a href="https://discord.gg/DAmpHqRBzq" class="btn btn-yellow fs-5 mr-2" target="_blank"><img src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" id="inv-icon">Join us on Discord!</a>
-
+<a href="https://discord.gg/DAmpHqRBzq" class="btn btn-yellow fs-5 mr-2" target="_blank">Join us on Discord!</a>
 <a href="https://chibisnorlax.github.io/acnhfaq/new/" class="btn btn-purple fs-5 mr-2" target="_blank">What's New in 1.11.0?</a><a href="https://chibisnorlax.github.io/acnhbeginners/" class="btn btn-green fs-5" target="_blank">Beginner's Guide</a><br>
 <a href="https://github.com/chibisnorlax/acnhfaq/pulls" class="btn fs-3" target="_blank">Suggest Changes</a>
 
