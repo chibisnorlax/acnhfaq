@@ -10,9 +10,7 @@ permalink: new/
     <iframe width="560" height="315" src="https://www.youtube.com/embed/aZ3QC8e1_yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-![](https://assets.nintendo.com/image/upload/f_auto,h_1080,q_auto,w_1920/ncom/en_US/articles/2021/free-update-adds-fireworks-to-august-in-animal-crossing-new-horizons/1920x1080_ACSummerUpdate_2?v=2021073117)
-
-The 2.0.0 update was released on the **4th of November 2021, 10am JST**. It primarily updated reoccurring events such as the Fireworks Festival from 2020 for 2021, but also introduced some new seasonal Nook Shopping items.
+The 2.0.0 update was released on the **4th of November 2021, 10am JST**. This will be the last major update the game will receive.
 
 This pages serves as a one stop page for all FAQs regarding new mechanics, items, events, and everything else introduced in this release. It will be updated regularly as new information comes up. To update your game manually, [follow the instructions as outlined here](/acnhfaq/misc/#how-do-i-manually-update-my-acnh-game).
 
