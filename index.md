@@ -31,6 +31,7 @@ Feel free to join us on the ACNH Info Discord server, where you can keep up to d
 | Island Representative | Synonym for Resident Representative/player who created the island. |
 | DIY                   | Shorthand for "DIY Recipe"                                         |
 | NSO                   | Abbreviation for "Nintendo Switch Online"                          | 
+| HHP                   | Abbreviation for "Happy Home Paradise"                             |
 
 ## Acknowledgements
 The creation of this guide was an effort led by littlesnorlax#1717. 
