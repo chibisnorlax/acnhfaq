@@ -35,8 +35,8 @@ tr:nth-child(even) {
         <td>These items can be displayed when gifted by hand, via the mail, or on the villager's birthday.</td>
         <td>
           <ul>
-            <li>Furniture<sup>1</sup>
-            </li>
+            <li>Furniture<sup>1</sup></li>
+            <li>Food & drinks</li>
             <li>Certain clothing
               <ul>
                 <li>Tops</li>
@@ -131,7 +131,7 @@ tr:nth-child(even) {
                 <li>Heart crystals</li>
                 <li>Acorns &amp; pine cones</li>
                 <li>Candies</li>
-                <li>Pumpkins</li>
+                <li>All crops</li>
                 <li>Mushrooms</li>
                 <li>Unidentified fossils</li>
                 <li>Wasp nests</li>
