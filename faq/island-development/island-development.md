@@ -8,17 +8,19 @@ has_toc: false
 
 # Island Development
 ## How long does it take for X to be built?
+
 One [day](/acnhfaq/island-life#what-defines-a-week-and-a-day-in-game) after you ask for it to be built.
 
 ## How do I move where buildings are on my island?
+
 Once Resident Services has been upgraded, you can ask Tom Nook to move a building by selecting "Let's talk infrastructure." > "I want layout changes.", this will cost you 10,000 bells. To move your own house, you'll have to ask "About my home..." > "I want to relocate." and the fee will be 8,000 bells.
 
 
 Tom Nook will give you a building move kit that you can them place outside where you want the building to be. The new and old position of a building can't overlap, in that case you'd have to do it in 2 different moves (and twice the price) over two days. If you change your mind before placing the move kit, you can cancel the move by talking to Tom Nook again and choosing the "Let's talk infrastructure." > "I want layout changes." > "Let's not move it." (or "About my home..." > "I don't want to move." if it was for your own house), he'll then take the kit back and refund you your bells
 
-*Note:* The airport, Resident Services/plaza and empty housing plots can not be moved in any way.
-
-*Note 2:* You must have spoken at least once to a villager to introduce yourself to them to be able to move their house. You cannot move the house of a villager if they're in boxes.
+1. The airport, Resident Services/plaza and empty housing plots can not be moved in any way.
+2. You must have spoken at least once to a villager to introduce yourself to them to be able to move their house. You cannot move the house of a villager if they're in boxes.
+{: .note}
 
 ## What is the build limit for buildings/structures?
 
@@ -26,21 +28,39 @@ Tom Nook will give you a building move kit that you can them place outside where
 |:------------------:|:-----------:|
 |    Player Homes    |      8      |
 |   Villager Homes   |     10      |
-|      Bridges       |      8      |
-|      Inclines      |      8      |
+|      Bridges       |     10      |
+|      Inclines      |     10      |
 
 ## How do I unlock terraforming?
+
 Complete Project K by raising your island rating to 3 stars. Further information can be found under the [Unlocking Things](/acnhfaq/unlocks) section.
 
 ## What can secondary (non-Island-Representative) players do?
+
 Secondary residents can do everything that Island Representatives can except story progression and certain infrastructural decisions. They can interact with and complete quests for NPC visitors, upgrade/relocate their house, raise friendship with villagers, buy/sell items, donate to the museum, terraform, place decorations, invite new villagers from mystery islands or from other players, and donate to construction efforts.
 
-They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc). 
+They *cannot* buy bridges or inclines, move buildings, or progress the story (i.e., upgrade Resident Services from a tent to a building, build the campsite, etc).
+
+## What are ordinances?
+
+Available after KK's first concert, enacting ordinances changes certain aspects of your island. There are four different ordinances and the table below provides a brief explaination for each one.
+
+|**Ordinance**|**Effect**|
+|:-:|-|
+|**Beautiful island**|• Halves the rate weeds will appear, and reduces weed limit to 75 from 150.<br/>• Increases flower reproduction rate.<br/>• All cockroaches are cleared from homes.<br/>• Trash or stone will never be fished up.|
+|**Early Bird**|• All shops open 1 hour earlier.|
+|**Night Owl**|• All shops close 1 hour later.|
+|**Bell Boom**|• Buying price from Nook's Cranny and Nook Shopping is 20% more expensive.<br/>• Selling prices to Nook's Cranny also increase by 20%.|
+
+For more detailed information on the effects of the ordinances, please visit `asteriation#6884`'s website below:<br/>
+<https://acnh.isomorphicbox.com/updates/2.0.0/#ordinances>
 
 * * *
 
 ## Materials & DIYs
+
 ### How can I find X seasonal material?
+
 The timeframe of which each seasonal material can be obtained in is tabled below. 
 
 |Seasonal Material|Time Period|
@@ -65,6 +85,7 @@ The timeframe of which each seasonal material can be obtained in is tabled below
 > **For acorns, pinecones and ornaments:** you can simply shake one tree infinitely until it produces the amount you want.
 
 ### How do I obtain "X" DIY recipe?
+
 - Most recipes are from villagers crafting or message bottles. See [here](https://animalcrossing.fandom.com/wiki/DIY_recipes) to find which personalities give you which recipes.   
 - The Pitfall Seed DIY is either received from a crafting Jock villager or self-taught through digging up a pitfall seed. 
 - Most seasonal DIY recipes such cherry blossoms, mushrooms, festive, etc. come from balloons during their respective seasons. See [here](https://cestislife.github.io/img/balloons.png) to find out how balloons work.
@@ -81,18 +102,23 @@ The timeframe of which each seasonal material can be obtained in is tabled below
 - You can also purchase certain DIY recipes from Nook's Cranny and the Nook Stop.  
 - You can view [this spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=2132424485) to help you search for the specific recipe you may be looking for.
 
-\**Note*: Nature Day activities were **removed** from the game as of version `1.10.0.` This method of obtaining the hedge fence is now only viable if you are version `1.9.0` or below.
+Nature Day activities were **removed** from the game as of version `1.10.0.` This method of obtaining the hedge fence is now only viable if you are version `1.9.0` or below.
+{: .note}
 
 ### How long do villagers craft for? How many can craft per day?
+
 Up to 3 villagers can craft per day. The first villager starts crafting when you log into the game for the first time that day; they rotate every 3 hours. Villagers won't craft on event days (e.g. bug-off, fishing tourney, etc.).
 
 ### What do I do with duplicate DIYs?
+
 Up to you! Some people save them to trade them to other players, some sell them to Nook's Cranny, and some just toss them.
 
 * * *
 
 ## Snowboys
+
 ### How do I build a perfect Snowboy?
+
 It is important to note that size is not the determining factor in how a perfect Snowboy would be, but rather its proportions. The head should be about **10-20% smaller than the body** for it to be considered perfect. The table below shows the correlation of the head to body ratio and its rating.
 
 | Head          | Rating        |
@@ -110,11 +136,13 @@ If estimation is not your forte, a general guideline for the perfect Snowboy is 
 ![Snowboy Guide](/acnhfaq/assets/snowboy_guide.jpg)
 
 ### Where can I find snowballs?
+
 From testing (courtesy of *Stoney#9215*), Snowballs will spawn in a **6x6 area of empty grass tiles**, though the area can be smaller or partially occupied depending on what you put there. The first snowball will usually be in the middle of this area, and the second snowball will spawn close by. The second snowball does not seem to be governed by the same spawning rules as the first snowball, as it can appear to spawn on custom designs, in flower/weed fields, as well as paths. 
 
 If you have destroyed your snowballs, entering and exiting a building will usually respawn snowballs. At times it requires the game to be closed before they can respawn.
 
 ### Other Snowboy mechanics!
+
 - Only one Snowboy can be built per day.
 - If other residents (i.e., residents that did not build the Snowboy) speak to a **perfect** Snowboy on the day they were built, they are also awarded a DIY, or 1 large snowflake if they know all Frozen DIYs.
 - If the Snowboy built is the first one ever by the player, the builder will be awarded a Frozen DIY and 1 large snowflake regardless of perfection.
@@ -132,11 +160,15 @@ If a player has at least a tent but hasn't learned how to craft yet, then they'l
 * * *
 
 ## Balloons
+
 ### When does a balloon spawn and what do they drop?
+
 ![Balloons](https://cestislife.github.io/img/balloons.png)
 
 ### How do I farm balloons?
+
 Balloons can be funneled through tall objects, making them much easier to farm as you won't miss any that spawn. To do this, follow the steps outlined below:
+
 1. Find the direction your balloons are coming from. You can do this by looking at the direction smoke is blowing out the top of a house's chimney.
 2. Craft or purchase many tall objects (at least 30 units tall). For a list, see here: <http://tinyurl.com/acnh-tallfurni>
     - We recommend jail bars, as they're wide!
@@ -154,7 +186,9 @@ Here's a visual of what your coast might look like, courtesy of `Nours#7244`!
 * * *
 
 ## What are Pocket Camp items and how can I get them?
+
 Pocket Camp items are promotional items that you are able to get if you play the Animal Crossing: Pocket Camp game. To obtain these items:
+
 1. Download Animal Crossing: Pocket Camp on your smart device. (It may not be available in certain regions).
 2. Play through the tutorial of the mobile game.
 3. Link your Nintendo account by going into `Menu` then `My Nintendo`.
@@ -182,6 +216,7 @@ For a compressed guide, have a look at cestislife's guide: <https://cestislife.g
 Alternatively, Nintendo's full instructions can be found here: <https://ac-pocketcamp.com/en-US/horizons>
 
 ## How do I unlock all the DAL items? What are the milestones?
+
 Dodo Airlines will reward you with merchandise when you have collected enough "DAL Points" and reached the point thresholds. There are two ways to earn these points, namely:
 - 1 point for the first flight of the day to either Harv's island or a mystery island
 - 1 point for each flight to another player's island. This can be flights to the same island.

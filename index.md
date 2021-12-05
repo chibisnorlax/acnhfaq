@@ -17,7 +17,7 @@ The FAQ is mostly updated with 2.0.0 content, please do send in a pull request o
 
 Feel free to join us on the ACNH Info Discord server, where you can keep up to date with the latest game news and information:<br/> 
 <a href="https://discord.gg/DAmpHqRBzq" class="btn btn-yellow fs-5 mr-2" target="_blank">Join us on Discord!</a>
-<a href="https://chibisnorlax.github.io/acnhfaq/new/" class="btn btn-purple fs-5 mr-2" target="_blank">What's New in 2.0.0?</a><a href="https://chibisnorlax.github.io/acnhbeginners/" class="btn btn-green fs-5" target="_blank">Beginner's Guide</a><br>
+<a href="https://chibisnorlax.github.io/acnhfaq/new/" class="btn btn-purple fs-5 mr-2" target="_blank">What's New in 2.0.0?</a><a href="https://chibisnorlax.github.io/acnhbeginners/" class="btn btn-green fs-5" target="_blank">Beginner's Guide</a><br/>
 <a href="https://github.com/chibisnorlax/acnhfaq/pulls" class="btn fs-3" target="_blank">Suggest Changes</a>
 
 
@@ -34,7 +34,7 @@ Feel free to join us on the ACNH Info Discord server, where you can keep up to d
 | HHP                   | Abbreviation for "Happy Home Paradise"                             |
 
 ## Acknowledgements
-The creation of this guide was an effort led by littlesnorlax#1717. 
+The creation of this guide was an effort led by littlesnorlax#1717.
 
 Content contributed in no particular order by, littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, Nours#7244, mybae#1905, Yamza#0836, pojayto#1996, and#6915, dee 💕#1989, and cloud#1580. ♥
 
@@ -44,8 +44,6 @@ This guide also would not have been possible without the extraordinary work of t
 
 Custom icons and assets by Melon (<https://twitter.com/54_Melon>).
 
-Big thanks to https://acnhcdn.com/, and https://acnhapi.com for hosting images. 
+Big thanks to <https://acnhcdn.com/>, and <https://acnhapi.com/> for hosting images.
 
-Please contact littlesnorlax#1717 on Discord or submit a [PR](https://github.com/chibisnorlax/acnhfaq/pulls) if you would like to request changes to the document, or request usage within other applications or websites! 
-
-
+Please contact littlesnorlax#1717 on Discord or submit a [PR](https://github.com/chibisnorlax/acnhfaq/pulls) if you would like to request changes to the document, or request usage within other applications or websites!
