@@ -219,6 +219,9 @@ Gyroids are musical little clay dolls, known as "Haniwa" in Japanese, that will 
 ### How do I get gyroids?
 Gyroids can be gotten by burying and watering a gyroid fragment, typically found on [Kapp'n Islands](/acnhfaq/island-life/#what-are-kappn-islands-and-what-can-i-find-on-them). They will be fully grown the next day. A little puff of smoke on the digspot will appear to indicate that it has been watered. 
 
+As of `2.0.4` gyroid fragments may also wash up on the beach.
+{: .note}
+
 ### Can I get full gyroids from digspots?
 You can only get full gyroids the day after rain on your island, after you have gotten your first gyroid from the above method. Otherwise, you may also find full gyroids from Kapp'n Islands that are raining (Rare Haniwa islands). The only gyroid unobtainable from both the methods is the Brewstoid. 
 
