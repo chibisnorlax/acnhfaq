@@ -60,6 +60,8 @@ In the event that you received a bad fortune, Katrina will offer you a cleansing
 3. <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrDharmaS_Remake_0_0.png" id="inv-icon"></span> Mini dharma
 4. <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrPowerstone.png" id="inv-icon"></span> Power stone
 
+{: .note}
+As of `2.0.4`, Katrina has a 20% chance to instead give you a [New Year zodiac figurine](https://catalogue.ac/?s=bmFtZT16b2RpYWM7bG9jPWVuLXVz) based on the year (or a random one if you've catalogued the current year's zodiac animal) for doing her cleansing service.
 ## What do the various fortunes mean?
 The various fortunes have differing effects and is classed into four different categories: health, belongings, money, and friendship. The general effects of both bad and good luck is tabled below.
 
