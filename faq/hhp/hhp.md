@@ -62,7 +62,7 @@ VIP clients function differently from normal clients in that they will bring the
 3. Flick, CJ
 4. Joan, Daisy Mae
 5. Timmy, Tommy
-6. Mable, Sable, Label
+6. Mabel, Sable, Label
 
 ### What are the materials needed for the other variants of the pillar, low island counter and tall island counter DIYs?
 
