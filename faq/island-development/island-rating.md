@@ -42,7 +42,7 @@ Nature points takes into account of the quantity of trees, bamboo, flowers, and 
 |    DIY furniture<sup>2</sup>     |      0.25      |
 | Size 3 DIY furniture<sup>2</sup> |      0.75      |
 
-1. Crops include wheat, carrots, pumpkins, potatoes, and sugar cane.
+1. Crops include wheat, carrots, pumpkins, potatoes, tomatoes and sugar cane.
 2. These are additive, i.e. if a DIY furniture is at least 3 blocks wide, it gives a total nature score of 1.
 {: .fs-3}
 
