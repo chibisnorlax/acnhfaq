@@ -34,26 +34,22 @@ Isabelle will let you know which category you are lacking in, depending on her r
 ### Nature Points
 Nature points takes into account of the quantity of trees, bamboo, flowers, and DIY furniture on your island. The amount of points awarded by each of the different items listed before can be found in the following table:
 
-|               Item               | Points awarded |
-|:--------------------------------:|:--------------:|
-|    Fully grown trees & bamboo    |       1        |
-|       Fully grown flowers        |       1        |
-| Stage 2, 3, 4 crops<sup>1</sup>  |       1        |
-|     Crop sprouts<sup>1</sup>     |      0.5       |
-|        Flower stems/buds         |      0.7       |
-|           Flower seeds           |      0.5       |
-|        Fully grown bushes        |      0.5       |
-|    DIY furniture<sup>2</sup>     |      0.25      |
-| Size 3 DIY furniture<sup>2</sup> |      0.75      |
+|                  Item                  | Points awarded |
+|:--------------------------------------:|:--------------:|
+| Fully grown trees & bamboo<sup>1</sup> |       1        |
+|          Fully grown flowers           |       1        |
+|    Stage 2, 3, 4 crops<sup>2</sup>     |       1        |
+|        Crop sprouts<sup>2</sup>        |      0.5       |
+|           Flower stems/buds            |      0.7       |
+|              Flower seeds              |      0.5       |
+|     Fully grown bushes<sup>1</sup>     |      0.5       |
+|       DIY furniture<sup>3</sup>        |      0.25      |
+|    Size 3 DIY furniture<sup>3</sup>    |      0.75      |
 
-1. Crops include wheat, carrots, pumpkins, potatoes, tomatoes and sugar cane.
-2. These are additive, i.e. if a DIY furniture is at least 3 blocks wide, it gives a total nature score of 1.
+1. These can only provide a maximum of 190 nature points.
+2. Crops include wheat, carrots, pumpkins, potatoes, tomatoes and sugar cane.
+3. These are additive, i.e. if a DIY furniture is at least 3 blocks wide, it gives a total nature score of 1.
 {: .fs-3}
-
-**This category has the following point/rating caps:**
-> * Trees, bamboo trees, and bushes **do not provide any points** before they are fully grown.
-> * Trees, bamboo trees, and bushes cannot give more than **190** combined nature points.
-> * The island rating will not exceed 4⭐ if there are more than **220** trees/bamboo.
 
 ### Development Points
 Development points are calculated from the buildings, structures, and furniture placed on the island. This category is also affected by the number of villagers currently on your island, and to a smaller extent, weed count. The amount of points awarded by each of the different items listed before can be found in the following table:
@@ -68,29 +64,32 @@ Development points are calculated from the buildings, structures, and furniture 
 |     9 Villagers<sup>2</sup>      |       15       |
 |     10 Villagers<sup>2</sup>     |       30       |
 | Fewer than 100 weeds<sup>3</sup> |       30       |
-|           Placed item            |       1        |
+|    Placed item<sup>4,5</sup>     |       1        |
 |              Fences              |      0.2       |
-|    2k Price Bonus<sup>4</sup>    |       1        |
-|   20k Price Bonus<sup>4</sup>    |       1        |
-|    Outdoor Bonus<sup>4</sup>     |      0.5       |
-|     Size 3 Bonus<sup>4</sup>     |       3        |
+|    2k Price Bonus<sup>5</sup>    |       1        |
+|   20k Price Bonus<sup>5</sup>    |       1        |
+|    Outdoor Bonus<sup>5</sup>     |      0.5       |
+|     Size 3 Bonus<sup>5</sup>     |       3        |
 
 1. Bridges only contribute to development points when 2 or more bridges are built, i.e. if only one bridge is built, no points are awarded, and once the second bridge is built, 30 points is awarded for two bridges.
 2. These are **not** additive, i.e. you will only get 30 points for 10 villagers, and not 45.
 3. Every 30 weeds after having more than 100 weeds will reduce the bonus by one point, the bonus being fully removed with 1,000 weeds or more.
-4. These are additive, i.e. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 development points.
+4. Placing more than 6 of the same items in a 8x8 area will incur a point penalty.
+5. These are additive, i.e. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 development points.
 {: .fs-3}
 
 {: .note}
 DIY furniture do also contribute to Development Points based on the criteria above.
 
-**This category has the following point/rating caps:**
+### Rating Caps
+The game will cap the island's star rating if the following occurs:
 
-> * Having only **6 or fewer villagers** will cap star rating at 1⭐.
-> * Having only **7 villagers** will cap star rating at 2⭐.
-> * Having **15 or more dropped items** on the ground will cap star rating at 4⭐.
-> * Placing more than **45 items in a 8x8 area** will cap star rating at 4⭐.
-> * Placing more than **6 of the same exact items in a 8x8 area** will incur a point penalty.
+1. The island's rating will not exceed 1⭐ if you only have 6 or fewer villagers.
+2. The island's rating will not exceed 2⭐ if you only have 7 villagers.
+3. The island's rating will not exceed 4⭐ if:
+> * there are 15 or more dropped items on the ground.
+> * more than 45 items are placed in a 8x8 area.
+> * there are more than 220 trees/shrubs planted on the island. 
 
 {: .note}
 Certain dropped items, namely those naturally found on the ground **will not** affect your island rating score. This includes tree branches, stones, sea shells, star fragments, mushrooms, and message bottles. Items dropped on a surface, i.e. a table will also **not** incur a penalty.
