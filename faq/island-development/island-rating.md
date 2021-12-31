@@ -7,6 +7,10 @@ permalink: island-dev/rating/
 ---
 
 # Island Rating
+
+*Last updated: 31 December 2021*
+{: .fs-1}
+
 ![The Player talking to Isabelle](/acnhfaq/assets/is_evaluation.png)
 Once you upgrade Resident Services and unlock the Project K quest line, [Isabelle](/acnhfaq/npc/#isabelle) will talk to you about increasing your island’s rating. To see a full breakdown of how the island rating system works, read here: <https://tinyurl.com/islandrating>. Research, testing and document courtesy of `Stoney#9215`, `Phil#6666`.
 
@@ -34,7 +38,7 @@ Nature points takes into account of the quantity of trees, bamboo, flowers, and 
 |:--------------------------------:|:--------------:|
 |    Fully grown trees & bamboo    |       1        |
 |       Fully grown flowers        |       1        |
-| Stage 2, 3, 4 Crops<sup>1</sup>  |       1        |
+| Stage 2, 3, 4 crops<sup>1</sup>  |       1        |
 |     Crop sprouts<sup>1</sup>     |      0.5       |
 |        Flower stems/buds         |      0.7       |
 |           Flower seeds           |      0.5       |
@@ -54,37 +58,39 @@ Nature points takes into account of the quantity of trees, bamboo, flowers, and 
 ### Development Points
 Development points are calculated from the buildings, structures, and furniture placed on the island. This category is also affected by the number of villagers currently on your island, and to a smaller extent, weed count. The amount of points awarded by each of the different items listed before can be found in the following table:
 
-|            Item             | Points awarded |
-|:---------------------------:|:--------------:|
-|        Able Sister's        |       15       |
-|   Upgraded Nook's Cranny    |       15       |
-|   Each bridge<sup>1</sup>   |       15       |
-|        Each incline         |       15       |
-|   9 Villagers<sup>2</sup>   |       15       |
-|  10 Villagers<sup>2</sup>   |       30       |
-|    Fewer than 100 Weeds     |       30       |
-|         Placed item         |       1        |
-|           Fences            |      0.2       |
-| 2k Price Bonus<sup>3</sup>  |       1        |
-| 20k Price Bonus<sup>3</sup> |       1        |
-|  Outdoor Bonus<sup>3</sup>  |      0.5       |
-|  Size 3 Bonus<sup>3</sup>   |       3        |
+|               Item               | Points awarded |
+|:--------------------------------:|:--------------:|
+|              Museum              |       15       |
+|          Able Sister's           |       15       |
+|      Upgraded Nook's Cranny      |       15       |
+|     Each bridge<sup>1</sup>      |       15       |
+|           Each incline           |       15       |
+|     9 Villagers<sup>2</sup>      |       15       |
+|     10 Villagers<sup>2</sup>     |       30       |
+| Fewer than 100 weeds<sup>3</sup> |       30       |
+|           Placed item            |       1        |
+|              Fences              |      0.2       |
+|    2k Price Bonus<sup>4</sup>    |       1        |
+|   20k Price Bonus<sup>4</sup>    |       1        |
+|    Outdoor Bonus<sup>4</sup>     |      0.5       |
+|     Size 3 Bonus<sup>4</sup>     |       3        |
 
 1. Bridges only contribute to development points when 2 or more bridges are built, i.e. if only one bridge is built, no points are awarded, and once the second bridge is built, 30 points is awarded for two bridges.
-2. These are **not** additive, i.e. you will only get 30 points for 10 villagers, and not 45. 
-3. These are additive, i.e. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 development points.
+2. These are **not** additive, i.e. you will only get 30 points for 10 villagers, and not 45.
+3. Every 30 weeds after having more than 100 weeds will reduce the bonus by one point, the bonus being fully removed with 1,000 weeds or more.
+4. These are additive, i.e. if an item is an outdoor, size 3 furniture that is priced 20k and above, this means it can contribute a whooping 6.5 development points.
 {: .fs-3}
 
 {: .note}
 DIY furniture do also contribute to Development Points based on the criteria above.
 
 **This category has the following point/rating caps:**
-> * Having **100 weeds or less** will give a 30 point bonus. Every 30 weeds after that will reduce the bonus by one point, the bonus being fully removed with 1,000 weeds or more.
+
 > * Having only **6 or fewer villagers** will cap star rating at 1⭐.
 > * Having only **7 villagers** will cap star rating at 2⭐.
 > * Having **15 or more dropped items** on the ground will cap star rating at 4⭐.
 > * Placing more than **45 items in a 8x8 area** will cap star rating at 4⭐.
-> * Placing more than **6 of the same exact items in a 8x8 area** will incur a point penalty. 
+> * Placing more than **6 of the same exact items in a 8x8 area** will incur a point penalty.
 
 {: .note}
 Certain dropped items, namely those naturally found on the ground **will not** affect your island rating score. This includes tree branches, stones, sea shells, star fragments, mushrooms, and message bottles. Items dropped on a surface, i.e. a table will also **not** incur a penalty.
