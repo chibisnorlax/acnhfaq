@@ -21,7 +21,10 @@ Unfortunately, there was no update reward for 2.0.0.
 
 ## What new items are introduced?
 Follow the link below to see all new items added in 2.0.0:     
-<https://catalogue.ac/?s=bmV3Pz0x&o=category>
+<https://catalogue.ac/?s=dmFkPTIuMC4w>
+
+And in 2.0.4:
+<https://catalogue.ac/?s=dmFkPTIuMC40>
 
 * * *
 # Happy Home Paradise
@@ -35,9 +38,9 @@ Our section on HHP can be found here:<br/>
 
 # Mechanic Changes
 
-This list documents any mechanic changes from version `1.11.0` -> `2.0.3`.
-> - Updating...
-
+This list documents any mechanic changes from version `1.11.0` -> `2.0.4`.
+> - As of 2.0.4, Katrina may now give the new zodiac figurine items to the player as a gift for her bad luck reversal services.
+> - Isabelle now removes gifted clothing when the player reports "the way they dress".
 
 <!--This list documents any mechanic changes from version `1.10.0` -> `1.11.0`.
 > - No mechanic changes reported.
