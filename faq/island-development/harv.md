@@ -75,7 +75,7 @@ The various fortunes have differing effects and is classed into four different c
 For a more indepth look at the effects, visit `asteriation#6884`'s website below:<br/>
 <https://acnh.isomorphicbox.com/updates/2.0.0/#fortune>
 
-## What does diving friendship do?
+## What does divining friendship do?
 This allows you to gauge at what level your friendship is with a villager. Katrina may also ask if you wish to bless the friendship with 10,000 <span class="icon-Bells"></span>. This will add +2 friendship points whenever the option is available. The various phrases that she uses reflects your current friendship level, which is tabled below. It should be noted that you cannot bless the friendship once you have reached friendship level 5. 
 
 | **Friendship level** | **Phrase used**                                                                    |
