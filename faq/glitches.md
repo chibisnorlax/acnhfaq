@@ -14,7 +14,7 @@ A glitch is an unintended malfunction or irregularity in the game due to bugs in
 ## What are the current known glitches?
 
 {: .note}
-Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. <span class="label label-purple">1.11.1</span>.
+Any previously known glitches, if not contained in this list, **have been patched**. This table is current through vers. <span class="label label-purple">2.0.4</span>.
 
 | Glitch Name                        | Information                                                                                                                                                       | Fix                                                                                                          |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -26,13 +26,6 @@ Any previously known glitches, if not contained in this list, **have been patche
 | Invisible Weeds                    | Weeds, when placed between 12:00 AM and 5:00 AM on the last day of a season, are invisible until after 5:00 AM                                                    | N/A                                                                                                          |
 | 4th Level Present                  | The game allows falling presents to land on the inaccessible 4th level, which is unable to be removed via the cleanup feature.                                    | Use an OOB glitch to get onto the 4th level and grab it, or close without saving the game for it to despawn. |
 | Unfinished Puzzle (Small item) OOB | Allows the user to access out of bounds areas using a small object, like the Unfinished Puzzle.                                                                   | Close and restart the game to return to normal bounds.                                                       |
-
-<!-- {: .note}
-The following glitch has not been confirmed to be fixed.
-
-| Glitch Name             | Information                                                                                                                                                                                                        | Fix                                                                                                                               |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Absent Move-out Bubbles | As of 1.6.0, an influx of players began to report that they were not getting any move-out requests prior to unlocking K.K. Slider. We have suspicions that this has been patched, but it hasn't been 100% cleared. | If you suspect you are experiencing this glitch, try completing Project K before resuming whatever move-out method you are using. | -->
 
 {: .note}
 The diggable hard paths glitch has been patched as of 1.9.0, but any that existed prior to the update were untouched. 
