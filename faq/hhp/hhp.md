@@ -9,7 +9,7 @@ has_children: true
 To unlock the DLC, you must
 
 - Upgrade your tent to a house.
-- Complete the customization workshop with Tom Nook.
+- Complete the DIY workshop with Tom Nook.
 - Upgrade Resident Services to a building.
 
 Tom Nook will then phone in to introduce you to Lottie to start the beginning sequences of the DLC. You may need to wait for a new day to roll over to get this cutscene.
