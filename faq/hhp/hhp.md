@@ -9,21 +9,21 @@ has_children: true
 To unlock the DLC, you must
 
 - Upgrade your tent to a house.
-- Completed the customization workshop with Tom Nook.
+- Complete the customization workshop with Tom Nook.
 - Upgrade Resident Services to a building.
 
 Tom Nook will then phone in to introduce you to Lottie to start the beginning sequences of the DLC. You may need to wait for a new day to roll over to get this cutscene.
 
 ## Common FAQs
 
-### What are the unlock criteria for xxx?
+### What are the unlock criteria for X?
 
 Unlock criterias are detailed on the page linked below:<br/>
 <https://chibisnorlax.github.io/acnhfaq/hhp/unlocks>
 
 ### Do I need to buy the DLC for the other profiles on a single Switch?
 
-No, only one person needs to own the DLC for it to be available for every profile on the same Switch.
+No. Only one person needs to own the DLC for it to be available for every profile on the same Switch, as long as the Switch is the [primary device](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22448/~/what-are-the-differences-between-a-primary-and-non-primary-nintendo-switch) for the Nintendo account that purchased it.
 
 ### Will the HHP island be shared with other profiles on the same Switch?
 
