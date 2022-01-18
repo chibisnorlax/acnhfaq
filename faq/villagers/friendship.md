@@ -13,7 +13,7 @@ permalink: villagers/friendship/
 Note that the guide is outdated in terms of when certain interactions unlock as of `1.6.0`. The table below shows what villagers can approach you for and how likely they are to do so. More ticks means they are more likely to do that specific activity.
 
 ## How do I know which friendship level am I at with a villager?
-Once per day, you can ask Katrina on Harv's commune to reveal your friendship with one of your villagers, see [the Fortune part of asteriation's 2.0.0 update page](https://acnh.isomorphicbox.com/updates/2.0.0/#fortune) for more details.
+Once per day, you can ask Katrina on Harv's commune to reveal your friendship with one of your villagers, see [the table available here](https://chibisnorlax.github.io/acnhfaq/island-dev/harveyisland/#what-does-divining-friendship-do) for more details.
 
 You can also use this document: <https://tinyurl.com/ACNHFriendshipDoc> (written and datamined by Stoney#9215) to determine your friendship level with your villager. If you need assistance or have questions about this document, please ask them in [our Discord server!](https://discord.gg/DAmpHqRBzq).
 
