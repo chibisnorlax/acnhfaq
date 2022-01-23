@@ -5,6 +5,15 @@ permalink: unlocks/
 ---
 
 # Unlocking Things
+
+* * *
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+* * *
 ## Nook Phone Unlocks
 
 |Item|Unlock Criteria|
