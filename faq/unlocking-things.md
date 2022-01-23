@@ -5,7 +5,6 @@ permalink: unlocks/
 ---
 
 # Unlocking Things
-
 {: .no_toc }
 
 * * *
@@ -127,9 +126,7 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 | **Pocket Organization Guide** | Pay off your Nook Miles loan, then purchase it at the Nook Stop for 5,000 miles.                                                                                                                                  |
 | **Ultimate Pocket Stuffer**   | Complete the 3 plots quest, upgrade Resident Services into a building, then purchase it at the Nook Stop for 8,000 miles.                                                                                         |
 
-## 2.0 Unlocks
-{: .no_toc }
-### Nook Miles Redemption Unlocks
+## Nook Miles Redemption Unlocks
 
 |Item|Unlock Criteria|
 |:-:|-|
