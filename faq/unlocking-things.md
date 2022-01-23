@@ -117,14 +117,14 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 
 |Item|Unlock Criteria|
 |:-:|-|
-| **Nook Miles Redemption**     | • Pay off 5,000  house debt.  • Items Redeemable Through Nook Miles: Custom Design Pro Editor; Pretty Good Tools Recipes; Tool Ring: It’s Essential!; Pocket Space; Hairstyles & Colors; Hip Reaction Collection. |
-| **Customizations**            | Tom Nook should make an announcement about his customization workshop after you finished the 3 plots quest. Customization allows you to change the look of some items.                                            |
-| **Nook Miles+**               | Upgrade your tent into a house by selecting the `About my home…` option when talking to Tom Nook.                                                                                                                 |
-| **Dodo Airport**              | Day 2 of playing the game once you sync into real time.                                                                                                                                                           |
-| **Bedhead Hair**              | Do not log in for a month — time travel is a great way to do this.                                                                                                                                                |
-| **Project K**                 | To unlock this quest line, upgrade Resident Services to a building and have 6 villagers moved in and settled.                                                                                                     |
-| **Pocket Organization Guide** | Pay off your Nook Miles loan, then purchase it at the Nook Stop for 5,000 miles.                                                                                                                                  |
-| **Ultimate Pocket Stuffer**   | Complete the 3 plots quest, upgrade Resident Services into a building, then purchase it at the Nook Stop for 8,000 miles.                                                                                         |
+| **Nook Miles Redemption**     | • Pay off 5k Nook Miles house loan.                                                                                            |
+| **Customizations**            | • Complete furnishing the plots from the 3 plots quest.                                                                        |
+| **Nook Miles+**               | • Upgrade your tent into a house.                                                                                              |
+| **Dodo Airport**              | • Happens automatically on day 2 of playing the game once you sync into real time.                                             |
+| **Bedhead Hair**              | • Do not log in for a month.<br>\*Time travel is a great way to do this quickly.                                               |
+| **Project K**                 | • Upgrade Resident Services to a building.<br>• Build the campsite.<br>• Invite and fully move in your first campsite visitor. |
+| **Pocket Organization Guide** | • Pay off 5k Nook Miles house loan.                                                                                            |
+| **Ultimate Pocket Stuffer**   | • Complete the 3 plots quest.<br>• Upgrade Resident Services into a building.                                                  |
 
 ## Nook Miles Redemption Unlocks
 
@@ -133,9 +133,11 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 | <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Construction License**  | • Must be playing as the Island Representative<br>• Have 8 inclines and/or 8 bridges                                                                                                                                                             |
 | <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**New Reactions Notebook**    | • Upgraded Resident Services<br>• Redeemed 'Hip Reaction Collection'                                                                                                                                                              |
 | <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png" id="inv-icon"></span><br>**Top 4 Fab Hairstyles**      | • Upgraded Resident Services<br>• Bought 'Top 8 Pop Hairstyles'<br>• Bought 'Top 8 Cool Hairstyles'<br>• Bought 'Top 6 Stylish Hairstyles'                                                                                              |
-| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Decorating License**    | • Has seen explanation for normal interior decoration.*<br>\*This can also be received from a phone call from Lottie (HHP), and if you have already bought the license before the call, the cost will be refunded by mail instead. |
+| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Decorating License**    | • Has seen explanation for normal interior decoration.<sup>1</sup> |
 | <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYRecipePlus.png" id="inv-icon"></span><br>**Be a Chef! DIY Recipes+**   | • Upgraded Resident Services<br>• K.K. Slider has visited<br>• Completed DIY Customization Workshop<br><span class="label label-red">NOTE:</span> This DIY pack appears the day AFTER K.K. Slider has performed his first concert.                                                                                                                                 |
 | <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Custom Fencing in a Flash** | • Completed DIY Customization Workshop<br>• Crafted at least two types of fences                                                                                                                                                  |
+
+1. This can also be received from a phone call from Lottie (HHP), and if you have already bought the license before the call, the cost will be refunded by mail instead.
 
 |Item|Unlock Criteria|
 |:-:|-|
