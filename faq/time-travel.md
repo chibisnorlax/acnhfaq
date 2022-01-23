@@ -125,33 +125,16 @@ Time traveling for AC:NH will not affect other time-based games unless you launc
 No, and likewise, you don't have to wait to time travel after inviting someone else's villager to live on your island either.
 
 ## Can I time travel to play events that have passed?
-Here is a table displaying what events are active and what year(s) they are accessible in.
+Yes, as of the `2.0.0` update, all events for all years of the game's lifespan have been unlocked, including all seasonal Nook Stop items.
 
-| Event                    | 2020 | 2021 |
-|--------------------------|------|------|
-| Festivale                | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
-| Bunny Day                | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
-| Nature Day               | <span class="label label-red">✕</span>    | <span class="label label-red">✕</span>    |
-| International Museum Day | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
-| Wedding Season           | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
-| Fireworks Festival       | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
-| Halloween                | <span class="label label-red">✕</span>    | <span class="label label-green">✓</span>    |
-| Turkey Day               | <span class="label label-green">✓</span>    | <span class="label label-red">✕</span>    |
-| Toy Day                  | <span class="label label-green">✓</span>    | <span class="label label-red">✕</span>    |
-| Countdown (New Years)    | <span class="label label-green">✓</span>    | <span class="label label-green">✓</span>    |
-
-As of `1.10.0`, the Nature Day event with daily Nook Miles tasks was removed completely in lieu of a seasonal Nook Shopping item.
-
-Player birthdays can only be experienced once every in-game year; TTing back to the same birthday date won't restore it, you'd have to go to a future or past year.
-
-Future events (ones _nobody_ has experienced) and future seasonal Nook Shopping items are still inaccessible in-game. 
+Player birthdays can only be experienced **once every in-game year**, and TTing back to the same birthday date won't restore it. You must go to a future or past year.
 
 ## I time traveled to Festive season, but why are none of the cedar trees decorated?
 Make sure you have time traveled *forward* into the season (rather than backwards) and you have at least 1 cedar tree. For more information on how cedar trees are decorated, refer to the [infographic here](https://bigfootmg.github.io/ACNH-Plant-Guide/ex8.png).
 
 ## How do I time travel to farm an NPC visitor?
 If the NPC is on a weekday ***except*** Monday:
- - Time travel to 4:58 AM on the same day as the NPC. At 5 AM, it will change to the new day and the NPC will be there
+ - Toggle the date between the day the NPC is there and a day they are not. If you are farming an NPC that sends you gifts via mail, be sure to go forward to receive their rewards.
 
 If the NPC is on a Monday:
  - Time travel forward a day to Tuesday, then go back to Monday (after 5 AM)
@@ -165,8 +148,8 @@ Nope! They may have some dialogue about your disappearance if you do a big jump 
 ## Do the developers know I time travel? Will they do anything to me about it?
 There is actually a variable turned up by data mining called `isTimeSly` that determines whether or not the player has time traveled! With that said, there's no indication whatsoever that the developers care, as there are no permanent in-game consequences or punishments for time traveling. Ultimately, it is your game, and you should play it however you want to!  
 
-## An update or seasonal items were announced, can I time travel to access it?
-No, you can only access it if the game was patched to have the update or Nintendo unlocked the seasonal item. 
+// ## An update or seasonal items were announced, can I time travel to access it?
+// No, you can only access it if the game was patched to have the update or Nintendo unlocked the seasonal item. 
 
 ## What are BCAT or NTP unlocks?
 BCAT and NTP unlocks are flags that gets flipped when the actual date of the intended release of an event or period has arrived in real time. Collectively, both of these are referred to as "time-locks". There is no way to manually unlock these flags other than hacking the Switch. The difference between these two unlocks are:
@@ -177,3 +160,5 @@ BCAT and NTP unlocks are flags that gets flipped when the actual date of the int
   <dt>NTP</dt>
   <dd>These do not change any observable value on the title screen or anywhere in game. These are usually used for unlocking Nook Seasonal Shopping items.</dd>
 </dl>
+
+\*Note: These will likely not be used going forward as of the `2.0.0` update.
