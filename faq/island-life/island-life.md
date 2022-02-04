@@ -18,29 +18,29 @@ Friends are automatically added to your "Best Friends List" when you have them f
 Speak to Orville in the airport > Select `I want visitors.` > Select `All my friends`. This will prompt him to give you the Best Friends List app.
 
 ### What can visitors do on my island?
-| Action                                              | Non-Friend Visitors                      | Friends                                  | Best Friends                             |
-|-----------------------------------------------------|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
+|                        Action                       |            Non-Friend Visitors           |                  Friends                 |               Best Friends               |
+|:---------------------------------------------------:|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 | Visit via Dodo Code                                 | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
-| Visit when gates are open to "All my friends"       | <span class="label label-red">✕</span>   | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
-| Visit when gates are open to "Only my Best Friends" | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   | <span class="label label-green">✓</span> |
+| Visit when gates are open to "All my friends"       |  <span class="label label-red">✕</span>  | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
+| Visit when gates are open to "Only my Best Friends" |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  | <span class="label label-green">✓</span> |
 | Dive & jump off your airport dock                   | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
 | Drop items, pick up dropped items                   | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
 | Go fishing/bug catching                             | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
 | Shake trees                                         | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
-| Chop trees                                          | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   | <span class="label label-green">✓</span> |
-| Plant trees                                         | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   | <span class="label label-green">✓</span> |
+| Chop trees                                          |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  | <span class="label label-green">✓</span> |
+| Plant trees                                         |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  | <span class="label label-green">✓</span> |
 | Plant, pluck, water, or trample flowers             | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
-| Dig up whole flower plants                          | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   | <span class="label label-green">✓</span> |
+| Dig up whole flower plants                          |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  | <span class="label label-green">✓</span> |
 | Wish on stars                                       | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
-| Hit rocks for materials                             | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   |
+| Hit rocks for materials                             |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  |
 | Change outfits (via closet or wand)                 | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
 | Take a villager moving out                          | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
 | Buy from shops/visiting NPCs                        | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
 | Display custom designs at Able Sisters              | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
 | Get DIYs from crafting villagers                    | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
-| Dig up bushes                                       | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   | <span class="label label-green">✓</span> |
-| Dig up/bury items                                   | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   | <span class="label label-green">✓</span> |
-| Terraform                                           | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   | <span class="label label-red">✕</span>   |
+| Dig up bushes                                       |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  | <span class="label label-green">✓</span> |
+| Dig up/bury items                                   |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  | <span class="label label-green">✓</span> |
+| Terraform                                           |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  |  <span class="label label-red">✕</span>  |
 
 ### How do I visit other people/invite visitors over?
 Starting day 2 of the game, speak with [Orville](/acnhfaq/npc/permanent/#orville-and-wilbur) in the airport and choose `I wanna fly!` to visit someone, or `I want visitors.` to open your gates for people to visit you. In order to use the `Online Play` options, you will need to have an active **Nintendo Switch Online subscription**. 
