@@ -18,6 +18,7 @@ Friends are automatically added to your "Best Friends List" when you have them f
 Speak to Orville in the airport > Select `I want visitors.` > Select `All my friends`. This will prompt him to give you the Best Friends List app.
 
 ### What can visitors do on my island?
+
 |                        Action                       |            Non-Friend Visitors           |                  Friends                 |               Best Friends               |
 |:---------------------------------------------------:|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 | Visit via Dodo Code                                 | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> | <span class="label label-green">✓</span> |
