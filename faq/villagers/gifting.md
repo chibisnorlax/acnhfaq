@@ -259,14 +259,19 @@ It depends on the type of quest and friendship levels! These are the storing rul
 If you are asked to deliver a present, but you open said present before delivering it, the item will never be stored by the recipient.
 
 ## My villager wears clothing I gifted them, how do I reset it?
-- Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
-- Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum). 
+Report the villager to [Isabelle](/acnhfaq/npc/permanent#isabelle) using the option `The way they dress.` This will remove from their wardrobe whatever clothing items and/or custom designs the villager is currently wearing.
+
+<!-- Old mechanics -->
+<!---- Villagers' gifted clothing can be removed via giving them over 24 wearable clothing items, as 24 is the limit for clothing a villager can hold.
+- Accessories can be replaced by gifting them 24 *non-glasses* accessories (e.g. bubblegum).
 - Hats (no helmets): in the game exist two tags for hats, free and womanly. Male villagers will only use hats tagged as free and gifting them 24 womanly hats will replace other hats from their storage. Since female villagers can use both types of hats, the only way to remove them is when they approach you to sell/gift/trade the item. For information on clothing tags, visit <https://bit.ly/3gWAJDe>.
 - If you wish to remove a custom design, please read [here](/acnhfaq/npc/permanent#isabelle).
-- Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.
+- Note: Villagers may place any gifted item (including tops) in their homes as mannequins in their house.--->
 
 ## My villager placed a furniture item (or a mannequin of a clothing) I gifted them in their house, how do I remove it?
-You cannot remove the furniture/mannequin, but you can replace it using [this guide](https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing). Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
+If you **do not** own the Happy Home Paradise DLC, you cannot remove the furniture/mannequin, but you can replace it using [this guide](https://docs.google.com/spreadsheets/d/1Iql5J5BXG-SuJvtw_duLZzjIw5myGcFnEL-I3BSR_CE/edit?usp=sharing). Replacing mannequins forces the clothing item (if wearable) to go into the villager's clothing inventory and thus be able to wear it.
+
+If you **do** own the Happy Home Paradise DLC, you can report the villager to [Isabelle](/acnhfaq/npc/permanent#isabelle) using the `The way their house looks` option. This option only becomes available once the full storyline of HHP has been completed. Please see our [HHP unlocks](/acnhfaq/hhp/unlocks/) page for details.
 
 {: .note}
-As of `1.7.0`, clothing can now be placed on surfaces, and hence overflowing furniture storage wont remove clothing on surfaces. Caps and Accessories can't be overflowed with other clothes to be removed since they won't be removed if there are 4 or less of either of them. The only way to remove them completely is to **wait for the villager to gift you them on approach**.
+As of `1.7.0`, clothing can now be placed on surfaces, and hence overflowing furniture storage wont remove clothing on surfaces. Caps and Accessories can't be overflowed with other clothes to be removed since they won't be removed if there are 4 or less of either of them. The only way to remove them completely is to **wait for the villager to gift you them on approach**, or try to buy it from them during a house visit.
