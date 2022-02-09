@@ -66,8 +66,13 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 
 {: .note}
 Complaining to her does NOT impact odds of moving out nor impact friendship whatsoever.
-- The way they talk: Resets custom catchphrases, but NOT nicknames or greetings.
-- The way they dress: Resets the villager's custom design as long as it is currently displayed in your Able Sisters. If the villager came from a foreign island, you have to have them wear a design from your Able Sisters to be able to reset it.
+
+- **The way they talk:** Resets custom catchphrases, but NOT nicknames or greetings.
+- **The way they dress:** Removes from their wardrobe whatever clothing items and/or custom designs the villager is currently wearing.
+
+⚠️ **DLC-Exclusive**
+- **The way their house looks:** Reverts a villager's home interior to their normal interior.
+NOTE: This feature only becomes available once the full storyline of HHP has been completed. Please see our [HHP unlocks](/acnhfaq/hhp/unlocks/) page for details.
 
 ## <span><img src="https://alexislours.github.io/img/NpcIcon/seo.png" id="heading-icon"></span>Pascal
 <div class="content">
