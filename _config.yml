@@ -1,10 +1,10 @@
-title: "Animal Crossing: New Horizons FAQ"
+title: "https://discord.gg/GmASAtxUA6"
 remote_theme: Nexies1/just-the-docs
 color_scheme: custom
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-description: Fan-made FAQ for AC:NH
+description: If this website was linked to you by Nookbot on the AC:NH server, please inform the moderators that we have requested for it to be removed from the tag.
 permalink: pretty #make url pretty
 #logo: "https://chibisnorlax.github.io/acnhfaq/assets/logo_banner.png"
 back_to_top: true
