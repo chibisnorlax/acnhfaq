@@ -87,9 +87,15 @@ The game will cap the island's star rating if the following occurs:
 1. The island's rating will not exceed 1⭐ if you only have 6 or fewer villagers.
 2. The island's rating will not exceed 2⭐ if you only have 7 villagers.
 3. The island's rating will not exceed 4⭐ if:
-> * there are 15 or more dropped items on the ground.
-> * more than 45 items are placed in a 8x8 area.
-> * there are more than 220 trees/shrubs planted on the island. 
+* there are 15 or more dropped items on the ground. Isabelle will say the following in that case:
+ 
+> *Some of our feedback mentions that there are too many items lying around cluttering up the island. Let's do what we can to keep our island nice and tidy! Plus, it just makes good economic sense. The shop accepts and sometimes buys any items you no longer need or can't store at home.*
+* more than 45 items are placed in a 8x8 area. Isabelle will say the following in that case:
+
+> *I received some feedback that part of the island has become something of a traffic hazard. Having decorations that improve the scenery is very important, but so is the ability to move about freely.*
+* there are more than 220 trees/shrubs planted on the island. Isabelle will say the following in that case:
+ 
+> *I came across a number of reports that mention an overabundance of trees on our island. Apparently, there have been a few incidents of folks getting lost in the woods and fearing for the worst... Like missing their favorite TV program! I love trees as much as you do, but if our residents feel the island is now too rural, we need to listen.*
 
 {: .note}
 Certain dropped items, namely those naturally found on the ground **will not** affect your island rating score. This includes tree branches, stones, sea shells, star fragments, mushrooms, and message bottles. Items dropped on a surface, i.e. a table will also **not** incur a penalty.
