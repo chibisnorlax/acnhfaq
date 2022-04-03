@@ -8,7 +8,7 @@ permalink: island-dev/rating/
 
 # Island Rating
 
-*Last updated: 31 December 2021*
+*Last updated: 3 April 2022*
 {: .fs-1}
 
 ![The Player talking to Isabelle](/acnhfaq/assets/is_evaluation.png)
