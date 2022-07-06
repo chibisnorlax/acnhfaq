@@ -33,6 +33,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/rcm.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/rct.png" id="heading-icon"></span>Timmy and Tommy (The "Nooklings")
 <div class="content">
     <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRcm.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRct.png">
     <div class="details">
     <ul>
         <li>Until <a href="/acnhfaq/unlocks#building-unlocks">Nook's Cranny</a> is unlocked, you can buy and sell items from Timmy in the Resident Services tent.</li>
@@ -172,6 +173,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/pooB.png" id="heading-icon"></span>Harriet
 <div class="content">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPoo.png">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>
@@ -183,6 +185,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/ttlA.png" id="heading-icon"></span>Tortimer
 <div class="content">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTtlA.png">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>
@@ -193,6 +196,8 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/alw.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/alp.png" id="heading-icon"></span>Reese and Cyrus
 <div class="content">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpAlw.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpAlp.png">
     <div class="details">
         <ul>
             <li>Reese & Cyrus returns to Harv's island. They are now in charge of customising furniture.</li>
@@ -202,6 +207,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/bpt.png" id="heading-icon"></span>Katrina
 <div class="content">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBpt.png">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>
