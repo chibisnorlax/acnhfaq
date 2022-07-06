@@ -148,7 +148,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/kpp.png" id="heading-icon"></span>Kapp'n
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/kpp.png" id="heading-icon"></span>Kapp'n
 <div class="content">
     <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpKpp.png">
     <div class="details">
@@ -159,7 +159,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/pge.png" id="heading-icon"></span>Brewster
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/pge.png" id="heading-icon"></span>Brewster
 <div class="content">
     <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPge.png">
     <div class="details">
@@ -170,7 +170,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/pooB.png" id="heading-icon"></span>Harriet
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/pooB.png" id="heading-icon"></span>Harriet
 <div class="content">
     <div class="details">
         <ul>
@@ -181,7 +181,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 </div>
         
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/ttlA.png" id="heading-icon"></span>Tortimer
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/ttlA.png" id="heading-icon"></span>Tortimer
 <div class="content">
     <div class="details">
         <ul>
@@ -191,7 +191,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/alp.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/2.0/NpcIcon/alw.png" id="heading-icon"></span>Reese and Cyrus
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/alw.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/alp.png" id="heading-icon"></span>Reese and Cyrus
 <div class="content">
     <div class="details">
         <ul>
@@ -200,7 +200,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/bpt.png" id="heading-icon"></span>Katrina
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/bpt.png" id="heading-icon"></span>Katrina
 <div class="content">
     <div class="details">
         <ul>
