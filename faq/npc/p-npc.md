@@ -18,7 +18,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 {:toc}
 * * *
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/rco.png" id="heading-icon"></span>Tom Nook
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/rco.png" id="heading-icon"></span>Tom Nook
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/rco.png">
     <div class="details">
@@ -30,7 +30,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/rcm.png" id="heading-icon"></span><span><img src="https://alexislours.github.io/img/NpcIcon/rct.png" id="heading-icon"></span>Timmy and Tommy (The "Nooklings")
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/rcm.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/rct.png" id="heading-icon"></span>Timmy and Tommy (The "Nooklings")
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/rctrcm.png">
     <div class="details">
@@ -41,7 +41,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="heading-icon"></span>Blathers
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/owl.png" id="heading-icon"></span>Blathers
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/owl.png">
     <div class="details">
@@ -52,7 +52,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/sza.png" id="heading-icon"></span>Isabelle
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/sza.png" id="heading-icon"></span>Isabelle
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/sza.png">
     <div class="details">
@@ -74,7 +74,7 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
 - **The way their house looks:** Reverts a villager's home interior to their normal interior.
 NOTE: This feature only becomes available once the full storyline of HHP has been completed. Please see our [HHP unlocks](/acnhfaq/hhp/unlocks/) page for details.
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/seo.png" id="heading-icon"></span>Pascal
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/seo.png" id="heading-icon"></span>Pascal
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/seo.png">
     <div class="details">
@@ -88,7 +88,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 </div>
 - See [here for the list of Mermaid Clothing](https://yuexr.github.io/img/mermaidclothing.png) and [here for the Mermaid Furniture set](https://yuexr.github.io/img/mermaidset.png).
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/hgh.png" id="heading-icon"></span>Mabel
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="heading-icon"></span>Mabel
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/hgh.png">
     <div class="details">
@@ -99,7 +99,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/hgs.png" id="heading-icon"></span>Sable
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/hgs.png" id="heading-icon"></span>Sable
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/hgs.png">
     <div class="details">
@@ -110,7 +110,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/spn.png" id="heading-icon"></span>Harvey (Harv)
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/spn.png" id="heading-icon"></span>Harvey (Harv)
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/spn.png">
     <div class="details">
@@ -124,7 +124,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconDal^w.png" id="heading-icon"></span><span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="heading-icon"></span>Orville and Wilbur
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/dod.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/doc.png" id="heading-icon"></span>Orville and Wilbur
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/dod.png"><img src="/acnhfaq/assets/NPCPortrait/doc.png">
     <div class="details">
@@ -136,7 +136,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
  
-## <span><img src="https://alexislours.github.io/img/NpcIcon/tap.png" id="heading-icon"></span>Luna
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/tap.png" id="heading-icon"></span>Luna
 <div class="content">
     <img src="/acnhfaq/assets/NPCPortrait/tap.png">
     <div class="details">
