@@ -20,7 +20,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/rco.png" id="heading-icon"></span>Tom Nook
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/rco.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRco.png">
     <div class="details">
     <ul>
         <li>Helps you navigate the tutorial phase of the game, and is the point of contact for construction-related queries.</li>
@@ -32,7 +32,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/rcm.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/rct.png" id="heading-icon"></span>Timmy and Tommy (The "Nooklings")
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/rctrcm.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRcm.png">
     <div class="details">
     <ul>
         <li>Until <a href="/acnhfaq/unlocks#building-unlocks">Nook's Cranny</a> is unlocked, you can buy and sell items from Timmy in the Resident Services tent.</li>
@@ -43,7 +43,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/owl.png" id="heading-icon"></span>Blathers
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/owl.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpOwl.png">
     <div class="details">
     <ul>
         <li>Unlocked when you donate 5 critters to Tom Nook during the tutorial.</li>
@@ -54,7 +54,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/sza.png" id="heading-icon"></span>Isabelle
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/sza.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSza.png">
     <div class="details">
     <ul>
         <li>Unlocked when you upgrade <a href="/acnhfaq/unlocks#building-unlocks">Resident Services</a> into a building.</li>
@@ -76,7 +76,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/seo.png" id="heading-icon"></span>Pascal
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/seo.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSeo.png">
     <div class="details">
     <ul>
         <li>Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.</li>
@@ -90,7 +90,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="heading-icon"></span>Mabel
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/hgh.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpHgh.png">
     <div class="details">
     <ul>
         <li>Visits your island to sell clothes once Nook's Cranny has been opened.</li>
@@ -101,7 +101,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/hgs.png" id="heading-icon"></span>Sable
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/hgs.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpHgs.png">
     <div class="details">
     <ul>
         <li>Appears in the back of The Able Sisters shop once opened.</li>
@@ -112,7 +112,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/spn.png" id="heading-icon"></span>Harvey (Harv)
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/spn.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSpn.png">
     <div class="details">
     <ul>
         <li>Will wander around your island upon first encounter.</li>
@@ -126,7 +126,8 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/dod.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/doc.png" id="heading-icon"></span>Orville and Wilbur
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/dod.png"><img src="/acnhfaq/assets/NPCPortrait/doc.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpDod.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpDoc.png">
     <div class="details">
     <ul>
         <li>Run the airport.</li>
@@ -138,7 +139,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
  
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/tap.png" id="heading-icon"></span>Luna
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/tap.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTap.png">
     <div class="details">
     <ul>
         <li>First encounter when the player dreams for the first time.</li>
@@ -149,7 +150,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/2.0/NpcIcon/kpp.png" id="heading-icon"></span>Kapp'n
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/kpp.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpKpp.png">
     <div class="details">
     <ul>
         <li>First encounter on the docks.</li>
@@ -160,7 +161,7 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 
 ## <span><img src="https://acnhcdn.com/2.0/NpcIcon/pge.png" id="heading-icon"></span>Brewster
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/pge.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPge.png">
     <div class="details">
     <ul>
         <li>First encounter on a Kapp'n island after accepting Blathers' request to find him.</li>

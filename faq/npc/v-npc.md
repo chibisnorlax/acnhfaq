@@ -29,7 +29,7 @@ Refer to Yue's guide here for a compressed version of the information on this pa
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/boc.png" id="heading-icon"></span>Daisy Mae
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/boc.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBoc.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Nook's Cranny built.</li>
@@ -41,7 +41,7 @@ Refer to Yue's guide here for a compressed version of the information on this pa
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/ows.png" id="heading-icon"></span>Celeste
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/ows.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpOws.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Museum built.</li>
@@ -60,7 +60,7 @@ Celeste's appearance will be blocked by K.K. Slider, e.g. when the only meteor s
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/tkkA.png" id="heading-icon"></span>K.K. Slider
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/tKK.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTkkA.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> 3⭐ island rating and completion of <a href="/acnhfaq/unlocks#misc-unlocks">Project K</a>.</li>
@@ -79,7 +79,7 @@ K.K. Slider will appear on Sunday if there's an event (Fishing Tourney, Bug-Off,
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/cml.png" id="heading-icon"></span>Saharah
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/cml.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpCml.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Player's house built.</li>
@@ -101,7 +101,7 @@ Saharah rugs can be reordered through the catalogue, but her flooring and wallpa
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/fox.png" id="heading-icon"></span>Redd
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/fox.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpFox.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Museum built with at least 60 total donations.</li>
@@ -119,7 +119,7 @@ Saharah rugs can be reordered through the catalogue, but her flooring and wallpa
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/bey.png" id="heading-icon"></span>C.J.
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/bey.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBey.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Resident Services upgraded.</li>
@@ -137,7 +137,7 @@ Visting players are unable to commission from C.J. and are also unable to sell t
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/chy.png" id="heading-icon"></span>Flick
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/chy.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpChy.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Resident Services upgraded.</li>
@@ -155,7 +155,7 @@ Visting players are unable to commission from Flick and are also unable to sell 
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/hgc.png" id="heading-icon"></span>Label
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/hgc.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpHgc.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Able Sisters built.</li>
@@ -181,7 +181,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/skk.png" id="heading-icon"></span>Kicks
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/skk.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSkk.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Able Sisters built.</li>
@@ -193,7 +193,7 @@ Friendship levels with Label only impact her and Sable's dialogs (referencing La
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/slo.png" id="heading-icon"></span>Leif
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/slo.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSlo.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> None.</li>
@@ -209,7 +209,7 @@ Leif sells pumpkin starts at a discounted price during the month of October.
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/gul.png" id="heading-icon"></span>Gulliver
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/gul.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpGul.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Museum built.</li>
@@ -224,7 +224,6 @@ Leif sells pumpkin starts at a discounted price during the month of October.
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/gulB.png" id="heading-icon"></span>Gullivarrr
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/gulB.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> Bought a wetsuit.</li>
@@ -240,7 +239,7 @@ Leif sells pumpkin starts at a discounted price during the month of October.
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/gstA.png" id="heading-icon"></span>Wisp
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/gst.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpGst.png">
     <div class="details">
     <ul>
         <li><b>Requirements:</b> None.</li>
