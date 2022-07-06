@@ -18,9 +18,9 @@ Permanent NPCs are those you can find on your island every single day, and at ti
 {:toc}
 * * *
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/rco.png" id="heading-icon"></span>Tom Nook
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/rco.png" id="heading-icon"></span>Tom Nook
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/rco.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRco.png">
     <div class="details">
     <ul>
         <li>Helps you navigate the tutorial phase of the game, and is the point of contact for construction-related queries.</li>
@@ -30,9 +30,10 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/rcm.png" id="heading-icon"></span><span><img src="https://alexislours.github.io/img/NpcIcon/rct.png" id="heading-icon"></span>Timmy and Tommy (The "Nooklings")
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/rcm.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/rct.png" id="heading-icon"></span>Timmy and Tommy (The "Nooklings")
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/rctrcm.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRcm.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRct.png">
     <div class="details">
     <ul>
         <li>Until <a href="/acnhfaq/unlocks#building-unlocks">Nook's Cranny</a> is unlocked, you can buy and sell items from Timmy in the Resident Services tent.</li>
@@ -41,9 +42,9 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="heading-icon"></span>Blathers
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/owl.png" id="heading-icon"></span>Blathers
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/owl.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpOwl.png">
     <div class="details">
     <ul>
         <li>Unlocked when you donate 5 critters to Tom Nook during the tutorial.</li>
@@ -52,9 +53,9 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/sza.png" id="heading-icon"></span>Isabelle
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/sza.png" id="heading-icon"></span>Isabelle
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/sza.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSza.png">
     <div class="details">
     <ul>
         <li>Unlocked when you upgrade <a href="/acnhfaq/unlocks#building-unlocks">Resident Services</a> into a building.</li>
@@ -74,9 +75,9 @@ Complaining to her does NOT impact odds of moving out nor impact friendship what
 - **The way their house looks:** Reverts a villager's home interior to their normal interior.
 NOTE: This feature only becomes available once the full storyline of HHP has been completed. Please see our [HHP unlocks](/acnhfaq/hhp/unlocks/) page for details.
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/seo.png" id="heading-icon"></span>Pascal
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/seo.png" id="heading-icon"></span>Pascal
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/seo.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSeo.png">
     <div class="details">
     <ul>
         <li>Appears in the sea when the player finds a scallop, given he hasn't already been given a scallop for the day.</li>
@@ -88,9 +89,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 </div>
 - See [here for the list of Mermaid Clothing](https://yuexr.github.io/img/mermaidclothing.png) and [here for the Mermaid Furniture set](https://yuexr.github.io/img/mermaidset.png).
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/hgh.png" id="heading-icon"></span>Mabel
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="heading-icon"></span>Mabel
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/hgh.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpHgh.png">
     <div class="details">
     <ul>
         <li>Visits your island to sell clothes once Nook's Cranny has been opened.</li>
@@ -99,9 +100,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/hgs.png" id="heading-icon"></span>Sable
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/hgs.png" id="heading-icon"></span>Sable
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/hgs.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpHgs.png">
     <div class="details">
     <ul>
         <li>Appears in the back of The Able Sisters shop once opened.</li>
@@ -110,9 +111,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/NpcIcon/spn.png" id="heading-icon"></span>Harvey (Harv)
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/spn.png" id="heading-icon"></span>Harvey (Harv)
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/spn.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSpn.png">
     <div class="details">
     <ul>
         <li>Will wander around your island upon first encounter.</li>
@@ -124,9 +125,10 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://alexislours.github.io/img/layout/SwkbdTextAreaIconDal^w.png" id="heading-icon"></span><span><img src="https://alexislours.github.io/img/NpcIcon/doc.png" id="heading-icon"></span>Orville and Wilbur
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/dod.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/doc.png" id="heading-icon"></span>Orville and Wilbur
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/dod.png"><img src="/acnhfaq/assets/NPCPortrait/doc.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpDod.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpDoc.png">
     <div class="details">
     <ul>
         <li>Run the airport.</li>
@@ -136,9 +138,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
  
-## <span><img src="https://alexislours.github.io/img/NpcIcon/tap.png" id="heading-icon"></span>Luna
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/tap.png" id="heading-icon"></span>Luna
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/tap.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTap.png">
     <div class="details">
     <ul>
         <li>First encounter when the player dreams for the first time.</li>
@@ -147,9 +149,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/kpp.png" id="heading-icon"></span>Kapp'n
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/kpp.png" id="heading-icon"></span>Kapp'n
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/kpp.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpKpp.png">
     <div class="details">
     <ul>
         <li>First encounter on the docks.</li>
@@ -158,9 +160,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/pge.png" id="heading-icon"></span>Brewster
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/pge.png" id="heading-icon"></span>Brewster
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/pge.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPge.png">
     <div class="details">
     <ul>
         <li>First encounter on a Kapp'n island after accepting Blathers' request to find him.</li>
@@ -169,8 +171,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/pooB.png" id="heading-icon"></span>Harriet
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/pooB.png" id="heading-icon"></span>Harriet
 <div class="content">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPoo.png">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>
@@ -180,8 +183,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
 </div>
         
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/ttlA.png" id="heading-icon"></span>Tortimer
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/ttlA.png" id="heading-icon"></span>Tortimer
 <div class="content">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTtlA.png">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>
@@ -190,8 +194,10 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/alp.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/2.0/NpcIcon/alw.png" id="heading-icon"></span>Reese and Cyrus
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/alw.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/alp.png" id="heading-icon"></span>Reese and Cyrus
 <div class="content">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpAlw.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpAlp.png">
     <div class="details">
         <ul>
             <li>Reese & Cyrus returns to Harv's island. They are now in charge of customising furniture.</li>
@@ -199,8 +205,9 @@ NOTE: This feature only becomes available once the full storyline of HHP has bee
     </div>
 </div>
 
-## <span><img src="https://acnhcdn.com/2.0/NpcIcon/bpt.png" id="heading-icon"></span>Katrina
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/bpt.png" id="heading-icon"></span>Katrina
 <div class="content">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBpt.png">
     <div class="details">
         <ul>
             <li>First encounter on Harv's island.</li>

@@ -20,7 +20,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/pck.png" id="heading-icon"></span>Pavé
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/pck.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPck.png">
     <div class="details">
     <ul>
         <li>First encounter on <a href="/acnhfaq/events/#festivale-mardi-gras">Festivale</a>.</li>
@@ -31,7 +31,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/pyn.png" id="heading-icon"></span>Zipper T. Bunny
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/pyn.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPyn.png">
     <div class="details">
     <ul>
         <li>First encounter at the beginning of <a href="/acnhfaq/events#bunny-day-easter">Bunny Day</a> event.</li>
@@ -42,8 +42,8 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/alw.png" id="heading-icon"></span><span><img src="https://acnhcdn.com/latest/NpcIcon/alp.png" id="heading-icon"></span>Reese and Cyrus
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/alw.png">
-    <img src="/acnhfaq/assets/NPCPortrait/alp.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpAlw.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpAlp.png">
     <div class="details">
     <ul>
         <li>First encounter during the <a href="/acnhfaq/events#wedding-season">Wedding event</a></li>
@@ -54,7 +54,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/xct.png" id="heading-icon"></span>Rover
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/xct.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpXct.png">
     <div class="details">
     <ul>
         <li>First encounter during <a href="/acnhfaq/events#may-day-labour-day">May Day</a> mystery tour event. </li>
@@ -65,7 +65,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/pkn.png" id="heading-icon"></span>Jack
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/pkn.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPkn.png">
     <div class="details">
     <ul>
         <li>First encounter during <a href="/acnhfaq/events#halloween">Halloween</a>.</li>
@@ -76,7 +76,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/tuk.png" id="heading-icon"></span>Franklin
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/tuk.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTuk.png">
     <div class="details">
     <ul>
         <li>First encounter during <a href="/acnhfaq/events#turkey-day-thanksgiving">Turkey Day</a>.</li>
@@ -87,7 +87,7 @@ Event NPCs are the star of their respective events, being both the mascot as wel
 
 ## <span><img src="https://acnhcdn.com/latest/NpcIcon/rei.png" id="heading-icon"></span>Jingle
 <div class="content">
-    <img src="/acnhfaq/assets/NPCPortrait/rei.png">
+    <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRei.png">
     <div class="details">
     <ul>
         <li>First encounter during <a href="/acnhfaq/events#toy-day-christmas">Toy Day</a>. </li>
