@@ -5,14 +5,14 @@ permalink: /
 ---
 
 # ![Frequently Asked Questions](/assets/logo.png)
-ver. 1.6.0
+ver. 1.6.1
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-This FAQ is current through version <span class="label label-purple">2.0.4</span> of the game.
+This FAQ is current through version <span class="label label-purple">2.0.5</span> of the game.
 
 {: .caution }
-The FAQ is mostly updated with 2.0.0 content, please do send in a pull request or message us on Discord for feedback! - With love, the FAQ team.
+The FAQ has been updated with all 2.0.0 content, but please send in a pull request or message us on Discord with feedback or suggestions! - With love, the FAQ team.
 
 
 Feel free to join us on the ACNH Info Discord server, where you can keep up to date with the latest game news and information:<br/> 
@@ -36,14 +36,14 @@ Feel free to join us on the ACNH Info Discord server, where you can keep up to d
 ## Acknowledgements
 The creation of this guide was an effort led by littlesnorlax#1717.
 
-Content contributed in no particular order by, littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, Nours#7244, mybae#1905, Yamza#0836, pojayto#1996, and#6915, dee 💕#1989, and cloud#1580. ♥
+Content contributed in no particular order by, littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, Nours#7244, Aeon#5777, mybae#1905, Yamza#0836, pojayto#1996, and#6915, dee 💕#1989, and cloud#1580. ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
-This guide also would not have been possible without the extraordinary work of the dataminers, testers, and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), and Ninji (<https://twitter.com/_ninji>).
+This guide also would not have been possible without the extraordinary work of the dataminers, testers, and guide makers, especially Alexis (Alexis#8717), Stoney (Stoney#9215), Yue (yue#1993), Lucas (cestislife#0473), Asteriation (asteriation#6884), Aeon (Aeon#5777), and Ninji (<https://twitter.com/_ninji>).
 
 Custom icons and assets by Melon (<https://twitter.com/54_Melon>).
 
 Big thanks to <https://acnhcdn.com/>, and <https://acnhapi.com/> for hosting images.
 
-Please contact littlesnorlax#1717 on Discord or submit a [PR](https://github.com/chibisnorlax/acnhfaq/pulls) if you would like to request changes to the document, or request usage within other applications or websites!
+Please contact `littlesnorlax#1717` on Discord or submit a [PR](https://github.com/chibisnorlax/acnhfaq/pulls) if you would like to request changes to the document, or request usage within other applications or websites. This guide is not to be replicated nor redistributed without explicit permission from the owner, all rights reserved.
