@@ -8,10 +8,10 @@ permalink: island-life/turnips/
 
 # Turnips/Stalk Market
 ## When does Daisy Mae visit?
-Once you've built Nook's Cranny, Daisy Mae will visit every Sunday from 5:00 AM to 12:00 AM. No NPC or event interrupts her arrival. 
+Once you've built Nook's Cranny, Daisy Mae will visit every Sunday from 5:00 AM to 12:00 PM. No NPC or event interrupts her arrival. 
 
 ## How does the Stalk Market work?
-  Daisy Mae’s prices change every time she visits, and you can buy turnips for *90 to 110 bells per turnip*. If you choose to purchase them, you can sell turnips to Nook's Cranny until Saturday (after which they will rot). Nook's Cranny can buy turnips at prices ranging from *9 to 660 bells per turnip*. Nook’s Cranny has two distinct prices every day, one in the morning (from 8:00 AM to 12:00 PM), then another one in the afternoon (from 12:00 PM to 10:00 PM). The goal is to sell your turnips for *more* than you spent on them to make millions! 
+  Daisy Mae’s prices change every time she visits, and you can buy turnips for *90 to 110 bells per turnip*. If you choose to purchase them, you can sell turnips to Nook's Cranny until Saturday (after which they will rot). Nook's Cranny can buy turnips at prices ranging from *9 to 660 bells per turnip*. Nook’s Cranny has two distinct prices every day, one in the morning (from 8:00 AM to 11:59 AM), then another one in the afternoon (from 12:00 PM to 10:00 PM). The goal is to sell your turnips for *more* than you spent on them to make millions! 
 
 For further, extensive details about turnips and the stalk market, read here: <https://tinyurl.com/acnhturnipdoc>
 
