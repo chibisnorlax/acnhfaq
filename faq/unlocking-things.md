@@ -52,14 +52,14 @@ As of `Ver. 2.0.0` the Museum Art Wing is automatically unlocked once you upgrad
 
 |Building|Unlock Criteria|
 |:-:|-|
-| <span><img src="/acnhfaq/assets/img/layout/BuildingIconMuseum00^z.png" id="inv-icon"></span><br>**Museum Tent**| Donate 5 bugs or fishes to Tom Nook. It will open the day after you place the plot marker.|
-| <span><img src="/acnhfaq/assets/img/layout/BuildingIconMuseum01^z.png" id="inv-icon"></span><br>**Museum**| Donate 15 bugs, fishes, or fossils to Blathers.|
+| <span><img src="/acnhfaq/assets/img/layout/BuildingIconMuseum00^z.png" id="inv-icon"></span><br>**Museum Tent**| Donate 5 bugs or fish to Tom Nook. It will open the day after you place the plot marker.|
+| <span><img src="/acnhfaq/assets/img/layout/BuildingIconMuseum01^z.png" id="inv-icon"></span><br>**Museum**| Donate 15 bugs, fish, or fossils to Blathers.|
 | <span><img src="/acnhfaq/assets/img/layout/BuildingIconMuseum02^z.png" id="inv-icon"></span><br>**Museum Art Wing**| Total 60 donations to Blathers (40 on top of the 20 donated to unlock the previous two stages).|
-| <span><img src="/acnhfaq/assets/img/layout/BuildingIconMuseum02^z.png" id="inv-icon"></span><br>**The Roost**| Donate at least one of each category of museum collection (insects, fish, fossils, art and sea creatures.|
-| <span><img src="/acnhfaq/assets/img/layout/BuildingIconShop01^z.png" id="inv-icon"></span><br>**Nook’s Cranny <br>(Stage 1)**| Pay off your Nook Miles debt and upgrade your tent into a house.|
-| <span><img src="/acnhfaq/assets/img/layout/BuildingIconShop02^z.png" id="inv-icon"></span><br>**Nook’s Cranny <br>(Stage 2)**| It must have been 30 days since Nook’s Cranny was built. You must have made 200,000 <span class="icon-Bells"></span> worth of transactions (buying and/or selling) at the shop, and Mabel must have visited! Once all three requirements are fulfilled, the upgrade is unlocked.|
+| <span><img src="/acnhfaq/assets/img/layout/BuildingIconMuseum02^z.png" id="inv-icon"></span><br>**The Roost**| Donate at least one of each category of museum collection (insects, fish, fossils, art and sea creatures).|
+| <span><img src="/acnhfaq/assets/img/layout/BuildingIconShop01^z.png" id="inv-icon"></span><br>**Nook’s Cranny <br>(Stage 1)**| Pay off your initial Nook Miles debt and upgrade your tent into a house.|
+| <span><img src="/acnhfaq/assets/img/layout/BuildingIconShop02^z.png" id="inv-icon"></span><br>**Nook’s Cranny <br>(Stage 2)**| 30 days must have passed since Nook’s Cranny was built. You must have made 200,000 <span class="icon-Bells"></span> worth of transactions (buying and/or selling) at the shop, and Mabel must have visited! Once all three requirements are fulfilled, the upgrade is unlocked.|
 | <span><img src="/acnhfaq/assets/img/layout/BuildingIconTailor00^z.png" id="inv-icon"></span><br>**Able Sisters**| Buy at least one item from Mabel’s stand in front of Residents Services on **two** different visits. She will ask to set up her shop on the third visit.| 
-| <span><img src="/acnhfaq/assets/img/layout/BuildingIconOffice00^z.png" id="inv-icon"></span><br>**Resident Services Building**| Pay your Nook Miles debt, give 5 critters to Tom Nook, build Blather's tent, build the first bridge, build Nook's Cranny and complete furnishing the 3 plots.|
+| <span><img src="/acnhfaq/assets/img/layout/BuildingIconOffice00^z.png" id="inv-icon"></span><br>**Resident Services Building**| Pay your Nook Miles debt, give 5 critters to Tom Nook, build Blather's tent, build the first bridge, build Nook's Cranny, and complete furnishing the 3 plots.|
 | <span><img src="/acnhfaq/assets/img/layout/BuildingIconCamp00^z.png" id="inv-icon"></span><br>**Campsite**| Upgrade Resident Services into a **building** and talk to Tom Nook, who will have you craft and place the Campground Construction Kit.|
 
 ## House Unlocks
