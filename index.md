@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # ![Frequently Asked Questions](/assets/logo.png)
-ver. 1.6.1
+ver. 1.6.2
 
 Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
@@ -34,9 +34,9 @@ Feel free to join us on the ACNH Info Discord server, where you can keep up to d
 | HHP                   | Abbreviation for "Happy Home Paradise"                             |
 
 ## Acknowledgements
-The creation of this guide was an effort led by littlesnorlax#1717.
+The creation of this guide was an effort led by littlesnorlax on Discord.
 
-Content contributed in no particular order by, littlesnorlax#1717, Nexies#0924, Zed#9586, cestislife#0473, LeChatMG#1082, monova#7159, Diablo#1311, tina™#7777, blink#0294, Melosaur🍕#7567, Jade09🐱#2309, Sari, Nours#7244, Aeon#5777, mybae#1905, Yamza#0836, pojayto#1996, and#6915, dee 💕#1989, and cloud#1580. ♥
+Content contributed in no particular order by, littlesnorlax (littlesnorlax#1717), nexies (Nexies#0924), ze.d (Zed#9586), cestislife (cestislife#0473), lechatmg (LeChatMG#1082), mononova (monova#7159), diablooo._. (Diablo#1311), tinazzeng (tina™#7777), blinkk\_ (blink#0294), melosaur (Melosaur#7567), jade_mmm (Jade09🐱#2309), Sari, noursonne (Nours#7244), aeonsake (Aeon#5777), mybae1912 (mybae#1905), Yamza#0836, jaylapeno (pojayto#1996), and6915 (and#0566), deeknowsplaces (dee 💕#1989), and paradoxicalpanda (cloud#1580). ♥
 
 A special thanks to the lovely members of the Garden Council, especially Bigfoot (Bigfoot MG#9157), Lucas (cestislife#0473), Goose (Waterjar#2219), and Blink (blink#0294).
 
@@ -46,4 +46,4 @@ Custom icons and assets by Melon (<https://twitter.com/54_Melon>).
 
 Big thanks to <https://acnhcdn.com/>, and <https://acnhapi.com/> for hosting images.
 
-Please contact `littlesnorlax#1717` on Discord or submit a [PR](https://github.com/chibisnorlax/acnhfaq/pulls) if you would like to request changes to the document, or request usage within other applications or websites. This guide is not to be replicated nor redistributed without explicit permission from the owner, all rights reserved.
+Please contact `littlesnorlax` on Discord or submit a [PR](https://github.com/chibisnorlax/acnhfaq/pulls) if you would like to request changes to the document, or request usage within other applications or websites. This guide is not to be replicated nor redistributed without explicit permission from the owner, all rights reserved.
