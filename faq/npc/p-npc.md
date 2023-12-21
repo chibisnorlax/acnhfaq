@@ -53,7 +53,7 @@ Permanent NPCs are those you can find on your island every single day, and at ti
     </div>
 </div>
 
-## Isabelle <span><img src="https://acnhcdn.com/latest/NpcIcon/sza.png" id="heading-icon"></span>
+## <span><img src="https://acnhcdn.com/latest/NpcIcon/sza.png" id="heading-icon"></span>Isabelle
 <div class="content">
     <img src="https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSza.png">
     <div class="details">
