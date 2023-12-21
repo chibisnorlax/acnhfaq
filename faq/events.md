@@ -59,8 +59,7 @@ For more detailed info, visit <https://yuexr.github.io/acnh/ev_bugfish.html>.
 <div class="code-example">
   <dl>
     <dt>Date</dt>
-    <dd>15<sup>th</sup>
-      February, 2021</dd>
+    <dd>Varies, see below.</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -84,15 +83,27 @@ Some other notes:
 * The **Festivale costumes** will start to appear in Able Sisters from February 1st to February 15th as part of the random selection.
 * The **Viva Festivale Reaction Set** is available in Nook's Cranny cabinet from February 1st to February 15th and includes the **Feelin’ It**, **Let’s Go**, **Viva** and **Confetti** reactions.
 
+### Recurrence
+The date of Festivale varies per year, but is scheduled to occur 2 days before the real-life event of Ash Wednesday, aligning with holidays like Mardi Gras and Carnival. The dates of Festivale for 2020 - 2030 are as follows:
+* 2020: February 24<sup>th</sup>
+* 2021: February 15<sup>th</sup>
+* 2022: February 28<sup>th</sup>
+* 2023: February 20<sup>th</sup>
+* 2024: February 12<sup>th</sup>
+* 2025: March 3<sup>rd</sup>
+* 2026: February 16<sup>th</sup>
+* 2027: February 8<sup>th</sup>
+* 2028: February 28<sup>th</sup> (leap year)
+* 2029: February 12<sup>th</sup>
+* 2030: March 4<sup>th</sup>
+
 For a simplified infographic, visit <https://cestislife.github.io/img/festivale.png>
 
 ## Bunny Day (Easter)
 <div class="code-example">
   <dl>
     <dt>Date</dt>
-    <dd>28<sup>th</sup>
-      March - 4<sup>th</sup>
-      April, 2021</dd>
+    <dd>Varies, see below.</dd>
     <dt>Time</dt>
     <dd>All Day</dd>
     <dt>Rewards</dt>
@@ -122,6 +133,22 @@ If you crafted all of the Bunny Day DIYs, talk to Zipper again to get the <span>
 After you craft the toy, you can talk to Zipper to receive the <span><img src="https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickEgg.png" id="inv-icon"></span> **Bunny Day wand** DIY.
 Zipper will also trade you one egg of any kind in exchange for three of the same one.
 If you have one of each type of egg, you can give them to Zipper to get a <span><img src="https://acnhcdn.com/latest/FtrIcon/FtrEggBasket.png" id="inv-icon"></span> **Bunny Day basket**. You can get as many baskets as you want.
+
+### Recurrence
+The date of Bunny Day varies per year, but the final day will always align with the real-life event of Easter Sunday. The dates of Bunny Day and the preparation period where you can collect eggs and DIYs for 2020 - 2023 are as follows:
+* 2020<sup>1</sup>: April 5<sup>th</sup> - April 12<sup>th</sup>
+* 2021: March 28<sup>th</sup> - April 4<sup>th</sup>
+* 2022: April 10<sup>th</sup> - April 17<sup>th</sup>
+* 2023: April 2<sup>nd</sup> - April 9<sup>th</sup>
+* 2024: March 24<sup>th</sup> - March 31<sup>st</sup>
+* 2025: April 13<sup>th</sup> - April 20<sup>th</sup>
+* 2026: March 29<sup>th</sup> - April 5<sup>th</sup>
+* 2027: March 21<sup>st</sup> - March 28<sup>th</sup>
+* 2028: April 9<sup>th</sup> - April 16<sup>th</sup>
+* 2029: March 25<sup>th</sup> - April 1<sup>st</sup>
+* 2030: April 14<sup>th</sup> - April 21<sup>st</sup>
+
+1. Prior to version `1.9.0`, Bunny Day had a preparation period of 11 days, so in 2020 the actual event was run from April 1<sup>st</sup> - April 12<sup>th</sup>. This was adjusted down to 7 days after player feedback.
 
 For more a simplified infographic, please visit <https://cestislife.github.io/img/bunnyday.png>.
 
