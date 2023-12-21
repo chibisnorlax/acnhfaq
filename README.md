@@ -36,6 +36,10 @@ https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20
 ## Change Log
 <details>
 <summary>Click here to open</summary>
+
+### 1.6.2
+- Updates to tables in "Unlocking Things" page.
+- Updated dates for dynamically scheduled events in "Events" page.
   
 ### 1.6.1
 - Fixes to broken images.
