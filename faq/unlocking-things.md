@@ -76,6 +76,9 @@ As of `Ver. 2.0.0` the Museum Art Wing is automatically unlocked once you upgrad
 |   **Basement Addition**   | 2,498,000 <span class="icon-Bells"></span> | • Basement (10×6 grid)<br>• 800 additional storage slots (1600 total) <br>• Free exterior renovations (once per day)                     |
 |    **Storage Upgrade**    |  500,000 <span class="icon-Bells"></span><br/>700,000 <span class="icon-Bells"></span><br/>900,000 <span class="icon-Bells"></span><br/>1,200,000 <span class="icon-Bells"></span>  | • 800 additional storage slots (2400 total)<br/>• 800 additional storage slots (3200 total)<br/>• 800 additional storage slots (4000 total)<br/>• 1000 additional storage slots (5000 total)                                                                                             |
 
+In total, a **fully upgraded home** will cost you 5,696,000 <span class="icon-Bells"></span> and 5,000 <span class="icon-NM"></span>.
+A fully upgraded home **with all additional storage upgrades** will cost you 8,996,000 <span class="icon-Bells"></span> and 5,000 <span class="icon-NM"></span>.
+
 {: .note}
 > - Paying off the previous fee unlocks each subsequent house upgrade.
 > - Free exterior renovations are only unlocked after paying the final loan in full.
@@ -118,7 +121,7 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 |Item|Unlock Criteria|
 |:-:|-|
 | **Nook Miles Redemption**     | • Pay off 5k Nook Miles house loan.                                                                                            |
-| **Customizations**            | • Complete furnishing the plots from the 3 plots quest.                                                                        |
+| **Furniture Customization Workshop**            | • Complete furnishing the plots from the 3 plots quest.                                                                        |
 | **Nook Miles+**               | • Upgrade your tent into a house.                                                                                              |
 | **Dodo Airport**              | • Happens automatically on day 2 of playing the game once you sync into real time.                                             |
 | **Bedhead Hair**              | • Do not log in for a month.<br>\*Time travel is a great way to do this quickly.                                               |
@@ -128,14 +131,14 @@ Golden tools can still break, but have a considerably higher durability. Visit <
 
 ## Nook Miles Redemption Unlocks
 
-|Item|Unlock Criteria|
-|:-:|-|
-| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Construction License**  | • Must be playing as the Island Representative<br>• Have 8 inclines and/or 8 bridges                                                                                                                                                             |
-| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**New Reactions Notebook**    | • Upgraded Resident Services<br>• Redeemed 'Hip Reaction Collection'                                                                                                                                                              |
-| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png" id="inv-icon"></span><br>**Top 4 Fab Hairstyles**      | • Upgraded Resident Services<br>• Bought 'Top 8 Pop Hairstyles'<br>• Bought 'Top 8 Cool Hairstyles'<br>• Bought 'Top 6 Stylish Hairstyles'                                                                                              |
-| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Decorating License**    | • Has seen explanation for normal interior decoration.<sup>1</sup> |
-| <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYRecipePlus.png" id="inv-icon"></span><br>**Be a Chef! DIY Recipes+**   | • Upgraded Resident Services<br>• K.K. Slider has visited<br>• Completed DIY Customization Workshop<br><span class="label label-red">NOTE:</span> This DIY pack appears the day AFTER K.K. Slider has performed his first concert.                                                                                                                                 |
-| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Custom Fencing in a Flash** | • Completed DIY Customization Workshop<br>• Crafted at least two types of fences                                                                                                                                                  |
+| Item | Unlock Criteria | Cost |
+|:---:|---|---|
+| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Construction License** | • Must be playing as the Island Representative<br>• Have 8 inclines and/or 8 bridges | 3,000 <span class="icon-NM"></span> |
+| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**New Reactions Notebook** | • Upgraded Resident Services<br>• Redeemed 'Hip Reaction Collection' | 3,300 <span class="icon-NM"></span> |
+| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png" id="inv-icon"></span><br>**Top 4 Fab Hairstyles** | • Upgraded Resident Services<br>• Bought 'Top 8 Pop Hairstyles'<br>• Bought 'Top 8 Cool Hairstyles'<br>• Bought 'Top 6 Stylish Hairstyles' | 1,200 <span class="icon-NM"></span> |
+| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Pro Decorating License** | • Has seen explanation for normal interior decoration.<sup>1</sup> | 2,500 <span class="icon-NM"></span> |
+| <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYRecipePlus.png" id="inv-icon"></span><br>**Be a Chef! DIY Recipes+** | • Upgraded Resident Services<br>• K.K. Slider has visited<br>• Completed DIY Customization Workshop<br><span class="label label-red">NOTE: This DIY pack appears the day AFTER K.K. Slider has performed his first concert. | 3,000 <span class="icon-NM"></span> |
+| <span><img src="https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span><br>**Custom Fencing in a Flash** | • Completed DIY Customization Workshop<br>• Crafted at least two types of fences | 2,500 <span class="icon-NM"></span> |
 
 1. This can also be received from a phone call from Lottie (HHP), and if you have already bought the license before the call, the cost will be refunded by mail instead.
 
