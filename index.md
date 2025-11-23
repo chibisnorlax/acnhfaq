@@ -7,9 +7,12 @@ permalink: /
 # ![Frequently Asked Questions](/assets/logo.png)
 ver. 1.6.2
 
-Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
+Welcome to the unofficial Animal Crossing: New Horizons FAQ page! This page serves to answer many of the frequently asked questions about the game. This FAQ is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing. All information has been datamined and/or rigorously tested for accuracy, and contains no anecdotal or hypothetical information. No part of this FAQ has been written or created by generative AI.
 
-This FAQ is current through version <span class="label label-purple">2.0.6</span> of the game.
+This FAQ is current through version <span class="label label-purple">2.0.8</span> of the game.
+
+{: .note }
+11/23/2025 Update: Hi everyone! The FAQ team plans to update this site for the 3.0 update coming January 2026. We will need time to properly datamine and validate the new mechanics, but we will do our best to get things updated in a timely manner. Please feel free to join our Discord server, linked below, for questions or updates. Thanks, see you soon! - Kel (littlesnorlax)
 
 {: .caution }
 The FAQ has been updated with all 2.0.0 content, but please send in a pull request or message us on Discord with feedback or suggestions! - With love, the FAQ team.
